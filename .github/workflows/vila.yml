@@ -1,0 +1,49 @@
+name: Vida na vila
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vila
+  cancel-in-progress: false
+
+jobs:
+  viver:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Avançar a vila
+        env:
+          LLM_PROVIDER: anthropic
+          LLM_MODEL: claude-haiku-4-5-20251001
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TICKS: ${{ vars.TICKS || '8' }}
+        run: python main.py --ticks "$TICKS"
+
+      - name: Guardar o que aconteceu
+        run: |
+          git config user.name  "vila-bot"
+          git config user.email "vila-bot@users.noreply.github.com"
+          git add state/
+          if git diff --staged --quiet; then
+            echo "Nada mudou nesta execução."
+          else
+            git commit -m "vila: mais $TICKS ticks vividos"
+            git push
+          fi
+        env:
+          TICKS: ${{ vars.TICKS || '8' }}
