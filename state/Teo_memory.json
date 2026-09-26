@@ -580,5 +580,143 @@
     "created_tick": 44,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca fechando a porta com cuidado, rumando pro mercado apesar da chuva.",
+    "created_tick": 45,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você viu que o Seu Geraldo trouxe melancia doce hoje? Aproveita enquanto tem!",
+    "created_tick": 45,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele gerador seu tá funcionando ou tá morto também?",
+    "created_tick": 46,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro uma barraca de comida, desviando do olhar de Iris enquanto passo.",
+    "created_tick": 46,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você viu que o Seu Geraldo tá vendendo melancia mais barata que de costume?",
+    "created_tick": 46,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 47,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça ver esse chafariz entupido, deve ser coisa simples.",
+    "created_tick": 47,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Sabe, em 1847 a cidade enfrentou enchente parecida... vou checar os registros na biblioteca.",
+    "created_tick": 47,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Deixo a biblioteca e vou até o mercado ver se consigo algo pra comer antes da chuva piorar.",
+    "created_tick": 48,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você que mexe com máquina — vem comigo ver esse chafariz entupido de perto?",
+    "created_tick": 48,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 6: Fechei a biblioteca cedo, procurei comida no mercado, consultei registros sobre enchentes antigas.",
+    "created_tick": 48,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver o que entupiu esse chafariz antes da chuva ficar pior.",
+    "created_tick": 49,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho as barracas do mercado, esperando Iris me indicar algo que não estrague rápido com essa falta de luz.",
+    "created_tick": 49,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você que mexe com tudo, não arruma esse chafariz pra gente?",
+    "created_tick": 49,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça agora, esse chafariz não vai se consertar sozinho.",
+    "created_tick": 50,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Compro um bolo de chuva na barraca de Iris antes que acabe.",
+    "created_tick": 50,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó, esse chafariz é culpa daquela árvore grande que caiu semana passada, tenho certeza.",
+    "created_tick": 50,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça agora, esse chafariz não vai desemtuchar sozinho.",
+    "created_tick": 51,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para o chafariz parado e murmuro: \"Sabe, em 1847 a vila enfrentou seca parecida...",
+    "created_tick": 51,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vocês viram que a prefeitura vai ter que chamar alguém de fora pra desentupir aquilo?",
+    "created_tick": 51,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver esse chafariz entupido antes que a chuva piore tudo.",
+    "created_tick": 52,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para o chafariz parado e murmuro: \"Sabe, em 1887 a vila passou por seca parecida...",
+    "created_tick": 52,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você acha que consegue dar uma olhada naquele chafariz amanhã?",
+    "created_tick": 52,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
