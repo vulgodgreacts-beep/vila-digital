@@ -448,5 +448,119 @@
     "created_tick": 36,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Marina pro fundo do mercado, longe da chuva, e grito: \"Que temporal do nada, hein!",
+    "created_tick": 37,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, antes de qualquer coisa, esse apagão é só aqui ou desceu até a rua principal?",
+    "created_tick": 38,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você ouviu falar dessa caixa de livros misteriosa na biblioteca?",
+    "created_tick": 38,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a porta da biblioteca, olho para a caixa de livros e depois para o temporal lá fora.",
+    "created_tick": 39,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, essa caixa de livros tem que ser do seu Arnaldo, ele adora essas coisas velhas.",
+    "created_tick": 39,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina verificar se o gerador tá funcionando direito pra essa escuridão toda.",
+    "created_tick": 40,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Ajusto os óculos e murmuro: \"Iris, você sabe se aquele produtor de fora vende pão caseiro?",
+    "created_tick": 40,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Teo pelo braço: \"Vem, esse apagão é coisa de nada, vamos lá no mercado ver quem chegou de fora.",
+    "created_tick": 40,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 5: Chuva, apagão, gente procurando abrigo e aquela caixa de livros misteriosa apareceu na biblioteca.",
+    "created_tick": 40,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 41,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, aproveita que Marina tá aqui, ela entende de elétrica, talvez saiba o que aconteceu com o poste.",
+    "created_tick": 41,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, que tal aquele bolo de milho que você faz, tenho que matar essa fome rápido.",
+    "created_tick": 42,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca do seu Geraldo, aquela com caldo de carne que não estraga nem sem geladeira.",
+    "created_tick": 42,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ei, vocês viram que o Seu Geraldo trouxe melancia doce que nem mel? Vem aproveitar antes de acabar!",
+    "created_tick": 42,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, tem algo pra comer aí? Preciso voltar pra oficina antes dessa chuva piorar.",
+    "created_tick": 43,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Compro um pão na barraca dela, que pelo menos ainda funciona sem luz.",
+    "created_tick": 43,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, querido, essa chuva não vai derrubar ninguém — vem cá me ajudar com essas frutas!",
+    "created_tick": 43,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você sabe se aquele produtor de queijo de fora trouxe o de cabra de novo?",
+    "created_tick": 44,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você viu que o seu avô tá ali vendendo verdura? Disse que trouxe tomate de verdade!",
+    "created_tick": 44,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
