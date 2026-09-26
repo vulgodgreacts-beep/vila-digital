@@ -1,0 +1,176 @@
+[
+  {
+    "text": "Eu fiz: Coloco a pilha de livros devolvidos sobre a mesa grande e começo a folhear o primeiro deles, verificando o estado da encadernação. Enquanto isso, penso que talvez valha a pena dar uma passada na praça central mais tarde — é hora em que a galera costuma tomar um café e quem sabe alguém se interessa em conversar sobre as curiosidades que achei essa semana num livro de história local.",
+    "created_tick": 1,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Deixo os livros sobre a mesa por um momento e me levanto, espreguiçando as costas — essa cadeira da biblioteca não é a mais confortável do mundo. Caminho em direção à praça, pensando que o clima está perfeito e talvez encontre alguém tomando um café, enquanto mentalmente já preparo aquele comentário sobre como o chafariz da praça foi construído em 1923, coincidentemente o mesmo ano em que saiu a primeira edição do livro que descobri.",
+    "created_tick": 2,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Finjo que estou organizando os livros devolvidos, mas na verdade fico olhando pela janela da biblioteca para a praça — o sol está tão bom que não dá pra desperdiçar. Fecho o livro que estava folheando e murmuro para mim mesmo: \"Tá na hora, Teo... vai lá tomar um café e quem sabe alguém quer ouvir sobre o chafariz.\"",
+    "created_tick": 3,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Fecho a pilha de livros com cuidado e dirijo meu olhar para a janela, onde o sol bate na praça — não dá pra perder um dia assim dentro da biblioteca. Levanto-me devagar, espreguiçando as costas, e murmuro: \"Vou tomar um café... talvez encontre alguém interessado naquele chafariz de 1923.\"",
+    "created_tick": 4,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Levanto da cadeira com um suspiro satisfeito, guardando os livros devolvidos nas prateleiras enquanto aproveito o caminho até a porta — aquele café na praça não vai esperar, e o clima está mesmo perfeito. \"Bem, os livros podem descansar um pouco\", murmuro para mim mesmo, ajustando os óculos antes de sair.",
+    "created_tick": 5,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Percebo que desde que Maria começou a trabalhar na padaria da praça, tenho achado mais razões para sair da biblioteca antes das cinco da tarde.",
+    "created_tick": 5,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu fiz: Deixo os livros devolvidos na mesa e caminho até a porta da biblioteca, ajustando os óculos enquanto observo o sol bom lá fora — \"Vou dar uma volta rápida na praça, o dia tá perfeito pra isso\", murmuro pra mim mesmo, saindo em direção à praça central.",
+    "created_tick": 6,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Sento num dos bancos de madeira do chafariz, observando o vai-e-vem da praça enquanto ajusto os óculos na ponte do nariz, já preparando mentalmente aquele detalhe curioso sobre a construção de 1923. A praça está tranquila, como sempre nessa hora.",
+    "created_tick": 7,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Sento no banco de madeira, ajustando os óculos, e observo o chafariz à minha frente enquanto tiro um pequeno caderno do bolso — preciso anotar aquele detalhe sobre a inauguração de 1923 antes de esquecer. Meu olhar passa pela praça em busca de alguém conhecido, enquanto tamborilaço levemente os dedos no banco, esperando que Maria apareça pela padaria.",
+    "created_tick": 8,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Abro meu caderno com cuidado e anoto a data \"1923\" com a caneta que sempre carrego, murmurando baixo: \"Mesma época do grande incêndio na assembleia...\" \n\nLevanto os olhos do caderno, procurando alguém pela praça que possa se interessar por uma conversa — talvez seja hora de voltar à biblioteca e organizar aquele material sobre história local que deixei pendente.",
+    "created_tick": 9,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Deixo o caderno sobre a mesa grande da biblioteca e passo a mão pelas lombadas dos livros de história local, arrumando-os em ordem cronológica como deveria ter feito ontem. Sussurro pra mim mesmo: \"1923... mesma época em que aquele chafariz foi instalado, você sabe?\"",
+    "created_tick": 10,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Maria da padaria virou a razão invisível pela qual eu arrumei três vezes a mesma estante de livros de história local essa semana.",
+    "created_tick": 10,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu fiz: Puxo o caderno sobre a mesa grande e folheio minhas anotações enquanto observo o relógio — são quase quatro da tarde, perfeita uma volta na praça antes de fechar. Ajusto os óculos e murmuro sozinho: \"Maria estava lá ontem por essa hora...\", depois me levanto e sigo em direção à porta da biblioteca.",
+    "created_tick": 11,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Fico de pé diante da estante de história local, passando o dedo pelas lombadas com cuidado, e sussurro para mim mesmo enquanto recoloco um volume fora do lugar: \"Espera aí, esse aqui sobre o chafariz deveria estar junto com os documentos de 1923...\" Respiro fundo e decido que um café na padaria seria a desculpa perfeita para sair dessa biblioteca vazia.",
+    "created_tick": 12,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Recolho o caderno com cuidado e dirijo meu olhar para as estantes de história local, percebendo que ainda falta bastante coisa por catalogar. Sussurro para mim mesmo enquanto caminho entre as prateleiras: \"Esse arquivo sobre 1923 precisa ficar junto com a documentação do chafariz, seria um acervo temático interessante...\"",
+    "created_tick": 13,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego o caderno da mesa e folheio as anotações sobre o acervo de 1923, ajustando os óculos enquanto caminho entre as estantes — dessa vez vou de verdade organizar essa seção direitinho, sem ficar inventando motivos pra sair cedo. Murmuro pra mim mesmo: \"Se eu conseguir terminar essa catalogação, talvez alguém apareça pra pegar livro e eu consiga conversar sobre alguma coisa útil\".",
+    "created_tick": 14,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego meu caderno sobre a mesa grande e me dirijo até a estante de história local, passando os dedos pelas lombadas com cuidado. \"Ainda falta catalogar esse período de 1923... sabe, a gente não aprecia o suficiente como o chafariz da praça marcou a modernização daqui\", murmuro sozinho, já anotando mentalmente a ordem das coisas.",
+    "created_tick": 15,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Percebo que toda vez que organizo esses livros de 1923, estou na verdade organizando desculpas para sair da biblioteca e encontrar Maria na padaria, e isso me assusta porque nunca fui de agir assim aos 45 anos.",
+    "created_tick": 15,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 16,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Abro a caixa de livros doados com cuidado, examinando as capas gastas, e murmuro para mim mesmo: \"Sem bilhete... curioso, alguém conhece meu gosto melhor do que imagina.\" Deixo a caneta sobre a mesa grande e me agacho para ler os títulos, já pensando em quem poderia ter mandado isso — seria um bom assunto para conversar com alguém na praça, talvez até na padaria.",
+    "created_tick": 16,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Levanto da caixa com um livro de 1923 sobre a história da vila nas mãos e me viro para Iris com um sorriso tímido. \"Iris, você não viu ninguém deixando isso aqui? É estranho... tem um 'Crônicas da Região' que é exatamente o tipo de coisa que eu...\" — faço uma pausa, sentindo o rosto queimar um pouco — \"...que a gente não encontra fácil por aqui.\"",
+    "created_tick": 17,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris fez/disse: Dou um passo mais perto da caixa, colocando as mãos na cintura com aquele sorriso de quem sabe de tudo, e digo pro Teo: \"Ó, querido, eu não vi ninguém, mas aposto que foi aquela moça nova que tá alugando a casa da dona Conceição — ouvi dizer que ela é colecionadora de livros antigos!\" Já tiro meu celular do bolso pra mandar uma mensagem pra minha filha pedindo pra ela ficar atenta quem anda",
+    "created_tick": 17,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Abaixo cuidadosamente um dos livros da caixa, passando o dedo na lombada gasta, e murmuro quase pra mim mesmo: \"Hm, 1923... sabe, Iris, é curioso — essa década marca justamente quando a biblioteca municipal de São Paulo começou seu grande acervo; talvez essa pessoa saiba dessa história também.\" Puxo uma cadeira pra começar a catalogar, evitando seu olhar enquanto fingia concentração nos livros.",
+    "created_tick": 18,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris fez/disse: Me aproximo da caixa com as mãos na cintura, olhando aqueles livros com curiosidade, e pergunto pra Teo com aquele sorriso de quem já tá desconfiando de algo: \"Ué, Teo, livro de 1923 assim do nada? Você acha que foi alguém daqui mesmo, ou será que é coisa daquele rapaz estranho que anda na vila?\" Pego um dos livros com cuidado pra folhear, já imaginando quantas versões dessa história vou contar p",
+    "created_tick": 18,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Abro a caixa com cuidado, examinando a encadernação de um dos livros, e respondo a Iris de forma um pouco hesitante: \"Ah, Iris... esse aqui é de 1923, viu? Na época da Semana de Arte Moderna, sabe como é — talvez seja alguém da vila mesmo, quem sabe querendo preservar a memória local.\" Coloco o livro de volta e limpo as mãos na calça, sentindo o rosto esquentar sem motivo aparente.",
+    "created_tick": 19,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris fez/disse: Puxo uma cadeira e me sento perto da caixa, olhando bem nos olhos do Teo com um sorriso maroto: \"Ó Teo, livro de 1923? Isso é coisa de quem tem memória de elefante — aposto que foi a dona Cecília, aquela que tá sempre falando de preservação, ou será que foi aquele rapaz misterioso que anda rondando?\"",
+    "created_tick": 19,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Abro a caixa com cuidado, passando os dedos pela beira do papelão, e respondo a Iris sem olhar muito nos olhos: \"Ah, esse rapaz novo... não sei. Mas olha só — 1923, isso é exatamente quando a vila começou a documentar as safras de café, sabe?\" Pego um dos livros para examinar melhor, aproveitando para ficar ocupado e não pensar em por que meu coração acelerou quando Iris mencionou \"do nada\".",
+    "created_tick": 20,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris fez/disse: Me aproximo da caixa de livros com os olhos brilhando de curiosidade, secando as mãos no avental. \"Teo, querido, um livro de 1923 sem bilhete nenhum? Isso cheira a mistério de amor ou de segredo bem guardado — aposto que era do seu Getúlio antes de falecer, sabe como é!\"",
+    "created_tick": 20,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Pego o livro de 1923 com as mãos tremendo levemente e sussurro mais pra mim mesmo que pra Iris: \"Sabe, em quarenta e cinco anos nunca ninguém me mandou um presente tão... pensado assim, e isso me assusta porque significa que alguém aqui me conhece melhor do que eu conheço a m",
+    "created_tick": 20,
+    "importance": 7,
+    "kind": "reflection"
+  }
+]

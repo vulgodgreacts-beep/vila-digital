@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vila Digital — acompanhamento</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --papel:#DFE5DA; --lote:#EDF0E8; --lote-borda:#B9C4B4;
+  --tinta:#23312C; --tinta-fraca:#5C6B63; --tinta-tenue:#8B978F;
+  --vermelho:#9C3B28;
+  --cond:"IBM Plex Sans Condensed",-apple-system,Segoe UI,sans-serif;
+  --corpo:"IBM Plex Sans",-apple-system,Segoe UI,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0; background:var(--papel); color:var(--tinta);
+  font-family:var(--corpo); font-size:15px; line-height:1.6;
+  background-image:linear-gradient(rgba(35,49,44,.055) 1px,transparent 1px),
+                   linear-gradient(90deg,rgba(35,49,44,.055) 1px,transparent 1px);
+  background-size:28px 28px; background-position:-1px -1px;
+}
+.tela{position:relative;height:100%;display:flex;flex-direction:column;max-width:1320px;margin:0 auto;padding:22px 26px 26px}
+
+header{display:flex;flex-wrap:wrap;align-items:flex-end;gap:18px 28px;padding-bottom:14px;border-bottom:2px solid var(--tinta)}
+h1{font-family:var(--cond);font-size:27px;font-weight:600;margin:0;letter-spacing:.01em}
+.relogio{font-family:var(--cond);font-size:27px;font-weight:500;color:var(--tinta-fraca);font-variant-numeric:tabular-nums}
+.condicoes{flex:1;min-width:230px;font-size:13.5px;color:var(--tinta-fraca)}
+.condicoes b{font-weight:500;color:var(--tinta)}
+
+.controles{display:flex;align-items:center;gap:10px}
+button{
+  font-family:var(--cond);font-size:15px;font-weight:500;color:var(--tinta);
+  background:var(--lote);border:1.5px solid var(--tinta);border-radius:0;
+  padding:5px 15px;cursor:pointer;transition:background .12s
+}
+button:hover{background:var(--papel)}
+button:disabled{opacity:.35;cursor:default}
+button:focus-visible{outline:2px solid var(--vermelho);outline-offset:2px}
+input[type=range]{width:190px;accent-color:var(--tinta)}
+
+.corpo{flex:1;display:grid;grid-template-columns:minmax(0,1.45fr) minmax(310px,1fr);gap:26px;padding-top:20px;min-height:0}
+
+.mapa{position:relative;display:grid;gap:16px;
+  grid-template-columns:1fr 1fr;
+  grid-template-areas:"oficina biblioteca" "praca praca" "mercado mercado";
+  grid-template-rows:1fr 1.15fr 1fr;min-height:0}
+.lote{
+  position:relative;background:var(--lote);border:1.5px solid var(--lote-borda);
+  padding:11px 13px;display:flex;flex-direction:column;min-height:0
+}
+.lote.hub{border-color:var(--tinta);border-width:2px}
+.lote h2{font-family:var(--cond);font-size:16px;font-weight:600;margin:0;letter-spacing:.02em}
+.lote p{margin:3px 0 0;font-size:12.5px;color:var(--tinta-tenue);line-height:1.45}
+.moradores{margin-top:14px;display:flex;flex-wrap:wrap;gap:7px;min-height:38px}
+
+.ficha{display:flex;align-items:center;gap:7px;background:var(--papel);
+  border:1.5px solid currentColor;padding:3px 10px 3px 6px}
+.ficha .inicial{width:21px;height:21px;display:grid;place-items:center;
+  color:var(--lote);font-family:var(--cond);font-size:13px;font-weight:600}
+.ficha .nome{font-family:var(--cond);font-size:14px;font-weight:500;color:var(--tinta)}
+
+.registro{display:flex;flex-direction:column;min-height:0;border-left:1.5px solid var(--lote-borda);padding-left:22px}
+.registro h2{font-family:var(--cond);font-size:16px;font-weight:600;margin:0 0 12px;letter-spacing:.02em}
+.feed{flex:1;overflow-y:auto;padding-right:8px;scrollbar-width:thin}
+.vazio{color:var(--tinta-tenue);font-size:14px;font-style:italic}
+
+.marco{font-family:var(--cond);font-size:12px;font-weight:600;color:var(--tinta-tenue);
+  letter-spacing:.06em;margin:18px 0 9px;padding-bottom:3px;border-bottom:1px solid var(--lote-borda)}
+.marco:first-child{margin-top:0}
+.fala{margin-bottom:11px;padding-left:11px;border-left:2.5px solid currentColor}
+.fala .quem{font-family:var(--cond);font-size:14px;font-weight:600;color:currentColor}
+.fala .onde{font-size:12px;color:var(--tinta-tenue)}
+.fala .texto{font-size:14px;color:var(--tinta);margin-top:1px}
+.aviso{margin-bottom:11px;padding:8px 11px;background:rgba(156,59,40,.07);
+  border-left:2.5px solid var(--vermelho);color:var(--vermelho);font-size:13.5px}
+
+.rodape{padding-top:12px;margin-top:4px;border-top:1px solid var(--lote-borda);
+  font-size:12.5px;color:var(--tinta-tenue);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+
+@media (max-width:880px){
+  .corpo{grid-template-columns:1fr;grid-template-rows:auto 1fr}
+  .registro{border-left:0;border-top:1.5px solid var(--lote-borda);padding-left:0;padding-top:18px}
+  .mapa{min-height:380px}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="tela">
+  <header>
+    <h1 id="titulo">Vila Digital</h1>
+    <div class="relogio">tick <span id="tickAtual">0</span> / <span id="tickTotal">0</span></div>
+    <div class="condicoes" id="condicoes"></div>
+    <div class="controles">
+      <button id="btnPlay">Reproduzir</button>
+      <input type="range" id="linha" min="0" max="0" value="0" aria-label="Linha do tempo">
+    </div>
+  </header>
+
+  <div class="corpo">
+    <div class="mapa" id="mapa"></div>
+    <div class="registro">
+      <h2>Registro do dia</h2>
+      <div class="feed" id="feed"><p class="vazio">Sem registros ainda. Rode <code>python main.py --ticks 10</code> em outra janela.</p></div>
+    </div>
+  </div>
+
+  <div class="rodape">
+    <span id="status">Procurando dados…</span>
+    <span>Atualiza sozinho enquanto a simulação roda</span>
+  </div>
+</div>
+
+<script>
+const CORES = ["#1F5F53","#2E5A7A","#7A6220","#6B4A6E","#3F6130"];
+const AREAS = {"oficina":"oficina","biblioteca":"biblioteca","praça central":"praca","praca central":"praca","mercado":"mercado"};
+
+let ticks = [], locais = {}, corDe = {}, inicioDe = {};
+let atual = 0, tocando = false, timer = null, assinatura = "";
+
+const $ = id => document.getElementById(id);
+const chaveArea = nome => AREAS[nome] || AREAS[nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"")] || "praca";
+
+async function buscarEstado(){
+  // 1) servidor local (viewer.py) — resposta pronta num pedido só
+  try{
+    const r = await fetch("api/estado", {cache:"no-store"});
+    if(r.ok) return await r.json();
+  }catch(e){ /* sem servidor: é site estático, cai no plano B */ }
+
+  // 2) site estático (GitHub Pages): lê os arquivos direto do repositório
+  const ler = async (caminho, padrao) => {
+    try{
+      const r = await fetch(caminho + "?t=" + Date.now(), {cache:"no-store"});
+      return r.ok ? await r.json() : padrao;
+    }catch(e){ return padrao; }
+  };
+  const [mundo, moradores, eventos, estado_atual] = await Promise.all([
+    ler("../data/world.json", {}),
+    ler("../data/agents.json", []),
+    ler("../state/event_log.json", []),
+    ler("../state/world_state.json", {}),
+  ]);
+  return {mundo, moradores, eventos, estado_atual};
+}
+
+async function puxar(){
+  let d;
+  try{ d = await buscarEstado(); }
+  catch(e){ $("status").textContent = "Não consegui ler os dados da vila."; return; }
+
+  if(d.mundo?.name) { $("titulo").textContent = d.mundo.name; document.title = d.mundo.name + " — acompanhamento"; }
+  locais = d.mundo?.locations || {};
+
+  (d.moradores||[]).forEach((p,i)=>{ corDe[p.name] = CORES[i%CORES.length]; inicioDe[p.name] = p.starting_location; });
+
+  const eventos = d.eventos || [];
+  const nova = eventos.length + "|" + Object.keys(locais).length;
+  if(nova === assinatura){ $("status").textContent = ticks.length ? `${ticks.length} ticks registrados` : "Nenhum registro ainda"; return; }
+  assinatura = nova;
+
+  const porTick = new Map();
+  for(const ev of eventos){
+    if(!porTick.has(ev.tick)) porTick.set(ev.tick, []);
+    porTick.get(ev.tick).push(ev);
+  }
+  const novoTotal = porTick.size;
+  const estavaNoFim = atual >= ticks.length - 1;
+  ticks = [...porTick.entries()].sort((a,b)=>a[0]-b[0]).map(([n,evs])=>({n,evs}));
+
+  $("tickTotal").textContent = ticks.length;
+  $("linha").max = Math.max(0, ticks.length-1);
+  if(estavaNoFim || atual > ticks.length-1) atual = Math.max(0, ticks.length-1);
+
+  const est = d.estado_atual?.state || d.mundo?.state || {};
+  $("condicoes").innerHTML = Object.entries(est).map(([k,v])=>`${k}: <b>${esc(v)}</b>`).join(" · ");
+  $("status").textContent = `${ticks.length} ticks registrados` + (novoTotal ? "" : "");
+  desenhar();
+}
+
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function posicoesAte(indice){
+  const pos = {...inicioDe};
+  for(let i=0;i<=indice && i<ticks.length;i++)
+    for(const ev of ticks[i].evs)
+      if(ev.agent !== "SISTEMA") pos[ev.agent] = ev.location;
+  return pos;
+}
+
+function desenhar(){
+  const mapa = $("mapa");
+  const antes = new Map();
+  mapa.querySelectorAll(".ficha").forEach(f => antes.set(f.dataset.nome, f.getBoundingClientRect()));
+
+  const pos = posicoesAte(atual);
+  mapa.innerHTML = "";
+  for(const [nome,info] of Object.entries(locais)){
+    const aqui = Object.entries(pos).filter(([,l]) => l === nome).map(([p]) => p);
+    const lote = document.createElement("div");
+    lote.className = "lote" + (chaveArea(nome)==="praca" ? " hub" : "");
+    lote.style.gridArea = chaveArea(nome);
+    lote.innerHTML = `<h2>${esc(nome)}</h2><p>${esc((info.description||"").split(".")[0])}.</p>
+      <div class="moradores">${aqui.map(p=>
+        `<span class="ficha" data-nome="${esc(p)}" style="color:${corDe[p]||"#23312C"}">
+           <span class="inicial" style="background:${corDe[p]||"#23312C"}">${esc(p[0])}</span><span class="nome">${esc(p)}</span></span>`).join("")}</div>`;
+    mapa.appendChild(lote);
+  }
+
+  mapa.querySelectorAll(".ficha").forEach(f=>{
+    const antigo = antes.get(f.dataset.nome); if(!antigo) return;
+    const novo = f.getBoundingClientRect();
+    const dx = antigo.left - novo.left, dy = antigo.top - novo.top;
+    if(Math.abs(dx) < 2 && Math.abs(dy) < 2) return;
+    f.animate([{transform:`translate(${dx}px,${dy}px)`},{transform:"none"}],
+              {duration:420,easing:"cubic-bezier(.3,.7,.3,1)"});
+  });
+
+  const feed = $("feed");
+  if(!ticks.length){ feed.innerHTML = `<p class="vazio">Sem registros ainda. Rode <code>python main.py --ticks 10</code> em outra janela.</p>`; }
+  else{
+    feed.innerHTML = ticks.slice(0, atual+1).map(t =>
+      `<div class="marco">tick ${t.n}</div>` + t.evs.map(ev =>
+        ev.agent === "SISTEMA"
+          ? `<div class="aviso">${esc(ev.action)}</div>`
+          : `<div class="fala" style="color:${corDe[ev.agent]||"#23312C"}">
+               <span class="quem">${esc(ev.agent)}</span> <span class="onde">· ${esc(ev.location)}</span>
+               <div class="texto">${esc(ev.action)}</div></div>`).join("")).join("");
+    feed.scrollTop = feed.scrollHeight;
+  }
+
+  $("tickAtual").textContent = ticks.length ? ticks[atual].n : 0;
+  $("linha").value = atual;
+}
+
+function tocar(ligar){
+  tocando = ligar;
+  $("btnPlay").textContent = ligar ? "Pausar" : "Reproduzir";
+  clearInterval(timer);
+  if(ligar) timer = setInterval(()=>{
+    if(atual < ticks.length-1){ atual++; desenhar(); } else tocar(false);
+  }, 1600);
+}
+
+$("btnPlay").onclick = ()=>{
+  if(!tocando && atual >= ticks.length-1) atual = 0;
+  tocar(!tocando);
+};
+$("linha").oninput = e => { tocar(false); atual = +e.target.value; desenhar(); };
+
+puxar();
+setInterval(puxar, 3000);
+</script>
+</body>
+</html>

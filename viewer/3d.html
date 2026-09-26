@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vila Digital — 3D</title>
+<style>
+:root{--tinta:#E8EAE4;--tinta-fraca:#A8B0A6;--painel:rgba(22,30,27,.86);--borda:rgba(232,234,228,.16)}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;overflow:hidden;background:#0E1614;
+  font-family:"IBM Plex Sans",-apple-system,Segoe UI,sans-serif;color:var(--tinta)}
+#cena{position:fixed;inset:0}
+canvas{display:block}
+
+.hud{position:fixed;z-index:5;background:var(--painel);border:1px solid var(--borda);
+  backdrop-filter:blur(8px);padding:11px 15px}
+#topo{top:16px;left:16px;display:flex;align-items:baseline;gap:16px;flex-wrap:wrap;max-width:min(640px,calc(100vw - 32px))}
+#topo h1{font-size:17px;font-weight:600;margin:0;letter-spacing:.01em}
+#relogio{font-size:15px;color:var(--tinta-fraca);font-variant-numeric:tabular-nums}
+#condicoes{font-size:12.5px;color:var(--tinta-fraca);width:100%}
+#condicoes b{color:var(--tinta);font-weight:500}
+
+#controles{bottom:16px;left:16px;display:flex;align-items:center;gap:11px;flex-wrap:wrap}
+button{font:inherit;font-size:14px;font-weight:500;color:var(--tinta);background:rgba(232,234,228,.09);
+  border:1px solid var(--borda);padding:6px 14px;cursor:pointer;transition:background .12s}
+button:hover{background:rgba(232,234,228,.17)}
+button:focus-visible{outline:2px solid #86B8A0;outline-offset:2px}
+input[type=range]{width:200px;accent-color:#86B8A0}
+#dica{font-size:12px;color:var(--tinta-fraca)}
+
+#registro{top:16px;right:16px;width:min(330px,calc(100vw - 32px));max-height:52vh;
+  display:flex;flex-direction:column;padding:0}
+#registro h2{font-size:13px;font-weight:600;margin:0;padding:11px 15px 9px;border-bottom:1px solid var(--borda)}
+#falas{overflow-y:auto;padding:11px 15px;scrollbar-width:thin}
+#falas .linha{margin-bottom:10px;padding-left:9px;border-left:2px solid currentColor;font-size:13px}
+#falas .quem{font-weight:600;font-size:12.5px}
+#falas .txt{color:var(--tinta);line-height:1.5;margin-top:1px}
+#falas .evento{color:#E8A87C;border-left-color:#E8A87C;padding-left:9px;font-size:12.5px;margin-bottom:10px}
+#falas .nada{color:var(--tinta-fraca);font-style:italic;font-size:13px}
+
+.balao{position:fixed;z-index:4;font-size:12px;pointer-events:none;transform:translate(-50%,-100%);
+  max-width:180px;padding:6px 9px;background:rgba(18,26,23,.92);border:1px solid var(--borda);
+  border-radius:3px;font-size:12.5px;line-height:1.45;opacity:0;transition:opacity .35s}
+.balao.on{opacity:1}
+.balao .dono{display:block;font-weight:600;font-size:12px;margin-bottom:2px}
+.balao::after{content:"";position:absolute;bottom:-6px;left:50%;margin-left:-5px;
+  border:5px solid transparent;border-top-color:rgba(18,26,23,.92);border-bottom:0}
+
+#carregando{position:fixed;inset:0;display:grid;place-items:center;background:#0E1614;z-index:9;font-size:14px;color:var(--tinta-fraca)}
+@media (max-width:760px){#registro{display:none}#topo{max-width:calc(100vw - 32px)}}
+</style>
+</head>
+<body>
+<div id="cena"></div>
+<div id="carregando">carregando a vila…</div>
+
+<div class="hud" id="topo">
+  <h1 id="titulo">Vila Digital</h1>
+  <span id="relogio">tick 0 / 0</span>
+  <span id="condicoes"></span>
+</div>
+
+<div class="hud" id="registro">
+  <h2>Registro</h2>
+  <div id="falas"><p class="nada">Sem registros ainda.</p></div>
+</div>
+
+<div class="hud" id="controles">
+  <button id="btnPlay">Reproduzir</button>
+  <input type="range" id="linha" min="0" max="0" value="0" aria-label="Linha do tempo">
+  <span id="dica">arraste para girar · roda do mouse para aproximar</span>
+</div>
+
+<script src="three.min.js"></script>
+<script>
+const CORES = [0x2FA98A, 0x4A8FC4, 0xC9A227, 0xA97FB0, 0x7FB05A];
+// onde cada lugar fica no terreno (x, z)
+const PONTOS = {
+  "oficina":[-17,-13], "biblioteca":[17,-13], "praça central":[0,3],
+  "praca central":[0,3], "mercado":[0,21]
+};
+const ponto = n => PONTOS[n] || PONTOS[n?.normalize("NFD").replace(/[\u0300-\u036f]/g,"")] || PONTOS["praça central"];
+
+let cena, camera, render3d, relogio3d;
+let ticks=[], locais={}, corDe={}, inicioDe={}, bonecos={}, baloes={};
+let atual=0, tocando=false, timer=null, assinatura="";
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+/* ---------- cena ---------- */
+function montarCena(){
+  cena = new THREE.Scene();
+  cena.background = new THREE.Color(0x121D1A);
+  cena.fog = new THREE.Fog(0x121D1A, 72, 168);
+
+  camera = new THREE.PerspectiveCamera(48, innerWidth/innerHeight, 0.1, 500);
+  render3d = new THREE.WebGLRenderer({antialias:true});
+  render3d.setPixelRatio(Math.min(devicePixelRatio,2));
+  render3d.setSize(innerWidth, innerHeight);
+  render3d.shadowMap.enabled = true;
+  render3d.shadowMap.type = THREE.PCFSoftShadowMap;
+  $("cena").appendChild(render3d.domElement);
+  relogio3d = new THREE.Clock();
+
+  cena.add(new THREE.HemisphereLight(0xBFD4C8, 0x24302B, 0.75));
+  const sol = new THREE.DirectionalLight(0xFFF3DC, 1.05);
+  sol.position.set(26, 38, 16); sol.castShadow = true;
+  sol.shadow.mapSize.set(2048,2048);
+  const c = sol.shadow.camera;
+  c.left=-55; c.right=55; c.top=55; c.bottom=-55; c.near=1; c.far=110;
+  cena.add(sol);
+
+  // terreno
+  const chao = new THREE.Mesh(
+    new THREE.PlaneGeometry(420,420),
+    new THREE.MeshLambertMaterial({color:0x3C5140}));
+  chao.rotation.x = -Math.PI/2; chao.receiveShadow = true;
+  cena.add(chao);
+
+  // caminhos ligando cada lugar à praça
+  const matCaminho = new THREE.MeshLambertMaterial({color:0x6E6A5C});
+  for(const nome of ["oficina","biblioteca","mercado"]){
+    const [x,z] = PONTOS[nome], [px,pz] = PONTOS["praça central"];
+    const dx = px-x, dz = pz-z, comp = Math.hypot(dx,dz);
+    const via = new THREE.Mesh(new THREE.PlaneGeometry(3.4, comp), matCaminho);
+    via.rotation.x = -Math.PI/2;
+    via.rotation.z = -Math.atan2(dx,dz);
+    via.position.set((x+px)/2, 0.02, (z+pz)/2);
+    via.receiveShadow = true;
+    cena.add(via);
+  }
+
+  montarPraca();
+  animar();
+}
+
+function montarPraca(){
+  const [x,z] = PONTOS["praça central"];
+  const piso = new THREE.Mesh(new THREE.CylinderGeometry(11,11,.25,10),
+    new THREE.MeshLambertMaterial({color:0x7B7566}));
+  piso.position.set(x,.12,z); piso.receiveShadow = true; cena.add(piso);
+
+  const base = new THREE.Mesh(new THREE.CylinderGeometry(2.6,3,.9,8),
+    new THREE.MeshLambertMaterial({color:0x9A9486}));
+  base.position.set(x,.6,z); base.castShadow = base.receiveShadow = true; cena.add(base);
+
+  const agua = new THREE.Mesh(new THREE.CylinderGeometry(2.3,2.3,.14,8),
+    new THREE.MeshLambertMaterial({color:0x4E7F8C}));
+  agua.position.set(x,1.06,z); cena.add(agua);
+
+  const coluna = new THREE.Mesh(new THREE.CylinderGeometry(.42,.6,2.3,6),
+    new THREE.MeshLambertMaterial({color:0x9A9486}));
+  coluna.position.set(x,2.1,z); coluna.castShadow = true; cena.add(coluna);
+
+  for(let i=0;i<7;i++){
+    const ang = i/7*Math.PI*2;
+    const arv = new THREE.Group();
+    const tronco = new THREE.Mesh(new THREE.CylinderGeometry(.26,.34,2.1,6),
+      new THREE.MeshLambertMaterial({color:0x5A4632}));
+    tronco.position.y = 1.05; tronco.castShadow = true;
+    const copa = new THREE.Mesh(new THREE.SphereGeometry(1.9,6,5),
+      new THREE.MeshLambertMaterial({color:0x4C7A43}));
+    copa.position.y = 3.2; copa.scale.y = .85; copa.castShadow = true;
+    arv.add(tronco, copa);
+    arv.position.set(x + Math.cos(ang)*14.5, 0, z + Math.sin(ang)*14.5);
+    cena.add(arv);
+  }
+}
+
+function montarPredio(nome, cor){
+  const [x,z] = ponto(nome);
+  if(nome.includes("praça") || nome.includes("praca")) return;
+
+  const g = new THREE.Group();
+  const larg = 9, prof = 8, alt = 5.4;
+  const corpo = new THREE.Mesh(new THREE.BoxGeometry(larg,alt,prof),
+    new THREE.MeshLambertMaterial({color:0xD8D2C2}));
+  corpo.position.y = alt/2; corpo.castShadow = corpo.receiveShadow = true; g.add(corpo);
+
+  const telhado = new THREE.Mesh(new THREE.ConeGeometry(larg*.82, 2.9, 4),
+    new THREE.MeshLambertMaterial({color:cor}));
+  telhado.position.y = alt + 1.45; telhado.rotation.y = Math.PI/4;
+  telhado.castShadow = true; g.add(telhado);
+
+  const matVidro = new THREE.MeshLambertMaterial({color:0x2E4A50});
+  for(const dx of [-2.6, 2.6]){
+    const jan = new THREE.Mesh(new THREE.BoxGeometry(1.9,1.9,.12), matVidro);
+    jan.position.set(dx, 3.3, prof/2+.01); g.add(jan);
+  }
+  const porta = new THREE.Mesh(new THREE.BoxGeometry(1.9,3,.14),
+    new THREE.MeshLambertMaterial({color:0x5A4632}));
+  porta.position.set(0, 1.5, prof/2+.01); g.add(porta);
+
+  g.position.set(x, 0, z);
+  g.lookAt(PONTOS["praça central"][0], 0, PONTOS["praça central"][1]);
+  cena.add(g);
+
+  // placa com o nome, virada pra praça
+  const placa = new THREE.Mesh(new THREE.PlaneGeometry(5.2, 1.3), letreiro(nome));
+  placa.position.set(x, 10.4, z);
+  placa.userData.placa = true;
+  cena.add(placa);
+}
+
+function letreiro(texto){
+  const cv = document.createElement("canvas");
+  cv.width = 512; cv.height = 128;
+  const ctx = cv.getContext("2d");
+  ctx.fillStyle = "rgba(18,26,23,.82)"; ctx.fillRect(0,0,512,128);
+  ctx.strokeStyle = "rgba(232,234,228,.3)"; ctx.lineWidth = 4; ctx.strokeRect(2,2,508,124);
+  ctx.fillStyle = "#E8EAE4"; ctx.font = "600 52px 'IBM Plex Sans',sans-serif";
+  ctx.textAlign = "center"; ctx.textBaseline = "middle";
+  ctx.fillText(texto, 256, 68);
+  const t = new THREE.CanvasTexture(cv);
+  return new THREE.MeshBasicMaterial({map:t, transparent:true});
+}
+
+function corCabelo(nome){
+  const paleta = [0x2B1B12, 0x4A2E1E, 0x1B1B1B, 0x6B4423, 0x8A8580, 0x3E2723];
+  let h = 0; for(const c of nome) h = (h*31 + c.charCodeAt(0)) >>> 0;
+  return paleta[h % paleta.length];
+}
+
+const ALT_QUADRIL = 1.7, ALT_OMBRO = 2.85, ALT_TORSO_TOPO = 3.0;
+
+function montarBoneco(nome, cor){
+  // estilo "PS2 anos 2000": geometria angular, poucas facetas, sem
+  // suavização — silhueta em blocos em vez de formas arredondadas.
+  const g = new THREE.Group();
+  const matRoupa   = new THREE.MeshLambertMaterial({color:cor, flatShading:true});
+  const matCalca   = new THREE.MeshLambertMaterial({color:0x2E3540, flatShading:true});
+  const matPele    = new THREE.MeshLambertMaterial({color:0xC98F5E, flatShading:true});
+  const matCabelo  = new THREE.MeshLambertMaterial({color:corCabelo(nome), flatShading:true});
+  const matOlho    = new THREE.MeshLambertMaterial({color:0x161616});
+  const matSapato  = new THREE.MeshLambertMaterial({color:0xE7E2D6, flatShading:true});
+  const matSola    = new THREE.MeshLambertMaterial({color:0x201C18});
+
+  // pernas: caixas retas (calça larga), pivô no quadril
+  const pernaE = new THREE.Group(); pernaE.position.set(-.27, ALT_QUADRIL, 0);
+  const pernaD = new THREE.Group(); pernaD.position.set(.27, ALT_QUADRIL, 0);
+  for(const p of [pernaE, pernaD]){
+    const perna = new THREE.Mesh(new THREE.BoxGeometry(.4, ALT_QUADRIL-.16, .38), matCalca);
+    perna.position.y = -(ALT_QUADRIL-.16)/2; perna.castShadow = true;
+    const tenis = new THREE.Mesh(new THREE.BoxGeometry(.42,.2,.58), matSapato);
+    tenis.position.set(0, -ALT_QUADRIL+.1, .08); tenis.castShadow = true;
+    const sola = new THREE.Mesh(new THREE.BoxGeometry(.43,.07,.6), matSola);
+    sola.position.set(0, -ALT_QUADRIL+.035, .08);
+    p.add(perna, tenis, sola);
+    g.add(p);
+  }
+
+  // torso: caixa única, sem chanfro — camiseta larga estilo folgado
+  const torso = new THREE.Mesh(
+    new THREE.BoxGeometry(1.18, ALT_TORSO_TOPO-ALT_QUADRIL, .66), matRoupa);
+  torso.position.y = (ALT_QUADRIL+ALT_TORSO_TOPO)/2; torso.castShadow = true;
+  g.add(torso);
+
+  // braços: manga curta (cor da camiseta) + antebraço de pele à mostra
+  const bracoE = new THREE.Group(); bracoE.position.set(-.72, ALT_OMBRO, 0);
+  const bracoD = new THREE.Group(); bracoD.position.set(.72, ALT_OMBRO, 0);
+  const compBraco = 1.05, manga = .38;
+  for(const b of [bracoE, bracoD]){
+    const mangaMesh = new THREE.Mesh(new THREE.BoxGeometry(.34,manga,.34), matRoupa);
+    mangaMesh.position.y = -manga/2; mangaMesh.castShadow = true;
+    const antebraco = new THREE.Mesh(new THREE.BoxGeometry(.27,compBraco-manga,.27), matPele);
+    antebraco.position.y = -manga - (compBraco-manga)/2; antebraco.castShadow = true;
+    const mao = new THREE.Mesh(new THREE.BoxGeometry(.28,.28,.24), matPele);
+    mao.position.y = -compBraco; mao.castShadow = true;
+    b.add(mangaMesh, antebraco, mao);
+    g.add(b);
+  }
+
+  // pescoço, cabeça angular, cabelo em bloco e olhos
+  const pescoco = new THREE.Mesh(new THREE.BoxGeometry(.3,.2,.28), matPele);
+  pescoco.position.y = ALT_TORSO_TOPO + .1; g.add(pescoco);
+
+  const cabeca = new THREE.Mesh(new THREE.SphereGeometry(.42,8,6), matPele);
+  cabeca.position.y = ALT_TORSO_TOPO + .2 + .42; cabeca.castShadow = true;
+  g.add(cabeca);
+
+  const cabelo = new THREE.Mesh(new THREE.BoxGeometry(.86,.3,.84), matCabelo);
+  cabelo.position.set(0, cabeca.position.y + .28, -.03);
+  cabelo.castShadow = true; g.add(cabelo);
+
+  for(const lado of [-1,1]){
+    const olho = new THREE.Mesh(new THREE.BoxGeometry(.09,.06,.03), matOlho);
+    olho.position.set(lado*.15, cabeca.position.y + .01, .39);
+    g.add(olho);
+  }
+
+  g.userData = {
+    alvo:new THREE.Vector3(), andando:false, fase:Math.random()*6,
+    pernaE, pernaD, bracoE, bracoD, torso, alturaTorso:(ALT_QUADRIL+ALT_TORSO_TOPO)/2,
+  };
+  cena.add(g);
+  return g;
+}
+
+/* ---------- câmera controlável ---------- */
+const cam = {alvo:new THREE.Vector3(0,3,3), raio:68, giro:-Math.PI/2, incl:.62};
+function posicionarCamera(){
+  camera.position.set(
+    cam.alvo.x + cam.raio*Math.cos(cam.incl)*Math.cos(cam.giro),
+    cam.alvo.y + cam.raio*Math.sin(cam.incl),
+    cam.alvo.z + cam.raio*Math.cos(cam.incl)*Math.sin(cam.giro));
+  camera.lookAt(cam.alvo);
+}
+(function controles(){
+  let arrastando=false, ux=0, uy=0;
+  const alvo = document.body;
+  alvo.addEventListener("pointerdown", e=>{ if(e.target.closest(".hud")) return;
+    arrastando=true; ux=e.clientX; uy=e.clientY; });
+  addEventListener("pointerup", ()=> arrastando=false);
+  addEventListener("pointermove", e=>{
+    if(!arrastando) return;
+    cam.giro += (e.clientX-ux)*.006;
+    cam.incl = Math.max(.14, Math.min(1.42, cam.incl + (e.clientY-uy)*.005));
+    ux=e.clientX; uy=e.clientY;
+  });
+  addEventListener("wheel", e=>{ if(e.target.closest(".hud")) return;
+    cam.raio = Math.max(20, Math.min(130, cam.raio + e.deltaY*.045)); }, {passive:true});
+})();
+
+/* ---------- laço de animação ---------- */
+function animar(){
+  requestAnimationFrame(animar);
+  const dt = Math.min(relogio3d.getDelta(), .1);
+
+  for(const [nome,b] of Object.entries(bonecos)){
+    const d = b.userData;
+    const dist = b.position.distanceTo(d.alvo);
+    if(dist > .4){
+      d.andando = true;
+      const passo = Math.min(dist, 7.5*dt);
+      const dir = d.alvo.clone().sub(b.position).normalize();
+      b.position.addScaledVector(dir, passo);
+      b.rotation.y = Math.atan2(dir.x, dir.z);
+      d.fase += dt*8.5;
+      const balanco = Math.sin(d.fase);
+      d.pernaE.rotation.x = balanco*.6;
+      d.pernaD.rotation.x = -balanco*.6;
+      d.bracoE.rotation.x = -balanco*.5;
+      d.bracoD.rotation.x = balanco*.5;
+      d.torso.position.y = d.alturaTorso + Math.abs(balanco)*.04;
+    } else {
+      d.andando = false;
+      // volta suavemente pra pose neutra, sem travar de repente
+      const k = Math.min(1, dt*8);
+      d.pernaE.rotation.x *= 1-k; d.pernaD.rotation.x *= 1-k;
+      d.bracoE.rotation.x *= 1-k; d.bracoD.rotation.x *= 1-k;
+      d.torso.position.y += (d.alturaTorso - d.torso.position.y)*k;
+    }
+  }
+
+  cena.children.forEach(o => { if(o.userData.placa) o.quaternion.copy(camera.quaternion); });
+  posicionarCamera();
+  posicionarBaloes();
+  render3d.render(cena, camera);
+}
+
+function posicionarBaloes(){
+  // 1) projeta cada balão pra tela
+  const ativos = [];
+  for(const [nome,el] of Object.entries(baloes)){
+    const b = bonecos[nome];
+    if(!b || !el.classList.contains("on")) continue;
+    const p = b.position.clone(); p.y += 4.5;
+    p.project(camera);
+    if(p.z > 1){ el.style.visibility = "hidden"; continue; }
+    el.style.visibility = "";
+    ativos.push({
+      el,
+      x: (p.x*.5+.5)*innerWidth,
+      y: (-p.y*.5+.5)*innerHeight,
+      w: el.offsetWidth,
+      h: el.offsetHeight,
+    });
+  }
+
+  // 2) mantém os balões fora dos painéis da interface
+  const reg = $("registro");
+  const visivel = reg && getComputedStyle(reg).display !== "none";
+  const limiteDir = visivel ? reg.getBoundingClientRect().left - 12 : innerWidth - 12;
+  for(const item of ativos){
+    item.x = Math.min(limiteDir - item.w/2, Math.max(item.w/2 + 12, item.x));
+  }
+
+  // 3) resolve sobreposição: o mais baixo fica, os outros sobem
+  const postos = [];
+  ativos.sort((a,b) => b.y - a.y);
+  for(const item of ativos){
+    let mexeu = true, voltas = 0;
+    while(mexeu && voltas++ < 12){
+      mexeu = false;
+      for(const outro of postos){
+        const cruzaX = Math.abs(item.x - outro.x) < (item.w + outro.w)/2 + 8;
+        const cruzaY = (item.y - item.h) < outro.y + 8 && item.y > (outro.y - outro.h) - 8;
+        if(cruzaX && cruzaY){ item.y = outro.y - outro.h - 10; mexeu = true; }
+      }
+    }
+    item.y = Math.max(item.h + 12, item.y);   // não deixa sair pelo topo
+    postos.push(item);
+    item.el.style.left = item.x + "px";
+    item.el.style.top  = item.y + "px";
+  }
+}
+
+addEventListener("resize", ()=>{
+  camera.aspect = innerWidth/innerHeight; camera.updateProjectionMatrix();
+  render3d.setSize(innerWidth, innerHeight);
+});
+
+/* ---------- dados ---------- */
+async function buscarEstado(){
+  // 1) servidor local (viewer.py) — resposta pronta num pedido só
+  try{
+    const r = await fetch("api/estado", {cache:"no-store"});
+    if(r.ok) return await r.json();
+  }catch(e){ /* sem servidor: é site estático, cai no plano B */ }
+
+  // 2) site estático (GitHub Pages): lê os arquivos direto do repositório
+  const ler = async (caminho, padrao) => {
+    try{
+      const r = await fetch(caminho + "?t=" + Date.now(), {cache:"no-store"});
+      return r.ok ? await r.json() : padrao;
+    }catch(e){ return padrao; }
+  };
+  const [mundo, moradores, eventos, estado_atual] = await Promise.all([
+    ler("../data/world.json", {}),
+    ler("../data/agents.json", []),
+    ler("../state/event_log.json", []),
+    ler("../state/world_state.json", {}),
+  ]);
+  return {mundo, moradores, eventos, estado_atual};
+}
+
+async function puxar(){
+  let d;
+  try{ d = await buscarEstado(); }
+  catch(e){ return; }
+
+  if(d.mundo?.name){ $("titulo").textContent = d.mundo.name; }
+  const primeiraVez = !Object.keys(locais).length;
+  locais = d.mundo?.locations || {};
+
+  (d.moradores||[]).forEach((p,i)=>{
+    corDe[p.name] = CORES[i%CORES.length];
+    inicioDe[p.name] = p.starting_location;
+    if(!bonecos[p.name]){
+      bonecos[p.name] = montarBoneco(p.name, corDe[p.name]);
+      const [x,z] = ponto(p.starting_location);
+      bonecos[p.name].position.set(x + (i-1)*2.2, 0, z + 5.5);
+      bonecos[p.name].userData.alvo.copy(bonecos[p.name].position);
+      const el = document.createElement("div");
+      el.className = "balao";
+      document.body.appendChild(el);
+      baloes[p.name] = el;
+    }
+  });
+
+  if(primeiraVez){
+    for(const nome of Object.keys(locais)) montarPredio(nome, 0x8C5A3C);
+    $("carregando").remove();
+  }
+
+  const eventos = d.eventos || [];
+  const nova = eventos.length + "|" + Object.keys(locais).length;
+  if(nova === assinatura) return;
+  assinatura = nova;
+
+  const porTick = new Map();
+  for(const ev of eventos){
+    if(!porTick.has(ev.tick)) porTick.set(ev.tick, []);
+    porTick.get(ev.tick).push(ev);
+  }
+  const noFim = atual >= ticks.length-1;
+  ticks = [...porTick.entries()].sort((a,b)=>a[0]-b[0]).map(([n,evs])=>({n,evs}));
+  $("linha").max = Math.max(0, ticks.length-1);
+  if(noFim || atual > ticks.length-1) atual = Math.max(0, ticks.length-1);
+
+  const est = d.estado_atual?.state || d.mundo?.state || {};
+  $("condicoes").innerHTML = Object.entries(est).map(([k,v])=>`${k}: <b>${esc(v)}</b>`).join(" · ");
+  aplicar();
+}
+
+function aplicar(){
+  const pos = {...inicioDe};
+  for(let i=0;i<=atual && i<ticks.length;i++)
+    for(const ev of ticks[i].evs)
+      if(ev.agent !== "SISTEMA") pos[ev.agent] = ev.location;
+
+  const porLugar = {};
+  for(const [quem,lugar] of Object.entries(pos)) (porLugar[lugar] ||= []).push(quem);
+  for(const [lugar,gente] of Object.entries(porLugar)){
+    const [x,z] = ponto(lugar);
+    const praca = lugar.includes("pra");
+    gente.forEach((quem,i)=>{
+      const b = bonecos[quem]; if(!b) return;
+      if(praca){
+        // em roda ao redor do chafariz
+        const ang = -Math.PI/2 + (i - (gente.length-1)/2) * .55;
+        b.userData.alvo.set(x + Math.cos(ang)*7, 0, z + Math.sin(ang)*7);
+      } else {
+        const desvio = (i - (gente.length-1)/2) * 2.8;
+        b.userData.alvo.set(x + desvio, 0, z + 7.5);
+      }
+    });
+  }
+
+  // balões com a fala do tick atual
+  const agora = ticks[atual]?.evs || [];
+  for(const [quem,el] of Object.entries(baloes)){
+    const ev = agora.find(e => e.agent === quem);
+    if(ev){
+      const t = ev.action.length > 85 ? ev.action.slice(0,85)+"…" : ev.action;
+      el.innerHTML = `<span class="dono" style="color:#${(corDe[quem]||0xE8EAE4).toString(16).padStart(6,"0")}">${esc(quem)}</span>${esc(t)}`;
+      el.classList.add("on");
+    } else el.classList.remove("on");
+  }
+
+  const falas = $("falas");
+  if(!ticks.length) falas.innerHTML = `<p class="nada">Sem registros ainda.</p>`;
+  else falas.innerHTML = ticks.slice(Math.max(0,atual-3), atual+1).map(t =>
+    t.evs.map(ev => ev.agent === "SISTEMA"
+      ? `<div class="evento">${esc(ev.action)}</div>`
+      : `<div class="linha" style="color:#${(corDe[ev.agent]||0xE8EAE4).toString(16).padStart(6,"0")}">
+           <span class="quem">${esc(ev.agent)}</span>
+           <div class="txt">${esc(ev.action)}</div></div>`).join("")).join("");
+  falas.scrollTop = falas.scrollHeight;
+
+  $("relogio").textContent = `tick ${ticks.length ? ticks[atual].n : 0} / ${ticks.length}`;
+  $("linha").value = atual;
+}
+
+function tocar(ligar){
+  tocando = ligar;
+  $("btnPlay").textContent = ligar ? "Pausar" : "Reproduzir";
+  clearInterval(timer);
+  if(ligar) timer = setInterval(()=>{
+    if(atual < ticks.length-1){ atual++; aplicar(); } else tocar(false);
+  }, 4200);
+}
+$("btnPlay").onclick = ()=>{ if(!tocando && atual >= ticks.length-1) atual = 0; tocar(!tocando); };
+$("linha").oninput = e => { tocar(false); atual = +e.target.value; aplicar(); };
+
+montarCena();
+puxar();
+setInterval(puxar, 3000);
+</script>
+</body>
+</html>

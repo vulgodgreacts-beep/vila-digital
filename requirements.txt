@@ -1,0 +1,6 @@
+scikit-learn
+rich
+python-dotenv
+anthropic
+openai
+requests

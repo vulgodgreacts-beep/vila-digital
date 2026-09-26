@@ -1,0 +1,16 @@
+{
+  "tick": 20,
+  "state": {
+    "clima": "dia claro, sol ameno",
+    "movimento": "vila tranquila",
+    "energia": "normal"
+  },
+  "active_incidents": [
+    {
+      "title": "Caixa de livros doados",
+      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+      "state_changes": {},
+      "started_tick": 16
+    }
+  ]
+}

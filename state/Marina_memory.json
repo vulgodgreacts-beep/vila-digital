@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Eu fiz: Limpo as mãos na toalha surrada e vou direto pra bancada, pegando o rádio antigo do Seu Zé que tá aqui desde segunda - a maldita bateria tá vazando e preciso trocar logo antes que estrague a placa.",
+    "created_tick": 1,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego a chave de fenda e desparafuso a tampa traseira do rádio com uns três movimentos rápidos, já sabendo exatamente onde estão os parafusos. Jogo a bateria velha numa caixinha de descarte e já fico de olho pra encontrar uma equivalente entre os meus estoques.",
+    "created_tick": 2,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Mexo nas gavetas de componentes, procurando uma bateria que encaixe - deve ter uma por aqui em algum lugar, já que recebo essas coisas todo dia. Murmuro pra mim mesma: \"Onde é que eu coloco essas malditas baterias...\"",
+    "created_tick": 3,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Acho a bateria certa numa caixa de plástico furada e encaixo no rádio com um clique satisfeito. Pego o papel pra anotar \"Conserto - Bateria\" e coloco o rádio de lado, já pegando o próximo da pilha que tá me encarando.",
+    "created_tick": 4,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Coloco o segundo rádio consertado na prateleira ao lado do primeiro e pego o terceiro da pilha, já abrindo a porta da oficina com o pé pra entrar mais luz — essa claridade da manhã é perfeita pra ver os detalhes.",
+    "created_tick": 5,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Esses rádios velhos do Seu Zé são sempre a mesma história — bateria vazada — e ele nunca aprende a trocar antes de estragar tudo, mas também nunca vai pagar direito por nada.",
+    "created_tick": 5,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu fiz: Largo a chave de fenda e pego o quarto rádio da pilha, abrindo enquanto já viro pra olhar o estoque de baterias pendurado na parede — essa bateria aqui tá vazada também, padrão. Murmuro \"Seu Zé, um dia você aprende ou deixa de trazer esses troços aqui\", encaixo uma bateria nova e já marco mais um na lista.",
+    "created_tick": 6,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego o quarto rádio da pilha e viro ele de cabeça para baixo, procurando o número do modelo gravado na carcaça — preciso saber qual bateria é pra este, porque cada maldita marca usa um tamanho diferente. Enquanto isso, empurro com o cotovelo uma xícara de café que tá ali há não sei quanto tempo pra longe do meu espaço de trabalho.",
+    "created_tick": 7,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego o terceiro rádio já aberto e comparo o compartimento de bateria com a que tenho na mão — encaixa? Não encaixa, claro que não, e jogo ela de volta na gaveta com um suspiro, porque Seu Zé sempre traz modelos diferentes e nunca avisa.",
+    "created_tick": 8,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego o quarto rádio e encontro a gravação do modelo na carcaça com a unha — AA, sempre AA com Seu Zé — e viro para a parede pra pegar uma bateria nova da prateleira. Enquanto encaixo, murmuro \"mais um pronto, faltam dois\" e coloco na fileira dos consertados.",
+    "created_tick": 9,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego o quinto rádio da pilha e já viro de cabeça para baixo procurando o modelo na carcaça enquanto afasto com o cotovelo a xícara de café que voltou pro meu lado. \"Vamo logo com isso, Seu Zé\", murmuro pra ninguém, porque pra ele ainda faltam dois.",
+    "created_tick": 10,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Seu Zé traz esses rádios velhos pra mim porque sabe que ninguém mais na vila mexe com essas coisas, e ele aproveita que eu não cobro direito — mas um dia essas baterias vão estragar a placa e nem eu consigo salvar.",
+    "created_tick": 10,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu fiz: Pego o sexto rádio da pilha e viro de cabeça para baixo procurando o compartimento de bateria, já desconfiada de que vai ser a mesma história. Largo uma bateria nova no espaço certo e fecho a carcaça com um \"pronto, mais um\", depois empurro a xícara de café pro lado da bancada e pego a ferramenta pra atacar o próximo da fila.",
+    "created_tick": 11,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego a ferramenta de precisão e viro o terceiro rádio de novo pra examinar bem aquele compartimento — preciso achar a bateria certa antes de perder mais tempo fuçando em gaveta.",
+    "created_tick": 12,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego o sétimo rádio da pilha, viro de cabeça para baixo e já procuro o compartimento de bateria enquanto murmuro \"mesma história, sempre a mesma...\" — esse Seu Zé não aprende nunca. Largo a ferramenta de precisão e vou direto pra gaveta buscar a bateria certa, porque quanto mais rápido termino isso, mais cedo saio desse cheiro de café requentado.",
+    "created_tick": 13,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Abro a gaveta de baterias com um puxão seco e pego uma AAA, a mesma que sempre falta pro Seu Zé — enquanto encaixo no sétimo rádio, murmuro \"se esse velho aprendesse a trocar antes de vazar, eu não tava aqui fuçando em pilha requentada\".",
+    "created_tick": 14,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Pego o último rádio da pilha, viro e já identifico a bateria vazada antes mesmo de abrir — aquela cor verde de ferrugem que conheço de cor. Encaixo a bateria nova com um clique seco e coloco o rádio pronto na caixa, limpando as mãos na calça enquanto penso \"pronto, feito; agora vou chamar esse Seu Zé pra levar isso daqui\".",
+    "created_tick": 15,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Ese Seu Zé já deve estar na rua esperando, porque ele nunca entra aqui dentro — fica com medo que eu cobre a conta certinha dessa vez.",
+    "created_tick": 15,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 16,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Limpo as mãos na calça e grito lá pra fora: \"Seu Zé, tá pronto! Terceira vez esse mês que a bateria vaza — um dia cê aprende a trocar antes de estragar tudo, ué?\" Depois viro pra bancada e pego o próximo rádio da pilha, já abrindo com a chave de fenda.",
+    "created_tick": 16,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Limpo as mãos na calça e vou até a porta da oficina chamar Seu Zé que tá lá fora: \"Ó, Seu Zé! Tá pronto, leva esse rádio aí — e dessa vez coloca a bateria nova *antes* de deixar enferrujar tudo, tá bem?\"",
+    "created_tick": 17,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Volto pra bancada e pego o próximo rádio da pilha, virando ele de cabeça para baixo pra checar se tem bateria velha vazada — porque aposto meu último alicate que tem.",
+    "created_tick": 18,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Largo o rádio na bancada e varro os cabos espalhados pro lado, pra abrir espaço — preciso terminar o ventilador do Seu João antes que chegue mais coisa.",
+    "created_tick": 19,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu fiz: Limpo a mão na calça e volto pra bancada, pegando o próximo rádio da pilha — esse aqui também tem bateria vazada, aposto minha ferramenta. Sento no banquinho e abro o aparelho com a chave de fenda, já mentalizado em mais uma tarde igual.",
+    "created_tick": 20,
+    "importance": 4,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu concluí: Esses rádios velhos do Seu Zé são a prova de que ninguém nessa vila aprende nada comigo — e eu continuo consertando tudo de graça porque, no fundo, seria mais chato ainda ficar ouvindo todo mundo reclamar que nada funciona.",
+    "created_tick": 20,
+    "importance": 7,
+    "kind": "reflection"
+  }
+]

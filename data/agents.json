@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Marina",
+    "role": "mecânica",
+    "persona": "38 anos, adora desmontar aparelho só pra entender como funciona. Direta, prática, não tem paciência pra enrolação. Conserta quase tudo da vila e quase nunca cobra direito por isso.",
+    "starting_location": "oficina",
+    "goal": "Terminar os consertos que estão empilhados na bancada."
+  },
+  {
+    "name": "Teo",
+    "role": "bibliotecário",
+    "persona": "45 anos, historiador amador, fala pausado e acha um jeito de encaixar uma curiosidade histórica em qualquer conversa. Tímido com gente nova, mas se solta quando o assunto é livro.",
+    "starting_location": "biblioteca",
+    "goal": "Organizar o acervo e achar alguém pra conversar sobre o que anda lendo."
+  },
+  {
+    "name": "Iris",
+    "role": "vendedora do mercado",
+    "persona": "52 anos, extrovertida, conhece todo mundo pelo nome e sabe das novidades antes de todo mundo. Adora uma fofoca boa, mas nunca do tipo que machuca.",
+    "starting_location": "mercado",
+    "goal": "Vender bem e manter a vila informada do que está acontecendo."
+  }
+]
