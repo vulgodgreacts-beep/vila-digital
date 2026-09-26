@@ -1,5 +1,5 @@
 {
-  "tick": 20,
+  "tick": 28,
   "state": {
     "clima": "dia claro, sol ameno",
     "movimento": "vila tranquila",
@@ -7,10 +7,16 @@
   },
   "active_incidents": [
     {
+      "title": "Cachorro perdido",
+      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+      "state_changes": {},
+      "started_tick": 24
+    },
+    {
       "title": "Caixa de livros doados",
       "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
       "state_changes": {},
-      "started_tick": 16
+      "started_tick": 26
     }
   ]
 }

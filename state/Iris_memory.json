@@ -172,5 +172,143 @@
     "created_tick": 20,
     "importance": 7,
     "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou na biblioteca ver essa tal caixa de livros que tá todo mundo comentando.",
+    "created_tick": 21,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Entro na biblioteca pra ver essa caixa de livros antigos que apareceu do nada.",
+    "created_tick": 22,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Folheio o livro de 1923 com cuidado, evitando olhar direto para Marina e Iris.",
+    "created_tick": 22,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo conversa com Marina: \"Moça, você viu essa caixa de livros que apareceu aqui?",
+    "created_tick": 22,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego a caixa de livros pra ver se tem algo que presta, porque qualquer coisa velha merece uma chance.",
+    "created_tick": 23,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Organizo os livros da caixa na estante, evitando olhar muito pra Marina e Iris conversarem.",
+    "created_tick": 23,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo conversa com Marina pra saber se ela viu quem deixou essa caixa misteriosa na biblioteca.",
+    "created_tick": 23,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 24,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça ver esse cachorro — alguém tem que colocar coleira nele antes que se machuque.",
+    "created_tick": 24,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Esse cachorro assustado me lembra aquele conto de Jack London — vou pra praça ver se consigo ganhar a confiança dele.",
+    "created_tick": 24,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu esse cachorro assustado na praça? Aposto que alguém daqui reconhece.",
+    "created_tick": 24,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 3: Apareceu caixa misteriosa na biblioteca e cachorro perdido na praça — que dia agitado!",
+    "created_tick": 24,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Formei uma impressão sobre Marina: Moça responsável, se preocupa com quem precisa, bom coração mesmo.",
+    "created_tick": 24,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "Formei uma impressão sobre Teo: Nervoso demais com essa história toda, mas tem sensibilidade de verdade.",
+    "created_tick": 24,
+    "importance": 7,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou no mercado pegar algo pra comer, depois fico de olho nesse cachorro na praça.",
+    "created_tick": 25,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu esse cachorro assustado na praça? Preciso ir ao seu mercado depois.",
+    "created_tick": 25,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse cachorro perdido que tanto ouvi falar, coitado.",
+    "created_tick": 25,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 26,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu quem deixou essa caixa? Aposto que foi a dona Matilde, ela adora livros antigos.",
+    "created_tick": 26,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a caixa de livros com cuidado, procurando por qualquer marca que identifique o doador.",
+    "created_tick": 27,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aposto que foi a dona Margarida que doou esses livros; ela sempre faz essas coisas.",
+    "created_tick": 27,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu quem deixou essa caixa na biblioteca?",
+    "created_tick": 28,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vou pro mercado buscar um lanche, mas volta pra ajudar com essa caixa misteriosa.",
+    "created_tick": 28,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

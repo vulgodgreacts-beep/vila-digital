@@ -1,0 +1,14 @@
+{
+  "Teo": {
+    "familiaridade": 5,
+    "opiniao": "Esse rapaz anda sempre quieto, mexendo com livro velho.",
+    "desde_dia": 3,
+    "historico": []
+  },
+  "Iris": {
+    "familiaridade": 4,
+    "opiniao": "Parece gente curiosa, quer saber de tudo que acontece por aqui.",
+    "desde_dia": 3,
+    "historico": []
+  }
+}

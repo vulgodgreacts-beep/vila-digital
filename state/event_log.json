@@ -364,5 +364,161 @@
     "agent": "Iris",
     "location": "biblioteca",
     "action": "Me aproximo da caixa de livros com os olhos brilhando de curiosidade, secando as mãos no avental. \"Teo, querido, um livro de 1923 sem bilhete nenhum? Isso cheira a mistério de amor ou de segredo bem guardado — aposto que era do seu Getúlio antes de falecer, sabe como é!\""
+  },
+  {
+    "tick": 21,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Largo a chave inglesa e vou até a biblioteca ver que mistério é esse dessa caixa."
+  },
+  {
+    "tick": 21,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Levanto os olhos da caixa e vejo Marina passar; fico em silêncio, organizando os livros com cuidado."
+  },
+  {
+    "tick": 21,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou na biblioteca ver essa tal caixa de livros que tá todo mundo comentando."
+  },
+  {
+    "tick": 22,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Entro na biblioteca pra ver essa caixa de livros antigos que apareceu do nada."
+  },
+  {
+    "tick": 22,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Folheio o livro de 1923 com cuidado, evitando olhar direto para Marina e Iris."
+  },
+  {
+    "tick": 22,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Puxo conversa com Marina: \"Moça, você viu essa caixa de livros que apareceu aqui?"
+  },
+  {
+    "tick": 23,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Pego a caixa de livros pra ver se tem algo que presta, porque qualquer coisa velha merece uma chance."
+  },
+  {
+    "tick": 23,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Organizo os livros da caixa na estante, evitando olhar muito pra Marina e Iris conversarem."
+  },
+  {
+    "tick": 23,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Puxo conversa com Marina pra saber se ela viu quem deixou essa caixa misteriosa na biblioteca."
+  },
+  {
+    "tick": 24,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
+  },
+  {
+    "tick": 24,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Vou pra praça ver esse cachorro — alguém tem que colocar coleira nele antes que se machuque."
+  },
+  {
+    "tick": 24,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Esse cachorro assustado me lembra aquele conto de Jack London — vou pra praça ver se consigo ganhar a confiança dele."
+  },
+  {
+    "tick": 24,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, você viu esse cachorro assustado na praça? Aposto que alguém daqui reconhece."
+  },
+  {
+    "tick": 25,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Vou no mercado pegar algo pra comer, depois fico de olho nesse cachorro na praça."
+  },
+  {
+    "tick": 25,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você viu esse cachorro assustado na praça? Preciso ir ao seu mercado depois."
+  },
+  {
+    "tick": 25,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Vou pra praça ver esse cachorro perdido que tanto ouvi falar, coitado."
+  },
+  {
+    "tick": 26,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 26,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, aquele cachorro na praça tá assustado demais, alguém precisa pegar ele antes que se machuque."
+  },
+  {
+    "tick": 26,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Marina, você viu quem deixou aquela caixa de livros na biblioteca ontem?"
+  },
+  {
+    "tick": 26,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, você viu quem deixou essa caixa? Aposto que foi a dona Matilde, ela adora livros antigos."
+  },
+  {
+    "tick": 27,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou na praça ver esse cachorro perdido, talvez consiga pegar ele com calma."
+  },
+  {
+    "tick": 27,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa de livros com cuidado, procurando por qualquer marca que identifique o doador."
+  },
+  {
+    "tick": 27,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, aposto que foi a dona Margarida que doou esses livros; ela sempre faz essas coisas."
+  },
+  {
+    "tick": 28,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra praça ver esse cachorro, precisa de coleira pelo menos."
+  },
+  {
+    "tick": 28,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você viu quem deixou essa caixa na biblioteca?"
+  },
+  {
+    "tick": 28,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, vou pro mercado buscar um lanche, mas volta pra ajudar com essa caixa misteriosa."
   }
 ]
