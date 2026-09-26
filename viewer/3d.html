@@ -71,8 +71,14 @@ input[type=range]{width:200px;accent-color:#86B8A0}
   <span id="dica">arraste para girar · roda do mouse para aproximar</span>
 </div>
 
-<script src="three.min.js"></script>
-<script>
+<script type="importmap">
+{ "imports": { "three": "./vendor/three.module.min.js" } }
+</script>
+<script type="module">
+import * as THREE from "three";
+import { GLTFLoader } from "./vendor/loaders/GLTFLoader.js";
+import { VRMLoaderPlugin, VRMUtils } from "./vendor/three-vrm.module.min.js";
+
 const CORES = [0x2FA98A, 0x4A8FC4, 0xC9A227, 0xA97FB0, 0x7FB05A];
 // onde cada lugar fica no terreno (x, z)
 const PONTOS = {
@@ -81,8 +87,118 @@ const PONTOS = {
 };
 const ponto = n => PONTOS[n] || PONTOS[n?.normalize("NFD").replace(/[\u0300-\u036f]/g,"")] || PONTOS["praça central"];
 
+/* ---------- texturas geradas por canvas (sem nenhum arquivo externo) ---------- */
+function _tex(cv, repX=1, repY=1){
+  const t = new THREE.CanvasTexture(cv);
+  t.wrapS = t.wrapT = THREE.RepeatWrapping;
+  t.repeat.set(repX, repY);
+  t.colorSpace = THREE.SRGBColorSpace;
+  return t;
+}
+
+function texturaGrama(){
+  const cv = document.createElement("canvas"); cv.width = cv.height = 256;
+  const ctx = cv.getContext("2d");
+  ctx.fillStyle = "#3C5140"; ctx.fillRect(0,0,256,256);
+  for(let i=0;i<2600;i++){
+    const x = Math.random()*256, y = Math.random()*256, l = 2+Math.random()*5;
+    ctx.strokeStyle = `hsl(100,${22+Math.random()*16}%,${16+Math.random()*15}%)`;
+    ctx.lineWidth = 1+Math.random();
+    ctx.beginPath(); ctx.moveTo(x,y); ctx.lineTo(x+(Math.random()-.5)*2, y-l); ctx.stroke();
+  }
+  return _tex(cv, 60, 60);
+}
+
+function texturaPedra(){
+  const cv = document.createElement("canvas"); cv.width = cv.height = 256;
+  const ctx = cv.getContext("2d");
+  ctx.fillStyle = "#8A8272"; ctx.fillRect(0,0,256,256);
+  const passo = 46;
+  for(let gy=-1; gy<7; gy++) for(let gx=-1; gx<7; gx++){
+    const ox=(Math.random()-.5)*10, oy=(Math.random()-.5)*10;
+    const w=passo-7+Math.random()*8, h=passo-7+Math.random()*8;
+    ctx.fillStyle = `hsl(34,${10+Math.random()*8}%,${44+Math.random()*11}%)`;
+    const px=gx*passo+ox, py=gy*passo+oy;
+    ctx.fillRect(px,py,w,h);
+    ctx.strokeStyle = "rgba(35,30,24,.45)"; ctx.lineWidth=2.5; ctx.strokeRect(px,py,w,h);
+  }
+  return _tex(cv, 7, 7);
+}
+
+function texturaParede(corBase){
+  const cv = document.createElement("canvas"); cv.width = cv.height = 256;
+  const ctx = cv.getContext("2d");
+  ctx.fillStyle = corBase; ctx.fillRect(0,0,256,256);
+  for(let i=0;i<950;i++){
+    const x=Math.random()*256, y=Math.random()*256, r=6+Math.random()*15;
+    ctx.fillStyle = `rgba(0,0,0,${Math.random()*.035})`;
+    ctx.beginPath(); ctx.arc(x,y,r,0,Math.PI*2); ctx.fill();
+  }
+  return _tex(cv, 3, 2);
+}
+
+function texturaMetal(){
+  const cv = document.createElement("canvas"); cv.width = cv.height = 128;
+  const ctx = cv.getContext("2d");
+  ctx.fillStyle = "#7C868C"; ctx.fillRect(0,0,128,128);
+  for(let x=0;x<128;x+=8){
+    const grad = ctx.createLinearGradient(x,0,x+8,0);
+    grad.addColorStop(0,"rgba(255,255,255,.2)");
+    grad.addColorStop(.5,"rgba(0,0,0,.14)");
+    grad.addColorStop(1,"rgba(255,255,255,.05)");
+    ctx.fillStyle = grad; ctx.fillRect(x,0,8,128);
+  }
+  for(let i=0;i<45;i++){
+    ctx.fillStyle = `rgba(120,70,40,${Math.random()*.16})`;
+    ctx.beginPath(); ctx.arc(Math.random()*128,Math.random()*128,2+Math.random()*5,0,Math.PI*2); ctx.fill();
+  }
+  return _tex(cv, 4, 2);
+}
+
+function texturaMadeira(cor){
+  const cv = document.createElement("canvas"); cv.width = cv.height = 128;
+  const ctx = cv.getContext("2d");
+  ctx.fillStyle = cor; ctx.fillRect(0,0,128,128);
+  for(let x=0;x<128;x+=21){
+    ctx.strokeStyle = "rgba(0,0,0,.35)"; ctx.lineWidth=2;
+    ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,128); ctx.stroke();
+  }
+  for(let i=0;i<220;i++){
+    ctx.strokeStyle = `rgba(0,0,0,${Math.random()*.08})`;
+    const y=Math.random()*128;
+    ctx.beginPath(); ctx.moveTo(Math.random()*128,y); ctx.lineTo(Math.random()*128,y); ctx.stroke();
+  }
+  return _tex(cv, 1, 1);
+}
+
+function texturaTelha(cor){
+  const cv = document.createElement("canvas"); cv.width = cv.height = 128;
+  const ctx = cv.getContext("2d");
+  ctx.fillStyle = cor; ctx.fillRect(0,0,128,128);
+  ctx.fillStyle = "rgba(0,0,0,.2)";
+  for(let y=0;y<128;y+=16) for(let x=0;x<128;x+=20){
+    const off = (y/16)%2===0 ? 0 : 10;
+    ctx.beginPath(); ctx.arc(x+off,y+8,9,0,Math.PI,true); ctx.fill();
+  }
+  return _tex(cv, 2, 2);
+}
+
+function texturaListrado(corA, corB){
+  const cv = document.createElement("canvas"); cv.width = cv.height = 128;
+  const ctx = cv.getContext("2d");
+  for(let x=0;x<128;x+=16){ ctx.fillStyle=(x/16)%2===0?corA:corB; ctx.fillRect(x,0,16,128); }
+  return _tex(cv, 3, 1);
+}
+
+
+// altura, em unidades da cena, que todo personagem é escalado pra ter —
+// carrega vindo em metros de verdade (~1.5-1.7), aqui vira do tamanho dos prédios
+const ALTURA_PERSONAGEM = 3.0;
+const OSSOS_USADOS = ["hips","spine","leftUpperLeg","rightUpperLeg","leftLowerLeg","rightLowerLeg",
+                      "leftUpperArm","rightUpperArm","leftLowerArm","rightLowerArm"];
+
 let cena, camera, render3d, relogio3d;
-let ticks=[], locais={}, corDe={}, inicioDe={}, bonecos={}, baloes={};
+let ticks=[], locais={}, corDe={}, inicioDe={}, personagens={}, baloes={};
 let atual=0, tocando=false, timer=null, assinatura="";
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -99,11 +215,14 @@ function montarCena(){
   render3d.setSize(innerWidth, innerHeight);
   render3d.shadowMap.enabled = true;
   render3d.shadowMap.type = THREE.PCFSoftShadowMap;
+  render3d.outputColorSpace = THREE.SRGBColorSpace;
+  render3d.toneMapping = THREE.ACESFilmicToneMapping;
+  render3d.toneMappingExposure = 1.15;
   $("cena").appendChild(render3d.domElement);
   relogio3d = new THREE.Clock();
 
-  cena.add(new THREE.HemisphereLight(0xBFD4C8, 0x24302B, 0.75));
-  const sol = new THREE.DirectionalLight(0xFFF3DC, 1.05);
+  cena.add(new THREE.HemisphereLight(0xCFE0D6, 0x33403A, 2.4));
+  const sol = new THREE.DirectionalLight(0xFFF3DC, 3.1);
   sol.position.set(26, 38, 16); sol.castShadow = true;
   sol.shadow.mapSize.set(2048,2048);
   const c = sol.shadow.camera;
@@ -113,7 +232,7 @@ function montarCena(){
   // terreno
   const chao = new THREE.Mesh(
     new THREE.PlaneGeometry(420,420),
-    new THREE.MeshLambertMaterial({color:0x3C5140}));
+    new THREE.MeshLambertMaterial({map:texturaGrama()}));
   chao.rotation.x = -Math.PI/2; chao.receiveShadow = true;
   cena.add(chao);
 
@@ -137,7 +256,7 @@ function montarCena(){
 function montarPraca(){
   const [x,z] = PONTOS["praça central"];
   const piso = new THREE.Mesh(new THREE.CylinderGeometry(11,11,.25,10),
-    new THREE.MeshLambertMaterial({color:0x7B7566}));
+    new THREE.MeshLambertMaterial({map:texturaPedra()}));
   piso.position.set(x,.12,z); piso.receiveShadow = true; cena.add(piso);
 
   const base = new THREE.Mesh(new THREE.CylinderGeometry(2.6,3,.9,8),
@@ -167,39 +286,218 @@ function montarPraca(){
   }
 }
 
-function montarPredio(nome, cor){
-  const [x,z] = ponto(nome);
-  if(nome.includes("praça") || nome.includes("praca")) return;
+function tipoDoLocal(nome){
+  const n = nome.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+  if(n.includes("ofic")) return "oficina";
+  if(n.includes("bibliot")) return "biblioteca";
+  if(n.includes("merc")) return "mercado";
+  return "generico";
+}
 
-  const g = new THREE.Group();
-  const larg = 9, prof = 8, alt = 5.4;
-  const corpo = new THREE.Mesh(new THREE.BoxGeometry(larg,alt,prof),
-    new THREE.MeshLambertMaterial({color:0xD8D2C2}));
-  corpo.position.y = alt/2; corpo.castShadow = corpo.receiveShadow = true; g.add(corpo);
+function adicionarPlaca(nome, x, z, altura){
+  const placa = new THREE.Mesh(new THREE.PlaneGeometry(5.2, 1.3), letreiro(nome));
+  placa.position.set(x, altura, z);
+  placa.userData.placa = true;
+  cena.add(placa);
+}
 
-  const telhado = new THREE.Mesh(new THREE.ConeGeometry(larg*.82, 2.9, 4),
-    new THREE.MeshLambertMaterial({color:cor}));
-  telhado.position.y = alt + 1.45; telhado.rotation.y = Math.PI/4;
-  telhado.castShadow = true; g.add(telhado);
-
-  const matVidro = new THREE.MeshLambertMaterial({color:0x2E4A50});
-  for(const dx of [-2.6, 2.6]){
-    const jan = new THREE.Mesh(new THREE.BoxGeometry(1.9,1.9,.12), matVidro);
-    jan.position.set(dx, 3.3, prof/2+.01); g.add(jan);
-  }
-  const porta = new THREE.Mesh(new THREE.BoxGeometry(1.9,3,.14),
-    new THREE.MeshLambertMaterial({color:0x5A4632}));
-  porta.position.set(0, 1.5, prof/2+.01); g.add(porta);
-
+function virarPraPraca(g, x, z){
   g.position.set(x, 0, z);
   g.lookAt(PONTOS["praça central"][0], 0, PONTOS["praça central"][1]);
   cena.add(g);
+}
 
-  // placa com o nome, virada pra praça
-  const placa = new THREE.Mesh(new THREE.PlaneGeometry(5.2, 1.3), letreiro(nome));
-  placa.position.set(x, 10.4, z);
-  placa.userData.placa = true;
-  cena.add(placa);
+function montarPredio(nome, corPadrao){
+  const [x,z] = ponto(nome);
+  if(nome.includes("praça") || nome.includes("praca")) return;
+  switch(tipoDoLocal(nome)){
+    case "oficina":    return construirOficina(nome, x, z);
+    case "biblioteca": return construirBiblioteca(nome, x, z);
+    case "mercado":    return construirMercado(nome, x, z);
+    default:           return construirCasaGenerica(nome, x, z, corPadrao);
+  }
+}
+
+/* ---------- oficina: galpão de metal, vão aberto, ferramentas ---------- */
+function construirOficina(nome, x, z){
+  const g = new THREE.Group();
+  const larg = 10, prof = 8, alt = 4.6;
+
+  const matParede = new THREE.MeshLambertMaterial({map:texturaMetal()});
+  const corpo = new THREE.Mesh(new THREE.BoxGeometry(larg,alt,prof), matParede);
+  corpo.position.y = alt/2; corpo.castShadow = corpo.receiveShadow = true; g.add(corpo);
+
+  const telhado = new THREE.Mesh(new THREE.BoxGeometry(larg+.6,.35,prof+.6),
+    new THREE.MeshLambertMaterial({color:0x46423C}));
+  telhado.position.y = alt+.18; telhado.castShadow = true; g.add(telhado);
+
+  // vão aberto da garagem, com moldura
+  const moldura = new THREE.Mesh(new THREE.BoxGeometry(5.6,3.8,.2),
+    new THREE.MeshLambertMaterial({color:0x2E2A24}));
+  moldura.position.set(-1.4, 1.9, prof/2+.02); g.add(moldura);
+  const vao = new THREE.Mesh(new THREE.BoxGeometry(5.1,3.3,.1),
+    new THREE.MeshLambertMaterial({color:0x100D0A}));
+  vao.position.set(-1.4, 1.75, prof/2+.13); g.add(vao);
+
+  const jan = new THREE.Mesh(new THREE.BoxGeometry(1.3,1.3,.1),
+    new THREE.MeshLambertMaterial({color:0x2E4A50}));
+  jan.position.set(3.6, 2.9, prof/2+.02); g.add(jan);
+
+  // pilha de pneus
+  const matPneu = new THREE.MeshLambertMaterial({color:0x1B1B1B});
+  for(let i=0;i<3;i++){
+    const pneu = new THREE.Mesh(new THREE.TorusGeometry(.55,.22,8,14), matPneu);
+    pneu.rotation.x = Math.PI/2; pneu.position.set(4.7,.32+i*.42,prof/2+1.7);
+    pneu.castShadow = true; g.add(pneu);
+  }
+
+  // bancada com ferramentas
+  const bancada = new THREE.Mesh(new THREE.BoxGeometry(2.1,.9,.8),
+    new THREE.MeshLambertMaterial({map:texturaMadeira("#5B4632")}));
+  bancada.position.set(-4.6,.45,prof/2+1.5); bancada.castShadow = true; g.add(bancada);
+
+  const matFerramenta = new THREE.MeshLambertMaterial({color:0xB0B4B8});
+  const chave = new THREE.Mesh(new THREE.BoxGeometry(.55,.08,.12), matFerramenta);
+  chave.position.set(-5.1,.95,prof/2+1.3); chave.rotation.z = .4; g.add(chave);
+
+  const martelo = new THREE.Group();
+  const cabo = new THREE.Mesh(new THREE.CylinderGeometry(.04,.04,.5,6),
+    new THREE.MeshLambertMaterial({color:0x6B4A30}));
+  const cabeca = new THREE.Mesh(new THREE.BoxGeometry(.28,.14,.14), matFerramenta);
+  cabeca.position.y = .27; martelo.add(cabo, cabeca);
+  martelo.position.set(-4.3,.95,prof/2+1.6); martelo.rotation.z = -.3; g.add(martelo);
+
+  const barril = new THREE.Mesh(new THREE.CylinderGeometry(.42,.42,1.0,10),
+    new THREE.MeshLambertMaterial({color:0x8C3B24}));
+  barril.position.set(4.6,.5,prof/2-1.3); barril.castShadow = true; g.add(barril);
+
+  virarPraPraca(g, x, z);
+  adicionarPlaca(nome, x, z, alt+2.1);
+}
+
+/* ---------- biblioteca: prédio cívico, colunas, janelas em arco ---------- */
+function construirBiblioteca(nome, x, z){
+  const g = new THREE.Group();
+  const larg = 8, prof = 8.5, alt = 6.2;
+
+  const matParede = new THREE.MeshLambertMaterial({map:texturaParede("#E6DDC8")});
+  const corpo = new THREE.Mesh(new THREE.BoxGeometry(larg,alt,prof), matParede);
+  corpo.position.y = alt/2; corpo.castShadow = corpo.receiveShadow = true; g.add(corpo);
+
+  const telhado = new THREE.Mesh(new THREE.ConeGeometry(larg*.78,3.4,4),
+    new THREE.MeshLambertMaterial({map:texturaTelha("#5C6B4A")}));
+  telhado.position.y = alt+1.7; telhado.rotation.y = Math.PI/4; telhado.castShadow = true; g.add(telhado);
+
+  const matColuna = new THREE.MeshLambertMaterial({color:0xEDE6D6});
+  for(const dx of [-1.6,1.6]){
+    const col = new THREE.Mesh(new THREE.CylinderGeometry(.26,.3,4.2,10), matColuna);
+    col.position.set(dx,2.1,prof/2+.28); col.castShadow = true; g.add(col);
+  }
+
+  const matPorta = new THREE.MeshLambertMaterial({map:texturaMadeira("#4A3524")});
+  const porta = new THREE.Mesh(new THREE.BoxGeometry(1.7,3,.16), matPorta);
+  porta.position.set(0,1.5,prof/2+.05); g.add(porta);
+  const arco = new THREE.Mesh(new THREE.CircleGeometry(.85,16,0,Math.PI), matPorta);
+  arco.rotation.y = Math.PI; arco.position.set(0,3.0,prof/2+.05); g.add(arco);
+
+  const matVidro = new THREE.MeshLambertMaterial({color:0x3C5A5E});
+  for(const dx of [-2.9,2.9]){
+    const jan = new THREE.Mesh(new THREE.BoxGeometry(1.3,2.0,.1), matVidro);
+    jan.position.set(dx,3.1,prof/2+.02); g.add(jan);
+    const topo = new THREE.Mesh(new THREE.CircleGeometry(.65,12,0,Math.PI), matVidro);
+    topo.rotation.y = Math.PI; topo.position.set(dx,4.1,prof/2+.02); g.add(topo);
+  }
+
+  const poste = new THREE.Group();
+  const haste = new THREE.Mesh(new THREE.CylinderGeometry(.05,.07,2.4,8),
+    new THREE.MeshLambertMaterial({color:0x2B241E}));
+  haste.position.y = 1.2;
+  const lanterna = new THREE.Mesh(new THREE.BoxGeometry(.3,.36,.3),
+    new THREE.MeshLambertMaterial({color:0xF3D9A0, emissive:0xF3D9A0, emissiveIntensity:.55}));
+  lanterna.position.y = 2.5;
+  poste.add(haste, lanterna);
+  poste.position.set(-4.6,0,prof/2+2.4); g.add(poste);
+
+  const banco = new THREE.Group();
+  const assento = new THREE.Mesh(new THREE.BoxGeometry(1.6,.14,.5),
+    new THREE.MeshLambertMaterial({map:texturaMadeira("#6B4A30")}));
+  assento.position.y = .5; banco.add(assento);
+  for(const dx of [-.65,.65]){
+    const perna = new THREE.Mesh(new THREE.BoxGeometry(.12,.5,.45),
+      new THREE.MeshLambertMaterial({color:0x2B241E}));
+    perna.position.set(dx,.25,0); banco.add(perna);
+  }
+  banco.position.set(3.2,0,prof/2+2.2); banco.castShadow = true; g.add(banco);
+
+  virarPraPraca(g, x, z);
+  adicionarPlaca(nome, x, z, alt+2.3);
+}
+
+/* ---------- mercado: banca aberta com toldo, caixotes de fruta ---------- */
+function construirMercado(nome, x, z){
+  const g = new THREE.Group();
+  const matMadeira = new THREE.MeshLambertMaterial({map:texturaMadeira("#7A5636")});
+
+  const balcao = new THREE.Mesh(new THREE.BoxGeometry(6.4,1.1,1.3), matMadeira);
+  balcao.position.set(0,.55,1.2); balcao.castShadow = balcao.receiveShadow = true; g.add(balcao);
+
+  const matPoste = new THREE.MeshLambertMaterial({color:0x5C4630});
+  const alturaPoste = 3.2;
+  for(const [px,pz] of [[-3.1,-1.4],[3.1,-1.4],[-3.1,2.6],[3.1,2.6]]){
+    const poste = new THREE.Mesh(new THREE.CylinderGeometry(.09,.09,alturaPoste,8), matPoste);
+    poste.position.set(px,alturaPoste/2,pz); poste.castShadow = true; g.add(poste);
+  }
+
+  const matToldo = new THREE.MeshLambertMaterial({map:texturaListrado("#B5463C","#EFE7D8"), side:THREE.DoubleSide});
+  const toldo = new THREE.Mesh(new THREE.BoxGeometry(7.2,.12,4.6), matToldo);
+  toldo.position.set(0,alturaPoste,.6); toldo.rotation.x = -.12; toldo.castShadow = true; g.add(toldo);
+
+  const coresFruta = [0xC23B22,0xE0942C,0xD1C23B,0x7CA23B];
+  for(let i=0;i<5;i++){
+    const caixote = new THREE.Mesh(new THREE.BoxGeometry(.9,.5,.7), matMadeira);
+    caixote.position.set(-2.6+i*1.3,1.35,1.2); caixote.castShadow = true; g.add(caixote);
+    for(let j=0;j<4;j++){
+      const fruta = new THREE.Mesh(new THREE.SphereGeometry(.16,8,6),
+        new THREE.MeshLambertMaterial({color:coresFruta[(i+j)%coresFruta.length]}));
+      fruta.position.set(-2.6+i*1.3+(Math.random()-.5)*.5, 1.66, 1.2+(Math.random()-.5)*.4);
+      fruta.castShadow = true; g.add(fruta);
+    }
+  }
+  for(const dx of [-3.6,3.6]){
+    const cesta = new THREE.Mesh(new THREE.CylinderGeometry(.4,.32,.5,10),
+      new THREE.MeshLambertMaterial({map:texturaMadeira("#8A6A42")}));
+    cesta.position.set(dx,.25,2.2); cesta.castShadow = true; g.add(cesta);
+  }
+
+  virarPraPraca(g, x, z);
+  adicionarPlaca(nome, x, z, alturaPoste+1.6);
+}
+
+/* ---------- casa genérica: usada só se world.json ganhar um lugar novo ---------- */
+function construirCasaGenerica(nome, x, z, cor){
+  const g = new THREE.Group();
+  const larg = 9, prof = 8, alt = 5.4;
+
+  const matParede = new THREE.MeshLambertMaterial({map:texturaParede("#D8D2C2")});
+  const corpo = new THREE.Mesh(new THREE.BoxGeometry(larg,alt,prof), matParede);
+  corpo.position.y = alt/2; corpo.castShadow = corpo.receiveShadow = true; g.add(corpo);
+
+  const corHex = "#" + cor.toString(16).padStart(6,"0");
+  const telhado = new THREE.Mesh(new THREE.ConeGeometry(larg*.82,2.9,4),
+    new THREE.MeshLambertMaterial({map:texturaTelha(corHex)}));
+  telhado.position.y = alt+1.45; telhado.rotation.y = Math.PI/4; telhado.castShadow = true; g.add(telhado);
+
+  const matVidro = new THREE.MeshLambertMaterial({color:0x2E4A50});
+  for(const dx of [-2.6,2.6]){
+    const jan = new THREE.Mesh(new THREE.BoxGeometry(1.9,1.9,.12), matVidro);
+    jan.position.set(dx,3.3,prof/2+.01); g.add(jan);
+  }
+  const porta = new THREE.Mesh(new THREE.BoxGeometry(1.9,3,.14),
+    new THREE.MeshLambertMaterial({map:texturaMadeira("#5A4632")}));
+  porta.position.set(0,1.5,prof/2+.01); g.add(porta);
+
+  virarPraPraca(g, x, z);
+  adicionarPlaca(nome, x, z, alt+2.1);
 }
 
 function letreiro(texto){
@@ -215,89 +513,113 @@ function letreiro(texto){
   return new THREE.MeshBasicMaterial({map:t, transparent:true});
 }
 
-function corCabelo(nome){
-  const paleta = [0x2B1B12, 0x4A2E1E, 0x1B1B1B, 0x6B4423, 0x8A8580, 0x3E2723];
-  let h = 0; for(const c of nome) h = (h*31 + c.charCodeAt(0)) >>> 0;
-  return paleta[h % paleta.length];
+/* ---------- personagens (avatares VRM) ---------- */
+
+// enquanto o modelo de verdade não carrega (ou se falhar), um marcador simples
+// no lugar certo — assim a vila nunca trava esperando um avatar problemático
+function montarPlaceholder(cor){
+  const raiz = new THREE.Group();
+  const corpo = new THREE.Mesh(
+    new THREE.CylinderGeometry(.32,.4,ALTURA_PERSONAGEM*.55,8),
+    new THREE.MeshLambertMaterial({color:cor}));
+  corpo.position.y = ALTURA_PERSONAGEM*.55/2 + ALTURA_PERSONAGEM*.3; corpo.castShadow = true;
+  const cabeca = new THREE.Mesh(new THREE.SphereGeometry(.28,10,8),
+    new THREE.MeshLambertMaterial({color:0xC98F5E}));
+  cabeca.position.y = ALTURA_PERSONAGEM*.85 + .28; cabeca.castShadow = true;
+  raiz.add(corpo, cabeca);
+  cena.add(raiz);
+  return {raiz, ossos:{}, semOssos:true};
 }
 
-const ALT_QUADRIL = 1.7, ALT_OMBRO = 2.85, ALT_TORSO_TOPO = 3.0;
+async function carregarPersonagem(nome, cor){
+  const loader = new GLTFLoader();
+  loader.register(parser => new VRMLoaderPlugin(parser));
 
-function montarBoneco(nome, cor){
-  // estilo "PS2 anos 2000": geometria angular, poucas facetas, sem
-  // suavização — silhueta em blocos em vez de formas arredondadas.
-  const g = new THREE.Group();
-  const matRoupa   = new THREE.MeshLambertMaterial({color:cor, flatShading:true});
-  const matCalca   = new THREE.MeshLambertMaterial({color:0x2E3540, flatShading:true});
-  const matPele    = new THREE.MeshLambertMaterial({color:0xC98F5E, flatShading:true});
-  const matCabelo  = new THREE.MeshLambertMaterial({color:corCabelo(nome), flatShading:true});
-  const matOlho    = new THREE.MeshLambertMaterial({color:0x161616});
-  const matSapato  = new THREE.MeshLambertMaterial({color:0xE7E2D6, flatShading:true});
-  const matSola    = new THREE.MeshLambertMaterial({color:0x201C18});
-
-  // pernas: caixas retas (calça larga), pivô no quadril
-  const pernaE = new THREE.Group(); pernaE.position.set(-.27, ALT_QUADRIL, 0);
-  const pernaD = new THREE.Group(); pernaD.position.set(.27, ALT_QUADRIL, 0);
-  for(const p of [pernaE, pernaD]){
-    const perna = new THREE.Mesh(new THREE.BoxGeometry(.4, ALT_QUADRIL-.16, .38), matCalca);
-    perna.position.y = -(ALT_QUADRIL-.16)/2; perna.castShadow = true;
-    const tenis = new THREE.Mesh(new THREE.BoxGeometry(.42,.2,.58), matSapato);
-    tenis.position.set(0, -ALT_QUADRIL+.1, .08); tenis.castShadow = true;
-    const sola = new THREE.Mesh(new THREE.BoxGeometry(.43,.07,.6), matSola);
-    sola.position.set(0, -ALT_QUADRIL+.035, .08);
-    p.add(perna, tenis, sola);
-    g.add(p);
+  let vrm;
+  try{
+    const gltf = await loader.loadAsync(`modelos/${nome}.vrm`);
+    vrm = gltf.userData.vrm;
+  }catch(erro){
+    console.warn(`Não consegui carregar o modelo de ${nome}:`, erro);
+    return montarPlaceholder(cor);
   }
 
-  // torso: caixa única, sem chanfro — camiseta larga estilo folgado
-  const torso = new THREE.Mesh(
-    new THREE.BoxGeometry(1.18, ALT_TORSO_TOPO-ALT_QUADRIL, .66), matRoupa);
-  torso.position.y = (ALT_QUADRIL+ALT_TORSO_TOPO)/2; torso.castShadow = true;
-  g.add(torso);
+  VRMUtils.rotateVRM0(vrm);           // modelos VRM0 nascem de costas; corrige a frente
+  vrm.scene.traverse(o => {
+    if(o.isMesh || o.isSkinnedMesh){
+      o.castShadow = true; o.receiveShadow = true;
+      // malha com pele muda de forma a cada quadro; a esfera delimitadora
+      // calculada na pose de repouso faz o motor descartar partes do corpo
+      o.frustumCulled = false;
+    }
+  });
 
-  // braços: manga curta (cor da camiseta) + antebraço de pele à mostra
-  const bracoE = new THREE.Group(); bracoE.position.set(-.72, ALT_OMBRO, 0);
-  const bracoD = new THREE.Group(); bracoD.position.set(.72, ALT_OMBRO, 0);
-  const compBraco = 1.05, manga = .38;
-  for(const b of [bracoE, bracoD]){
-    const mangaMesh = new THREE.Mesh(new THREE.BoxGeometry(.34,manga,.34), matRoupa);
-    mangaMesh.position.y = -manga/2; mangaMesh.castShadow = true;
-    const antebraco = new THREE.Mesh(new THREE.BoxGeometry(.27,compBraco-manga,.27), matPele);
-    antebraco.position.y = -manga - (compBraco-manga)/2; antebraco.castShadow = true;
-    const mao = new THREE.Mesh(new THREE.BoxGeometry(.28,.28,.24), matPele);
-    mao.position.y = -compBraco; mao.castShadow = true;
-    b.add(mangaMesh, antebraco, mao);
-    g.add(b);
+  // normaliza pra todo mundo ficar do mesmo tamanho na cena, não importa
+  // a altura "real" de cada modelo em metros
+  const caixa = new THREE.Box3().setFromObject(vrm.scene);
+  const alturaNatural = (caixa.max.y - caixa.min.y) || 1.6;
+  const escala = ALTURA_PERSONAGEM / alturaNatural;
+
+  const raiz = new THREE.Group();
+  raiz.add(vrm.scene);
+  raiz.scale.setScalar(escala);
+  cena.add(raiz);
+
+  // a origem do modelo fica no QUADRIL, não nos pés: sem corrigir,
+  // metade do corpo fica enterrada no chão. Levanta até o pé mais baixo
+  // encostar em y=0.
+  // sincroniza o esqueleto uma vez: só depois disso os ossos ficam onde
+  // serão de fato desenhados (antes, medir dá valores errados)
+  vrm.update(0);
+  raiz.updateWorldMatrix(true, true);
+  const humano = vrm.humanoid;
+  const pontaPes = ["leftToes","rightToes","leftFoot","rightFoot"]
+    .map(n => humano?.getRawBoneNode?.(n) || humano?.getNormalizedBoneNode?.(n))
+    .filter(Boolean);
+  if(pontaPes.length){
+    const v = new THREE.Vector3();
+    let maisBaixo = Infinity;
+    for(const osso of pontaPes){ osso.getWorldPosition(v); maisBaixo = Math.min(maisBaixo, v.y); }
+    const afundado = maisBaixo - raiz.position.y;      // negativo = abaixo do chão
+    vrm.scene.position.y -= afundado / escala;          // scene vive dentro do raiz escalado
+    raiz.updateWorldMatrix(true, true);
   }
 
-  // pescoço, cabeça angular, cabelo em bloco e olhos
-  const pescoco = new THREE.Mesh(new THREE.BoxGeometry(.3,.2,.28), matPele);
-  pescoco.position.y = ALT_TORSO_TOPO + .1; g.add(pescoco);
+  const ossos = {};
+  for(const n of OSSOS_USADOS) ossos[n] = vrm.humanoid?.getNormalizedBoneNode(n) || null;
 
-  const cabeca = new THREE.Mesh(new THREE.SphereGeometry(.42,8,6), matPele);
-  cabeca.position.y = ALT_TORSO_TOPO + .2 + .42; cabeca.castShadow = true;
-  g.add(cabeca);
+  // modelos VRM chegam em pose de T (braços na horizontal). Baixa os braços
+  // pra uma pose natural — sem isso todo mundo anda pela vila de braços abertos.
+  if(ossos.leftUpperArm)  ossos.leftUpperArm.rotation.z  =  1.20;
+  if(ossos.rightUpperArm) ossos.rightUpperArm.rotation.z = -1.20;
+  if(ossos.leftLowerArm)  ossos.leftLowerArm.rotation.z  =  0.22;
+  if(ossos.rightLowerArm) ossos.rightLowerArm.rotation.z = -0.22;
 
-  const cabelo = new THREE.Mesh(new THREE.BoxGeometry(.86,.3,.84), matCabelo);
-  cabelo.position.set(0, cabeca.position.y + .28, -.03);
-  cabelo.castShadow = true; g.add(cabelo);
-
-  for(const lado of [-1,1]){
-    const olho = new THREE.Mesh(new THREE.BoxGeometry(.09,.06,.03), matOlho);
-    olho.position.set(lado*.15, cabeca.position.y + .01, .39);
-    g.add(olho);
-  }
-
-  g.userData = {
-    alvo:new THREE.Vector3(), andando:false, fase:Math.random()*6,
-    pernaE, pernaD, bracoE, bracoD, torso, alturaTorso:(ALT_QUADRIL+ALT_TORSO_TOPO)/2,
+  return {
+    vrm, raiz, ossos, semOssos:false,
+    // a posição do quadril É a altura dele: precisa ser guardada e só
+    // oscilada em torno disso, senão o corpo inteiro afunda no chão
+    quadrilY: ossos.hips ? ossos.hips.position.y : 0,
+    alvo: new THREE.Vector3(), andando:false, fase: Math.random()*6,
+    piscar: {t: 1+Math.random()*3, piscando:false, fase:0},
   };
-  cena.add(g);
-  return g;
+}
+
+function atualizarBlink(p, dt){
+  if(!p.vrm?.expressionManager) return;
+  const b = p.piscar;
+  b.t -= dt;
+  if(b.t <= 0 && !b.piscando){ b.piscando = true; b.fase = 0; b.t = 2.5 + Math.random()*3.5; }
+  if(b.piscando){
+    b.fase += dt/.12;
+    const v = b.fase < 1 ? Math.sin(Math.min(b.fase,1)*Math.PI) : 0;
+    p.vrm.expressionManager.setValue("blink", v);
+    if(b.fase >= 1) b.piscando = false;
+  }
 }
 
 /* ---------- câmera controlável ---------- */
-const cam = {alvo:new THREE.Vector3(0,3,3), raio:68, giro:-Math.PI/2, incl:.62};
+const cam = {alvo:new THREE.Vector3(0,2.5,3), raio:44, giro:-Math.PI/2, incl:.42};
 function posicionarCamera(){
   camera.position.set(
     cam.alvo.x + cam.raio*Math.cos(cam.incl)*Math.cos(cam.giro),
@@ -326,29 +648,43 @@ function animar(){
   requestAnimationFrame(animar);
   const dt = Math.min(relogio3d.getDelta(), .1);
 
-  for(const [nome,b] of Object.entries(bonecos)){
-    const d = b.userData;
-    const dist = b.position.distanceTo(d.alvo);
+  for(const [nome,p] of Object.entries(personagens)){
+    if(!p.raiz) continue;
+    const o = p.ossos || {};
+    const dist = p.raiz.position.distanceTo(p.alvo);
+
     if(dist > .4){
-      d.andando = true;
+      p.andando = true;
       const passo = Math.min(dist, 7.5*dt);
-      const dir = d.alvo.clone().sub(b.position).normalize();
-      b.position.addScaledVector(dir, passo);
-      b.rotation.y = Math.atan2(dir.x, dir.z);
-      d.fase += dt*8.5;
-      const balanco = Math.sin(d.fase);
-      d.pernaE.rotation.x = balanco*.6;
-      d.pernaD.rotation.x = -balanco*.6;
-      d.bracoE.rotation.x = -balanco*.5;
-      d.bracoD.rotation.x = balanco*.5;
-      d.torso.position.y = d.alturaTorso + Math.abs(balanco)*.04;
+      const dir = p.alvo.clone().sub(p.raiz.position).normalize();
+      p.raiz.position.addScaledVector(dir, passo);
+      p.raiz.rotation.y = Math.atan2(dir.x, dir.z);
+
+      if(!p.semOssos){
+        p.fase += dt*8.5;
+        const s = Math.sin(p.fase);
+        if(o.leftUpperLeg)  o.leftUpperLeg.rotation.x  =  s*.5;
+        if(o.rightUpperLeg) o.rightUpperLeg.rotation.x = -s*.5;
+        if(o.leftLowerLeg)  o.leftLowerLeg.rotation.x  = Math.max(0, -s)*.75;
+        if(o.rightLowerLeg) o.rightLowerLeg.rotation.x = Math.max(0,  s)*.75;
+        if(o.leftUpperArm)  o.leftUpperArm.rotation.x  = -s*.4;
+        if(o.rightUpperArm) o.rightUpperArm.rotation.x =  s*.4;
+        if(o.hips) o.hips.position.y = p.quadrilY + Math.abs(s)*.03;
+      }
     } else {
-      d.andando = false;
-      // volta suavemente pra pose neutra, sem travar de repente
-      const k = Math.min(1, dt*8);
-      d.pernaE.rotation.x *= 1-k; d.pernaD.rotation.x *= 1-k;
-      d.bracoE.rotation.x *= 1-k; d.bracoD.rotation.x *= 1-k;
-      d.torso.position.y += (d.alturaTorso - d.torso.position.y)*k;
+      p.andando = false;
+      if(!p.semOssos){
+        const k = Math.min(1, dt*8);
+        for(const chave of ["leftUpperLeg","rightUpperLeg","leftLowerLeg","rightLowerLeg","leftUpperArm","rightUpperArm"]){
+          if(o[chave]) o[chave].rotation.x *= 1-k;
+        }
+        if(o.hips) o.hips.position.y += (p.quadrilY - o.hips.position.y)*k;
+      }
+    }
+
+    if(!p.semOssos){
+      atualizarBlink(p, dt);
+      p.vrm?.update(dt);
     }
   }
 
@@ -362,9 +698,9 @@ function posicionarBaloes(){
   // 1) projeta cada balão pra tela
   const ativos = [];
   for(const [nome,el] of Object.entries(baloes)){
-    const b = bonecos[nome];
-    if(!b || !el.classList.contains("on")) continue;
-    const p = b.position.clone(); p.y += 4.5;
+    const pz = personagens[nome];
+    if(!pz?.raiz || !el.classList.contains("on")) continue;
+    const p = pz.raiz.position.clone(); p.y += ALTURA_PERSONAGEM + .3;
     p.project(camera);
     if(p.z > 1){ el.style.visibility = "hidden"; continue; }
     el.style.visibility = "";
@@ -443,20 +779,28 @@ async function puxar(){
   const primeiraVez = !Object.keys(locais).length;
   locais = d.mundo?.locations || {};
 
-  (d.moradores||[]).forEach((p,i)=>{
+  for(const [i,p] of (d.moradores||[]).entries()){
     corDe[p.name] = CORES[i%CORES.length];
     inicioDe[p.name] = p.starting_location;
-    if(!bonecos[p.name]){
-      bonecos[p.name] = montarBoneco(p.name, corDe[p.name]);
+    if(personagens[p.name] || personagens[p.name] === "carregando") continue;
+
+    personagens[p.name] = "carregando"; // trava a vaga até o modelo (~15MB) chegar
+    const el = document.createElement("div");
+    el.className = "balao";
+    document.body.appendChild(el);
+    baloes[p.name] = el;
+
+    carregarPersonagem(p.name, corDe[p.name]).then(pz => {
       const [x,z] = ponto(p.starting_location);
-      bonecos[p.name].position.set(x + (i-1)*2.2, 0, z + 5.5);
-      bonecos[p.name].userData.alvo.copy(bonecos[p.name].position);
-      const el = document.createElement("div");
-      el.className = "balao";
-      document.body.appendChild(el);
-      baloes[p.name] = el;
-    }
-  });
+      pz.raiz.position.set(x + (i-1)*2.2, 0, z + 5.5);
+      pz.alvo = pz.alvo || new THREE.Vector3();
+      pz.alvo.copy(pz.raiz.position);
+      personagens[p.name] = pz;
+      // o modelo leva segundos pra carregar e o aplicar() já rodou sem ele:
+      // reposiciona agora, senão ele fica parado no ponto de origem
+      aplicar();
+    });
+  }
 
   if(primeiraVez){
     for(const nome of Object.keys(locais)) montarPredio(nome, 0x8C5A3C);
@@ -495,14 +839,15 @@ function aplicar(){
     const [x,z] = ponto(lugar);
     const praca = lugar.includes("pra");
     gente.forEach((quem,i)=>{
-      const b = bonecos[quem]; if(!b) return;
+      const pz = personagens[quem];
+      if(!pz || pz === "carregando" || !pz.alvo) return;
       if(praca){
         // em roda ao redor do chafariz
         const ang = -Math.PI/2 + (i - (gente.length-1)/2) * .55;
-        b.userData.alvo.set(x + Math.cos(ang)*7, 0, z + Math.sin(ang)*7);
+        pz.alvo.set(x + Math.cos(ang)*7, 0, z + Math.sin(ang)*7);
       } else {
         const desvio = (i - (gente.length-1)/2) * 2.8;
-        b.userData.alvo.set(x + desvio, 0, z + 7.5);
+        pz.alvo.set(x + desvio, 0, z + 7.5);
       }
     });
   }
@@ -546,6 +891,9 @@ $("linha").oninput = e => { tocar(false); atual = +e.target.value; aplicar(); };
 montarCena();
 puxar();
 setInterval(puxar, 3000);
+
+// escopo de módulo é fechado: expõe o essencial pra depuração
+window.vila = { get personagens(){return personagens;}, get ticks(){return ticks;}, cam };
 </script>
 </body>
 </html>

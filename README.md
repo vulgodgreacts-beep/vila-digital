@@ -105,8 +105,15 @@ Os moradores caminham pelo terreno entre a oficina, a biblioteca, o mercado e a
 praça, com a fala de cada um num balão sobre a cabeça. Arraste para girar a
 câmera e use a roda do mouse para aproximar.
 
-O Three.js vai junto no projeto (`viewer/three.min.js`), então a cena funciona
-sem internet. Precisa de um navegador com WebGL, que é qualquer um atual.
+Os moradores são avatares humanoides de verdade (formato VRM), com esqueleto,
+roupa e cabelo modelados — caminham movendo pernas e braços, e piscam os olhos.
+Os modelos são CC0 do VRoid Project; a procedência está em
+`viewer/modelos/CREDITOS.md`.
+
+Tudo vai junto no projeto (three.js, three-vrm e os `.vrm` em `viewer/`), então
+a cena funciona sem internet. Precisa de um navegador com WebGL, que é qualquer
+um atual. Os modelos somam ~52 MB, então a primeira abertura leva alguns
+segundos — até lá a vila aparece sem os moradores.
 
 Os dois painéis leem exatamente os mesmos dados — dá pra deixar as duas abas
 abertas ao mesmo tempo.
@@ -166,6 +173,23 @@ as ações banais antigas são descartadas e **tudo que foi marcante é preserva
 O log de eventos guarda os 1500 mais recentes, porque ele só alimenta o painel;
 a memória de verdade vive nos arquivos de cada morador.
 
+### Ambiente por função
+
+Cada lugar tem uma construção própria, não uma casa genérica recolorida:
+
+- **Oficina**: galpão de chapa metálica (com ferrugem), vão de garagem aberto,
+  pilha de pneus, bancada com chave inglesa e martelo, barril.
+- **Biblioteca**: fachada de estuque, colunas, porta e janelas com topo em
+  arco, poste de luminária, banco de leitura na entrada.
+- **Mercado**: virou uma banca aberta de feira — balcão de madeira, toldo
+  listrado sobre postes, caixotes de fruta colorida, cestas.
+
+Chão e piso da praça também têm textura (grama e pedra), gerada por código —
+nenhum arquivo de imagem novo, tudo desenhado em canvas na hora.
+
+Se você criar um lugar novo em `data/world.json` que não seja nenhum desses
+três, ele vira uma casa genérica com telhado na cor que você definir.
+
 ## Customizando
 
 - **Moradores**: `data/agents.json` — `name`, `role`, `persona`, `goal` e
@@ -199,7 +223,8 @@ ai_cidade/
 ├── viewer/
 │   ├── index.html        # painel 2D (mapa da vila)
 │   ├── 3d.html           # cena 3D navegável
-│   └── three.min.js      # biblioteca 3D, embutida (licença MIT junto)
+│   ├── vendor/           # three.js + three-vrm (licenças MIT juntas)
+│   └── modelos/          # avatares .vrm dos moradores (CC0) + CREDITOS.md
 ├── viewer.py              # servidor local do painel
 ├── state/                 # criado ao rodar (memórias + estado + log)
 └── main.py

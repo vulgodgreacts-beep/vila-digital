@@ -1,0 +1,12 @@
+# NUNCA subir: tem a sua chave da API
+.env
+
+__pycache__/
+*.pyc
+
+# arquivos temporários da escrita atômica
+*.tmp
+
+# ATENÇÃO: state/ NÃO é ignorado de propósito.
+# É nele que vive a memória dos moradores. Se ele for ignorado,
+# a vila reinicia do zero a cada execução na nuvem.

@@ -1,13 +1,17 @@
 name: Vida na vila
 
+# A vila continua sozinha: a cada execução a simulação avança alguns ticks
+# e o estado atualizado é gravado de volta no repositório.
 on:
   schedule:
-    - cron: "0 */3 * * *"
-  workflow_dispatch:
+    - cron: "0 */3 * * *"     # de 3 em 3 horas (UTC)
+  workflow_dispatch:           # permite rodar na mão pelo site do GitHub
 
+# necessário pra que a Action consiga commitar o state/ de volta
 permissions:
   contents: write
 
+# se uma execução atrasar, não deixa duas mexerem no state ao mesmo tempo
 concurrency:
   group: vila
   cancel-in-progress: false
