@@ -664,5 +664,125 @@
     "created_tick": 52,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 53,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a biblioteca ver essa caixa de livros, porque alguém tem que descobrir de onde saiu.",
+    "created_tick": 53,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Marina, vem cá — esses livros têm cheiro de sótão, aposto que tem coisa rara aqui.",
+    "created_tick": 53,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 54,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna da minha bolsa e examino essa caixa de livros com cuidado.",
+    "created_tick": 54,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pego a lanterna e abro a caixa de livros doados com cuidado, procurando alguma pista.",
+    "created_tick": 54,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, alguém viu quem deixou essa caixa aqui na biblioteca? Tem que ser alguém de bom coração.",
+    "created_tick": 54,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou levantar essa caixa de livros pra ver se tem algo solto dentro que estrague tudo.",
+    "created_tick": 55,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Alguém sabe de onde veio essa caixa? Parece coisa de 1950, pelo tipo de encadernação.",
+    "created_tick": 55,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, essa caixa misteriosa só pode ser do produtor novo que chegou na feira, aposto!",
+    "created_tick": 55,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 56,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro na biblioteca saindo da chuva e olho pra caixa de livros, curiosa de saber o que tem aí dentro.",
+    "created_tick": 56,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a caixa de livros com cuidado, procurando alguma pista sobre quem deixou isso aqui.",
+    "created_tick": 56,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Puxo a caixa de livros pra dentro antes que a chuva estrague tudo.",
+    "created_tick": 56,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 7: Caixa de livros misteriosa apareceu, chuva forte caiu, feira lotou a vila inteira.",
+    "created_tick": 56,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Esse rapaz anda sempre quieto, mexendo com livro velho.\", agora acho \"Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade.\".",
+    "created_tick": 56,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pro mercado aproveitar que tá lotado; alguém lá consegue me vender algo pra comer.",
+    "created_tick": 57,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro no mercado pra pegar algo de comer antes que fique mais cheio ainda.",
+    "created_tick": 58,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pro mercado antes que a chuva derrube a barraca de ferramentas velhas.",
+    "created_tick": 59,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina, essa chuva vai derrubar galho e amanhã vão precisar de mim.",
+    "created_tick": 60,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

@@ -718,5 +718,137 @@
     "created_tick": 52,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 53,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, vem cá — esses livros têm cheiro de sótão, aposto que tem coisa rara aqui.",
+    "created_tick": 53,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 54,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego a lanterna da minha bolsa e examino essa caixa de livros com cuidado.",
+    "created_tick": 54,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna e abro a caixa de livros doados com cuidado, procurando alguma pista.",
+    "created_tick": 54,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, alguém viu quem deixou essa caixa aqui na biblioteca? Tem que ser alguém de bom coração.",
+    "created_tick": 54,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou levantar essa caixa de livros pra ver se tem algo solto dentro que estrague tudo.",
+    "created_tick": 55,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Alguém sabe de onde veio essa caixa? Parece coisa de 1950, pelo tipo de encadernação.",
+    "created_tick": 55,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, essa caixa misteriosa só pode ser do produtor novo que chegou na feira, aposto!",
+    "created_tick": 55,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 56,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Entro na biblioteca saindo da chuva e olho pra caixa de livros, curiosa de saber o que tem aí dentro.",
+    "created_tick": 56,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros com cuidado, procurando alguma pista sobre quem deixou isso aqui.",
+    "created_tick": 56,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Puxo a caixa de livros pra dentro antes que a chuva estrague tudo.",
+    "created_tick": 56,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 7: Caixa misteriosa de livros antigos apareceu na biblioteca durante temporal intenso.",
+    "created_tick": 56,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou pro mercado aproveitar que tá lotado; alguém lá consegue me vender algo pra comer.",
+    "created_tick": 57,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu quem deixou essa caixa de livros na porta?",
+    "created_tick": 57,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, relaxa aí — essa caixa de livros é presente de alguém que ama literatura, aposto.",
+    "created_tick": 57,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra caixa de livros antes de sair, depois me viro pra Iris: \"Você viu de quem é essa encomenda?",
+    "created_tick": 58,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, relaxa aí — essa caixa de livros deve ser da Dona Maria, ela adora fazer surpresa.",
+    "created_tick": 58,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Iris e pergunto: \"Você viu se o José da padaria conseguiu chegar antes dessa chuva?",
+    "created_tick": 59,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, relaxa! Metade da vila tá aqui dentro, a gente tira de letra.",
+    "created_tick": 59,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pela janela da biblioteca, vendo a chuva, e murmuro: \"Iris, você sabe se o mercado tá aberto com essa tempestade?",
+    "created_tick": 60,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

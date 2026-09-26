@@ -1,12 +1,17 @@
 {
   "Teo": {
-    "familiaridade": 17,
-    "opiniao": "Esse rapaz anda sempre quieto, mexendo com livro velho.",
-    "desde_dia": 3,
-    "historico": []
+    "familiaridade": 21,
+    "opiniao": "Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade.",
+    "desde_dia": 7,
+    "historico": [
+      {
+        "dia": 3,
+        "opiniao": "Esse rapaz anda sempre quieto, mexendo com livro velho."
+      }
+    ]
   },
   "Iris": {
-    "familiaridade": 18,
+    "familiaridade": 22,
     "opiniao": "Parece gente curiosa, quer saber de tudo que acontece por aqui.",
     "desde_dia": 3,
     "historico": []
