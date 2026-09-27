@@ -784,5 +784,95 @@
     "created_tick": 60,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Ligo a lanterna velha e vou checar se a chuva tá entrando pela janela da oficina.",
+    "created_tick": 61,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Verifico se a energia volta ou se preciso consertar algo aqui na oficina.",
+    "created_tick": 62,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado ver se ainda tem gente vendendo coisa antes dessa chuva piorar.",
+    "created_tick": 63,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, alguém sabe de quem é essa caixa de livros que apareceu na biblioteca?",
+    "created_tick": 63,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, essa chuva não passa rápido, vem pra minha oficina que tem café quente.",
+    "created_tick": 64,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 8: **DIA:** Chuva o dia todo, oficina molhou, passei pano e liguei a lanterna velha.",
+    "created_tick": 64,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Pego a lanterna velha e saio pra correr pro mercado antes dessa chuva piorar.",
+    "created_tick": 65,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina perto das barracas, esperando que ela saiba onde arrumam comida mesmo sem luz.",
+    "created_tick": 65,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, cadê aquele bolo de chuva que a dona Rita fazia? Tô com uma fome desgraçada.",
+    "created_tick": 66,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina entre as barracas — ela sempre sabe onde arruma algo para comer mesmo sem luz.",
+    "created_tick": 66,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 67,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, cê viu quem deixou essa caixa na biblioteca, ou era de noite?",
+    "created_tick": 67,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 68,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esses livros vieram de onde? Alguém viu quem deixou aqui?",
+    "created_tick": 68,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Convido Marina pra ver essa caixa de livros antes de irmos ao mercado.",
+    "created_tick": 68,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

@@ -850,5 +850,113 @@
     "created_tick": 60,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho as janelas da biblioteca e saio correndo pela chuva em direção ao mercado.",
+    "created_tick": 61,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem cá, deixa essa chuva passar, senta aqui comigo!",
+    "created_tick": 61,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem algo quente? A biblioteca fica longe demais com essa chuva.",
+    "created_tick": 62,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca correndo pela chuva em direção ao mercado, protegendo a cabeça com os braços.",
+    "created_tick": 63,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, alguém sabe de quem é essa caixa de livros que apareceu na biblioteca?",
+    "created_tick": 63,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, essa chuva não passa rápido, vem pra minha oficina que tem café quente.",
+    "created_tick": 64,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro na barraca mais próxima, esperando que alguém esteja vendendo algo quente apesar da falta de luz.",
+    "created_tick": 64,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 8: Chuva, caixa misteriosa de livros, correria pela vila procurando abrigo quente.",
+    "created_tick": 64,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Procuro Marina perto das barracas, esperando que ela saiba onde arrumam comida mesmo sem luz.",
+    "created_tick": 65,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, cadê aquele bolo de chuva que a dona Rita fazia? Tô com uma fome desgraçada.",
+    "created_tick": 66,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Marina entre as barracas — ela sempre sabe onde arruma algo para comer mesmo sem luz.",
+    "created_tick": 66,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 67,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, cê viu quem deixou essa caixa na biblioteca, ou era de noite?",
+    "created_tick": 67,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu quem deixou aquela caixa de livros na biblioteca antes desse temporal começar?",
+    "created_tick": 67,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 68,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esses livros vieram de onde? Alguém viu quem deixou aqui?",
+    "created_tick": 68,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Convido Marina pra ver essa caixa de livros antes de irmos ao mercado.",
+    "created_tick": 68,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aposto que foi a Dona Maria — ela adora surpresa, mas nunca assume nada!",
+    "created_tick": 68,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

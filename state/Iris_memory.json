@@ -838,5 +838,95 @@
     "created_tick": 60,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vem cá, deixa essa chuva passar, senta aqui comigo!",
+    "created_tick": 61,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem algo quente? A biblioteca fica longe demais com essa chuva.",
+    "created_tick": 62,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ligo a lanterna do celular e vou ajudar Marina a guardar as coisas antes da água estragar tudo.",
+    "created_tick": 62,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, alguém sabe de quem é essa caixa de livros que apareceu na biblioteca?",
+    "created_tick": 63,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Seguro essa caixa de livros antes que a chuva estrague tudo e descubro quem mandou.",
+    "created_tick": 64,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 8: Que dia de chuva! Mercado lotado, biblioteca alagada, e ainda tem mistério dessa caixa de livros.",
+    "created_tick": 64,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Nervoso demais com essa história toda, mas tem sensibilidade de verdade.\", agora acho \"Nervoso sim, mas quando chove ajuda gente em perigo, é de verdade.\".",
+    "created_tick": 64,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra ver se alguém na praça precisa de ajuda nesse temporal.",
+    "created_tick": 65,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca correndo pra chegar no mercado antes da chuva ficar mais forte.",
+    "created_tick": 66,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 67,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, cê viu quem deixou essa caixa na biblioteca, ou era de noite?",
+    "created_tick": 67,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu quem deixou aquela caixa de livros na biblioteca antes desse temporal começar?",
+    "created_tick": 67,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra cozinha do mercado pegar um bolo de chuva antes que acabe.",
+    "created_tick": 67,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 68,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aposto que foi a Dona Maria — ela adora surpresa, mas nunca assume nada!",
+    "created_tick": 68,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
