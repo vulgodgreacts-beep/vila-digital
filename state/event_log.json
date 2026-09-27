@@ -1672,5 +1672,167 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Gente, esse chafariz entupido vai virar foco de mosquito se ninguém resolver logo!"
+  },
+  {
+    "tick": 85,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a chave inglesa e sigo pra praça, esse chafariz não vai conserta sozinho."
+  },
+  {
+    "tick": 85,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Apago a lanterna e cruzo a biblioteca na direção do mercado, esperando que alguém tenha pão."
+  },
+  {
+    "tick": 85,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, querido, você viu que o chafariz virou uma poça? Precisamos avisar o prefeito!"
+  },
+  {
+    "tick": 86,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior."
+  },
+  {
+    "tick": 86,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou até o mercado, aproveito a feira e vejo se alguém sabe algo sobre esse apagão."
+  },
+  {
+    "tick": 86,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, essa chuva me lembrou do temporal de 1987... você vende algo quente hoje?"
+  },
+  {
+    "tick": 86,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, alguém sabe se a prefeitura já chamou o eletricista ou é apagão mesmo de verdade?"
+  },
+  {
+    "tick": 87,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra oficina ver se conseguo passar a moto a bateria pra iluminar o mercado."
+  },
+  {
+    "tick": 87,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Vou pra biblioteca ver se consigo uns velas antes que todo mundo pense na mesma coisa."
+  },
+  {
+    "tick": 87,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou até a oficina ver se Seu Marcos sabe algo sobre esse apagão, ele entende dessas coisas."
+  },
+  {
+    "tick": 88,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Iris, vou ver o poste, volta aqui em meia hora com uma lanterna se tiver uma."
+  },
+  {
+    "tick": 88,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lamparina velha do armário — pelo menos posso organizar os livros que caíram."
+  },
+  {
+    "tick": 88,
+    "agent": "Iris",
+    "location": "oficina",
+    "action": "Marina, você viu se o pessoal da prefeitura já foi lá checar aquele poste?"
+  },
+  {
+    "tick": 89,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Iris, vem comigo lá no mercado, preciso comer algo rápido antes dessa chuva piora."
+  },
+  {
+    "tick": 89,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho a biblioteca e sigo para o mercado, esperando que a feira ainda esteja funcionando apesar da chuva."
+  },
+  {
+    "tick": 89,
+    "agent": "Iris",
+    "location": "oficina",
+    "action": "Saio da oficina pra aproveitar que a feira tá lotada e levar notícia do apagão pra todo mundo."
+  },
+  {
+    "tick": 90,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada."
+  },
+  {
+    "tick": 90,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, você viu se o apagão é só daqui ou vem de mais longe?"
+  },
+  {
+    "tick": 90,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Vou até a barraca de dona Rosa, talvez ela tenha algo que não precise de geladeira com esse apagão."
+  },
+  {
+    "tick": 90,
+    "agent": "Iris",
+    "location": "oficina",
+    "action": "Vou pro mercado pegar uma lanterna e ver se alguém precisa de ajuda com essa bagunça toda."
+  },
+  {
+    "tick": 91,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, aquele poste lá tá queimado mesmo ou vcs acham que é coisa maior?"
+  },
+  {
+    "tick": 91,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Iris discretamente, perguntando se ela tem pão com queijo — a fome aperta mesmo com essa confusão toda."
+  },
+  {
+    "tick": 91,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, já liguei pro seu Geraldo que mexe com fiação, Marina, ele vem pra cá agora!"
+  },
+  {
+    "tick": 92,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 92,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou lá na praça ver se o chafariz tem entupimento mesmo ou se é coisa simples."
+  },
+  {
+    "tick": 92,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Saio do mercado na direção da biblioteca, curioso sobre aquela caixa de livros anônimos."
+  },
+  {
+    "tick": 92,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você viu aquela caixa de livros na biblioteca? Aposto que foi o Seu Tonho, coitado."
   }
 ]

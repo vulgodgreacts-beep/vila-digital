@@ -1174,5 +1174,131 @@
     "created_tick": 84,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, querido, você viu que o chafariz virou uma poça? Precisamos avisar o prefeito!",
+    "created_tick": 85,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 86,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, essa chuva me lembrou do temporal de 1987... você vende algo quente hoje?",
+    "created_tick": 86,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, alguém sabe se a prefeitura já chamou o eletricista ou é apagão mesmo de verdade?",
+    "created_tick": 86,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina ver se conseguo passar a moto a bateria pra iluminar o mercado.",
+    "created_tick": 87,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou pra biblioteca ver se consigo uns velas antes que todo mundo pense na mesma coisa.",
+    "created_tick": 87,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a oficina ver se Seu Marcos sabe algo sobre esse apagão, ele entende dessas coisas.",
+    "created_tick": 87,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, vou ver o poste, volta aqui em meia hora com uma lanterna se tiver uma.",
+    "created_tick": 88,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu se o pessoal da prefeitura já foi lá checar aquele poste?",
+    "created_tick": 88,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 11: Chuva, chafariz entupido, apagão na vila inteira, todo mundo procurando solução ao mesmo tempo.",
+    "created_tick": 88,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, vem comigo lá no mercado, preciso comer algo rápido antes dessa chuva piora.",
+    "created_tick": 89,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da oficina pra aproveitar que a feira tá lotada e levar notícia do apagão pra todo mundo.",
+    "created_tick": 89,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 90,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado pegar uma lanterna e ver se alguém precisa de ajuda com essa bagunça toda.",
+    "created_tick": 90,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele poste lá tá queimado mesmo ou vcs acham que é coisa maior?",
+    "created_tick": 91,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Iris discretamente, perguntando se ela tem pão com queijo — a fome aperta mesmo com essa confusão toda.",
+    "created_tick": 91,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, já liguei pro seu Geraldo que mexe com fiação, Marina, ele vem pra cá agora!",
+    "created_tick": 91,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 92,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver se o chafariz tem entupimento mesmo ou se é coisa simples.",
+    "created_tick": 92,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Saio do mercado na direção da biblioteca, curioso sobre aquela caixa de livros anônimos.",
+    "created_tick": 92,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquela caixa de livros na biblioteca? Aposto que foi o Seu Tonho, coitado.",
+    "created_tick": 92,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
