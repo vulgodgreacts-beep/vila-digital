@@ -1,33 +1,26 @@
 {
-  "tick": 76,
+  "tick": 84,
   "state": {
     "clima": "temporal",
-    "movimento": "gente parada olhando o chafariz",
+    "movimento": "vila cheia, feira no mercado",
     "energia": "sem luz"
   },
   "active_incidents": [
-    {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 71
-    },
     {
       "title": "Chafariz entupido",
       "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
       "state_changes": {
         "movimento": "gente parada olhando o chafariz"
       },
-      "started_tick": 73
+      "started_tick": 80
     },
     {
-      "title": "Caixa de livros doados",
-      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
-      "state_changes": {},
-      "started_tick": 74
+      "title": "Dia de feira",
+      "description": "Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+      "state_changes": {
+        "movimento": "vila cheia, feira no mercado"
+      },
+      "started_tick": 81
     }
   ]
 }

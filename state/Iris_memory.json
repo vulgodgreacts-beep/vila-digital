@@ -1048,5 +1048,131 @@
     "created_tick": 76,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 77,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado pegar um bolo de chuva e ficar de olho nesse cachorro assustado.",
+    "created_tick": 77,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Teo pelo braço: \"Vem, esse cachorro assustado precisa de alguém corajoso como você agora.",
+    "created_tick": 78,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu quem deixou aquela caixa na biblioteca? Tem livros de 1920, muito estranho aparecer assim.",
+    "created_tick": 79,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquele cachorro assustado? Aposto que é de alguém lá da estrada velha.",
+    "created_tick": 79,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 80,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse chafariz tá entupido, vou na praça ver se consigo desmontar a bomba.",
+    "created_tick": 80,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, esse cachorro assustado precisa de água e abrigo, você vem comigo ajudar?",
+    "created_tick": 80,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 10: Que dia agitado! Chuva, cachorro perdido, chafariz quebrado, gente precisando de comida.",
+    "created_tick": 80,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 81,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, que barraca de comida tá aberta? Essa chuva tá me deixando com fome.",
+    "created_tick": 81,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, aquele cachorro lá da praça é de alguém, tenho certeza — vou perguntar pra Marina.",
+    "created_tick": 81,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me vende um pão com queijo, rápido — tô com fome e o temporal apertando.",
+    "created_tick": 82,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina e Iris — alguém sabe quem pode desentupir aquele chafariz antigo?",
+    "created_tick": 82,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, viram esse cachorro assustado na praça? Alguém reconhece?",
+    "created_tick": 82,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem pão fresco aí? Depois a gente resolve esse chafariz entupido.",
+    "created_tick": 83,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão? Com essa chuva, lembrei que em 1847 a vila inteira dependia de fornada única...",
+    "created_tick": 83,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Meninas, viram que o chafariz tá entupido? Aposto que foi aquele lixo que a chuva trouxe.",
+    "created_tick": 83,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse chafariz entupido vai virar mosquiteiro com essa chuva, preciso ver lá na praça.",
+    "created_tick": 84,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro uma barraca de salgado enquanto evito o olhar de Iris.",
+    "created_tick": 84,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, esse chafariz entupido vai virar foco de mosquito se ninguém resolver logo!",
+    "created_tick": 84,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
