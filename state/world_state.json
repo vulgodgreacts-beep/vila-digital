@@ -1,9 +1,24 @@
 {
-  "tick": 116,
+  "tick": 124,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
     "energia": "sem luz"
   },
-  "active_incidents": []
+  "active_incidents": [
+    {
+      "title": "Cachorro perdido",
+      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+      "state_changes": {},
+      "started_tick": 119
+    },
+    {
+      "title": "Apagão na vila",
+      "description": "A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+      "state_changes": {
+        "energia": "sem luz"
+      },
+      "started_tick": 124
+    }
+  ]
 }

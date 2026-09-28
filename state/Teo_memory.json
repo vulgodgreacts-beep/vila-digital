@@ -1672,5 +1672,107 @@
     "created_tick": 116,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou fechar as janelas da biblioteca antes que a chuva entre pelas frestas.",
+    "created_tick": 117,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção ao mercado, tateando a parede para me guiar na escuridão.",
+    "created_tick": 118,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você já viu se a luz voltou lá perto da biblioteca ou continua tudo preto?",
+    "created_tick": 118,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 119,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca correndo para procurar o cachorro antes que a chuva piore.",
+    "created_tick": 119,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse cachorro lá fora tá morrendo de medo, vamos arrumar um cobertor?",
+    "created_tick": 119,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu esse cachorro na praça? Antes de ir pro mercado, a gente devia procurar.",
+    "created_tick": 120,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 15: Apagão na praça, biblioteca escura, cachorro perdido na chuva, Iris ajudando sem hesitar.",
+    "created_tick": 120,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Teo, você viu esse cachorro aí? Vou pegar um pão rápido e ajudo a procurar.",
+    "created_tick": 121,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Marina entre as barracas: \"Esse cachorro assustado... você não quer ajudar a procurar o dono?",
+    "created_tick": 121,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar um pão com queijo na barraca e depois caço esse cachorro na praça.",
+    "created_tick": 122,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aponto para o cachorro molhado e pergunto a Marina: \"Você acha que alguém da vila está procurando por ele?",
+    "created_tick": 122,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro tá sofrendo — vem me ajudar a arrumar uma corda pra levar pro meu galpão?",
+    "created_tick": 123,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, esse cachorro lembra daqueles cães de guarda que usavam nas fazendas do século dezenove.",
+    "created_tick": 123,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 124,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, antes de comer qualquer coisa, vem comigo ver esse poste.",
+    "created_tick": 124,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, esse cachorro... sabe, durante a Grande Tempestade de 1987, os cães também desapareciam assim.",
+    "created_tick": 124,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

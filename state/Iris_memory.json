@@ -1672,5 +1672,77 @@
     "created_tick": 116,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo a Marina pra ajudar a arrumar as coisas que caíram com o vento aqui atrás.",
+    "created_tick": 117,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você já viu se a luz voltou lá perto da biblioteca ou continua tudo preto?",
+    "created_tick": 118,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 119,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro lá fora tá morrendo de medo, vamos arrumar um cobertor?",
+    "created_tick": 119,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu esse cachorro na praça? Antes de ir pro mercado, a gente devia procurar.",
+    "created_tick": 120,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse cachorro perdido, coitado deve estar apavorado com essa chuva toda.",
+    "created_tick": 120,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 15: Apagão desorganizou tudo, mas Teo e galera ajudaram, agora tem um cachorro perdido.",
+    "created_tick": 120,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Saio da biblioteca correndo pra praça ver esse cachorro perdido que todo mundo tá comentando.",
+    "created_tick": 121,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra procurar esse cachorro perdido na praça, com essa chuva toda.",
+    "created_tick": 122,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra praça porque aquele cachorro precisa de ajuda e eu conheço gente que pode.",
+    "created_tick": 123,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 124,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver se esse cachorro assustado tá bem, tempestade ou não.",
+    "created_tick": 124,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
