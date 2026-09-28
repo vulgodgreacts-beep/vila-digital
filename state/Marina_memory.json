@@ -1402,5 +1402,119 @@
     "created_tick": 100,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado ver se Seu Gilson consegue abrir a porta pra pegar algo pra comer.",
+    "created_tick": 101,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, meu filho, esses livros chegaram na hora certa pra gente se distrair desse apagão.",
+    "created_tick": 101,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina verificar se o gerador tá funcionando, esse apagão precisa resolver logo.",
+    "created_tick": 102,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 103,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou esquentar esse café requentado antes que a fome fique pior.",
+    "created_tick": 103,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra cozinha da oficina, ver se sobrou café e algo pra comer nessa bagunça.",
+    "created_tick": 104,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 13: Chuva, apagão, fome e aquela caixa de livros misteriosa na biblioteca todo tempo.",
+    "created_tick": 104,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 105,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, preciso comer algo rápido antes dessa chuva piorar mais.",
+    "created_tick": 105,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Aponto para o cachorro assustado e pergunto a Marina: \"Você consegue dar um jeito naquele pobre animal?",
+    "created_tick": 105,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego uma broa com queijo de Iris antes dessa chuva derrubar tudo que sobrou aqui.",
+    "created_tick": 106,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pergunto pra Iris se ela tem pão com queijo enquanto esse cachorro assustado passa correndo pela barraca.",
+    "created_tick": 106,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, Teo, aquele cachorro assustado tá lá fora na chuva, alguém precisa ir buscar!",
+    "created_tick": 106,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, bota um pão com queijo pra mim, rápido — e esse cachorro lá fora tá sozinho na chuva.",
+    "created_tick": 107,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Fico perto de Iris, esperando a chuva passar; talvez ela tenha um café quente sobrando.",
+    "created_tick": 107,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, aquele cachorro assustado na praça — alguém vai lá com um guarda-chuva?",
+    "created_tick": 107,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro tá lá fora apanhando chuva, vou pegar ele antes que piore.",
+    "created_tick": 108,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pela barraca pra praça e vejo aquele cachorro molhado; alguém devia procurar o dono dele.",
+    "created_tick": 108,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vem cá, esse cachorro assustado lá fora, alguém conhece? Não é de ninguém daqui.",
+    "created_tick": 108,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

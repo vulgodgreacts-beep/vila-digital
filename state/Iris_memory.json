@@ -1432,5 +1432,125 @@
     "created_tick": 100,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, meu filho, esses livros chegaram na hora certa pra gente se distrair desse apagão.",
+    "created_tick": 101,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina verificar se o gerador tá funcionando, esse apagão precisa resolver logo.",
+    "created_tick": 102,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem algo quente? Essa caixa de livros na biblioteca apareceu antes da luz cair?",
+    "created_tick": 102,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra biblioteca ver essa caixa de livros, temporal ou não, alguém precisa descobrir quem mandou!",
+    "created_tick": 102,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 103,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu quem deixou essa caixa? Aproveitava pra pegar algo no mercado antes dessa chuva piorar.",
+    "created_tick": 103,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou logo pra biblioteca ver se essa caixa de livros já molhou com esse temporal desgraçado.",
+    "created_tick": 103,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca correndo pra ver se alguém da vila tá precisando de ajuda nessa chuva.",
+    "created_tick": 104,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 13: Temporal desgraçado, mas a gente se ajudou, caixa de livros misteriosa apareceu, que história!",
+    "created_tick": 104,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 105,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado aproveitar que a chuva afasta gente e consigo uns biscoitos pra matar a fome.",
+    "created_tick": 105,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego uma broa com queijo de Iris antes dessa chuva derrubar tudo que sobrou aqui.",
+    "created_tick": 106,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pergunto pra Iris se ela tem pão com queijo enquanto esse cachorro assustado passa correndo pela barraca.",
+    "created_tick": 106,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, Teo, aquele cachorro assustado tá lá fora na chuva, alguém precisa ir buscar!",
+    "created_tick": 106,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, bota um pão com queijo pra mim, rápido — e esse cachorro lá fora tá sozinho na chuva.",
+    "created_tick": 107,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Fico perto de Iris, esperando a chuva passar; talvez ela tenha um café quente sobrando.",
+    "created_tick": 107,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, aquele cachorro assustado na praça — alguém vai lá com um guarda-chuva?",
+    "created_tick": 107,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse cachorro tá lá fora apanhando chuva, vou pegar ele antes que piore.",
+    "created_tick": 108,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pela barraca pra praça e vejo aquele cachorro molhado; alguém devia procurar o dono dele.",
+    "created_tick": 108,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vem cá, esse cachorro assustado lá fora, alguém conhece? Não é de ninguém daqui.",
+    "created_tick": 108,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
