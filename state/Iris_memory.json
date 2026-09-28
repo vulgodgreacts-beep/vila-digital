@@ -1552,5 +1552,125 @@
     "created_tick": 108,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 109,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, aquele cachorro assustado tá lá fora na chuva, vem comigo trazer ele pra dentro?",
+    "created_tick": 109,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 110,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem lanterna? Vou ver se esse cachorro tá na praça antes da chuva piorar.",
+    "created_tick": 110,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vem cá, Marina, Teo, vamos procurar esse cachorro perdido antes que se machuque mais.",
+    "created_tick": 110,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina checar o gerador, essa chuva pode ter derrubado algo na rede.",
+    "created_tick": 111,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem algo quente? A biblioteca fica escura demais nessa hora.",
+    "created_tick": 111,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pro mercado, que é onde a galera se abriga e eu descubro o que tá acontecendo.",
+    "created_tick": 111,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pro mercado pra ver se a Marina tá ajudando a galera a se abrigar dessa chuva louca.",
+    "created_tick": 112,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 14: Chuva forte, apagão, cachorro perdido na praça, mercado cheio de gente se abrigando.",
+    "created_tick": 112,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Meninas, vou fechar as portas antes que a água invada tudo aqui dentro.",
+    "created_tick": 113,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pro fundo do mercado, longe dessa chuva, e como algo antes que estrague sem geladeira.",
+    "created_tick": 114,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Me aproxímo de Iris, meio desajeitado: \"Sobrou algo quente pra comer, ou o apagão derrubou tudo?",
+    "created_tick": 114,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, a luz caiu mesmo — alguém viu o poste da praça?",
+    "created_tick": 114,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem algo quente aí? Preciso ver esse poste antes que escureça mais.",
+    "created_tick": 115,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, tem pão fresco aí, ou tudo depende da luz voltar?",
+    "created_tick": 115,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, vou pra casa do Seu Valdir que tem gerador, ele sempre me empresta uma vela.",
+    "created_tick": 115,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Esse apagão é coisa do poste mesmo, vou lá verificar quando passar a chuva.",
+    "created_tick": 116,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Sabe, um apagão assim... lembra a vila em 1987, quando caiu o mesmo poste.",
+    "created_tick": 116,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ei, vem cá! Vocês sabem se a luz voltou lá na biblioteca ou só daqui pra cá?",
+    "created_tick": 116,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

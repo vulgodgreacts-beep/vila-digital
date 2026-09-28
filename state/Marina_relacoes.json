@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 44,
+    "familiaridade": 48,
     "opiniao": "Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade.",
     "desde_dia": 7,
     "historico": [
@@ -11,9 +11,9 @@
     ]
   },
   "Iris": {
-    "familiaridade": 45,
-    "opiniao": "Essa mulher age rápido mesmo, não fica só falando besteira.",
-    "desde_dia": 10,
+    "familiaridade": 50,
+    "opiniao": "Essa mulher não deixa cachorro sofrendo — age mesmo, sem falar muito.",
+    "desde_dia": 14,
     "historico": [
       {
         "dia": 3,
@@ -22,6 +22,10 @@
       {
         "dia": 9,
         "opiniao": "Essa mulher age quando precisa, não só fica fuçando nos outros."
+      },
+      {
+        "dia": 10,
+        "opiniao": "Essa mulher age rápido mesmo, não fica só falando besteira."
       }
     ]
   }

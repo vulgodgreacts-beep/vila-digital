@@ -1,25 +1,9 @@
 {
-  "tick": 108,
+  "tick": 116,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 103
-    },
-    {
-      "title": "Cachorro perdido",
-      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
-      "state_changes": {},
-      "started_tick": 105
-    }
-  ]
+  "active_incidents": []
 }
