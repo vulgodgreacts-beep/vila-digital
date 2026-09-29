@@ -2638,5 +2638,167 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Gente, a prefeitura precisa arrumar esse gerador, não é primeira vez que fica sem luz!"
+  },
+  {
+    "tick": 133,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Saio correndo pra feira antes que a chuva piore e limpe as prateleiras."
+  },
+  {
+    "tick": 133,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lanterna e procuro os livros sobre tempestades históricas na seção de meteorologia."
+  },
+  {
+    "tick": 133,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pra biblioteca, que é o lugar mais seguro, e de lá vejo se alguém precisa de ajuda."
+  },
+  {
+    "tick": 134,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Saio correndo da oficina em direção ao mercado antes dessa chuva piorar mais ainda."
+  },
+  {
+    "tick": 134,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Que temporal... a biblioteca é o melhor abrigo agora, Iris."
+  },
+  {
+    "tick": 134,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, deixa eu ajudar a fechar as janelas antes que a água invada tudo aqui."
+  },
+  {
+    "tick": 135,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Saio correndo pro mercado antes essa chuva me derrubar na rua."
+  },
+  {
+    "tick": 135,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lanterna do celular e procuro uns biscoitos na gaveta da mesa."
+  },
+  {
+    "tick": 135,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, deixa eu ajudar você a fechar as janelas antes que a água entre tudo aqui."
+  },
+  {
+    "tick": 136,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Entro correndo no mercado, procurando a barraca de salgado da Dona Célia."
+  },
+  {
+    "tick": 136,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lanterna da mesa e procuro um livro sobre a Grande Tempestade de 1872."
+  },
+  {
+    "tick": 136,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Seguro a lanterna do Teo e pergunto: \"Teo, Marina saiu correndo pra rua antes da chuva piorar, né?"
+  },
+  {
+    "tick": 137,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento."
+  },
+  {
+    "tick": 137,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou lá no mercado pegar uns pastel com essa mulher que faz bom, sem essa conversa mole."
+  },
+  {
+    "tick": 137,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho o livro e sigo pro mercado, esperando que a luz volte antes que estrague tudo."
+  },
+  {
+    "tick": 137,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Vou pro mercado aproveitar a feira e pegar uns queijos frescos desses produtores novos."
+  },
+  {
+    "tick": 138,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, quanto é aquele bolo de chuva? Tô com uma fome dessas."
+  },
+  {
+    "tick": 138,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Marina e Iris para descobrir qual barraca tem pão fresco antes dessa chuva piorar."
+  },
+  {
+    "tick": 138,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pegar um bolo de chuva com aquele produtor novo que chegou hoje, parece boa gente."
+  },
+  {
+    "tick": 139,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada."
+  },
+  {
+    "tick": 139,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Pego uns acarajés com Iris — ela faz melhor que qualquer um, e de graça ela não vende não."
+  },
+  {
+    "tick": 139,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Vou até a barraca da dona Rosa ver se tem pão de queijo fresco antes dessa chuva piorar."
+  },
+  {
+    "tick": 139,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você viu que o chafariz tá entupido? Teo, vem comer algo antes dessa chuva piorar."
+  },
+  {
+    "tick": 140,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
+  },
+  {
+    "tick": 140,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, você viu esse cachorro? Vou pegar uma corda na oficina pra ajudar."
+  },
+  {
+    "tick": 140,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você viu se alguém reconhece esse cachorro? Parece perdido mesmo."
+  },
+  {
+    "tick": 140,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, esse cachorro assustado precisa de ajuda — vem comigo na praça?"
   }
 ]

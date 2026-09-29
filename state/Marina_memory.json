@@ -1840,5 +1840,101 @@
     "created_tick": 132,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra feira antes que a chuva piore e limpe as prateleiras.",
+    "created_tick": 133,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo da oficina em direção ao mercado antes dessa chuva piorar mais ainda.",
+    "created_tick": 134,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pro mercado antes essa chuva me derrubar na rua.",
+    "created_tick": 135,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro correndo no mercado, procurando a barraca de salgado da Dona Célia.",
+    "created_tick": 136,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 17: Chuva forte me apressou, fechei a oficina e corri pro mercado antes piorar.",
+    "created_tick": 136,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 137,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou lá no mercado pegar uns pastel com essa mulher que faz bom, sem essa conversa mole.",
+    "created_tick": 137,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, quanto é aquele bolo de chuva? Tô com uma fome dessas.",
+    "created_tick": 138,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina e Iris para descobrir qual barraca tem pão fresco antes dessa chuva piorar.",
+    "created_tick": 138,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou pegar um bolo de chuva com aquele produtor novo que chegou hoje, parece boa gente.",
+    "created_tick": 138,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 139,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego uns acarajés com Iris — ela faz melhor que qualquer um, e de graça ela não vende não.",
+    "created_tick": 139,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou até a barraca da dona Rosa ver se tem pão de queijo fresco antes dessa chuva piorar.",
+    "created_tick": 139,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu que o chafariz tá entupido? Teo, vem comer algo antes dessa chuva piorar.",
+    "created_tick": 139,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 140,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu esse cachorro? Vou pegar uma corda na oficina pra ajudar.",
+    "created_tick": 140,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
