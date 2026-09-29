@@ -1978,5 +1978,137 @@
     "created_tick": 140,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou procurar esse cachorro perdido antes que ele se machuca nessa chuva toda.",
+    "created_tick": 141,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver esse chafariz entupido, pode ser coisa simples de desbloquear.",
+    "created_tick": 142,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu esse cachorro? Lembra daquele cão do Museu de Pécs, século dezesseis...",
+    "created_tick": 142,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou avisar Marina e Teo sobre esse cachorro assustado antes que ele se machuque na chuva.",
+    "created_tick": 142,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver esse chafariz — provavelmente é coisa simples, só entupimento mesmo.",
+    "created_tick": 143,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou pra praça ver esse cachorro; temporal assim me lembra da enchente de 1987.",
+    "created_tick": 143,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ô Marina, Teo, viram aquele cachorro perdido perto do chafariz?",
+    "created_tick": 143,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou até a praça ver esse chafariz entupido — deve ser coisa simples de destrancar.",
+    "created_tick": 144,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho para o cachorro assustado e depois para Iris: \"Sabe, os romanos tinham cães de guarda especiais...",
+    "created_tick": 144,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aquele cachorro lá na praça deve ser do pessoal novo que alugou a casa da dona Júlia, não é?",
+    "created_tick": 144,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 18: Dia de chuva, cachorro perdido na praça, todo mundo querendo ajudar o bichinho.",
+    "created_tick": 144,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou pra praça tirar esse cachorro do temporal antes que piore de verdade.",
+    "created_tick": 145,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Saio discreto em direção à biblioteca, onde pelo menos posso esperar a luz voltar.",
+    "created_tick": 145,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, aquele cachorro assustado na praça precisa de ajuda, vem comigo?",
+    "created_tick": 145,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 146,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na praça ver esse chafariz — aposto que é coisa simples de desengasgar.",
+    "created_tick": 146,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, escuta só, esse chafariz entupido vai dar trabalho, viu?",
+    "created_tick": 146,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá ver esse chafariz, aposto que é coisa simples entupida.",
+    "created_tick": 147,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, esse chafariz entupido vai virar um mosquitério se ninguém resolver logo!",
+    "created_tick": 147,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 148,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse chafariz vai virar piscina de mosquito — vou lá ver o que entupiu quando essa chuva passar.",
+    "created_tick": 148,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, essa chuva veio do nada, viu? E aquele chafariz da praça tá uma bagunça!",
+    "created_tick": 148,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

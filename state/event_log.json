@@ -2800,5 +2800,161 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Teo, esse cachorro assustado precisa de ajuda — vem comigo na praça?"
+  },
+  {
+    "tick": 141,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado agarrar algo pra comer antes que acabe tudo com essa multidão."
+  },
+  {
+    "tick": 141,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Saio da biblioteca em direção ao mercado, esperando que a multidão da feira não seja tão intimidadora hoje."
+  },
+  {
+    "tick": 141,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou procurar esse cachorro perdido antes que ele se machuca nessa chuva toda."
+  },
+  {
+    "tick": 142,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou lá na praça ver esse chafariz entupido, pode ser coisa simples de desbloquear."
+  },
+  {
+    "tick": 142,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você viu esse cachorro? Lembra daquele cão do Museu de Pécs, século dezesseis..."
+  },
+  {
+    "tick": 142,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou avisar Marina e Teo sobre esse cachorro assustado antes que ele se machuque na chuva."
+  },
+  {
+    "tick": 143,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou lá na praça ver esse chafariz — provavelmente é coisa simples, só entupimento mesmo."
+  },
+  {
+    "tick": 143,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Vou pra praça ver esse cachorro; temporal assim me lembra da enchente de 1987."
+  },
+  {
+    "tick": 143,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ô Marina, Teo, viram aquele cachorro perdido perto do chafariz?"
+  },
+  {
+    "tick": 144,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou até a praça ver esse chafariz entupido — deve ser coisa simples de destrancar."
+  },
+  {
+    "tick": 144,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Olho para o cachorro assustado e depois para Iris: \"Sabe, os romanos tinham cães de guarda especiais..."
+  },
+  {
+    "tick": 144,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, aquele cachorro lá na praça deve ser do pessoal novo que alugou a casa da dona Júlia, não é?"
+  },
+  {
+    "tick": 145,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra praça tirar esse cachorro do temporal antes que piore de verdade."
+  },
+  {
+    "tick": 145,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Saio discreto em direção à biblioteca, onde pelo menos posso esperar a luz voltar."
+  },
+  {
+    "tick": 145,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, aquele cachorro assustado na praça precisa de ajuda, vem comigo?"
+  },
+  {
+    "tick": 146,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada."
+  },
+  {
+    "tick": 146,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou na praça ver esse chafariz — aposto que é coisa simples de desengasgar."
+  },
+  {
+    "tick": 146,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho a biblioteca e vou ver esse chafariz — deve ter algo interessante por trás disso."
+  },
+  {
+    "tick": 146,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, escuta só, esse chafariz entupido vai dar trabalho, viu?"
+  },
+  {
+    "tick": 147,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou lá ver esse chafariz, aposto que é coisa simples entupida."
+  },
+  {
+    "tick": 147,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Saio da biblioteca pra ver esse chafariz entupido, curiosidade mata."
+  },
+  {
+    "tick": 147,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, esse chafariz entupido vai virar um mosquitério se ninguém resolver logo!"
+  },
+  {
+    "tick": 148,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar."
+  },
+  {
+    "tick": 148,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, esse chafariz vai virar piscina de mosquito — vou lá ver o que entupiu quando essa chuva passar."
+  },
+  {
+    "tick": 148,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho o livro e me dirijo para o mercado antes que a chuva piore ainda mais."
+  },
+  {
+    "tick": 148,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, essa chuva veio do nada, viu? E aquele chafariz da praça tá uma bagunça!"
   }
 ]
