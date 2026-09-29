@@ -1774,5 +1774,101 @@
     "created_tick": 124,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro nas gavetas da mesa se deixei aquele biscoito que guardava pra emergência.",
+    "created_tick": 125,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado antes que a chuva piore; talvez ainda tenham velas e algo pra comer.",
+    "created_tick": 126,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó gente, vou ver se o Seu Valdez na oficina tem velas — aqui no mercado tá lotado de gente!",
+    "created_tick": 126,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, vem comigo na oficina, tenho uns sanduíches lá e preciso checar o poste.",
+    "created_tick": 127,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou para a biblioteca — pelo menos lá tenho velas e posso ajudar quem procurar abrigo.",
+    "created_tick": 127,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 128,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção ao mercado, aproveitando a feira antes que escureça mais.",
+    "created_tick": 128,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 16: Apagão assustou a vila, ajudei na biblioteca com velas, pensei no cachorro perdido o tempo todo.",
+    "created_tick": 128,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou até a barraca de dona Rosa, que deve ter algo quente mesmo sem luz.",
+    "created_tick": 129,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 130,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem algo quente aí? Essa chuva me lembrou quando nevou em mil novecentos e sessenta...",
+    "created_tick": 130,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem cá, a gente se aproveita dessa chuva pra comer um bolo quente que fiz essa manhã.",
+    "created_tick": 130,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Me encolho perto de uma barraca, observando a chuva bater forte na lona.",
+    "created_tick": 131,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aquela velha da rua das Flores ainda não chegou, viu? Vou procurar ela.",
+    "created_tick": 131,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra chuva batendo na barraca e me afasto um pouco, deixando Marina e Iris conversarem.",
+    "created_tick": 132,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, a prefeitura precisa arrumar esse gerador, não é primeira vez que fica sem luz!",
+    "created_tick": 132,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

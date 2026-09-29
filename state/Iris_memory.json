@@ -1744,5 +1744,107 @@
     "created_tick": 124,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado procurar vela e fósforo antes que todo mundo limpe o estoque.",
+    "created_tick": 125,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó gente, vou ver se o Seu Valdez na oficina tem velas — aqui no mercado tá lotado de gente!",
+    "created_tick": 126,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, esse apagão vai dar pano pra manga, viu? Aposto que o poste caiu mesmo.",
+    "created_tick": 127,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 128,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, vira pra cá — preciso de alguém pra me passar as ferramentas enquanto checo esse poste.",
+    "created_tick": 128,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, amor, o poste caiu mesmo — vi o Seu Geraldo correndo pra avisar a prefeitura.",
+    "created_tick": 128,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 16: Apagão, cachorro perdido na chuva, feira lotada, todo mundo correndo pra cima e pra baixo.",
+    "created_tick": 128,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Marina. Eu achava \"Moça responsável, se preocupa com quem precisa, bom coração mesmo.\", agora acho \"Essa moça é corajosa mesmo, vai direto consertar poste na tempestade.\".",
+    "created_tick": 128,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, tira uma seca daquele bolo de milho pra mim, por favor?",
+    "created_tick": 129,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você vai ficar com fome aí — vem comigo no mercado, tem tudo aberto ainda!",
+    "created_tick": 129,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 130,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem algo quente aí? Essa chuva me lembrou quando nevou em mil novecentos e sessenta...",
+    "created_tick": 130,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vem cá, a gente se aproveita dessa chuva pra comer um bolo quente que fiz essa manhã.",
+    "created_tick": 130,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Me encolho perto de uma barraca, observando a chuva bater forte na lona.",
+    "created_tick": 131,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aquela velha da rua das Flores ainda não chegou, viu? Vou procurar ela.",
+    "created_tick": 131,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pra chuva batendo na barraca e me afasto um pouco, deixando Marina e Iris conversarem.",
+    "created_tick": 132,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, a prefeitura precisa arrumar esse gerador, não é primeira vez que fica sem luz!",
+    "created_tick": 132,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

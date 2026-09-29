@@ -1732,5 +1732,113 @@
     "created_tick": 124,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver se o pessoal sabe algo sobre esse poste caído, talvez arrume um café.",
+    "created_tick": 125,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Guardo as ferramentas e saio pra ver esse poste antes do mercado — temporal ou não, alguém precisa verificar.",
+    "created_tick": 126,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó gente, vou ver se o Seu Valdez na oficina tem velas — aqui no mercado tá lotado de gente!",
+    "created_tick": 126,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vem comigo na oficina, tenho uns sanduíches lá e preciso checar o poste.",
+    "created_tick": 127,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, esse apagão vai dar pano pra manga, viu? Aposto que o poste caiu mesmo.",
+    "created_tick": 127,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 128,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, vira pra cá — preciso de alguém pra me passar as ferramentas enquanto checo esse poste.",
+    "created_tick": 128,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, amor, o poste caiu mesmo — vi o Seu Geraldo correndo pra avisar a prefeitura.",
+    "created_tick": 128,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 16: Apagão no quarteirão, achei o poste caído, Iris me ajudou, Teo não parou de falar bobagem.",
+    "created_tick": 128,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade.\", agora acho \"Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo.\".",
+    "created_tick": 128,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, tira uma seca daquele bolo de milho pra mim, por favor?",
+    "created_tick": 129,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você vai ficar com fome aí — vem comigo no mercado, tem tudo aberto ainda!",
+    "created_tick": 129,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 130,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra feira antes que feche, esse temporal não vai me parar.",
+    "created_tick": 130,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra feira antes que feche, essa chuva não me assusta.",
+    "created_tick": 131,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a oficina rápido e saio correndo pro mercado antes dessa chuva virar lama.",
+    "created_tick": 132,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pra chuva batendo na barraca e me afasto um pouco, deixando Marina e Iris conversarem.",
+    "created_tick": 132,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, a prefeitura precisa arrumar esse gerador, não é primeira vez que fica sem luz!",
+    "created_tick": 132,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

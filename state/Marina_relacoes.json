@@ -1,17 +1,21 @@
 {
   "Teo": {
-    "familiaridade": 52,
-    "opiniao": "Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade.",
-    "desde_dia": 7,
+    "familiaridade": 53,
+    "opiniao": "Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo.",
+    "desde_dia": 16,
     "historico": [
       {
         "dia": 3,
         "opiniao": "Esse rapaz anda sempre quieto, mexendo com livro velho."
+      },
+      {
+        "dia": 7,
+        "opiniao": "Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 50,
+    "familiaridade": 52,
     "opiniao": "Essa mulher não deixa cachorro sofrendo — age mesmo, sem falar muito.",
     "desde_dia": 14,
     "historico": [

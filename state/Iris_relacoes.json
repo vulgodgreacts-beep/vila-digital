@@ -1,12 +1,17 @@
 {
   "Marina": {
-    "familiaridade": 55,
-    "opiniao": "Moça responsável, se preocupa com quem precisa, bom coração mesmo.",
-    "desde_dia": 3,
-    "historico": []
+    "familiaridade": 60,
+    "opiniao": "Essa moça é corajosa mesmo, vai direto consertar poste na tempestade.",
+    "desde_dia": 16,
+    "historico": [
+      {
+        "dia": 3,
+        "opiniao": "Moça responsável, se preocupa com quem precisa, bom coração mesmo."
+      }
+    ]
   },
   "Teo": {
-    "familiaridade": 62,
+    "familiaridade": 66,
     "opiniao": "Nervoso sim, mas quando chove ajuda gente em perigo, é de verdade.",
     "desde_dia": 8,
     "historico": [
