@@ -2956,5 +2956,167 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Gente, essa chuva veio do nada, viu? E aquele chafariz da praça tá uma bagunça!"
+  },
+  {
+    "tick": 149,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 149,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Ligo a lanterna e saio pra ver o chafariz antes que entupa de vez com essa chuva."
+  },
+  {
+    "tick": 149,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa de livros doados com cuidado, procurando alguma pista sobre quem deixou aquilo aqui."
+  },
+  {
+    "tick": 149,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pra biblioteca ver quem deixou essa caixa de livros misteriosa antes da chuva piorar."
+  },
+  {
+    "tick": 150,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Desculpa, luz caiu — vou checar o gerador antes dessa água parada virar problema maior."
+  },
+  {
+    "tick": 150,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você viu quem deixou aquela caixa de livros na porta antes da chuva começar?"
+  },
+  {
+    "tick": 150,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, aposto que essa caixa de livros foi da Dona Maria, sabe como ela é generosa."
+  },
+  {
+    "tick": 151,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou até a praça ver se consigo desobstruir esse chafariz antes que fique pior."
+  },
+  {
+    "tick": 151,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você viu quem deixou essa caixa aqui antes da chuva começar?"
+  },
+  {
+    "tick": 151,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Ajudo Teo a empilhar esses livros antigos longe da chuva que tá entrando por baixo da porta."
+  },
+  {
+    "tick": 152,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou até a biblioteca ver essa tal caixa de livros antes da chuva estragar tudo."
+  },
+  {
+    "tick": 152,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou trazer essa caixa pra dentro antes que os livros molhem tudo."
+  },
+  {
+    "tick": 152,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Seguro essa caixa de livros pra não molhar tudo enquanto essa chuva não passa."
+  },
+  {
+    "tick": 153,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior."
+  },
+  {
+    "tick": 153,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Vou pra oficina pegar a lanterna e depois passo no mercado com Iris."
+  },
+  {
+    "tick": 153,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você sabe se o mercado ainda tá aberto com esse apagão?"
+  },
+  {
+    "tick": 153,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Entro na biblioteca pra ver essa caixa de livros que apareceu do nada, que coisa estranha!"
+  },
+  {
+    "tick": 154,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou no mercado, esse apagão vai demorar e preciso de algo pra comer antes de mexer no poste."
+  },
+  {
+    "tick": 154,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Pergunto pra Marina se ela conhece alguém que tenha doado aqueles livros antigos."
+  },
+  {
+    "tick": 154,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Saio correndo pra biblioteca ver essa tal caixa de livros antes que a tempestade estrague tudo."
+  },
+  {
+    "tick": 155,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, vem comigo na oficina, tenho lanterna e precisamos ver se é o poste ou a rede toda."
+  },
+  {
+    "tick": 155,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Entro no mercado procurando a barraca da Dona Rosa, onde ela sempre tem pão quente mesmo sem luz."
+  },
+  {
+    "tick": 155,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Vou pro mercado rápido, Marina pode precisar de lanterna ou corda pra consertar esse poste."
+  },
+  {
+    "tick": 156,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 156,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a lanterna e vou pro mercado antes dessa chuva ficar pior."
+  },
+  {
+    "tick": 156,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você sabe algo sobre essa caixa de livros que apareceu na biblioteca?"
+  },
+  {
+    "tick": 156,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, aquela caixa de livros na biblioteca — aposto que foi seu avô, que mais ninguém tem esse coração?"
   }
 ]

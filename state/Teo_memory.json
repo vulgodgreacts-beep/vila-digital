@@ -2116,5 +2116,107 @@
     "created_tick": 148,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 149,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros doados com cuidado, procurando alguma pista sobre quem deixou aquilo aqui.",
+    "created_tick": 149,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu quem deixou aquela caixa de livros na porta antes da chuva começar?",
+    "created_tick": 150,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aposto que essa caixa de livros foi da Dona Maria, sabe como ela é generosa.",
+    "created_tick": 150,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu quem deixou essa caixa aqui antes da chuva começar?",
+    "created_tick": 151,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ajudo Teo a empilhar esses livros antigos longe da chuva que tá entrando por baixo da porta.",
+    "created_tick": 151,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou trazer essa caixa pra dentro antes que os livros molhem tudo.",
+    "created_tick": 152,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Seguro essa caixa de livros pra não molhar tudo enquanto essa chuva não passa.",
+    "created_tick": 152,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 19: Chafariz entupido, temporal inesperado, caixa misteriosa de livros antigos apareceu na biblioteca.",
+    "created_tick": 152,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 153,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina pegar a lanterna e depois passo no mercado com Iris.",
+    "created_tick": 153,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você sabe se o mercado ainda tá aberto com esse apagão?",
+    "created_tick": 153,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pergunto pra Marina se ela conhece alguém que tenha doado aqueles livros antigos.",
+    "created_tick": 154,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, vem comigo na oficina, tenho lanterna e precisamos ver se é o poste ou a rede toda.",
+    "created_tick": 155,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro no mercado procurando a barraca da Dona Rosa, onde ela sempre tem pão quente mesmo sem luz.",
+    "created_tick": 155,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 156,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você sabe algo sobre essa caixa de livros que apareceu na biblioteca?",
+    "created_tick": 156,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
