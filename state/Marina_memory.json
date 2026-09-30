@@ -2176,5 +2176,101 @@
     "created_tick": 156,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da oficina com a lanterna — vou pro mercado antes que a chuva piore mais ainda.",
+    "created_tick": 157,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você acha que alguém anônimo mandou esses livros pra biblioteca antes da tempestade?",
+    "created_tick": 157,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aquele poste da rua pra frente da biblioteca tá com problema, vou olhar quando parar de chover.",
+    "created_tick": 158,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, essa caixa de livros apareceu sem nome — alguém sabe quem mandou?",
+    "created_tick": 158,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, que aqui tá escuro demais e meu estômago não aguenta mais.",
+    "created_tick": 159,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina pegar uns biscoitos que deixei lá, depois vejo esse apagão.",
+    "created_tick": 160,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 20: Apagão, mercado, poste com problema — dia normal de trabalho com chuva.",
+    "created_tick": 160,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pro mercado antes que feche, esse apagão vai deixar tudo fechado cedo.",
+    "created_tick": 161,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem algo quente pra comer? Essa chuva não quer parar.",
+    "created_tick": 162,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Viu só, Marina? Poste caído mesmo — vou abrir a barraca de seco e molhado pra vocês se abrigarem.",
+    "created_tick": 162,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem algo quente aí pra comer, ou tudo molhado com essa chuva?",
+    "created_tick": 163,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Iris entre as barracas pra perguntar se ela tem algo quente, mesmo sem luz.",
+    "created_tick": 163,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó, Marina, Teo, vocês comem um bolo que fiz? Tempestade não mata fome, né não?",
+    "created_tick": 163,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, essa chuva não vai passar tão cedo — sabe se alguém já foi ver o poste?",
+    "created_tick": 164,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, essa caixa de livros na biblioteca... você sabe de onde veio, com esse temporal aí?",
+    "created_tick": 164,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você vai nessa chuva? Deixa eu te dar um casaco, pelo menos!",
+    "created_tick": 164,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

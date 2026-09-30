@@ -1,24 +1,9 @@
 {
-  "tick": 156,
+  "tick": 164,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Apagão na vila",
-      "description": "A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
-      "state_changes": {
-        "energia": "sem luz"
-      },
-      "started_tick": 153
-    },
-    {
-      "title": "Caixa de livros doados",
-      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
-      "state_changes": {},
-      "started_tick": 156
-    }
-  ]
+  "active_incidents": []
 }

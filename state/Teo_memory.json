@@ -2218,5 +2218,131 @@
     "created_tick": 156,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna e vou pro mercado antes que a tempestade piore ainda mais.",
+    "created_tick": 157,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você acha que alguém anônimo mandou esses livros pra biblioteca antes da tempestade?",
+    "created_tick": 157,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, aquele poste da rua pra frente da biblioteca tá com problema, vou olhar quando parar de chover.",
+    "created_tick": 158,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou para a biblioteca — essa caixa de livros anônimos me intriga mais que qualquer sanduíche agora.",
+    "created_tick": 158,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, essa caixa de livros apareceu sem nome — alguém sabe quem mandou?",
+    "created_tick": 158,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pro mercado, que aqui tá escuro demais e meu estômago não aguenta mais.",
+    "created_tick": 159,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros com uma vela, esquecendo a fome por enquanto.",
+    "created_tick": 159,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Olho pra Teo: \"Aposto que quem deixou esses livros tá observando pra ver quem abre.",
+    "created_tick": 159,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros com cuidado, procurando qualquer pista sobre quem mandou isso.",
+    "created_tick": 160,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Seguro a lanterna do celular e olho pra Teo: \"Esses livros antigos vêm de quem, hein?",
+    "created_tick": 160,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 20: Tempestade, caixa misteriosa de livros antigos na biblioteca, fome esquecida pela curiosidade.",
+    "created_tick": 160,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Iris. Eu achava \"Ela se importa com quem tá perdido, até cachorro sem dono ela quer ajudar.\", agora acho \"Ela não só ajuda perdidos — também entende meu fascínio por mistérios literários.\".",
+    "created_tick": 160,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, você viu quem deixou essa caixa aqui antes da tempestade descer?",
+    "created_tick": 161,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou indo pro mercado buscar um lanche, Teo, depois a gente conversa sobre essa caixa misteriosa.",
+    "created_tick": 161,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca na chuva em direção ao mercado, passando pela praça que virou um borrão cinzento.",
+    "created_tick": 162,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Viu só, Marina? Poste caído mesmo — vou abrir a barraca de seco e molhado pra vocês se abrigarem.",
+    "created_tick": 162,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem algo quente aí pra comer, ou tudo molhado com essa chuva?",
+    "created_tick": 163,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Iris entre as barracas pra perguntar se ela tem algo quente, mesmo sem luz.",
+    "created_tick": 163,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó, Marina, Teo, vocês comem um bolo que fiz? Tempestade não mata fome, né não?",
+    "created_tick": 163,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, essa chuva não vai passar tão cedo — sabe se alguém já foi ver o poste?",
+    "created_tick": 164,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, essa caixa de livros na biblioteca... você sabe de onde veio, com esse temporal aí?",
+    "created_tick": 164,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

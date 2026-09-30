@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 72,
+    "familiaridade": 77,
     "opiniao": "Essa moça é corajosa mesmo, vai direto consertar poste na tempestade.",
     "desde_dia": 16,
     "historico": [
@@ -11,13 +11,17 @@
     ]
   },
   "Teo": {
-    "familiaridade": 80,
-    "opiniao": "Nervoso sim, mas quando chove ajuda gente em perigo, é de verdade.",
-    "desde_dia": 8,
+    "familiaridade": 87,
+    "opiniao": "Nervoso sim, mas curioso de verdade — quer desvendar mistério, não só ajudar.",
+    "desde_dia": 20,
     "historico": [
       {
         "dia": 3,
         "opiniao": "Nervoso demais com essa história toda, mas tem sensibilidade de verdade."
+      },
+      {
+        "dia": 8,
+        "opiniao": "Nervoso sim, mas quando chove ajuda gente em perigo, é de verdade."
       }
     ]
   }
