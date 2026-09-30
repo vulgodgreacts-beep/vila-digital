@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 68,
+    "familiaridade": 72,
     "opiniao": "Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo.",
     "desde_dia": 16,
     "historico": [
@@ -15,9 +15,9 @@
     ]
   },
   "Iris": {
-    "familiaridade": 70,
-    "opiniao": "Essa mulher não deixa cachorro sofrendo — age mesmo, sem falar muito.",
-    "desde_dia": 14,
+    "familiaridade": 74,
+    "opiniao": "Essa mulher quer me proteger — não é só ação, é cuidado mesmo.",
+    "desde_dia": 22,
     "historico": [
       {
         "dia": 3,
@@ -30,6 +30,10 @@
       {
         "dia": 10,
         "opiniao": "Essa mulher age rápido mesmo, não fica só falando besteira."
+      },
+      {
+        "dia": 14,
+        "opiniao": "Essa mulher não deixa cachorro sofrendo — age mesmo, sem falar muito."
       }
     ]
   }

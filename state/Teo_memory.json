@@ -1384,5 +1384,113 @@
     "created_tick": 172,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 173,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Apago a lanterna e espero a tempestade passar; não vale arriscar pela rua agora.",
+    "created_tick": 173,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 174,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a biblioteca e saio correndo pra casa, a chuva já me encharcando no caminho.",
+    "created_tick": 174,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a biblioteca e saio correndo pela chuva em direção ao mercado.",
+    "created_tick": 175,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Marina entre as barracas: \"Sabe, em 1913 tivemos temporal parecido... a vila ficou sem luz três dias.",
+    "created_tick": 176,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 22: Procurei cachorro perdido com Iris, apaguei correndo na chuva e temporal.",
+    "created_tick": 176,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, tem pão quente aí? Apagão desses eu conserto depois, agora tô morrendo de fome.",
+    "created_tick": 177,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro correndo no mercado, sacudindo a água da jaqueta, e pergunto à Iris se sobrou algo quente pra comer.",
+    "created_tick": 177,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninos, vou arrumar uns pães e queijo aqui na barraca antes que estrague tudo.",
+    "created_tick": 177,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego um café coado com broa na barraca da Iris — pelo menos enquanto essa chuva não passa.",
+    "created_tick": 178,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, aquele queijo caseiro que você tinha ontem... ainda tem? Esse apagão me lembrou da grande tempestade de 1987.",
+    "created_tick": 178,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vamos pra biblioteca, lá tem velas e a gente fica quentinho!",
+    "created_tick": 178,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 179,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Puxo Teo pro teto do mercado. \"Esse chafariz vai transbordar se não desempupar logo.",
+    "created_tick": 179,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo da chuva em direção às barracas do mercado, procurando abrigo.",
+    "created_tick": 179,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou até a praça ver esse chafariz — entupimento é comigo mesmo.",
+    "created_tick": 180,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, sabe que chafariz entupido assim acontecia em 1847 também, durante a seca?",
+    "created_tick": 180,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

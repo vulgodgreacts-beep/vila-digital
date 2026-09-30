@@ -1,17 +1,21 @@
 {
   "Marina": {
-    "familiaridade": 79,
-    "opiniao": "Essa moça é corajosa mesmo, vai direto consertar poste na tempestade.",
-    "desde_dia": 16,
+    "familiaridade": 84,
+    "opiniao": "Essa moça se importa comigo, quer me proteger da chuva.",
+    "desde_dia": 22,
     "historico": [
       {
         "dia": 3,
         "opiniao": "Moça responsável, se preocupa com quem precisa, bom coração mesmo."
+      },
+      {
+        "dia": 16,
+        "opiniao": "Essa moça é corajosa mesmo, vai direto consertar poste na tempestade."
       }
     ]
   },
   "Teo": {
-    "familiaridade": 94,
+    "familiaridade": 96,
     "opiniao": "Nervoso sim, mas tem coragem — topou procurar cachorro comigo na chuva.",
     "desde_dia": 21,
     "historico": [
