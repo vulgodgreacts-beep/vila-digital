@@ -1,14 +1,14 @@
 {
   "Marina": {
-    "familiaridade": 65,
+    "familiaridade": 67,
     "opiniao": "Prática e corajosa; vê valor nas coisas que outros deixam para trás.",
     "desde_dia": 3,
     "historico": []
   },
   "Iris": {
-    "familiaridade": 83,
-    "opiniao": "Ela não só ajuda perdidos — também entende meu fascínio por mistérios literários.",
-    "desde_dia": 20,
+    "familiaridade": 89,
+    "opiniao": "Corajosa demais às vezes, mas genuinamente preocupada com quem precisa de ajuda.",
+    "desde_dia": 21,
     "historico": [
       {
         "dia": 3,
@@ -17,6 +17,10 @@
       {
         "dia": 5,
         "opiniao": "Ela se importa com quem tá perdido, até cachorro sem dono ela quer ajudar."
+      },
+      {
+        "dia": 20,
+        "opiniao": "Ela não só ajuda perdidos — também entende meu fascínio por mistérios literários."
       }
     ]
   }
