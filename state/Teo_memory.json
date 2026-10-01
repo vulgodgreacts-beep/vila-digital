@@ -1726,5 +1726,107 @@
     "created_tick": 196,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho as janelas da biblioteca e procuro algo pra comer na minha pequena sala nos fundos.",
+    "created_tick": 197,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna do armário e vou pra cozinha da biblioteca procurar algo pra comer.",
+    "created_tick": 198,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a biblioteca e saio correndo pra o mercado, desviando das poças d'água.",
+    "created_tick": 199,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse temporal veio do nada mesmo, viu? Café com broa pra aquecer enquanto passa?",
+    "created_tick": 199,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Essa chuva vai derrubar galho — alguém precisa limpar a rua depois.",
+    "created_tick": 200,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem pão fresco aí? A biblioteca fica longe demais nessa chuva.",
+    "created_tick": 200,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 25: Temporal a noite toda, conversei com Iris no balcão, fechei a biblioteca cedo.",
+    "created_tick": 200,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 201,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado, mas primeiro deixo comida na praça para aquele cachorro assustado.",
+    "created_tick": 201,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Grito para Marina: \"Vem cá, esse cachorro tá com medo, a gente arruma uma caixa com pano!",
+    "created_tick": 201,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar uma corda na oficina e trazer esse cachorro pra dentro antes que piore.",
+    "created_tick": 202,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu esse cachorro antes? Parece tão perdido quanto o protagonista de *Grande Sertão*.",
+    "created_tick": 202,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esquece história, vamos procurar esse cachorro antes que se perca mais ainda!",
+    "created_tick": 202,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu esse cachorro por aqui? Preciso comprar algo pra comer.",
+    "created_tick": 203,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você fica aqui guardando as coisas, vou ver esse cachorro na praça!",
+    "created_tick": 203,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro... lembra aquele cão dos Três Mosqueteiros que ninguém reconhecia?",
+    "created_tick": 204,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, deixa essa história pra depois, vamo procurar esse cachorro antes que piore esse temporal!",
+    "created_tick": 204,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

@@ -1696,5 +1696,95 @@
     "created_tick": 196,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Desligo a luz da oficina e vou pra praça ver esse chafariz — não aguento fica aqui de braços cruzados.",
+    "created_tick": 197,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado antes que a água invada tudo e aproveito pra pegar algo pra comer.",
+    "created_tick": 198,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Puxo Marina pro corredor do mercado, longe da chuva que entra pelas frestas.",
+    "created_tick": 198,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, essa chuva vai derrubar árvore — depois a gente limpa a praça junto.",
+    "created_tick": 199,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse temporal veio do nada mesmo, viu? Café com broa pra aquecer enquanto passa?",
+    "created_tick": 199,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Essa chuva vai derrubar galho — alguém precisa limpar a rua depois.",
+    "created_tick": 200,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão fresco aí? A biblioteca fica longe demais nessa chuva.",
+    "created_tick": 200,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, vem cá que tenho um lugar mais seco pra gente ficar!",
+    "created_tick": 200,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 25: Temporal desastrado, chafariz entupido, Iris me puxando pro mercado, café quente, gente se ajudando.",
+    "created_tick": 200,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 201,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, vou pegar uns restos de comida e tentar trazer esse cachorro pra dentro.",
+    "created_tick": 201,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Grito para Marina: \"Vem cá, esse cachorro tá com medo, a gente arruma uma caixa com pano!",
+    "created_tick": 201,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pegar uma corda na oficina e trazer esse cachorro pra dentro antes que piore.",
+    "created_tick": 202,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego uma corda na oficina e vou atrás desse cachorro na praça antes que ele se perca.",
+    "created_tick": 203,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da oficina pra procurar esse cachorro na praça antes da tempestade piorar.",
+    "created_tick": 204,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

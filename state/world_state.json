@@ -1,5 +1,5 @@
 {
-  "tick": 196,
+  "tick": 204,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
@@ -7,21 +7,10 @@
   },
   "active_incidents": [
     {
-      "title": "Chafariz entupido",
-      "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
-      "state_changes": {
-        "movimento": "gente parada olhando o chafariz"
-      },
-      "started_tick": 192
-    },
-    {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 193
+      "title": "Cachorro perdido",
+      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+      "state_changes": {},
+      "started_tick": 201
     }
   ]
 }
