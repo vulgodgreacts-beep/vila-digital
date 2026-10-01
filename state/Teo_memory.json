@@ -1624,5 +1624,107 @@
     "created_tick": 188,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou examinar essa caixa de livros doados com a lanterna do meu celular.",
+    "created_tick": 189,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna e vou à porta ver essa caixa misteriosa antes que a chuva a danifique.",
+    "created_tick": 190,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros com cuidado, procurando alguma pista sobre quem a deixou aqui.",
+    "created_tick": 191,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 192,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros com cuidado, procurando por qualquer marca ou assinatura antiga.",
+    "created_tick": 192,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 24: Temporal, cachorro perdido na praça, caixa misteriosa de livros na biblioteca, muito trabalho.",
+    "created_tick": 192,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 193,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você acha seguro sair correndo pro mercado agora, ou melhor esperar a chuva passar?",
+    "created_tick": 193,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me arruma um pão com queijo, essa chuva não vai passar tão cedo.",
+    "created_tick": 194,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Iris no balcão — talvez ela tenha algo quente pra comer enquanto esse temporal passa.",
+    "created_tick": 194,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse chafariz entupido vai virar uma poça danada com essa chuva toda!",
+    "created_tick": 194,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem algo pra comer aí? Preciso ir ver esse chafariz antes que piore.",
+    "created_tick": 195,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Me encosto no balcão de Iris: \"Esse temporal lembra a enchente de 1987, você estava aqui?",
+    "created_tick": 195,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Esse chafariz entupido é culpa do lixo que o povo joga, tenho certeza!",
+    "created_tick": 195,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Esse chafariz entupido vai transbordar com chuva assim, vou dar uma olhada lá.",
+    "created_tick": 196,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse chafariz entupido me lembra da crise hídrica de 1887 aqui na vila.",
+    "created_tick": 196,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse chafariz entupido vai virar uma poça gigante com essa chuva toda!",
+    "created_tick": 196,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

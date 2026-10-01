@@ -1648,5 +1648,125 @@
     "created_tick": 188,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, viu aquele cachorro perdido? Alguém precisa procurar o dono dele.",
+    "created_tick": 189,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse cachorro tá com medo — vou levar pra oficina, tem comida lá.",
+    "created_tick": 190,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse cachorro perdido, coitado deve estar morrendo de medo nessa chuva.",
+    "created_tick": 190,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ajudar a procurar esse cachorro perdido antes que ele se machuque na chuva.",
+    "created_tick": 191,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 192,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a biblioteca ver essa caixa de livros — pode ser coisa do seu Gilson, aquele colecionador.",
+    "created_tick": 192,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 24: Que dia de chuva e confusão! Cachorro perdido, livros misteriosos, chafariz entupido, todo mundo ajudando.",
+    "created_tick": 192,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Marina. Eu achava \"Essa moça se importa comigo, quer me proteger da chuva.\", agora acho \"Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.\".",
+    "created_tick": 192,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 193,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você acha seguro sair correndo pro mercado agora, ou melhor esperar a chuva passar?",
+    "created_tick": 193,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou correndo pro mercado antes que a chuva piore, preciso fechar as janelas lá.",
+    "created_tick": 193,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me arruma um pão com queijo, essa chuva não vai passar tão cedo.",
+    "created_tick": 194,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Iris no balcão — talvez ela tenha algo quente pra comer enquanto esse temporal passa.",
+    "created_tick": 194,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, esse chafariz entupido vai virar uma poça danada com essa chuva toda!",
+    "created_tick": 194,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem algo pra comer aí? Preciso ir ver esse chafariz antes que piore.",
+    "created_tick": 195,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Me encosto no balcão de Iris: \"Esse temporal lembra a enchente de 1987, você estava aqui?",
+    "created_tick": 195,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse chafariz entupido é culpa do lixo que o povo joga, tenho certeza!",
+    "created_tick": 195,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Esse chafariz entupido vai transbordar com chuva assim, vou dar uma olhada lá.",
+    "created_tick": 196,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Esse chafariz entupido me lembra da crise hídrica de 1887 aqui na vila.",
+    "created_tick": 196,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, esse chafariz entupido vai virar uma poça gigante com essa chuva toda!",
+    "created_tick": 196,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

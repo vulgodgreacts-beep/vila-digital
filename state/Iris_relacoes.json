@@ -1,8 +1,8 @@
 {
   "Marina": {
-    "familiaridade": 90,
-    "opiniao": "Essa moça se importa comigo, quer me proteger da chuva.",
-    "desde_dia": 22,
+    "familiaridade": 94,
+    "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.",
+    "desde_dia": 24,
     "historico": [
       {
         "dia": 3,
@@ -11,11 +11,15 @@
       {
         "dia": 16,
         "opiniao": "Essa moça é corajosa mesmo, vai direto consertar poste na tempestade."
+      },
+      {
+        "dia": 22,
+        "opiniao": "Essa moça se importa comigo, quer me proteger da chuva."
       }
     ]
   },
   "Teo": {
-    "familiaridade": 102,
+    "familiaridade": 105,
     "opiniao": "Nervoso demais, fica falando de história quando devia agir logo!",
     "desde_dia": 23,
     "historico": [

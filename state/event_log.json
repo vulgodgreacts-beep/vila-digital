@@ -3778,5 +3778,167 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Marina, você viu aquele cachorro assustado na praça? Alguém precisa ajudar o coitado."
+  },
+  {
+    "tick": 189,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado ver se alguém reconhece esse cachorro assustado que tá circulando."
+  },
+  {
+    "tick": 189,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou examinar essa caixa de livros doados com a lanterna do meu celular."
+  },
+  {
+    "tick": 189,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, viu aquele cachorro perdido? Alguém precisa procurar o dono dele."
+  },
+  {
+    "tick": 190,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, esse cachorro tá com medo — vou levar pra oficina, tem comida lá."
+  },
+  {
+    "tick": 190,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Pego a lanterna e vou à porta ver essa caixa misteriosa antes que a chuva a danifique."
+  },
+  {
+    "tick": 190,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pra praça ver esse cachorro perdido, coitado deve estar morrendo de medo nessa chuva."
+  },
+  {
+    "tick": 191,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra praça achar esse cachorro antes que se perca mais ainda com esse temporal."
+  },
+  {
+    "tick": 191,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa de livros com cuidado, procurando alguma pista sobre quem a deixou aqui."
+  },
+  {
+    "tick": 191,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pra praça ajudar a procurar esse cachorro perdido antes que ele se machuque na chuva."
+  },
+  {
+    "tick": 192,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada."
+  },
+  {
+    "tick": 192,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra praça ver esse chafariz entupido antes que a chuva piore tudo."
+  },
+  {
+    "tick": 192,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa de livros com cuidado, procurando por qualquer marca ou assinatura antiga."
+  },
+  {
+    "tick": 192,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou até a biblioteca ver essa caixa de livros — pode ser coisa do seu Gilson, aquele colecionador."
+  },
+  {
+    "tick": 192,
+    "agent": "SISTEMA",
+    "location": "biblioteca",
+    "action": "Iris mudou de ideia sobre Marina: Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado."
+  },
+  {
+    "tick": 193,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar."
+  },
+  {
+    "tick": 193,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Tranco a oficina e saio correndo pro mercado antes dessa chuva me derrubar."
+  },
+  {
+    "tick": 193,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você acha seguro sair correndo pro mercado agora, ou melhor esperar a chuva passar?"
+  },
+  {
+    "tick": 193,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Vou correndo pro mercado antes que a chuva piore, preciso fechar as janelas lá."
+  },
+  {
+    "tick": 194,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, me arruma um pão com queijo, essa chuva não vai passar tão cedo."
+  },
+  {
+    "tick": 194,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Iris no balcão — talvez ela tenha algo quente pra comer enquanto esse temporal passa."
+  },
+  {
+    "tick": 194,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, esse chafariz entupido vai virar uma poça danada com essa chuva toda!"
+  },
+  {
+    "tick": 195,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, você tem algo pra comer aí? Preciso ir ver esse chafariz antes que piore."
+  },
+  {
+    "tick": 195,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Me encosto no balcão de Iris: \"Esse temporal lembra a enchente de 1987, você estava aqui?"
+  },
+  {
+    "tick": 195,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Esse chafariz entupido é culpa do lixo que o povo joga, tenho certeza!"
+  },
+  {
+    "tick": 196,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Esse chafariz entupido vai transbordar com chuva assim, vou dar uma olhada lá."
+  },
+  {
+    "tick": 196,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Esse chafariz entupido me lembra da crise hídrica de 1887 aqui na vila."
+  },
+  {
+    "tick": 196,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, esse chafariz entupido vai virar uma poça gigante com essa chuva toda!"
   }
 ]
