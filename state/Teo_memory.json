@@ -1492,5 +1492,137 @@
     "created_tick": 180,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado ver se consigo um pão antes que a chuva piore.",
+    "created_tick": 181,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aposto que o Seu Geraldo sabe o que entupiu esse chafariz — tudo passa pelas mãos dele.",
+    "created_tick": 181,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse chafariz me lembra da crise hídrica de 1932... alguém já chamou o Geraldo?",
+    "created_tick": 182,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse chafariz entupido é coisa de alguém, tenho certeza — vem, a gente descobre quem.",
+    "created_tick": 182,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para Iris com aquela preocupação dela. \"Sabe, chafarizes entupidos... já acontecia na Roma Antiga também.",
+    "created_tick": 183,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, esse chafariz entupido é coisa pra você resolver, querida!",
+    "created_tick": 183,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 184,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me arruma um bolo de milho aí, que esse chafariz não vai consertar sozinho.",
+    "created_tick": 184,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse chafariz entupido me lembra a fonte de Roma que secou em 1629... alguém sabe o que aconteceu?",
+    "created_tick": 184,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vocês viram que o chafariz entupiu? Aposto que foi aquela árvore velha caindo.",
+    "created_tick": 184,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 23: Feira lotada, chuva, chafariz entupido e todo mundo procurando solução junto.",
+    "created_tick": 184,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou na barraca da Iris, ela tem caldo quente — temporal assim pede comida de verdade.",
+    "created_tick": 185,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Marina e Iris entre as barracas, aproveitando a falta de luz para não parecer tão desajeitado.",
+    "created_tick": 185,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, esse temporal não vai passar tão cedo, vem aqui dentro que a chuva tá brava!",
+    "created_tick": 185,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 186,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele cachorro tá com fome igual a mim — bora pegar algo na sua barraca?",
+    "created_tick": 186,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da barraca procurando o cachorro, lembrando que cães assustados costumam se abrigar em lugares escuros.",
+    "created_tick": 186,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, Marina, aquele cachorro tá lá perto das barracas, vem me ajudar a pegar!",
+    "created_tick": 186,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 187,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse cachorro assustado precisa comer — vou trazer algo aqui da barraca.",
+    "created_tick": 187,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou voltar pra biblioteca ver se aqueles livros antigos têm alguma marca de procedência.",
+    "created_tick": 187,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros com cuidado, procurando alguma pista sobre quem deixou isso aqui.",
+    "created_tick": 188,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

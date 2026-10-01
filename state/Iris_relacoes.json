@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 84,
+    "familiaridade": 90,
     "opiniao": "Essa moça se importa comigo, quer me proteger da chuva.",
     "desde_dia": 22,
     "historico": [
@@ -15,9 +15,9 @@
     ]
   },
   "Teo": {
-    "familiaridade": 96,
-    "opiniao": "Nervoso sim, mas tem coragem — topou procurar cachorro comigo na chuva.",
-    "desde_dia": 21,
+    "familiaridade": 102,
+    "opiniao": "Nervoso demais, fica falando de história quando devia agir logo!",
+    "desde_dia": 23,
     "historico": [
       {
         "dia": 3,
@@ -30,6 +30,10 @@
       {
         "dia": 20,
         "opiniao": "Nervoso sim, mas curioso de verdade — quer desvendar mistério, não só ajudar."
+      },
+      {
+        "dia": 21,
+        "opiniao": "Nervoso sim, mas tem coragem — topou procurar cachorro comigo na chuva."
       }
     ]
   }
