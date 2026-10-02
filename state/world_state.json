@@ -1,9 +1,24 @@
 {
-  "tick": 212,
+  "tick": 220,
   "state": {
     "clima": "temporal",
-    "movimento": "todo mundo se abrigando",
+    "movimento": "gente parada olhando o chafariz",
     "energia": "sem luz"
   },
-  "active_incidents": []
+  "active_incidents": [
+    {
+      "title": "Cachorro perdido",
+      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+      "state_changes": {},
+      "started_tick": 217
+    },
+    {
+      "title": "Chafariz entupido",
+      "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
+      "state_changes": {
+        "movimento": "gente parada olhando o chafariz"
+      },
+      "started_tick": 219
+    }
+  ]
 }

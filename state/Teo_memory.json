@@ -1924,5 +1924,137 @@
     "created_tick": 212,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 213,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca e corro pro mercado antes que a chuva fique ainda mais forte.",
+    "created_tick": 213,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vem cá dentro que aqui é seguro, essa chuva não tá brincadeira não!",
+    "created_tick": 213,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele gerador da prefeitura tá sem funcionar — vou dar uma olhada antes da noite piorar.",
+    "created_tick": 214,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vocês vão ficar aqui ou a gente se arrisca até a biblioteca?",
+    "created_tick": 214,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado antes que a chuva piore e compro algo pra comer.",
+    "created_tick": 215,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ué, Marina, Teo, vem pra dentro do mercado, essa chuva não brinca!",
+    "created_tick": 215,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina, esse temporal vai derrubar galho — preciso ter ferramenta à mão.",
+    "created_tick": 216,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, a biblioteca tem velas — quer que eu abra as portas pra quem tiver preso na rua?",
+    "created_tick": 216,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 27: Temporal desabou de repente; abri a biblioteca pras pessoas se abrigarem da chuva.",
+    "created_tick": 216,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 217,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca na direção do mercado, protegendo a cabeça da chuva.",
+    "created_tick": 217,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro coitado tá lá na chuva, alguém leva ele pra dentro?",
+    "created_tick": 217,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá fora ajudar Iris a pegar esse cachorro antes que ele se machuca mais.",
+    "created_tick": 218,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro lá fora... a gente consegue trazer pra dentro antes de piorar?",
+    "created_tick": 218,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou lá fora com um guarda-chuva e uns biscoitos pra chamar esse cachorro assustado.",
+    "created_tick": 218,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 219,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver esse chafariz, que água parada atrapalha tudo.",
+    "created_tick": 219,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pro cachorro assustado e pergunto pra Iris: \"Alguém viu de onde veio esse pobre animal?",
+    "created_tick": 219,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Que temporal! Aquele cachorro coitado tá tremendo, vou tentar dar um petisco pra ele se acalmar.",
+    "created_tick": 219,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou até a praça ver esse chafariz entupido — preciso tirar a água parada antes de piorar.",
+    "created_tick": 220,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra biblioteca buscar aquele livro sobre sistemas de água da antiguidade.",
+    "created_tick": 220,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
