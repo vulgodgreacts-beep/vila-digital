@@ -2170,5 +2170,119 @@
     "created_tick": 228,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca para ver esse chafariz entupido — deve ter alguma história por trás disso.",
+    "created_tick": 229,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca para ver esse chafariz entupido — deve ter uma história por trás.",
+    "created_tick": 230,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado, a tempestade deixou todo mundo na rua mesmo com essa chuva chata.",
+    "created_tick": 231,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse chafariz entupido é problema pra semana toda, viu Marina?",
+    "created_tick": 231,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça ver esse chafariz — temporal e sem luz, isso vai dar problema.",
+    "created_tick": 232,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a praça ver esse chafariz entupido; lembra quando a vila teve problema com água em mil novecentos e trinta.",
+    "created_tick": 232,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, Marina, esse chafariz entupido vai virar uma poça gigante se ninguém mexer nele logo!",
+    "created_tick": 232,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 29: Vi o chafariz entupido e pensei logo em 1887, enquanto galera se mexia.",
+    "created_tick": 232,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou pra oficina, essa luz fora tá me irritando e barriga vazia não resolve nada sozinha.",
+    "created_tick": 233,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Peço um pão à Iris, olhando pela janela pro chafariz parado lá fora.",
+    "created_tick": 233,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Teo, com essa chuva o chafariz vai transbordar se ninguém desentupir logo!",
+    "created_tick": 233,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 234,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro assustado... lembra aquele cão do romance de Balzac que ninguém reclamava?",
+    "created_tick": 234,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou pra praça ver esse cachorro assustado, alguém precisa acalmar esse bichinho.",
+    "created_tick": 234,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse cachorro me lembra daquele cão da Odisseia — perdido, assustado, esperando voltar pra casa.",
+    "created_tick": 235,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou lá na praça chamar esse cachorro, coitado tá tremendo de medo com essa chuva.",
+    "created_tick": 235,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 236,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar um café com Iris enquanto essa chuva passa, depois caço esse cachorro.",
+    "created_tick": 236,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou logo à biblioteca ver quem deixou essa caixa misteriosa antes da tempestade piorar.",
+    "created_tick": 236,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
