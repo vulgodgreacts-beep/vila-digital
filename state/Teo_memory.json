@@ -2056,5 +2056,119 @@
     "created_tick": 220,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção à praça, pensando se o cachorro assustado precisa de ajuda.",
+    "created_tick": 221,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra procurar o cachorro na praça, de certa forma preocupado.",
+    "created_tick": 222,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção ao mercado, pensando se alguém já investigou por que o chafariz entupiu.",
+    "created_tick": 223,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu aquela água parada no chafariz? Aposto que foi o Seu Mário entupindo tudo de novo.",
+    "created_tick": 223,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para Iris: \"Esse chafariz me lembra aquela história do encanamento colonial que li uma vez.",
+    "created_tick": 224,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu que o chafariz entupiu? Deve ser coisa do temporal, vou lá ver depois.",
+    "created_tick": 224,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 28: Temporal complicou tudo, chafariz entupiu, cachorro assustado apareceu, lembrei da história colonial.",
+    "created_tick": 224,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, você tem pão? Esse temporal me lembrou da grande enchente de 1887.",
+    "created_tick": 225,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vocês viram que cachorro assustado? Marina, vem ajudar a gente procurar?",
+    "created_tick": 225,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego uma broa com queijo na barraca da Iris e fico de olho nesse temporal.",
+    "created_tick": 226,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse temporal me lembrou do grande alagamento de 1897 — você viu se o cachorro procurou abrigo?",
+    "created_tick": 226,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, Marina, Teo, alguém sabe de quem é esse cachorro assustado da praça?",
+    "created_tick": 226,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 227,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me arruma um pão com queijo, vou depressa porque esse chafariz não vai se consertar sozinho.",
+    "created_tick": 227,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, sabe que o entupimento de chafarizes era comum em Roma? Vou pegar algo pra comer.",
+    "created_tick": 227,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, esse chafariz entupido é coisa pro seu jeito de resolver problema, né não?",
+    "created_tick": 227,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na praça conferir esse chafariz entupido antes de comer algo.",
+    "created_tick": 228,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para o chafariz parado e murmuro: \"Sabe, em 1887 a vila também ficou sem água...",
+    "created_tick": 228,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você que mexe com máquina — será que consegue desentupir nosso chafariz?",
+    "created_tick": 228,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
