@@ -1786,5 +1786,89 @@
     "created_tick": 204,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a corda da oficina e vou pra praça procurar esse cachorro antes da chuva piorar.",
+    "created_tick": 205,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna a pilha e vou pra praça atrás desse cachorro antes que se perca mais.",
+    "created_tick": 206,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a oficina e saio correndo pro mercado — esse temporal não vai derrubar nada meu.",
+    "created_tick": 207,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu se alguém deixou pão ou queijo aqui antes da luz apagar?",
+    "created_tick": 207,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de um abrigo, vamos levar pra biblioteca que é mais seguro!",
+    "created_tick": 207,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro perdido tá lá fora na chuva — vamos atrás dele antes que se perca mais.",
+    "created_tick": 208,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou pra biblioteca antes que a chuva piore; pelo menos lá tenho velas e companhia dos livros.",
+    "created_tick": 208,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 26: Cachorro perdido na chuva, gente se mexendo pra ajudar, temporal complicado demais.",
+    "created_tick": 208,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo.\", agora acho \"Rapaz parou de contar história e foi atrás do cachorro junto com gente.\".",
+    "created_tick": 208,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pro mercado antes que estrague tudo que tem de comida ali com essa chuva.",
+    "created_tick": 209,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro no mercado pra pegar algo rápido antes de voltar pra oficina.",
+    "created_tick": 210,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a porta da oficina e saio pro mercado antes dessa chuva piorar.",
+    "created_tick": 211,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pra Marina e pergunto: \"Você viu aquele cachorro passar por aqui antes da chuva desabar?",
+    "created_tick": 211,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro tá com fome igual a gente — vamo levar pra oficina que tem comida lá.",
+    "created_tick": 212,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

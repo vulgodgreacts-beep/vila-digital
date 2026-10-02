@@ -1,8 +1,8 @@
 {
   "Teo": {
-    "familiaridade": 81,
-    "opiniao": "Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo.",
-    "desde_dia": 16,
+    "familiaridade": 83,
+    "opiniao": "Rapaz parou de contar história e foi atrás do cachorro junto com gente.",
+    "desde_dia": 26,
     "historico": [
       {
         "dia": 3,
@@ -11,6 +11,10 @@
       {
         "dia": 7,
         "opiniao": "Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade."
+      },
+      {
+        "dia": 16,
+        "opiniao": "Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo."
       }
     ]
   },

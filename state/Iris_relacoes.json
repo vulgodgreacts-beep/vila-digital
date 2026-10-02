@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 98,
+    "familiaridade": 99,
     "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.",
     "desde_dia": 24,
     "historico": [
@@ -19,14 +19,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 110,
-    "opiniao": "Nervoso, mas pelo menos veio me ajudar no mercado quando precisei, meu deus!",
-    "desde_dia": 25,
+    "familiaridade": 115,
+    "opiniao": "Nervoso demais com livro, mas quando importa mesmo, ele tá ali comigo, gosto disso.",
+    "desde_dia": 26,
     "historico": [
-      {
-        "dia": 8,
-        "opiniao": "Nervoso sim, mas quando chove ajuda gente em perigo, é de verdade."
-      },
       {
         "dia": 20,
         "opiniao": "Nervoso sim, mas curioso de verdade — quer desvendar mistério, não só ajudar."
@@ -38,6 +34,10 @@
       {
         "dia": 23,
         "opiniao": "Nervoso demais, fica falando de história quando devia agir logo!"
+      },
+      {
+        "dia": 25,
+        "opiniao": "Nervoso, mas pelo menos veio me ajudar no mercado quando precisei, meu deus!"
       }
     ]
   }

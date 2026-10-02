@@ -1882,5 +1882,83 @@
     "created_tick": 204,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça antes que esse bichinho se perca na chuva.",
+    "created_tick": 205,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, deixa essa história pra depois, vem me ajudar a pegar esse cachorro assustado!",
+    "created_tick": 206,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu se alguém deixou pão ou queijo aqui antes da luz apagar?",
+    "created_tick": 207,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, esse cachorro assustado precisa de um abrigo, vamos levar pra biblioteca que é mais seguro!",
+    "created_tick": 207,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse temporal deve ter assustado aquele cachorro perdido, coitado, deve estar com medo lá na praça.",
+    "created_tick": 208,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 26: Achei esse cachorro perdido na chuva e a turma toda veio me ajudar, que coisa boa.",
+    "created_tick": 208,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Nervoso, mas pelo menos veio me ajudar no mercado quando precisei, meu deus!\", agora acho \"Nervoso demais com livro, mas quando importa mesmo, ele tá ali comigo, gosto disso.\".",
+    "created_tick": 208,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Iris, você viu aquele cachorro passar por aqui com essa chuva?",
+    "created_tick": 209,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Teo pelo braço: \"Vem, a gente arruma essas velas aqui antes que fique completamente escuro!",
+    "created_tick": 209,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a porta com cuidado, observando a chuva, e pergunto a Iris: \"Você vai pro mercado? Estou com fome.",
+    "created_tick": 210,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra casa, essa escuridão toda me deixa desconfortável, preciso ver se todo mundo tá bem lá fora.",
+    "created_tick": 210,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo uma cadeira perto da janela pra ver se a chuva passa logo.",
+    "created_tick": 211,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, essa chuva não é brincadeira, viu? Você tá bem aí com seus livros?",
+    "created_tick": 212,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

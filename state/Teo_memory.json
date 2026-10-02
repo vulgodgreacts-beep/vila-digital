@@ -1828,5 +1828,101 @@
     "created_tick": 204,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Verifico se a porta da biblioteca está travada antes de ir à praça procurar esse cachorro.",
+    "created_tick": 205,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado aproveitar que a chuva acalmou um pouco.",
+    "created_tick": 206,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, deixa essa história pra depois, vem me ajudar a pegar esse cachorro assustado!",
+    "created_tick": 206,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu se alguém deixou pão ou queijo aqui antes da luz apagar?",
+    "created_tick": 207,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de um abrigo, vamos levar pra biblioteca que é mais seguro!",
+    "created_tick": 207,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro perdido tá lá fora na chuva — vamos atrás dele antes que se perca mais.",
+    "created_tick": 208,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra biblioteca antes que a chuva piore; pelo menos lá tenho velas e companhia dos livros.",
+    "created_tick": 208,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse temporal deve ter assustado aquele cachorro perdido, coitado, deve estar com medo lá na praça.",
+    "created_tick": 208,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 26: Perseguimos um cachorro perdido pela chuva; biblioteca virou abrigo inesperado.",
+    "created_tick": 208,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, você viu aquele cachorro passar por aqui com essa chuva?",
+    "created_tick": 209,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Puxo Teo pelo braço: \"Vem, a gente arruma essas velas aqui antes que fique completamente escuro!",
+    "created_tick": 209,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a porta com cuidado, observando a chuva, e pergunto a Iris: \"Você vai pro mercado? Estou com fome.",
+    "created_tick": 210,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Marina e pergunto: \"Você viu aquele cachorro passar por aqui antes da chuva desabar?",
+    "created_tick": 211,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro tá com fome igual a gente — vamo levar pra oficina que tem comida lá.",
+    "created_tick": 212,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da barraca e corro para a biblioteca, onde pelo menos há teto e talvez encontre o cachorro.",
+    "created_tick": 212,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, essa chuva não é brincadeira, viu? Você tá bem aí com seus livros?",
+    "created_tick": 212,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
