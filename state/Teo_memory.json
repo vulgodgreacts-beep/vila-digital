@@ -1678,5 +1678,137 @@
     "created_tick": 260,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 261,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a biblioteca e saio correndo pro mercado, desvencilhando da chuva.",
+    "created_tick": 261,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aquele cachorro tá lá fora na chuva, coitado, a gente faz algo?",
+    "created_tick": 261,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro lá fora... você viu? Parece perdido mesmo, coitado.",
+    "created_tick": 262,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem ajudar? Aquele cachorro tá lá fora, coitado, assustado com essa chuva toda.",
+    "created_tick": 262,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro lá fora... a gente não deveria tentar trazer pra dentro antes que piore?",
+    "created_tick": 263,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem comigo, esse cachorro na praça tá se afogando de chuva, precisa de ajuda.",
+    "created_tick": 263,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, aquele cachorro perdido... deve estar se abrigando em algum lugar da praça agora.",
+    "created_tick": 264,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, esse cachorro lá fora tá encharcado, vamos trazer pra dentro antes que piore!",
+    "created_tick": 264,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 33: Fechei a biblioteca na chuva e ajudei Iris a se preocupar com aquele cachorro perdido lá fora.",
+    "created_tick": 264,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 265,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me vende um pão com queijo — rápido, que vou ajudar Teo com esse cachorro.",
+    "created_tick": 265,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Seguro a porta da barraca enquanto a chuva bate, procurando algo rápido pra comer.",
+    "created_tick": 265,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, alguém conhece esse cachorro assustado lá na praça?",
+    "created_tick": 265,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 266,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar algo rápido com Iris antes dessa chuva piorar mais.",
+    "created_tick": 266,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse temporal lembra a tempestade de 1987 que derrubou a ponte velha.",
+    "created_tick": 266,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ô Marina, Teo, esse cachorro tá perdido mesmo, vou perguntar pra Seu Paulo se viu ele passar perto da oficina.",
+    "created_tick": 266,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 267,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na oficina pegar lanterna e ver se esse apagão é coisa séria.",
+    "created_tick": 267,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Me aproximo do cachorro assustado, falando baixo: \"Ó, coitado... vem cá, ninguém vai te machucar.",
+    "created_tick": 267,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aponto para o cachorro assustado perto da barraca de frutas: \"Marina, esse aí parece tão perdido quanto a gente nesse apagão.",
+    "created_tick": 268,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
