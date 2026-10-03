@@ -5026,5 +5026,161 @@
     "agent": "Iris",
     "location": "biblioteca",
     "action": "Teo, aposto que foi a Dona Margarida, ela adora essas coisas de livro antigo."
+  },
+  {
+    "tick": 253,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Fecho a oficina e vou pro mercado — esse temporal não me deixa trabalhar mesmo."
+  },
+  {
+    "tick": 253,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa misteriosa com cuidado, procurando qualquer pista sobre quem a deixou aqui."
+  },
+  {
+    "tick": 253,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você viu essa caixa de livros que apareceu na biblioteca? Aposto que foi o Seu Tonho!"
+  },
+  {
+    "tick": 254,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pro mercado pegar algo pra comer antes que esse temporal piore mesmo."
+  },
+  {
+    "tick": 254,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, vem comigo no mercado? Essa caixa de livros vai esperar, mas meu estômago não aguenta mais."
+  },
+  {
+    "tick": 254,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Vou abrir essa caixa de livros pra ver se tem alguma pista de quem deixou."
+  },
+  {
+    "tick": 255,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento."
+  },
+  {
+    "tick": 255,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou atrás de um pastel, essa chuva toda me deixou com fome."
+  },
+  {
+    "tick": 255,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Marina, você viu quem deixou aquela caixa de livros na biblioteca?"
+  },
+  {
+    "tick": 255,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Olho pra caixa de livros e pergunto pro Teo: \"Quem será que mandou isso sem deixar recado?"
+  },
+  {
+    "tick": 256,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Saio do mercado e vou pra biblioteca ver essa caixa de livros — pode ter algo útil lá."
+  },
+  {
+    "tick": 256,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa de livros com cuidado, procurando algum indício de quem a deixou aqui."
+  },
+  {
+    "tick": 256,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, querido, essa caixa de livros antigos tem cheiro de mistério — aposto que foi a Dona Cecília!"
+  },
+  {
+    "tick": 257,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Vou pro mercado, essa feira tá lotada e preciso comer algo antes que falte."
+  },
+  {
+    "tick": 257,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você sabe quem deixou aquela caixa de livros na biblioteca?"
+  },
+  {
+    "tick": 257,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, meu filho, vou lá pro mercado pegar algo pra comer antes que feche tudo."
+  },
+  {
+    "tick": 258,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
+  },
+  {
+    "tick": 258,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, você viu esse cachorro assustado? Depois compro algo pra comer aqui mesmo."
+  },
+  {
+    "tick": 258,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou até o mercado aproveitar a feira e pegar algo pra comer."
+  },
+  {
+    "tick": 258,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Meninas, vou pegar um bolo de chuva ali no Seu João, vocês querem?"
+  },
+  {
+    "tick": 259,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou atrás do cachorro — criatura assustada precisa de alguém que saiba o que faz."
+  },
+  {
+    "tick": 259,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro pão na barraca da Iris, de olho naquele cachorro assustado lá fora."
+  },
+  {
+    "tick": 259,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vixe, Marina, Teo, alguém viu esse cachorro perdido? Tá me preocupando demais!"
+  },
+  {
+    "tick": 260,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra praça ver esse cachorro — se tá ferido, eu mesma tiro a coleira se precisar."
+  },
+  {
+    "tick": 260,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro uma barraca com sombra, longe desse cachorro assustado que fica circulando por aqui."
+  },
+  {
+    "tick": 260,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pegar um pão da barraca e tentar atrair esse cachorro assustado pra perto de mim."
   }
 ]

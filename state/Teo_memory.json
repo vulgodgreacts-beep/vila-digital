@@ -1552,5 +1552,131 @@
     "created_tick": 252,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa misteriosa com cuidado, procurando qualquer pista sobre quem a deixou aqui.",
+    "created_tick": 253,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, vem comigo no mercado? Essa caixa de livros vai esperar, mas meu estômago não aguenta mais.",
+    "created_tick": 254,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 255,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou atrás de um pastel, essa chuva toda me deixou com fome.",
+    "created_tick": 255,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu quem deixou aquela caixa de livros na biblioteca?",
+    "created_tick": 255,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Olho pra caixa de livros e pergunto pro Teo: \"Quem será que mandou isso sem deixar recado?",
+    "created_tick": 255,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros com cuidado, procurando algum indício de quem a deixou aqui.",
+    "created_tick": 256,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, querido, essa caixa de livros antigos tem cheiro de mistério — aposto que foi a Dona Cecília!",
+    "created_tick": 256,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 32: Caixa misteriosa apareceu na biblioteca; procurei pistas o dia todo, sem resposta.",
+    "created_tick": 256,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou pro mercado, essa feira tá lotada e preciso comer algo antes que falte.",
+    "created_tick": 257,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você sabe quem deixou aquela caixa de livros na biblioteca?",
+    "created_tick": 257,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, meu filho, vou lá pro mercado pegar algo pra comer antes que feche tudo.",
+    "created_tick": 257,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 258,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado aproveitar a feira e pegar algo pra comer.",
+    "created_tick": 258,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, vou pegar um bolo de chuva ali no Seu João, vocês querem?",
+    "created_tick": 258,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou atrás do cachorro — criatura assustada precisa de alguém que saiba o que faz.",
+    "created_tick": 259,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro pão na barraca da Iris, de olho naquele cachorro assustado lá fora.",
+    "created_tick": 259,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vixe, Marina, Teo, alguém viu esse cachorro perdido? Tá me preocupando demais!",
+    "created_tick": 259,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça ver esse cachorro — se tá ferido, eu mesma tiro a coleira se precisar.",
+    "created_tick": 260,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro uma barraca com sombra, longe desse cachorro assustado que fica circulando por aqui.",
+    "created_tick": 260,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou pegar um pão da barraca e tentar atrair esse cachorro assustado pra perto de mim.",
+    "created_tick": 260,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
