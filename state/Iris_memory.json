@@ -1534,5 +1534,83 @@
     "created_tick": 244,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse chafariz entupido, deve ser coisa séria mesmo.",
+    "created_tick": 245,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou correndo pra praça ver esse chafariz entupido com meus próprios olhos.",
+    "created_tick": 246,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a biblioteca ver essa caixa de livros que apareceu do nada, tá intrigando.",
+    "created_tick": 247,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, vou pro mercado pegar algo pra comer — você vem ou fica aqui?",
+    "created_tick": 248,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra ir no mercado, preciso checar se tem vela pra essa chuva escura.",
+    "created_tick": 248,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 31: Dia agitado! Chafariz entupido, caixa de livros misteriosa na biblioteca, boatos por toda parte.",
+    "created_tick": 248,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Procuro Iris entre as barracas, esperando que tenha algo quente apesar da falta de luz.",
+    "created_tick": 249,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ei, vocês viram quem deixou aquela caixa de livros na biblioteca? Tá misterioso demais!",
+    "created_tick": 249,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra ver esse povo na praça, temporal não me assusta.",
+    "created_tick": 250,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 251,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, aposto que foi o Seu Roberto — ele sempre faz essas coisas de escondido.",
+    "created_tick": 251,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou no mercado buscar algo pra comer, Iris — vem comigo, preciso conversar com você.",
+    "created_tick": 252,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aposto que foi a Dona Margarida, ela adora essas coisas de livro antigo.",
+    "created_tick": 252,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

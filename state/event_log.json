@@ -4876,5 +4876,155 @@
     "agent": "Iris",
     "location": "biblioteca",
     "action": "Vou ajudar Teo a catalogar esses livros antigos, quem sabe tem coisa interessante aí."
+  },
+  {
+    "tick": 245,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra praça ver esse chafariz entupido — deve ser coisa simples, mas ninguém aqui sabe desmontar nada."
+  },
+  {
+    "tick": 245,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa de livros na porta pra ver quem deixou isso aqui, com essa chuva toda."
+  },
+  {
+    "tick": 245,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pra praça ver esse chafariz entupido, deve ser coisa séria mesmo."
+  },
+  {
+    "tick": 246,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra praça ver se consigo desatascar esse chafariz antes a chuva piorar."
+  },
+  {
+    "tick": 246,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Deixo a biblioteca e vou até a praça ver essa caixa de livros antes que a chuva estrague tudo."
+  },
+  {
+    "tick": 246,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou correndo pra praça ver esse chafariz entupido com meus próprios olhos."
+  },
+  {
+    "tick": 247,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra praça ver se consigo desobstruir esse chafariz antes que fique pior com a chuva."
+  },
+  {
+    "tick": 247,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou trazer a caixa pra dentro antes que a chuva estrague esses livros antigos."
+  },
+  {
+    "tick": 247,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou até a biblioteca ver essa caixa de livros que apareceu do nada, tá intrigando."
+  },
+  {
+    "tick": 248,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra praça ver esse cachorro — se ninguém tá cuidando direito, alguém precisa fazer algo."
+  },
+  {
+    "tick": 248,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, vou pro mercado pegar algo pra comer — você vem ou fica aqui?"
+  },
+  {
+    "tick": 248,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Saio da biblioteca pra ir no mercado, preciso checar se tem vela pra essa chuva escura."
+  },
+  {
+    "tick": 249,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado pegar algo pra comer antes dessa chuva piorar mesmo."
+  },
+  {
+    "tick": 249,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Iris entre as barracas, esperando que tenha algo quente apesar da falta de luz."
+  },
+  {
+    "tick": 249,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ei, vocês viram quem deixou aquela caixa de livros na biblioteca? Tá misterioso demais!"
+  },
+  {
+    "tick": 250,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pegar um bolo de chuva com Dona Rita antes que essa tempestade piore ainda mais."
+  },
+  {
+    "tick": 250,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Cumprimento Marina e pergunto se ela sabe algo sobre aquela caixa misteriosa de livros."
+  },
+  {
+    "tick": 250,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Saio da biblioteca pra ver esse povo na praça, temporal não me assusta."
+  },
+  {
+    "tick": 251,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 251,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pegar um pastel na barraca e depois passar na biblioteca pra ver esses livros que apareceram."
+  },
+  {
+    "tick": 251,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Vou para o mercado, talvez alguém saiba algo sobre aquela caixa de livros."
+  },
+  {
+    "tick": 251,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Marina, aposto que foi o Seu Roberto — ele sempre faz essas coisas de escondido."
+  },
+  {
+    "tick": 252,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Vou no mercado buscar algo pra comer, Iris — vem comigo, preciso conversar com você."
+  },
+  {
+    "tick": 252,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Marina, você viu quem deixou aquela caixa na biblioteca antes da luz cair?"
+  },
+  {
+    "tick": 252,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, aposto que foi a Dona Margarida, ela adora essas coisas de livro antigo."
   }
 ]

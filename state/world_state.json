@@ -1,5 +1,5 @@
 {
-  "tick": 244,
+  "tick": 252,
   "state": {
     "clima": "temporal",
     "movimento": "gente parada olhando o chafariz",
@@ -7,18 +7,10 @@
   },
   "active_incidents": [
     {
-      "title": "Chafariz entupido",
-      "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
-      "state_changes": {
-        "movimento": "gente parada olhando o chafariz"
-      },
-      "started_tick": 241
-    },
-    {
       "title": "Caixa de livros doados",
       "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
       "state_changes": {},
-      "started_tick": 242
+      "started_tick": 251
     }
   ]
 }
