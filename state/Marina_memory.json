@@ -1792,5 +1792,125 @@
     "created_tick": 268,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 269,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pro mercado antes essa chuva ficar pior, com sorte ainda tem pão fresco lá.",
+    "created_tick": 269,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, aquele cachorro deve estar morrendo de medo com esse temporal, vamos procurar ele?",
+    "created_tick": 269,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou lá na barraca da Iris e vejo se ela tem algo pra comer rápido.",
+    "created_tick": 270,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, viu aquele cachorro assustado na praça? A gente precisa tirar ele dessa chuva.",
+    "created_tick": 270,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse apagão é no poste — vou lá dar uma olhada assim que essa chuva passar.",
+    "created_tick": 271,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, vem aqui dentro da barraca, essa chuva não tá brincadeira!",
+    "created_tick": 271,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 272,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina ver se é só o poste ou se queimou algo maior na rede.",
+    "created_tick": 272,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 34: Apagão, temporal e feira — diagnostiquei o poste, ajudei com cachorro assustado.",
+    "created_tick": 272,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Tranco a oficina e saio correndo pro mercado antes dessa chuva piorar.",
+    "created_tick": 273,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca de pão de queijo da Dona Neuza, que deve estar por aqui em algum lugar.",
+    "created_tick": 273,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vinha chegando produtor de Minas quando escureceu, agora tá todo mundo aqui na barraca!",
+    "created_tick": 273,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aperto o braço de Iris: \"Vamos pra sua barraca, preciso comer algo antes que isso piore.",
+    "created_tick": 274,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, essa chuva é tão repentina quanto aquele temporal de 1987 que destruiu a ponte.",
+    "created_tick": 274,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó gente, que temporal! Vão ficar aqui no mercado, não é? Tomem um café comigo.",
+    "created_tick": 274,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina, essa bagunça de gente com temporal não me interessa.",
+    "created_tick": 275,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da oficina pra pegar algo no mercado antes que feche tudo por causa do temporal.",
+    "created_tick": 276,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina e Iris entre as barracas, aproveitando a lotação pra não me perder de vista delas.",
+    "created_tick": 276,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, esse tomate que chegou hoje de fora é coisa de outro mundo, quer experimentar?",
+    "created_tick": 276,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

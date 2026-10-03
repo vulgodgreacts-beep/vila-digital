@@ -1810,5 +1810,113 @@
     "created_tick": 268,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 269,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho as cortinas da biblioteca e acendo as velas — assim pelo menos os que se abrigarem aqui têm luz.",
+    "created_tick": 269,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna da biblioteca e vou conferir se o cachorro perdido se abrigou aqui dentro.",
+    "created_tick": 270,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo as velas da biblioteca — pelo menos aqui as pessoas terão luz para se abrigar.",
+    "created_tick": 271,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 272,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a biblioteca e me dirijo pro mercado, onde pelo menos tem gente e talvez comida.",
+    "created_tick": 272,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, ajuda aí, vou levar essas frutas pra casa da Dona Marta antes que apodrece tudo.",
+    "created_tick": 272,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 34: Apagão e temporal me fizeram fechar cedo, acendi velas pra quem se abrigasse na biblioteca.",
+    "created_tick": 272,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Procuro a barraca de pão de queijo da Dona Neuza, que deve estar por aqui em algum lugar.",
+    "created_tick": 273,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vinha chegando produtor de Minas quando escureceu, agora tá todo mundo aqui na barraca!",
+    "created_tick": 273,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Aperto o braço de Iris: \"Vamos pra sua barraca, preciso comer algo antes que isso piore.",
+    "created_tick": 274,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, essa chuva é tão repentina quanto aquele temporal de 1987 que destruiu a ponte.",
+    "created_tick": 274,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó gente, que temporal! Vão ficar aqui no mercado, não é? Tomem um café comigo.",
+    "created_tick": 274,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina, essa bagunça de gente com temporal não me interessa.",
+    "created_tick": 275,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu se trouxeram aqueles livros antigos de receitas que mencionou mês passado?",
+    "created_tick": 275,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem cá, você viu aquele produtor novo? Dizem que é parente do prefeito da cidade grande!",
+    "created_tick": 275,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Marina e Iris entre as barracas, aproveitando a lotação pra não me perder de vista delas.",
+    "created_tick": 276,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, esse tomate que chegou hoje de fora é coisa de outro mundo, quer experimentar?",
+    "created_tick": 276,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
