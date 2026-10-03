@@ -2284,5 +2284,95 @@
     "created_tick": 236,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou puxar a caixa de livros pra dentro, longe dessa chuva que não dá trégua.",
+    "created_tick": 237,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou trazer a caixa de livros pra dentro antes que a chuva estrague tudo.",
+    "created_tick": 238,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a porta da biblioteca conferir essa caixa de livros antes da chuva piorar.",
+    "created_tick": 239,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a caixa de livros antigos e a trago para dentro, longe da chuva.",
+    "created_tick": 240,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 30: Chuva, caixa misteriosa de livros na porta, cachorro perdido na praça, e muita curiosidade.",
+    "created_tick": 240,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 241,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu quem deixou essa caixa de livros antes de ir pro mercado comigo?",
+    "created_tick": 241,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 242,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar algo pra comer antes dessa chuva piorar e depois vejo esse chafariz.",
+    "created_tick": 242,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Marina enquanto aponto pro chafariz: \"Sabe, entupimento assim lembra o problema de 1847...",
+    "created_tick": 242,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver se é coisa simples no chafariz ou se virou bagunça mesmo.",
+    "created_tick": 243,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Peço um pão à dona do balcão e pergunto se Marina viu quem deixou aquela caixa de livros.",
+    "created_tick": 243,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá ver esse chafariz entupido, deve ser coisa simples de destrancar.",
+    "created_tick": 244,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu quem deixou aquela caixa de livros na biblioteca?",
+    "created_tick": 244,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou ajudar Teo a catalogar esses livros antigos, quem sabe tem coisa interessante aí.",
+    "created_tick": 244,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

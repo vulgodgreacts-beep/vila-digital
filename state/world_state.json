@@ -1,5 +1,5 @@
 {
-  "tick": 236,
+  "tick": 244,
   "state": {
     "clima": "temporal",
     "movimento": "gente parada olhando o chafariz",
@@ -7,16 +7,18 @@
   },
   "active_incidents": [
     {
-      "title": "Cachorro perdido",
-      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
-      "state_changes": {},
-      "started_tick": 234
+      "title": "Chafariz entupido",
+      "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
+      "state_changes": {
+        "movimento": "gente parada olhando o chafariz"
+      },
+      "started_tick": 241
     },
     {
       "title": "Caixa de livros doados",
       "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
       "state_changes": {},
-      "started_tick": 236
+      "started_tick": 242
     }
   ]
 }
