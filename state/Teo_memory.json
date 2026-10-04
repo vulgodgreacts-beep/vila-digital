@@ -2008,5 +2008,143 @@
     "created_tick": 284,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Desligo a lanterna e vou pro mercado, aproveitando a chuva pra evitar conversa com quem tá olhando o chafariz.",
+    "created_tick": 285,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, Teo, vem cá, esse chafariz entupido pode virar problema se essa chuva não parar logo!",
+    "created_tick": 285,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina pegar um café e ver se a luz volta logo.",
+    "created_tick": 286,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem pão com queijo? Essa chuva não passa tão cedo.",
+    "created_tick": 286,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu que a chuva parou? Vamos lá ver se aquele chafariz desentupiu sozinho?",
+    "created_tick": 286,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 287,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, a biblioteca tem velas — quer que eu traga algumas pra cá?",
+    "created_tick": 287,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 288,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Saio da biblioteca e vou correndo pro mercado antes que piore mais essa chuva.",
+    "created_tick": 288,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna da biblioteca e vou à praça procurar esse cachorro perdido.",
+    "created_tick": 288,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 36: Temporal assustou a vila, chafariz entupiu, e encontrei um cachorro perdido na chuva.",
+    "created_tick": 288,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Saio da biblioteca correndo para o mercado, abaixando a cabeça contra a chuva.",
+    "created_tick": 289,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vem cá, esse cachorrinho tá sozinho na chuva, precisa de ajuda!",
+    "created_tick": 289,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 290,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me vende um bolo e uma água — vou comer rápido aqui mesmo.",
+    "created_tick": 290,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu esse cachorro assustado? Alguém sabe de quem é?",
+    "created_tick": 290,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Grito pra Marina e Teo: \"Esse cachorro assustado tá na chuva, vamos tirar ele daqui!",
+    "created_tick": 290,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego uma broa com queijo na barraca antes que Iris me force pra dentro de novo.",
+    "created_tick": 291,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro assustado... você viu por onde ele foi com essa chuva?",
+    "created_tick": 291,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de ajuda, vou procurar água e comida pra ele.",
+    "created_tick": 291,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina ligar o gerador antes que essa chuva estrague algo lá.",
+    "created_tick": 292,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro assustado... você viu se alguém da vila o reconhece?",
+    "created_tick": 292,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem cá, esse cachorro assustado precisa de gente, você me ajuda?",
+    "created_tick": 292,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
