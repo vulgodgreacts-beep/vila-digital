@@ -1,5 +1,5 @@
 {
-  "tick": 308,
+  "tick": 316,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
@@ -10,7 +10,7 @@
       "title": "Caixa de livros doados",
       "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
       "state_changes": {},
-      "started_tick": 305
+      "started_tick": 315
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 151,
+    "familiaridade": 154,
     "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.",
     "desde_dia": 24,
     "historico": [
@@ -19,14 +19,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 168,
-    "opiniao": "Achei que era só nervoso, mas quando importa, ele tá ali de verdade ajudando.",
-    "desde_dia": 33,
+    "familiaridade": 172,
+    "opiniao": "Ele não é nervoso — quando importa, tá ali, oferecendo café, vela, proteção, de verdade mesmo.",
+    "desde_dia": 39,
     "historico": [
-      {
-        "dia": 21,
-        "opiniao": "Nervoso sim, mas tem coragem — topou procurar cachorro comigo na chuva."
-      },
       {
         "dia": 23,
         "opiniao": "Nervoso demais, fica falando de história quando devia agir logo!"
@@ -38,6 +34,10 @@
       {
         "dia": 26,
         "opiniao": "Nervoso demais com livro, mas quando importa mesmo, ele tá ali comigo, gosto disso."
+      },
+      {
+        "dia": 33,
+        "opiniao": "Achei que era só nervoso, mas quando importa, ele tá ali de verdade ajudando."
       }
     ]
   }

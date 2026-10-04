@@ -1720,5 +1720,131 @@
     "created_tick": 308,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 309,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquela caixa de livros na biblioteca? Aposto que foi o professor!",
+    "created_tick": 309,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 310,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pego a lanterna e abro a caixa de livros doados — preciso ver o que apareceu.",
+    "created_tick": 310,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna do meu bolso e ilumino essa caixa de livros pra Teo ver direito o que apareceu.",
+    "created_tick": 310,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pego a lanterna da mesa e convido Iris: \"Vamos verificar se os livros antigos estão protegidos na parte de trás.",
+    "created_tick": 311,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você tem um café ou algo pra comer por aqui? Essa chuva me deu uma fome!",
+    "created_tick": 311,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Acendo as velas da biblioteca — pelo menos aqui Iris fica segura enquanto passa a tempestade.",
+    "created_tick": 312,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você tem algo pra comer aqui? Essa chuva não vai passar tão cedo.",
+    "created_tick": 312,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 39: Chuva, apagão, cachorro perdido e descobri que Teo é mais prestativo do que eu pensava.",
+    "created_tick": 312,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Achei que era só nervoso, mas quando importa, ele tá ali de verdade ajudando.\", agora acho \"Ele não é nervoso — quando importa, tá ali, oferecendo café, vela, proteção, de verdade mesmo.\".",
+    "created_tick": 312,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Vou com você ao mercado, Iris — preciso comer algo e você conhece melhor o caminho.",
+    "created_tick": 313,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra meu mercado, que pelo menos tem uns biscoitos pra lanchar mesmo sem luz.",
+    "created_tick": 313,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse apagão é no poste ou vem da rua principal?",
+    "created_tick": 314,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina nos olhos e pergunto: \"Você sabe se o poste da rua principal caiu?",
+    "created_tick": 314,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você tem alguma coisa quente aí na biblioteca pra gente comer?",
+    "created_tick": 314,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 315,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pro mercado, que apagão ou não, barriguinha vazia não aguarda ninguém!",
+    "created_tick": 315,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem alguma coisa quente aí pra comer? Essa chuva não vai passar tão cedo.",
+    "created_tick": 316,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Alguém sabe quem deixou aquela caixa de livros na biblioteca? Parece coisa de quem conhece história.",
+    "created_tick": 316,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, vamos entrar? Meu estômago tá reclamando e essa chuva não dá trégua.",
+    "created_tick": 316,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

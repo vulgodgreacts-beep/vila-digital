@@ -1,14 +1,14 @@
 {
   "Marina": {
-    "familiaridade": 122,
+    "familiaridade": 125,
     "opiniao": "Prática e corajosa; vê valor nas coisas que outros deixam para trás.",
     "desde_dia": 3,
     "historico": []
   },
   "Iris": {
-    "familiaridade": 155,
-    "opiniao": "Corajosa demais às vezes, mas genuinamente preocupada com quem precisa de ajuda.",
-    "desde_dia": 21,
+    "familiaridade": 161,
+    "opiniao": "Genuinamente preocupada, mas também prática — pediu comida enquanto ajudava na chuva.",
+    "desde_dia": 39,
     "historico": [
       {
         "dia": 3,
@@ -21,6 +21,10 @@
       {
         "dia": 20,
         "opiniao": "Ela não só ajuda perdidos — também entende meu fascínio por mistérios literários."
+      },
+      {
+        "dia": 21,
+        "opiniao": "Corajosa demais às vezes, mas genuinamente preocupada com quem precisa de ajuda."
       }
     ]
   }
