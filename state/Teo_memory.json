@@ -2146,5 +2146,137 @@
     "created_tick": 292,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a biblioteca e vou ao mercado procurar algo para comer antes da chuva piorar.",
+    "created_tick": 293,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, vocês vêm aquela criaturinha perdida na praça? Alguém conhece dono?",
+    "created_tick": 293,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina, essa chuva vai derrubar coisa e alguém vai precisar de mão pra consertar.",
+    "created_tick": 294,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu se o produtor de livros usados chegou com essa chuva?",
+    "created_tick": 294,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aquele produtor de maçã que chegou hoje é primo do seu vizinho, jura!",
+    "created_tick": 294,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 295,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro solto me lembra aquele cão da novela de Dostoiévski, sabe?",
+    "created_tick": 295,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu aquele cachorro assustado? Vamos procurar o dono antes dessa chuva piorar.",
+    "created_tick": 295,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro... lembra aquela história do cão de Sherlock Holmes que ninguém reconhecia?",
+    "created_tick": 296,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aquele cachorro tá perdido mesmo, vem me ajudar a procurar o dono?",
+    "created_tick": 296,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 37: Fechei cedo a biblioteca e fui ajudar Iris com aquele cachorro perdido na praça.",
+    "created_tick": 296,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Olho para o cachorro assustado e murmuro: \"Coitado parece um personagem de Jack London perdido na tormenta.",
+    "created_tick": 297,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, alguém conhece esse cachorro? Não é daqui, tenho certeza!",
+    "created_tick": 297,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou atrás do cachorro com Teo e Iris — melhor resolver isso antes de comer.",
+    "created_tick": 298,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para aquele cachorro tremendo e digo: \"Alguém tem corda? Lembrei de um cão em 'O cortiço'.",
+    "created_tick": 298,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, Marina, Teo, vamos procurar esse bichinho antes que a chuva piora?",
+    "created_tick": 298,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego um pastel com Iris e pergunto se ela viu pra onde o cachorro foi.",
+    "created_tick": 299,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Marina: \"Esse cachorro lembra os cães de guarda dos mosteiros medievais, sempre perdidos quando fugiam.",
+    "created_tick": 299,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei pessoal, alguém reconhece esse cão? Deve ser de fora, coitado está tremendo de medo.",
+    "created_tick": 299,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você viu pra onde aquele cachorro foi? Preciso comer algo antes de voltar pra oficina.",
+    "created_tick": 300,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro me lembra aquele cão na novela de Victor Hugo que aparecia em *Os Miseráveis*.",
+    "created_tick": 300,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse cachorro assustado precisa de ajuda, vem comigo na praça?",
+    "created_tick": 300,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

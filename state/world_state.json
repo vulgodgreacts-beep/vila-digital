@@ -1,5 +1,5 @@
 {
-  "tick": 292,
+  "tick": 300,
   "state": {
     "clima": "temporal",
     "movimento": "vila cheia, feira no mercado",
@@ -7,27 +7,10 @@
   },
   "active_incidents": [
     {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 287
-    },
-    {
       "title": "Cachorro perdido",
       "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
       "state_changes": {},
-      "started_tick": 288
-    },
-    {
-      "title": "Dia de feira",
-      "description": "Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
-      "state_changes": {
-        "movimento": "vila cheia, feira no mercado"
-      },
-      "started_tick": 290
+      "started_tick": 295
     }
   ]
 }

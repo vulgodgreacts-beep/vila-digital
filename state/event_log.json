@@ -5830,5 +5830,155 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Teo, vem cá, esse cachorro assustado precisa de gente, você me ajuda?"
+  },
+  {
+    "tick": 293,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado, pego algo pra comer e vejo se alguém reconhece esse cachorro perdido."
+  },
+  {
+    "tick": 293,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho a biblioteca e vou ao mercado procurar algo para comer antes da chuva piorar."
+  },
+  {
+    "tick": 293,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ei, vocês vêm aquela criaturinha perdida na praça? Alguém conhece dono?"
+  },
+  {
+    "tick": 294,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra oficina, essa chuva vai derrubar coisa e alguém vai precisar de mão pra consertar."
+  },
+  {
+    "tick": 294,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você viu se o produtor de livros usados chegou com essa chuva?"
+  },
+  {
+    "tick": 294,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, aquele produtor de maçã que chegou hoje é primo do seu vizinho, jura!"
+  },
+  {
+    "tick": 295,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
+  },
+  {
+    "tick": 295,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra praça ver esse cachorro — com essa chuva, bicho assustado piora ainda mais."
+  },
+  {
+    "tick": 295,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, esse cachorro solto me lembra aquele cão da novela de Dostoiévski, sabe?"
+  },
+  {
+    "tick": 295,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, você viu aquele cachorro assustado? Vamos procurar o dono antes dessa chuva piorar."
+  },
+  {
+    "tick": 296,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou até a praça ver se consigo pegar esse cachorro antes que se machuque mais ainda."
+  },
+  {
+    "tick": 296,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, esse cachorro... lembra aquela história do cão de Sherlock Holmes que ninguém reconhecia?"
+  },
+  {
+    "tick": 296,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, aquele cachorro tá perdido mesmo, vem me ajudar a procurar o dono?"
+  },
+  {
+    "tick": 297,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado, pego um café e uns biscoitos, depois vejo esse cachorro na praça."
+  },
+  {
+    "tick": 297,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Olho para o cachorro assustado e murmuro: \"Coitado parece um personagem de Jack London perdido na tormenta."
+  },
+  {
+    "tick": 297,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, alguém conhece esse cachorro? Não é daqui, tenho certeza!"
+  },
+  {
+    "tick": 298,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou atrás do cachorro com Teo e Iris — melhor resolver isso antes de comer."
+  },
+  {
+    "tick": 298,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Olho para aquele cachorro tremendo e digo: \"Alguém tem corda? Lembrei de um cão em 'O cortiço'."
+  },
+  {
+    "tick": 298,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ei, Marina, Teo, vamos procurar esse bichinho antes que a chuva piora?"
+  },
+  {
+    "tick": 299,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Pego um pastel com Iris e pergunto se ela viu pra onde o cachorro foi."
+  },
+  {
+    "tick": 299,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Olho pra Marina: \"Esse cachorro lembra os cães de guarda dos mosteiros medievais, sempre perdidos quando fugiam."
+  },
+  {
+    "tick": 299,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ei pessoal, alguém reconhece esse cão? Deve ser de fora, coitado está tremendo de medo."
+  },
+  {
+    "tick": 300,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, você viu pra onde aquele cachorro foi? Preciso comer algo antes de voltar pra oficina."
+  },
+  {
+    "tick": 300,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, esse cachorro me lembra aquele cão na novela de Victor Hugo que aparecia em *Os Miseráveis*."
+  },
+  {
+    "tick": 300,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, esse cachorro assustado precisa de ajuda, vem comigo na praça?"
   }
 ]
