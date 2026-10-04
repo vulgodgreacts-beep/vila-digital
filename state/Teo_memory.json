@@ -1918,5 +1918,95 @@
     "created_tick": 276,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 277,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo as velas da biblioteca — a escuridão é perfeita para reler sobre tempestades na literatura medieval.",
+    "created_tick": 277,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 278,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho as janelas da biblioteca antes que a chuva invada os acervos.",
+    "created_tick": 278,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou trancar a biblioteca e correr para o mercado antes que fique completamente escuro.",
+    "created_tick": 279,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem, vamos pra dentro antes que você se afogue aqui na praça.",
+    "created_tick": 279,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse chafariz entupido... lembra da grande enchente de 1987?",
+    "created_tick": 280,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Puxo Teo pelo braço: \"Vem, esse chafariz entupido vai transbordar com essa chuva toda.",
+    "created_tick": 280,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 35: Temporal forte, biblioteca segura, corri pro mercado com Iris e seus questionamentos sobre produtores.",
+    "created_tick": 280,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, esse chafariz entupido me lembra daquele relato de 1847 sobre a fonte da praça.",
+    "created_tick": 281,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Puxo Marina e Teo pra dentro do mercado antes que essa chuva nos atoloe de vez.",
+    "created_tick": 281,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego um pastel com Iris e pergunto se ela sabe o que entupiu aquele chafariz.",
+    "created_tick": 282,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse temporal lembra a enchente de 1987, sabe? Vou ver se a biblioteca não entra água.",
+    "created_tick": 282,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho o livro que estava lendo e vou até a praça ver esse chafariz entupido com os outros.",
+    "created_tick": 283,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna e vou até a cozinha da biblioteca procurar algo pra comer.",
+    "created_tick": 284,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

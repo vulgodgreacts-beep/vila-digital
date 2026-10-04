@@ -5512,5 +5512,161 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Marina, querida, esse tomate que chegou hoje de fora é coisa de outro mundo, quer experimentar?"
+  },
+  {
+    "tick": 277,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar."
+  },
+  {
+    "tick": 277,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado, antes que fecha, pego algo pra comer antes dessa chuva piorar."
+  },
+  {
+    "tick": 277,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo as velas da biblioteca — a escuridão é perfeita para reler sobre tempestades na literatura medieval."
+  },
+  {
+    "tick": 277,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, vem cá que a gente se abriga nesse cantinho, a chuva é coisa de louca hoje!"
+  },
+  {
+    "tick": 278,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada."
+  },
+  {
+    "tick": 278,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra oficina verificar se a bomba do chafariz tá entupida mesmo, já que a luz caiu."
+  },
+  {
+    "tick": 278,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho as janelas da biblioteca antes que a chuva invada os acervos."
+  },
+  {
+    "tick": 278,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Saio correndo do mercado pra ver se Marina tá segura naquele temporal desgraçado."
+  },
+  {
+    "tick": 279,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Fecho a oficina e vou ver esse chafariz entupido antes de piorar mais."
+  },
+  {
+    "tick": 279,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou trancar a biblioteca e correr para o mercado antes que fique completamente escuro."
+  },
+  {
+    "tick": 279,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, vem, vamos pra dentro antes que você se afogue aqui na praça."
+  },
+  {
+    "tick": 280,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou fechar a oficina e arrumar esse chafariz antes a água estragar mais coisa."
+  },
+  {
+    "tick": 280,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, esse chafariz entupido... lembra da grande enchente de 1987?"
+  },
+  {
+    "tick": 280,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Puxo Teo pelo braço: \"Vem, esse chafariz entupido vai transbordar com essa chuva toda."
+  },
+  {
+    "tick": 281,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Tranco a oficina e corro pro mercado antes que a chuva piore."
+  },
+  {
+    "tick": 281,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, esse chafariz entupido me lembra daquele relato de 1847 sobre a fonte da praça."
+  },
+  {
+    "tick": 281,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Puxo Marina e Teo pra dentro do mercado antes que essa chuva nos atoloe de vez."
+  },
+  {
+    "tick": 282,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Pego um pastel com Iris e pergunto se ela sabe o que entupiu aquele chafariz."
+  },
+  {
+    "tick": 282,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Esse temporal lembra a enchente de 1987, sabe? Vou ver se a biblioteca não entra água."
+  },
+  {
+    "tick": 282,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, essa água do chafariz vai virar um mosquitário se ninguém limpar logo!"
+  },
+  {
+    "tick": 283,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Pego um pastel com Iris e pergunto se ela sabe o que entupiu o chafariz."
+  },
+  {
+    "tick": 283,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho o livro que estava lendo e vou até a praça ver esse chafariz entupido com os outros."
+  },
+  {
+    "tick": 283,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, esse chafariz entupido vai virar um buraco de lama se a chuva não parar logo."
+  },
+  {
+    "tick": 284,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, você tem algo pra comer? Esse temporal não vai passar tão cedo."
+  },
+  {
+    "tick": 284,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lanterna e vou até a cozinha da biblioteca procurar algo pra comer."
+  },
+  {
+    "tick": 284,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, essa chuva é uma loucura, vem aqui pra dentro que o chafariz já tá transbordando!"
   }
 ]

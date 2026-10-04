@@ -1,18 +1,9 @@
 {
-  "tick": 276,
+  "tick": 284,
   "state": {
     "clima": "temporal",
-    "movimento": "vila cheia, feira no mercado",
+    "movimento": "gente parada olhando o chafariz",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Dia de feira",
-      "description": "Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
-      "state_changes": {
-        "movimento": "vila cheia, feira no mercado"
-      },
-      "started_tick": 272
-    }
-  ]
+  "active_incidents": []
 }
