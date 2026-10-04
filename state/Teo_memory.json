@@ -2278,5 +2278,95 @@
     "created_tick": 300,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 301,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna velha e vou procurar velas nos armários da biblioteca.",
+    "created_tick": 301,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 302,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna da biblioteca e vou até a janela verificar se aquele cachorro ainda está na praça.",
+    "created_tick": 302,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo as velas da biblioteca e espero a chuva passar olhando pela janela.",
+    "created_tick": 303,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Apago as velas da biblioteca e vou procurar esse cachorro na praça.",
+    "created_tick": 304,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 38: Temporal repentino me prendeu na biblioteca, procurei o cachorro perdido entre velas e curiosidades medievais.",
+    "created_tick": 304,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 305,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado, mas antes deixo a porta da biblioteca aberta pro cachorro assustado poder entrar.",
+    "created_tick": 305,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Entro no mercado correndo, a chuva batendo nas costas, procurando algo rápido pra comer.",
+    "created_tick": 306,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquele cachorro? Parece assustado mesmo.",
+    "created_tick": 306,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Entro no mercado procurando algo pra comer antes que essa bagunça do cachorro me tome o dia inteiro.",
+    "created_tick": 307,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquele cachorro assustado lá fora? Precisa de ajuda pra procurar?",
+    "created_tick": 307,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego um café coado na barraca e fico de olho nessa caixa de livros — alguém sabe quem deixou?",
+    "created_tick": 308,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Marina pelo braço: \"Essa caixa na biblioteca... você não acha estranho ninguém reclamar autoria?",
+    "created_tick": 308,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
