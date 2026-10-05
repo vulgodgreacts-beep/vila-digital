@@ -1936,5 +1936,137 @@
     "created_tick": 332,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, aproveito a feira e vejo se aquele cachorro assustado ainda tá na praça.",
+    "created_tick": 333,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de ajuda — alguém viu o dono dele por aqui?",
+    "created_tick": 333,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, ese cachorro tá com fome igual a mim — bora levar ele pra minha oficina, tem comida lá.",
+    "created_tick": 334,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, aproveito e vejo se alguém viu esse cachorro perdido por lá.",
+    "created_tick": 335,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro o cachorro perdido pela praça; esses temporais sempre trazem histórias de animais desgarrados.",
+    "created_tick": 335,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, alguém aqui reconhece esse cachorro assustado que tá na praça?",
+    "created_tick": 335,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pegar aquele bolo de milho da Iris antes que acabe com essa multidão toda.",
+    "created_tick": 336,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vocês ouviram que em 1755 Lisboa também ficou sem luz? Temporal destruiu tudo...",
+    "created_tick": 336,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você viu que esse temporal pode derrubar até a barraca dos produtores?",
+    "created_tick": 336,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 42: Feira lotada, cachorro perdido na praça, levei pra oficina, depois fui pegar bolo.",
+    "created_tick": 336,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Rapaz parou de contar história, agora quer descobrir quem doou livro antigo.\", agora acho \"Rapaz preocupado com cachorro perdido — não é só história, sabe se importar.\".",
+    "created_tick": 336,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 337,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse pastel aí tá bom? Tô com fome e comi só café essa manhã.",
+    "created_tick": 337,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, esse pão de queijo que você tem aí... quanto é?",
+    "created_tick": 337,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, vocês viram que a luz caiu? Essa chuva não tá brincando, não!",
+    "created_tick": 337,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 338,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse temporal derrubou galho na minha oficina — pode ser?",
+    "created_tick": 338,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a porta da oficina e saio correndo pra mercado antes dessa chuva piorar.",
+    "created_tick": 339,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Guardo alguns produtores na biblioteca, que é mais segura que essas barracas.",
+    "created_tick": 339,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, vem cá, aquele produtor de maçã de fora tá achando que nossa vila é atrasada!",
+    "created_tick": 339,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse bolo de milho aí ainda tá fresco? Pago depois quando voltar com o gerador.",
+    "created_tick": 340,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, vem aqui dentro que essa chuva não brinca!",
+    "created_tick": 340,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

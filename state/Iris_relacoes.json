@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 161,
+    "familiaridade": 167,
     "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.",
     "desde_dia": 24,
     "historico": [
@@ -19,14 +19,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 178,
-    "opiniao": "Esse moço é curioso demais, quer saber tudo sobre aquela caixa de livros.",
-    "desde_dia": 41,
+    "familiaridade": 184,
+    "opiniao": "Esse moço é curioso, mas também tem compaixão, não é só história antiga.",
+    "desde_dia": 42,
     "historico": [
-      {
-        "dia": 26,
-        "opiniao": "Nervoso demais com livro, mas quando importa mesmo, ele tá ali comigo, gosto disso."
-      },
       {
         "dia": 33,
         "opiniao": "Achei que era só nervoso, mas quando importa, ele tá ali de verdade ajudando."
@@ -38,6 +34,10 @@
       {
         "dia": 40,
         "opiniao": "Esse moço é romântico mesmo — deixa livros antigos pra gente descobrir quem é o misterioso."
+      },
+      {
+        "dia": 41,
+        "opiniao": "Esse moço é curioso demais, quer saber tudo sobre aquela caixa de livros."
       }
     ]
   }

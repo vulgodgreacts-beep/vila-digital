@@ -1,17 +1,21 @@
 {
   "Marina": {
-    "familiaridade": 131,
-    "opiniao": "Curiosa como eu sobre mistérios; investiga enquanto resolve problemas práticos simultaneamente.",
-    "desde_dia": 40,
+    "familiaridade": 135,
+    "opiniao": "Solidária com quem sofre; age antes de falar, coração antes da curiosidade.",
+    "desde_dia": 42,
     "historico": [
       {
         "dia": 3,
         "opiniao": "Prática e corajosa; vê valor nas coisas que outros deixam para trás."
+      },
+      {
+        "dia": 40,
+        "opiniao": "Curiosa como eu sobre mistérios; investiga enquanto resolve problemas práticos simultaneamente."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 171,
+    "familiaridade": 177,
     "opiniao": "Genuinamente preocupada, mas também prática — pediu comida enquanto ajudava na chuva.",
     "desde_dia": 39,
     "historico": [

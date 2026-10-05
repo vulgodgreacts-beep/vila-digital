@@ -1930,5 +1930,137 @@
     "created_tick": 332,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção ao mercado, aproveitando a multidão para passar despercebido.",
+    "created_tick": 333,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de ajuda — alguém viu o dono dele por aqui?",
+    "created_tick": 333,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, ese cachorro tá com fome igual a mim — bora levar ele pra minha oficina, tem comida lá.",
+    "created_tick": 334,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu aquele cachorro? Lembrei que os ciganos da década de 1920 criavam cães assim...",
+    "created_tick": 334,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu aquele cachorro assustado na praça? Deve ser de algum produtor que chegou hoje.",
+    "created_tick": 334,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro o cachorro perdido pela praça; esses temporais sempre trazem histórias de animais desgarrados.",
+    "created_tick": 335,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, alguém aqui reconhece esse cachorro assustado que tá na praça?",
+    "created_tick": 335,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar aquele bolo de milho da Iris antes que acabe com essa multidão toda.",
+    "created_tick": 336,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vocês ouviram que em 1755 Lisboa também ficou sem luz? Temporal destruiu tudo...",
+    "created_tick": 336,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você viu que esse temporal pode derrubar até a barraca dos produtores?",
+    "created_tick": 336,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 42: Persegui um cachorro perdido pela chuva, lembrando-me de temporais históricos e desgarrados.",
+    "created_tick": 336,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Marina. Eu achava \"Curiosa como eu sobre mistérios; investiga enquanto resolve problemas práticos simultaneamente.\", agora acho \"Solidária com quem sofre; age antes de falar, coração antes da curiosidade.\".",
+    "created_tick": 336,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 337,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse pastel aí tá bom? Tô com fome e comi só café essa manhã.",
+    "created_tick": 337,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse pão de queijo que você tem aí... quanto é?",
+    "created_tick": 337,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, vocês viram que a luz caiu? Essa chuva não tá brincando, não!",
+    "created_tick": 337,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 338,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse temporal derrubou galho na minha oficina — pode ser?",
+    "created_tick": 338,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ajudo Iris a guardar as frutas que estão espalhadas pela barraca antes encharcarem.",
+    "created_tick": 338,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem cá, ajuda a gente a trazer essas caixas pra trás antes d'água estragar tudo!",
+    "created_tick": 338,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Guardo alguns produtores na biblioteca, que é mais segura que essas barracas.",
+    "created_tick": 339,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo uma vela atrás do balcão, esperando a luz voltar.",
+    "created_tick": 340,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

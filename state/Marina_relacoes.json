@@ -1,13 +1,9 @@
 {
   "Teo": {
-    "familiaridade": 128,
-    "opiniao": "Rapaz parou de contar história, agora quer descobrir quem doou livro antigo.",
-    "desde_dia": 40,
+    "familiaridade": 132,
+    "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar.",
+    "desde_dia": 42,
     "historico": [
-      {
-        "dia": 3,
-        "opiniao": "Esse rapaz anda sempre quieto, mexendo com livro velho."
-      },
       {
         "dia": 7,
         "opiniao": "Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade."
@@ -19,11 +15,15 @@
       {
         "dia": 26,
         "opiniao": "Rapaz parou de contar história e foi atrás do cachorro junto com gente."
+      },
+      {
+        "dia": 40,
+        "opiniao": "Rapaz parou de contar história, agora quer descobrir quem doou livro antigo."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 138,
+    "familiaridade": 143,
     "opiniao": "Essa mulher quer me proteger — não é só ação, é cuidado mesmo.",
     "desde_dia": 22,
     "historico": [
