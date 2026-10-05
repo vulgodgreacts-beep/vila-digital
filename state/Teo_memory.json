@@ -1822,5 +1822,113 @@
     "created_tick": 324,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Deixo a biblioteca fechada e saio correndo pro mercado, pulando as poças do temporal.",
+    "created_tick": 325,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu quem deixou essa caixa de livros na biblioteca?",
+    "created_tick": 325,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro no mercado procurando um pão, talvez alguém saiba quem deixou aquela caixa.",
+    "created_tick": 326,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu quem deixou aquela caixa de livros na biblioteca antes da chuva começar?",
+    "created_tick": 327,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros antigos com cuidado, procurando alguma pista sobre quem deixou isso aqui.",
+    "created_tick": 328,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse temporal tá feroz — você tem um café pra compartilhar comigo?",
+    "created_tick": 328,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 41: Chuva forte, apagão, mistério da caixa de livros, ida ao mercado com Iris e Marina.",
+    "created_tick": 328,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, você acha que consegue abrir o mercado com essa chuva forte?",
+    "created_tick": 329,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 330,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego um pão com queijo na barraca da Iris e saio procurando esse cachorro na praça.",
+    "created_tick": 330,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem pão com queijo? Esse cachorro assustado merecia comer também, né...",
+    "created_tick": 330,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vão ver esse cachorro perdido enquanto eu pego um bolo da minha mãe?",
+    "created_tick": 330,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 331,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, deixa eu levar esse cachorro pra minha oficina, pelo menos fica seco lá.",
+    "created_tick": 331,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro assustado... será que alguém da vila conhece?",
+    "created_tick": 331,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem comigo pegar um pastel, esse cachorro assustado precisa de ajuda depois.",
+    "created_tick": 331,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você teria um pão? Esse cachorro assustado me lembrou os cães da Grécia Antiga, sempre sozinhos.",
+    "created_tick": 332,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ô Marina, Teo, vocês viram aquele cachorro assustado? Alguém sabe de quem é?",
+    "created_tick": 332,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
