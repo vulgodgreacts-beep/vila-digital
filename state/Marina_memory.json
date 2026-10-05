@@ -1732,5 +1732,107 @@
     "created_tick": 316,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou deitar no sofá da oficina e comer aquele bolo que Iris deixou ontem.",
+    "created_tick": 317,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado ver se Seu Waldir conseguiu manter a comida fresca sem energia.",
+    "created_tick": 318,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, essa chuva não dá trégua, né? Vem cá, vou te oferecer um café quentinho.",
+    "created_tick": 318,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem pão com queijo aí? Esse temporal vai durar, melhor comer algo agora.",
+    "created_tick": 319,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Aposto que foi o Seu Geraldo — ele adora livros antigos e é de dar presentes sem contar pra ninguém.",
+    "created_tick": 319,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, deixa essa caixa aí — apagão desse tamanho, poste tá caído na rua de baixo, tenho certeza.",
+    "created_tick": 320,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Alguém sabe de quem é essa caixa de livros que apareceu na biblioteca?",
+    "created_tick": 320,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, aposto que foi aquele Teo misterioso que deixou esses livros na biblioteca!",
+    "created_tick": 320,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 40: Apagão, chuva forte, Iris cuidando, Teo falando sobre história, achei o poste caído.",
+    "created_tick": 320,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Rapaz parou de contar história e foi atrás do cachorro junto com gente.\", agora acho \"Rapaz parou de contar história, agora quer descobrir quem doou livro antigo.\".",
+    "created_tick": 320,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pra oficina ver se a geradora tá funcionando, esse apagão tá chato demais.",
+    "created_tick": 321,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, esse temporal não me mata, mas a fome mata mesmo.",
+    "created_tick": 322,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Marina, você viu se a barraca da Dona Rosa ainda tá funcionando com essa escuridão?",
+    "created_tick": 322,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, essa coxinha tá de pé? Tô com fome e esse temporal não vai passar hoje.",
+    "created_tick": 323,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Peço um pão a Iris, aproveitando pra perguntar se ela sabe quem deixou aquela caixa na biblioteca.",
+    "created_tick": 323,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você viu quem deixou aquela caixa de livros na biblioteca?",
+    "created_tick": 323,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina ver se consigo ligar o gerador antes isso virar um caos maior.",
+    "created_tick": 324,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

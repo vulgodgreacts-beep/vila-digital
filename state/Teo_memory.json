@@ -1744,5 +1744,83 @@
     "created_tick": 316,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros doados, esperando encontrar algo que identifique o remetente.",
+    "created_tick": 317,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna e examino os livros da caixa antes que a chuva estrague tudo.",
+    "created_tick": 318,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Tranco a porta da biblioteca e saio correndo para o mercado antes da chuva piorar.",
+    "created_tick": 319,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Aposto que foi o Seu Geraldo — ele adora livros antigos e é de dar presentes sem contar pra ninguém.",
+    "created_tick": 319,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, deixa essa caixa aí — apagão desse tamanho, poste tá caído na rua de baixo, tenho certeza.",
+    "created_tick": 320,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Alguém sabe de quem é essa caixa de livros que apareceu na biblioteca?",
+    "created_tick": 320,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 40: Chuva, apagão, caixa misteriosa de livros antigos na porta — dia intrigante.",
+    "created_tick": 320,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Marina. Eu achava \"Prática e corajosa; vê valor nas coisas que outros deixam para trás.\", agora acho \"Curiosa como eu sobre mistérios; investiga enquanto resolve problemas práticos simultaneamente.\".",
+    "created_tick": 320,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, você está indo pro mercado? Posso te acompanhar, aproveito e pego algo pra comer.",
+    "created_tick": 321,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu se a barraca da Dona Rosa ainda tá funcionando com essa escuridão?",
+    "created_tick": 322,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, essa coxinha tá de pé? Tô com fome e esse temporal não vai passar hoje.",
+    "created_tick": 323,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Peço um pão a Iris, aproveitando pra perguntar se ela sabe quem deixou aquela caixa na biblioteca.",
+    "created_tick": 323,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você volta pro mercado agora? Posso te acompanhar, preciso comer algo.",
+    "created_tick": 324,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

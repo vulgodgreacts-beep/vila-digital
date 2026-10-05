@@ -1,8 +1,8 @@
 {
   "Teo": {
-    "familiaridade": 124,
-    "opiniao": "Rapaz parou de contar história e foi atrás do cachorro junto com gente.",
-    "desde_dia": 26,
+    "familiaridade": 126,
+    "opiniao": "Rapaz parou de contar história, agora quer descobrir quem doou livro antigo.",
+    "desde_dia": 40,
     "historico": [
       {
         "dia": 3,
@@ -15,11 +15,15 @@
       {
         "dia": 16,
         "opiniao": "Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo."
+      },
+      {
+        "dia": 26,
+        "opiniao": "Rapaz parou de contar história e foi atrás do cachorro junto com gente."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 133,
+    "familiaridade": 136,
     "opiniao": "Essa mulher quer me proteger — não é só ação, é cuidado mesmo.",
     "desde_dia": 22,
     "historico": [

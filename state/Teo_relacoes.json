@@ -1,12 +1,17 @@
 {
   "Marina": {
-    "familiaridade": 125,
-    "opiniao": "Prática e corajosa; vê valor nas coisas que outros deixam para trás.",
-    "desde_dia": 3,
-    "historico": []
+    "familiaridade": 128,
+    "opiniao": "Curiosa como eu sobre mistérios; investiga enquanto resolve problemas práticos simultaneamente.",
+    "desde_dia": 40,
+    "historico": [
+      {
+        "dia": 3,
+        "opiniao": "Prática e corajosa; vê valor nas coisas que outros deixam para trás."
+      }
+    ]
   },
   "Iris": {
-    "familiaridade": 161,
+    "familiaridade": 165,
     "opiniao": "Genuinamente preocupada, mas também prática — pediu comida enquanto ajudava na chuva.",
     "desde_dia": 39,
     "historico": [

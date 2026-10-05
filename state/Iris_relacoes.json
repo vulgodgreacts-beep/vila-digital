@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 154,
+    "familiaridade": 158,
     "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.",
     "desde_dia": 24,
     "historico": [
@@ -19,14 +19,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 172,
-    "opiniao": "Ele não é nervoso — quando importa, tá ali, oferecendo café, vela, proteção, de verdade mesmo.",
-    "desde_dia": 39,
+    "familiaridade": 173,
+    "opiniao": "Esse moço é romântico mesmo — deixa livros antigos pra gente descobrir quem é o misterioso.",
+    "desde_dia": 40,
     "historico": [
-      {
-        "dia": 23,
-        "opiniao": "Nervoso demais, fica falando de história quando devia agir logo!"
-      },
       {
         "dia": 25,
         "opiniao": "Nervoso, mas pelo menos veio me ajudar no mercado quando precisei, meu deus!"
@@ -38,6 +34,10 @@
       {
         "dia": 33,
         "opiniao": "Achei que era só nervoso, mas quando importa, ele tá ali de verdade ajudando."
+      },
+      {
+        "dia": 39,
+        "opiniao": "Ele não é nervoso — quando importa, tá ali, oferecendo café, vela, proteção, de verdade mesmo."
       }
     ]
   }

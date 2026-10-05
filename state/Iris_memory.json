@@ -1846,5 +1846,107 @@
     "created_tick": 316,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a barraca de lanches ver se Teo conseguiu manter algo quente sem luz.",
+    "created_tick": 317,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, essa chuva não dá trégua, né? Vem cá, vou te oferecer um café quentinho.",
+    "created_tick": 318,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem pão com queijo aí? Esse temporal vai durar, melhor comer algo agora.",
+    "created_tick": 319,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aposto que foi o Seu Geraldo — ele adora livros antigos e é de dar presentes sem contar pra ninguém.",
+    "created_tick": 319,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, deixa essa caixa aí — apagão desse tamanho, poste tá caído na rua de baixo, tenho certeza.",
+    "created_tick": 320,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Alguém sabe de quem é essa caixa de livros que apareceu na biblioteca?",
+    "created_tick": 320,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, aposto que foi aquele Teo misterioso que deixou esses livros na biblioteca!",
+    "created_tick": 320,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 40: Apagão, chuva, frio e mistério dessa caixa de livros — dia de gente se abraçando no mercado.",
+    "created_tick": 320,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Ele não é nervoso — quando importa, tá ali, oferecendo café, vela, proteção, de verdade mesmo.\", agora acho \"Esse moço é romântico mesmo — deixa livros antigos pra gente descobrir quem é o misterioso.\".",
+    "created_tick": 320,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Iris, você está indo pro mercado? Posso te acompanhar, aproveito e pego algo pra comer.",
+    "created_tick": 321,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca com cuidado, procurando um guarda-chuva ou algo que me proteja dessa chuva.",
+    "created_tick": 321,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca correndo pra alcançar o mercado antes dessa chuva ficar pior.",
+    "created_tick": 322,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, essa coxinha tá de pé? Tô com fome e esse temporal não vai passar hoje.",
+    "created_tick": 323,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Peço um pão a Iris, aproveitando pra perguntar se ela sabe quem deixou aquela caixa na biblioteca.",
+    "created_tick": 323,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você viu quem deixou aquela caixa de livros na biblioteca?",
+    "created_tick": 323,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você volta pro mercado agora? Posso te acompanhar, preciso comer algo.",
+    "created_tick": 324,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pro mercado antes essa chuva piorar, preciso de um café quente urgente.",
+    "created_tick": 324,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
