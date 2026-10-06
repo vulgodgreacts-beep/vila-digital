@@ -2206,5 +2206,143 @@
     "created_tick": 340,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, vem aqui dentro, essa chuva tá de assustar até os peixe!",
+    "created_tick": 341,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 342,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na praça ver esse chafariz entupido antes que fique pior com essa chuva.",
+    "created_tick": 342,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Marina pro mercado: \"Vamos sair dessa chuva antes que a gente fique encharcada!",
+    "created_tick": 342,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver esse chafariz entupido antes da água virar lama.",
+    "created_tick": 343,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, esse chafariz entupido vai virar uma lagoa se essa chuva não parar logo!",
+    "created_tick": 343,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça ver esse chafariz, temporal ou não, água parada é problema.",
+    "created_tick": 344,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Saio do mercado em direção à praça, querendo ver de perto esse chafariz entupido.",
+    "created_tick": 344,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você viu que o chafariz tá entupido? Deve ser coisa de folha mesmo.",
+    "created_tick": 344,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 43: Dia de chuva e preocupação, todo mundo correndo atrás do chafariz entupido da praça.",
+    "created_tick": 344,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou ver esse chafariz, temporal ou não — água parada é problema de verdade.",
+    "created_tick": 345,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão? Essa chuva me lembrou quando a vila inundou em 1987...",
+    "created_tick": 345,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, esse chafariz entupido é coisa de criança brincando, aposto minha aposentadoria!",
+    "created_tick": 345,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Esse chafariz não vai se consertar sozinho — vou lá ver o que tá entupindo.",
+    "created_tick": 346,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho para o chafariz entupido e penso em como isso acontecia no século XVIII aqui na região.",
+    "created_tick": 346,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, esse chafariz entupido é coisa pro Teo investigar, ele adora um mistério!",
+    "created_tick": 346,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na praça ver esse chafariz antes que fique pior com essa chuva.",
+    "created_tick": 347,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Sabe, em 1847 a vila construiu esse chafariz... talvez a tubulação original ainda esteja entupida.",
+    "created_tick": 347,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aposto que o Seu Geraldo sabe como desentupir esse chafariz, ele conserta tudo!",
+    "created_tick": 347,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 348,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Essa caixa veio de longe, Teo — vou ver se tem marca de transportadora ou selo velho.",
+    "created_tick": 348,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Aquela caixa de livros apareceu bem quando a vila mais precisava de distração, né?",
+    "created_tick": 348,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, meu filho, aposto que foi dona Gertrudes, aquela que adora ler romance antigo!",
+    "created_tick": 348,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

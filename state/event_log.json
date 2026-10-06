@@ -6814,5 +6814,161 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Marina, querida, vem aqui dentro que essa chuva não brinca!"
+  },
+  {
+    "tick": 341,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Desligo o soldador e vou pro mercado — se a chuva parou, pego algo pra comer."
+  },
+  {
+    "tick": 341,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo as velas da biblioteca; a chuva sempre traz gente procurando refúgio e companhia."
+  },
+  {
+    "tick": 341,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, vem aqui dentro, essa chuva tá de assustar até os peixe!"
+  },
+  {
+    "tick": 342,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada."
+  },
+  {
+    "tick": 342,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou na praça ver esse chafariz entupido antes que fique pior com essa chuva."
+  },
+  {
+    "tick": 342,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lamparina da biblioteca e observo a chuva pela janela, esperando que passe."
+  },
+  {
+    "tick": 342,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Puxo Marina pro mercado: \"Vamos sair dessa chuva antes que a gente fique encharcada!"
+  },
+  {
+    "tick": 343,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou lá na praça ver esse chafariz entupido antes da água virar lama."
+  },
+  {
+    "tick": 343,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou pro mercado antes que fique muito cheio — preciso de um sanduíche e sair dessa biblioteca escura."
+  },
+  {
+    "tick": 343,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, esse chafariz entupido vai virar uma lagoa se essa chuva não parar logo!"
+  },
+  {
+    "tick": 344,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra praça ver esse chafariz, temporal ou não, água parada é problema."
+  },
+  {
+    "tick": 344,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Saio do mercado em direção à praça, querendo ver de perto esse chafariz entupido."
+  },
+  {
+    "tick": 344,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, você viu que o chafariz tá entupido? Deve ser coisa de folha mesmo."
+  },
+  {
+    "tick": 345,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou ver esse chafariz, temporal ou não — água parada é problema de verdade."
+  },
+  {
+    "tick": 345,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você tem pão? Essa chuva me lembrou quando a vila inundou em 1987..."
+  },
+  {
+    "tick": 345,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, esse chafariz entupido é coisa de criança brincando, aposto minha aposentadoria!"
+  },
+  {
+    "tick": 346,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Esse chafariz não vai se consertar sozinho — vou lá ver o que tá entupindo."
+  },
+  {
+    "tick": 346,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Olho para o chafariz entupido e penso em como isso acontecia no século XVIII aqui na região."
+  },
+  {
+    "tick": 346,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, querida, esse chafariz entupido é coisa pro Teo investigar, ele adora um mistério!"
+  },
+  {
+    "tick": 347,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou na praça ver esse chafariz antes que fique pior com essa chuva."
+  },
+  {
+    "tick": 347,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Sabe, em 1847 a vila construiu esse chafariz... talvez a tubulação original ainda esteja entupida."
+  },
+  {
+    "tick": 347,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Aposto que o Seu Geraldo sabe como desentupir esse chafariz, ele conserta tudo!"
+  },
+  {
+    "tick": 348,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 348,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Essa caixa veio de longe, Teo — vou ver se tem marca de transportadora ou selo velho."
+  },
+  {
+    "tick": 348,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Aquela caixa de livros apareceu bem quando a vila mais precisava de distração, né?"
+  },
+  {
+    "tick": 348,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, meu filho, aposto que foi dona Gertrudes, aquela que adora ler romance antigo!"
   }
 ]
