@@ -1,5 +1,5 @@
 {
-  "tick": 348,
+  "tick": 356,
   "state": {
     "clima": "temporal",
     "movimento": "gente parada olhando o chafariz",
@@ -7,10 +7,20 @@
   },
   "active_incidents": [
     {
-      "title": "Caixa de livros doados",
-      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
-      "state_changes": {},
-      "started_tick": 348
+      "title": "Dia de feira",
+      "description": "Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+      "state_changes": {
+        "movimento": "vila cheia, feira no mercado"
+      },
+      "started_tick": 351
+    },
+    {
+      "title": "Chafariz entupido",
+      "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
+      "state_changes": {
+        "movimento": "gente parada olhando o chafariz"
+      },
+      "started_tick": 354
     }
   ]
 }

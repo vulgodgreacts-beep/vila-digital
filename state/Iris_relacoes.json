@@ -19,14 +19,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 190,
-    "opiniao": "Esse moço é curioso, mas também tem compaixão, não é só história antiga.",
-    "desde_dia": 42,
+    "familiaridade": 195,
+    "opiniao": "Esse moço tem coração mesmo, ajudou com a caixa na chuva.",
+    "desde_dia": 44,
     "historico": [
-      {
-        "dia": 33,
-        "opiniao": "Achei que era só nervoso, mas quando importa, ele tá ali de verdade ajudando."
-      },
       {
         "dia": 39,
         "opiniao": "Ele não é nervoso — quando importa, tá ali, oferecendo café, vela, proteção, de verdade mesmo."
@@ -38,6 +34,10 @@
       {
         "dia": 41,
         "opiniao": "Esse moço é curioso demais, quer saber tudo sobre aquela caixa de livros."
+      },
+      {
+        "dia": 42,
+        "opiniao": "Esse moço é curioso, mas também tem compaixão, não é só história antiga."
       }
     ]
   }
