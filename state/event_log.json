@@ -7138,5 +7138,167 @@
     "agent": "Iris",
     "location": "biblioteca",
     "action": "Vou pro mercado aproveitar a fair enquanto tem produtor novo — talvez tenha uns queijo bom pra beliscar."
+  },
+  {
+    "tick": 357,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego minha chave inglesa e vou pra praça ver esse chafariz — tá pedindo manutenção."
+  },
+  {
+    "tick": 357,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Saio da biblioteca em direção ao mercado, aproveitando a chuva pra não cruzar com ninguém na praça."
+  },
+  {
+    "tick": 357,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, você viu o chafariz? Aposto que aquele desentupidor da oficina consegue resolver isso."
+  },
+  {
+    "tick": 358,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Iris, vem comigo ver esse chafariz — preciso de lanterna e você não deixa ninguém me atrapalhar lá."
+  },
+  {
+    "tick": 358,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Saio da biblioteca em direção ao mercado, olhando de soslaio para o chafariz entupido no caminho."
+  },
+  {
+    "tick": 358,
+    "agent": "Iris",
+    "location": "oficina",
+    "action": "Marina, amor, esse chafariz entupido é trabalho pra seu Zé, não é?"
+  },
+  {
+    "tick": 359,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento."
+  },
+  {
+    "tick": 359,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Iris, você viu se alguém mexeu naquele cano velho da praça?"
+  },
+  {
+    "tick": 359,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Saio da biblioteca e sigo pela chuva em direção ao mercado, onde deve haver comida."
+  },
+  {
+    "tick": 359,
+    "agent": "Iris",
+    "location": "oficina",
+    "action": "Marina, querida, você tem um café coado aí? Meu estômago tá reclamando!"
+  },
+  {
+    "tick": 360,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Iris, esse gerador tá puxando muita carga — vou ver se consigo reverter a sobrecarga."
+  },
+  {
+    "tick": 360,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Vou até a barraca de dona Rosa, que faz uns pastéis que lembram receitas do século dezoito."
+  },
+  {
+    "tick": 360,
+    "agent": "Iris",
+    "location": "oficina",
+    "action": "Marina, querida, você tem um café aí? Meu estômago está reclamando e a feira deve estar uma loucura agora."
+  },
+  {
+    "tick": 360,
+    "agent": "SISTEMA",
+    "location": "oficina",
+    "action": "Iris mudou de ideia sobre Marina: Essa mulher é de ferro mesmo, mexe com gerador, lanterna, resolve tudo sozinha."
+  },
+  {
+    "tick": 361,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar."
+  },
+  {
+    "tick": 361,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado com Iris antes essa chuva ficar pior e eu desmaiar de fome aqui."
+  },
+  {
+    "tick": 361,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Me abrigando debaixo da barraca, procuro a Dona Carla pra ver se ainda tem caldo quente."
+  },
+  {
+    "tick": 361,
+    "agent": "Iris",
+    "location": "oficina",
+    "action": "Saio correndo pela chuva em direção ao mercado, segurando a bolsa na cabeça."
+  },
+  {
+    "tick": 362,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, quanto custa essa coxinha? Tô morrendo de fome aqui."
+  },
+  {
+    "tick": 362,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro a barraca da dona Rosa; ela faz um bolo de milho que me salva nesses temporais."
+  },
+  {
+    "tick": 362,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ó, que temporal! Vou pra trás do balcão pegar um bolo da Dona Marta antes que acabe."
+  },
+  {
+    "tick": 363,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Pego uma broa com queijo na barraca da Iris antes que estrague tudo com essa chuva."
+  },
+  {
+    "tick": 363,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro algum vendedor que ainda tenha barraca de pé nessa chuva."
+  },
+  {
+    "tick": 363,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, vou pra barraca da Dona Marta pegar um bolo de chuva antes de acabar!"
+  },
+  {
+    "tick": 364,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, essa chuva derrubou a fiação lá na oficina — vou precisar de lanterna se a luz não voltar logo."
+  },
+  {
+    "tick": 364,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você tem pão com queijo? Temporal assim... lembra aquele de 1987?"
+  },
+  {
+    "tick": 364,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, vem cá, você quer um bolo de milho? Fiz essa manhã, antes dessa chuva louca."
   }
 ]

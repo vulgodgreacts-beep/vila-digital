@@ -1,8 +1,8 @@
 {
   "Marina": {
-    "familiaridade": 175,
-    "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.",
-    "desde_dia": 24,
+    "familiaridade": 180,
+    "opiniao": "Essa mulher é de ferro mesmo, mexe com gerador, lanterna, resolve tudo sozinha.",
+    "desde_dia": 45,
     "historico": [
       {
         "dia": 3,
@@ -15,11 +15,15 @@
       {
         "dia": 22,
         "opiniao": "Essa moça se importa comigo, quer me proteger da chuva."
+      },
+      {
+        "dia": 24,
+        "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado."
       }
     ]
   },
   "Teo": {
-    "familiaridade": 195,
+    "familiaridade": 199,
     "opiniao": "Esse moço tem coração mesmo, ajudou com a caixa na chuva.",
     "desde_dia": 44,
     "historico": [

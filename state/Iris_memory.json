@@ -1870,5 +1870,137 @@
     "created_tick": 356,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu o chafariz? Aposto que aquele desentupidor da oficina consegue resolver isso.",
+    "created_tick": 357,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, vem comigo ver esse chafariz — preciso de lanterna e você não deixa ninguém me atrapalhar lá.",
+    "created_tick": 358,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, amor, esse chafariz entupido é trabalho pra seu Zé, não é?",
+    "created_tick": 358,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 359,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você viu se alguém mexeu naquele cano velho da praça?",
+    "created_tick": 359,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você tem um café coado aí? Meu estômago tá reclamando!",
+    "created_tick": 359,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse gerador tá puxando muita carga — vou ver se consigo reverter a sobrecarga.",
+    "created_tick": 360,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você tem um café aí? Meu estômago está reclamando e a feira deve estar uma loucura agora.",
+    "created_tick": 360,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 45: Feira lotada, cachorro assustado, chafariz entupido, Marina e Teo me ajudando demais hoje.",
+    "created_tick": 360,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Marina. Eu achava \"Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado.\", agora acho \"Essa mulher é de ferro mesmo, mexe com gerador, lanterna, resolve tudo sozinha.\".",
+    "created_tick": 360,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 361,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pro mercado com Iris antes essa chuva ficar pior e eu desmaiar de fome aqui.",
+    "created_tick": 361,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pela chuva em direção ao mercado, segurando a bolsa na cabeça.",
+    "created_tick": 361,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, quanto custa essa coxinha? Tô morrendo de fome aqui.",
+    "created_tick": 362,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca da dona Rosa; ela faz um bolo de milho que me salva nesses temporais.",
+    "created_tick": 362,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó, que temporal! Vou pra trás do balcão pegar um bolo da Dona Marta antes que acabe.",
+    "created_tick": 362,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego uma broa com queijo na barraca da Iris antes que estrague tudo com essa chuva.",
+    "created_tick": 363,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro algum vendedor que ainda tenha barraca de pé nessa chuva.",
+    "created_tick": 363,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, vou pra barraca da Dona Marta pegar um bolo de chuva antes de acabar!",
+    "created_tick": 363,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, essa chuva derrubou a fiação lá na oficina — vou precisar de lanterna se a luz não voltar logo.",
+    "created_tick": 364,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão com queijo? Temporal assim... lembra aquele de 1987?",
+    "created_tick": 364,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vem cá, você quer um bolo de milho? Fiz essa manhã, antes dessa chuva louca.",
+    "created_tick": 364,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
