@@ -2122,5 +2122,107 @@
     "created_tick": 372,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 373,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra praça, esse cachorro assustado precisa de ajuda agora mesmo.",
+    "created_tick": 373,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, aquele cachorro lá fora precisa de ajuda, você tem uma corda na oficina?",
+    "created_tick": 374,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 375,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da oficina pra ver esse cachorro perdido na praça, coitado deve estar morrendo de medo nessa chuva.",
+    "created_tick": 375,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da oficina pra ver esse cachorro perdido na praça, coitado deve estar morrendo de frio.",
+    "created_tick": 376,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 47: Apagão, cachorro perdido na chuva, chafariz entupido — dia de emoção na vila.",
+    "created_tick": 376,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pro mercado pegar um biscoito, mas antes passo na praça pra ver se alguém achou esse cachorro.",
+    "created_tick": 377,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver se consigo tirar esse entupimento antes a chuva piorar.",
+    "created_tick": 378,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou pedir um bolo de chuva pra Iris enquanto pergunto se alguém reconhece esse cachorro.",
+    "created_tick": 378,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu esse cachorro perdido? Ele tá com fome igual a mim, a gente arruma isso?",
+    "created_tick": 378,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na praça ver esse chafariz — temporal assim, água parada vira problema rápido.",
+    "created_tick": 379,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho para o chafariz parado e murmuro: \"Sabe, em 1887 a vila enfrentou problema parecido...",
+    "created_tick": 379,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você consegue dar uma olhada nesse chafariz? A gente tá precisando de sua mão de ouro.",
+    "created_tick": 379,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver se consigo desobstruir esse chafariz antes a chuva piorar.",
+    "created_tick": 380,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pro chafariz parado e sussurro: \"Sabe, em 1847 a vila teve problema igual com canaleta entupida?",
+    "created_tick": 380,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você que mexe com tudo, não dá um jeito nesse chafariz entupido?",
+    "created_tick": 380,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

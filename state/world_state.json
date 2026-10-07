@@ -1,9 +1,18 @@
 {
-  "tick": 372,
+  "tick": 380,
   "state": {
     "clima": "temporal",
-    "movimento": "todo mundo se abrigando",
+    "movimento": "gente parada olhando o chafariz",
     "energia": "sem luz"
   },
-  "active_incidents": []
+  "active_incidents": [
+    {
+      "title": "Chafariz entupido",
+      "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
+      "state_changes": {
+        "movimento": "gente parada olhando o chafariz"
+      },
+      "started_tick": 375
+    }
+  ]
 }
