@@ -2026,5 +2026,107 @@
     "created_tick": 380,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 381,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a corda velha da oficina e vou ver esse cachorro na praça.",
+    "created_tick": 381,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna da oficina e vou procurar esse cachorro na praça antes que se machuque.",
+    "created_tick": 382,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse cachorro — alguém precisa verificar se tá ferido.",
+    "created_tick": 383,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça levar uns restos de comida — cachorro assustado não vai longe com fome.",
+    "created_tick": 384,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 48: Desentupir chafariz na chuva, alimentar cachorro perdido, ninguém quis ajudar direito.",
+    "created_tick": 384,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pro mercado pegar algo rápido, esse cachorro pode esperar cinco minutos.",
+    "created_tick": 385,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro precisa de algo quente, vou pegar um prato de caldo na barraca.",
+    "created_tick": 385,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pegar algo rápido com Iris e depois ajudo Teo com esse cachorro assustado.",
+    "created_tick": 386,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão com queijo? Esse temporal me deixou com fome.",
+    "created_tick": 386,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, Marina, Teo, vamos levar esse bichinho assustado pra dentro antes da chuva piorar?",
+    "created_tick": 386,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 387,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem um pão aí? Depois ajudo vocês com esse cachorro.",
+    "created_tick": 387,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou pedir um pastel pra Iris, mas fico de olho naquele cachorro assustado lá fora.",
+    "created_tick": 387,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você tem corda na oficina? A gente prende esse bichinho antes que ele se perca de vez.",
+    "created_tick": 387,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro precisa de coleira; vou procurar corda na oficina.",
+    "created_tick": 388,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu aquele cachorro assustado na praça? Vamos lá dar uma olhada?",
+    "created_tick": 388,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

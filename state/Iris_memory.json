@@ -2224,5 +2224,95 @@
     "created_tick": 380,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 381,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou lá na praça oferecer comida pro cachorro antes que ele se machuque nessa chuva.",
+    "created_tick": 381,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado pegar uns biscoitos velhos pra acalmar esse cachorro assustado.",
+    "created_tick": 382,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou procurar esse pobre cachorro assustado na praça antes que se perca mais ainda.",
+    "created_tick": 383,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse cachorro perdido, coitado deve estar apavorado com essa chuva toda.",
+    "created_tick": 384,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 48: Vendi bastante com essa chuva, todo mundo querendo bolo e café quente no mercado.",
+    "created_tick": 384,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Gente, esse cachorro precisa de algo quente, vou pegar um prato de caldo na barraca.",
+    "created_tick": 385,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar algo rápido com Iris e depois ajudo Teo com esse cachorro assustado.",
+    "created_tick": 386,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão com queijo? Esse temporal me deixou com fome.",
+    "created_tick": 386,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ei, Marina, Teo, vamos levar esse bichinho assustado pra dentro antes da chuva piorar?",
+    "created_tick": 386,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 387,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem um pão aí? Depois ajudo vocês com esse cachorro.",
+    "created_tick": 387,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou pedir um pastel pra Iris, mas fico de olho naquele cachorro assustado lá fora.",
+    "created_tick": 387,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você tem corda na oficina? A gente prende esse bichinho antes que ele se perca de vez.",
+    "created_tick": 387,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquele cachorro assustado na praça? Vamos lá dar uma olhada?",
+    "created_tick": 388,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
