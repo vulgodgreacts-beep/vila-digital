@@ -1798,5 +1798,107 @@
     "created_tick": 364,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Tranco a porta da biblioteca e acendo as velas que guardo na sala dos fundos.",
+    "created_tick": 365,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 366,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a biblioteca e saio correndo pra o mercado, desviando das poças d'água.",
+    "created_tick": 366,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, pessoal, vamos fechar as venezianas antes que a água invada tudo aqui dentro!",
+    "created_tick": 366,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina verificar o poste antes que essa chuva piore mais ainda.",
+    "created_tick": 367,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem pão com queijo? Esse apagão me lembrou da tempestade de 1987 que derrubou três postes.",
+    "created_tick": 367,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem cá, a Marina deve estar na oficina consertando esse gerador, aquela mulher não descansa nunca!",
+    "created_tick": 367,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da chuva e entro na biblioteca, que pelo menos tem janelas grandes.",
+    "created_tick": 368,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 46: Apagão durante temporal, biblioteca fechada, lembrei do temporal de 1987 com Iris.",
+    "created_tick": 368,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção ao mercado, passando pela chuva com cuidado.",
+    "created_tick": 369,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, você viu o poste lá na rua? Vou checar antes de comer.",
+    "created_tick": 370,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem pão com queijo? Aproveito e ajudo a guardar as coisas antes da chuva piorar.",
+    "created_tick": 370,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu se a padaria tem alguma coisa quente pra comer com essa chuva?",
+    "created_tick": 370,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na oficina ver se essa chuva derrubou algo no poste, depois volto.",
+    "created_tick": 371,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, lembra do temporal de '87? A luz caiu igual, mas duraram três dias inteiros.",
+    "created_tick": 371,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu Marina? Essa mulher deve estar lá na oficina resolvendo esse apagão, tenho certeza.",
+    "created_tick": 371,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Me empenho em ajudar a carregar coisas pro abrigo, mesmo tímido com a multidão.",
+    "created_tick": 372,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

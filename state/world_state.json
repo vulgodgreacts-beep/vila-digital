@@ -1,27 +1,9 @@
 {
-  "tick": 364,
+  "tick": 372,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Dia de feira",
-      "description": "Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
-      "state_changes": {
-        "movimento": "vila cheia, feira no mercado"
-      },
-      "started_tick": 359
-    },
-    {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 361
-    }
-  ]
+  "active_incidents": []
 }

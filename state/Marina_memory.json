@@ -1810,5 +1810,101 @@
     "created_tick": 364,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado, que deve ter gente se abrigando e comida pra comprar.",
+    "created_tick": 365,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você tem lanterna? Meu Deus, que temporal, precisamos iluminar esse corredor.",
+    "created_tick": 365,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 366,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, aquele poste da rua principal tá errado — vou lá ver quando passar essa chuva.",
+    "created_tick": 366,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, pessoal, vamos fechar as venezianas antes que a água invada tudo aqui dentro!",
+    "created_tick": 366,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina verificar o poste antes que essa chuva piore mais ainda.",
+    "created_tick": 367,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pegar a lanterna e o multímetro pra verificar se é o poste mesmo.",
+    "created_tick": 368,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, aquele cachorro lá fora tá assustado com o temporal, viu?",
+    "created_tick": 368,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 46: Apagão na vila, poste queimado, chuva forte — consertei a fiação na oficina.",
+    "created_tick": 368,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, vou pro mercado pegar algo — você fica aqui, esse temporal não é brincadeira.",
+    "created_tick": 369,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu o poste lá na rua? Vou checar antes de comer.",
+    "created_tick": 370,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão com queijo? Aproveito e ajudo a guardar as coisas antes da chuva piorar.",
+    "created_tick": 370,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu se a padaria tem alguma coisa quente pra comer com essa chuva?",
+    "created_tick": 370,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou na oficina ver se essa chuva derrubou algo no poste, depois volto.",
+    "created_tick": 371,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna velha da prateleira — se a luz não volta, vou verificar o poste agora.",
+    "created_tick": 372,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você tem vela? Esse apagão vai durar, melhor a gente se iluminar direito.",
+    "created_tick": 372,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
