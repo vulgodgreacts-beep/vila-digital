@@ -1942,5 +1942,113 @@
     "created_tick": 396,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, essa apagão é uma desculpa pra gente se ajudar, né não?",
+    "created_tick": 397,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você viu aquele cachorro? Preciso checar se tá ferido antes dessa chuva piorar.",
+    "created_tick": 398,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu esse cachorro perdido na praça? Coitado tá assustado demais.",
+    "created_tick": 398,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça ver esse cachorro e o chafariz — luz preta não me impede de mexer em cano.",
+    "created_tick": 399,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu esse cachorro assustado? Aposto que você consegue ajudar!",
+    "created_tick": 399,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquela luz caiu lá na praça — vou checar se não danificou nada antes dessa chuva piorar.",
+    "created_tick": 400,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquele cachorro assustado na praça? Precisa de ajuda pra procurar?",
+    "created_tick": 400,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 50: Chuva, apagão, cachorro perdido — a gente se uniu pra ajudar quem precisava hoje.",
+    "created_tick": 400,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, esse temporal derrubou a luz? Deixa eu ver o quadro de força.",
+    "created_tick": 401,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó Marina, você viu esse cachorro? Deve estar perdido na chuva, coitado, precisa de ajuda.",
+    "created_tick": 401,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina ligar o gerador, essa vila não funciona sem luz.",
+    "created_tick": 402,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão com queijo? A chuva me deu fome.",
+    "created_tick": 402,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro perdido na chuva, a gente devia procurar o dono dele.",
+    "created_tick": 402,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu aquele cachorro perto do chafariz? Lembrei que em 1987 teve outra enchente...",
+    "created_tick": 403,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro perdido tá me preocupando, a gente não devia deixar ele sozinho nessa chuva.",
+    "created_tick": 403,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 404,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou até a praça procurar o cachorro, que temporal assim deixa qualquer criatura desesperada.",
+    "created_tick": 404,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu esse cachorro perdido? A gente precisa ajudar o coitado antes da chuva piorar.",
+    "created_tick": 404,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

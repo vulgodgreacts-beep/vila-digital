@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 156,
+    "familiaridade": 157,
     "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar.",
     "desde_dia": 42,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 173,
-    "opiniao": "Essa mulher quer me proteger — não é só ação, é cuidado mesmo.",
-    "desde_dia": 22,
+    "familiaridade": 178,
+    "opiniao": "Essa mulher não só quer me proteger — ela me arrasta pra ajudar os outros também.",
+    "desde_dia": 50,
     "historico": [
-      {
-        "dia": 3,
-        "opiniao": "Parece gente curiosa, quer saber de tudo que acontece por aqui."
-      },
       {
         "dia": 9,
         "opiniao": "Essa mulher age quando precisa, não só fica fuçando nos outros."
@@ -42,6 +38,10 @@
       {
         "dia": 14,
         "opiniao": "Essa mulher não deixa cachorro sofrendo — age mesmo, sem falar muito."
+      },
+      {
+        "dia": 22,
+        "opiniao": "Essa mulher quer me proteger — não é só ação, é cuidado mesmo."
       }
     ]
   }

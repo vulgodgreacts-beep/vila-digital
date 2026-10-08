@@ -2236,5 +2236,95 @@
     "created_tick": 396,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a vela da biblioteca e organizo os livros sobre animais domésticos para quando a chuva passar.",
+    "created_tick": 397,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna e vou verificar se o cachorro assustado ainda está na praça.",
+    "created_tick": 398,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lamparina da biblioteca e vejo se alguém procura abrigo da chuva aqui dentro.",
+    "created_tick": 399,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna e vou até a praça ver se consigo ajudar com esse cachorro.",
+    "created_tick": 400,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 50: Procurei o cachorro perdido na chuva, lembrei de 1987 e organizei livros na biblioteca vazio.",
+    "created_tick": 400,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou ao mercado aproveitar e perguntar se alguém viu aquele cachorro assustado da praça.",
+    "created_tick": 401,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Marina, você viu esse cachorro? Deve estar perdido na chuva, coitado, precisa de ajuda.",
+    "created_tick": 401,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina ligar o gerador, essa vila não funciona sem luz.",
+    "created_tick": 402,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem pão com queijo? A chuva me deu fome.",
+    "created_tick": 402,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse cachorro perdido na chuva, a gente devia procurar o dono dele.",
+    "created_tick": 402,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu aquele cachorro perto do chafariz? Lembrei que em 1987 teve outra enchente...",
+    "created_tick": 403,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse cachorro perdido tá me preocupando, a gente não devia deixar ele sozinho nessa chuva.",
+    "created_tick": 403,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 404,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a praça procurar o cachorro, que temporal assim deixa qualquer criatura desesperada.",
+    "created_tick": 404,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu esse cachorro perdido? A gente precisa ajudar o coitado antes da chuva piorar.",
+    "created_tick": 404,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
