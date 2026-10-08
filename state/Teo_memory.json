@@ -2116,5 +2116,125 @@
     "created_tick": 388,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Ligo a lanterna do celular e saio pra procurar esse cachorro na chuva.",
+    "created_tick": 389,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado pegar algo rápido antes que essa chuva piore ainda mais.",
+    "created_tick": 390,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Marina, Teo, aquele cachorro precisa de alguém com coragem — vocês vão lá?",
+    "created_tick": 390,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, você viu se aquele cachorro tem alguma marca? Preciso comer algo rápido.",
+    "created_tick": 391,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Alguém sabe de quem é esse cachorro? Lembro que no século dezoito as pessoas...",
+    "created_tick": 391,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei Marina, Teo, vamos arrumar esse cachorro antes que piore com essa chuva?",
+    "created_tick": 391,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça agora, esse cachorro precisa de coleira e alguém que cuide.",
+    "created_tick": 392,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fico observando o cachorro da varanda do mercado, esperando que alguém o reconheça.",
+    "created_tick": 392,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei Marina, você tem aquele lenço vermelho? Esse cão precisa confiar em alguém.",
+    "created_tick": 392,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 49: Choveu bastante, ajudei com cachorro perdido, encaixei história sobre animais no século dezoito.",
+    "created_tick": 392,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, aquele cachorro ainda tá solto ou vocês conseguiram levar pra algum lugar?",
+    "created_tick": 393,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Iris e pergunto: \"Você sabe de quem é aquele cachorro assustado na praça?",
+    "created_tick": 393,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu esse cachorro assustado? Aposto que você sabe o que fazer melhor que ninguém.",
+    "created_tick": 393,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra oficina ver se arrumo essa energia da vila antes que fique pior.",
+    "created_tick": 394,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse chafariz entupido lembra o que aconteceu em 1987, mesma época de chuva.",
+    "created_tick": 394,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu esse cachorro assustado na praça? A gente precisa ajudar o coitado.",
+    "created_tick": 394,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da barraca e vou procurar o cachorro perdido na praça, mesmo com essa chuva toda.",
+    "created_tick": 395,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu esse cachorro assustado na praça? A gente precisa descobrir de quem é.",
+    "created_tick": 395,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse temporal é igual ao de 1987, quando o chafariz também entupiu...",
+    "created_tick": 396,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você consegue aquele gerador pra gente iluminar a praça enquanto a chuva passa?",
+    "created_tick": 396,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

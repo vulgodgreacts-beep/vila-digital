@@ -1,13 +1,9 @@
 {
   "Marina": {
-    "familiaridade": 193,
-    "opiniao": "Essa mulher é de ferro mesmo, mexe com gerador, lanterna, resolve tudo sozinha.",
-    "desde_dia": 45,
+    "familiaridade": 198,
+    "opiniao": "Essa mulher tem coração grande, não é só de ferro não, é solidária.",
+    "desde_dia": 49,
     "historico": [
-      {
-        "dia": 3,
-        "opiniao": "Moça responsável, se preocupa com quem precisa, bom coração mesmo."
-      },
       {
         "dia": 16,
         "opiniao": "Essa moça é corajosa mesmo, vai direto consertar poste na tempestade."
@@ -19,11 +15,15 @@
       {
         "dia": 24,
         "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado."
+      },
+      {
+        "dia": 45,
+        "opiniao": "Essa mulher é de ferro mesmo, mexe com gerador, lanterna, resolve tudo sozinha."
       }
     ]
   },
   "Teo": {
-    "familiaridade": 209,
+    "familiaridade": 216,
     "opiniao": "Esse moço tem coração mesmo, ajudou com a caixa na chuva.",
     "desde_dia": 44,
     "historico": [

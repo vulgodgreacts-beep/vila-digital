@@ -1,16 +1,9 @@
 {
-  "tick": 388,
+  "tick": 396,
   "state": {
     "clima": "temporal",
     "movimento": "gente parada olhando o chafariz",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Cachorro perdido",
-      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
-      "state_changes": {},
-      "started_tick": 387
-    }
-  ]
+  "active_incidents": []
 }
