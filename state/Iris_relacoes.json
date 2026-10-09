@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 220,
+    "familiaridade": 225,
     "opiniao": "Essa mulher tem coração grande, não é só de ferro não, é solidária.",
     "desde_dia": 49,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 239,
-    "opiniao": "Aposto que foi esse rapaz quem deixou aqueles livros antigos na biblioteca, que achado!",
-    "desde_dia": 54,
+    "familiaridade": 244,
+    "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva.",
+    "desde_dia": 55,
     "historico": [
-      {
-        "dia": 40,
-        "opiniao": "Esse moço é romântico mesmo — deixa livros antigos pra gente descobrir quem é o misterioso."
-      },
       {
         "dia": 41,
         "opiniao": "Esse moço é curioso demais, quer saber tudo sobre aquela caixa de livros."
@@ -42,6 +38,10 @@
       {
         "dia": 44,
         "opiniao": "Esse moço tem coração mesmo, ajudou com a caixa na chuva."
+      },
+      {
+        "dia": 54,
+        "opiniao": "Aposto que foi esse rapaz quem deixou aqueles livros antigos na biblioteca, que achado!"
       }
     ]
   }

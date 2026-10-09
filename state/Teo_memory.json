@@ -2272,5 +2272,107 @@
     "created_tick": 436,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho o livro e saio pela chuva em direção ao mercado, pensando naquele cachorro sozinho lá fora.",
+    "created_tick": 437,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, viu aquele cachorro assustado na praça? Ajuda a gente procurar o dono?",
+    "created_tick": 437,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem um pão? Esse cachorro lá fora... lembra dos cães de guarda medievais?",
+    "created_tick": 438,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu esse cachorro assustado na praça? Precisa de ajuda pra procurar?",
+    "created_tick": 438,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Iris na barraca dela, vendo se tem algo quente pra comer com essa chuva.",
+    "created_tick": 439,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu esse cachorro perdido na praça? Deve ser de alguém que veio pra feira.",
+    "created_tick": 439,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Ei Teo, já procurou aquele cachorro assustado perto da praça ou tá só aqui conversando?",
+    "created_tick": 440,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Iris e pergunto: \"Tem pão com queijo sobrando? Preciso voltar pra catalogar aqueles livros da caixa.",
+    "created_tick": 440,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, viram aquele cachorro perdido na praça? Deve ser de algum produtor que veio pra feira!",
+    "created_tick": 440,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 55: Chuva, livros misteriosos, um cachorro assustado e muita gente preocupada na praça.",
+    "created_tick": 440,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 441,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, você viu quem deixou essa caixa? Enquanto isso, Iris, me vende um pão antes de desmaiar de fome.",
+    "created_tick": 441,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem algo quente? Essa caixa de livros na biblioteca... alguém sabe de onde veio?",
+    "created_tick": 441,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você não teria um pão ou algo assim? Essa chuva não quer passar.",
+    "created_tick": 442,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, querido, você viu quem deixou essa caixa misteriosa aqui na porta?",
+    "created_tick": 442,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado buscar algo rápido, essa caixa de livros pode esperar um pouco.",
+    "created_tick": 443,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pegar um pão na barraca da dona Célia enquanto espero passar essa chuva.",
+    "created_tick": 444,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
