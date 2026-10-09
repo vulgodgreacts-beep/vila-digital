@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 218,
+    "familiaridade": 220,
     "opiniao": "Essa mulher tem coração grande, não é só de ferro não, é solidária.",
     "desde_dia": 49,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 234,
-    "opiniao": "Esse moço tem coração mesmo, ajudou com a caixa na chuva.",
-    "desde_dia": 44,
+    "familiaridade": 239,
+    "opiniao": "Aposto que foi esse rapaz quem deixou aqueles livros antigos na biblioteca, que achado!",
+    "desde_dia": 54,
     "historico": [
-      {
-        "dia": 39,
-        "opiniao": "Ele não é nervoso — quando importa, tá ali, oferecendo café, vela, proteção, de verdade mesmo."
-      },
       {
         "dia": 40,
         "opiniao": "Esse moço é romântico mesmo — deixa livros antigos pra gente descobrir quem é o misterioso."
@@ -42,6 +38,10 @@
       {
         "dia": 42,
         "opiniao": "Esse moço é curioso, mas também tem compaixão, não é só história antiga."
+      },
+      {
+        "dia": 44,
+        "opiniao": "Esse moço tem coração mesmo, ajudou com a caixa na chuva."
       }
     ]
   }
