@@ -2188,5 +2188,107 @@
     "created_tick": 412,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a praça ver se alguém consegue desentupir esse chafariz antes que fique pior.",
+    "created_tick": 413,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ué, com essa chuva e a luz apagada, alguém tem que desobstruir esse chafariz logo.",
+    "created_tick": 414,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 415,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, com essa chuva forte o chafariz vai transbordar, você viu?",
+    "created_tick": 415,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 416,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse cachorro tá assustado demais, vou pegar ele antes que se perca de vez.",
+    "created_tick": 416,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquele cachorro assustado na praça? Alguém precisa ajudar o bichinho.",
+    "created_tick": 416,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 52: Chafariz entupiu, chuva forte veio, cachorro perdido apareceu na praça, que dia!",
+    "created_tick": 416,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, me arruma um café com pão, rápido — depois a gente vê esse cachorro lá fora.",
+    "created_tick": 417,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu aquele cachorro assustado? A gente precisa tirar ele dessa chuva!",
+    "created_tick": 417,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro tá encharcado — vem, a gente leva pra oficina antes que piore.",
+    "created_tick": 418,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pra Iris e pergunto: \"Tem pão com queijo? Esse cachorro lá fora deve estar com fome também.",
+    "created_tick": 418,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aquele cachorro lá fora tá com medo demais, vamos levar pra dentro?",
+    "created_tick": 418,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 419,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, esse cachorro assustado... sabe, na grande seca de 1932 os animais também procuravam abrigo.",
+    "created_tick": 419,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você com sua oficina tem gerador? Esse bichinho perdido precisa se abrigar!",
+    "created_tick": 419,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ajudar Marina a procurar velas e lanternas antes que todo mundo bata na porta dela pedindo.",
+    "created_tick": 420,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
