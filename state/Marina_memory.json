@@ -2212,5 +2212,83 @@
     "created_tick": 460,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Ligo a bateria do carro pra ter luz e vou atrás desse cachorro na praça.",
+    "created_tick": 461,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou verificar o gerador da biblioteca — sem luz, ninguém consegue catalogar nada direito mesmo.",
+    "created_tick": 462,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, vamos tirar essa caixa da chuva antes que estrague tudo.",
+    "created_tick": 463,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, aposto que foi você que deixou essa caixa de livros aqui, querida!",
+    "created_tick": 463,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, se esse cachorro tá solto por aí com essa tempestade, alguém tem que procurar.",
+    "created_tick": 464,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu aquele cachorro assustado na praça? Coitado deve estar morrendo de frio nessa chuva.",
+    "created_tick": 464,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 58: Tempestade, cachorro perdido, livros doados e gerador quebrado — dia de trabalho mesmo.",
+    "created_tick": 464,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pro mercado buscar algo pra comer antes que feche tudo com esse temporal.",
+    "created_tick": 465,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 466,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, essa fome não aguenta mais e a chuva vai passar.",
+    "created_tick": 466,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vem, a oficina tem cobertura — e sobra café da manhã lá.",
+    "created_tick": 467,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra o mercado antes que a chuva piore e fico sem nada pra comer.",
+    "created_tick": 468,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pego um pão na barraca mais próxima e me sento aqui perto da Marina, longe da chuva.",
+    "created_tick": 468,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

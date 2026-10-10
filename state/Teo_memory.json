@@ -2164,5 +2164,107 @@
     "created_tick": 460,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado, mas antes deixo a porta da biblioteca aberta para quem precise se abrigar da chuva.",
+    "created_tick": 461,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, aquele cachorro assustado na praça, você viu? Coitado tá perdido mesmo.",
+    "created_tick": 461,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, me dá um pão com queijo — e esse cachorro, alguém já procurou dono dele?",
+    "created_tick": 462,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, querido, aqueles livros na biblioteca foram você mesmo que deixou, né? Fala a verdade!",
+    "created_tick": 462,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pegar um bolo na barraca antes da chuva piorar e depois voltar pra investigar aquela caixa.",
+    "created_tick": 463,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da barraca e vou pra biblioteca conferir se aquela caixa de livros ainda está lá.",
+    "created_tick": 464,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu aquele cachorro assustado na praça? Coitado deve estar morrendo de frio nessa chuva.",
+    "created_tick": 464,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 58: Chuva, cachorro perdido, livros salvos, e Iris me pressionando sobre aquela caixa misteriosa.",
+    "created_tick": 464,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Iris. Eu achava \"Genuinamente preocupada, mas também prática — pediu comida enquanto ajudava na chuva.\", agora acho \"Perspicaz demais — ela sabe que fui eu, mas segue fingindo não saber.\".",
+    "created_tick": 464,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou pro mercado buscar algo pra comer antes que feche tudo com esse temporal.",
+    "created_tick": 465,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Iris e sussurro: \"A chuva não dá trégua... você tem um pão ali?",
+    "created_tick": 465,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, filho, esse cachorro assustado da praça — você viu? Com essa chuva toda, coitado.",
+    "created_tick": 465,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 466,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a porta da biblioteca devagar, espiando a chuva antes de correr pro mercado.",
+    "created_tick": 466,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, vem, a oficina tem cobertura — e sobra café da manhã lá.",
+    "created_tick": 467,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Me abro entre as barracas, procurando um canto seco onde pedir um pão.",
+    "created_tick": 467,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego um pão na barraca mais próxima e me sento aqui perto da Marina, longe da chuva.",
+    "created_tick": 468,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

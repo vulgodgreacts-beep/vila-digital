@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 175,
+    "familiaridade": 176,
     "opiniao": "Solidária com quem sofre; age antes de falar, coração antes da curiosidade.",
     "desde_dia": 42,
     "historico": [
@@ -15,14 +15,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 238,
-    "opiniao": "Genuinamente preocupada, mas também prática — pediu comida enquanto ajudava na chuva.",
-    "desde_dia": 39,
+    "familiaridade": 241,
+    "opiniao": "Perspicaz demais — ela sabe que fui eu, mas segue fingindo não saber.",
+    "desde_dia": 58,
     "historico": [
-      {
-        "dia": 3,
-        "opiniao": "Observadora, curiosa, talvez saiba mais sobre mim do que eu gostaria."
-      },
       {
         "dia": 5,
         "opiniao": "Ela se importa com quem tá perdido, até cachorro sem dono ela quer ajudar."
@@ -34,6 +30,10 @@
       {
         "dia": 21,
         "opiniao": "Corajosa demais às vezes, mas genuinamente preocupada com quem precisa de ajuda."
+      },
+      {
+        "dia": 39,
+        "opiniao": "Genuinamente preocupada, mas também prática — pediu comida enquanto ajudava na chuva."
       }
     ]
   }
