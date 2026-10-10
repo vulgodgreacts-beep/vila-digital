@@ -1,5 +1,5 @@
 {
-  "tick": 468,
+  "tick": 476,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
@@ -7,13 +7,27 @@
   },
   "active_incidents": [
     {
+      "title": "Dia de feira",
+      "description": "Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+      "state_changes": {
+        "movimento": "vila cheia, feira no mercado"
+      },
+      "started_tick": 471
+    },
+    {
+      "title": "Caixa de livros doados",
+      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+      "state_changes": {},
+      "started_tick": 473
+    },
+    {
       "title": "Chuva forte",
       "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
       "state_changes": {
         "clima": "temporal",
         "movimento": "todo mundo se abrigando"
       },
-      "started_tick": 466
+      "started_tick": 474
     }
   ]
 }

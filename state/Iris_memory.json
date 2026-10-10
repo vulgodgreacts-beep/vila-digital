@@ -2224,5 +2224,137 @@
     "created_tick": 468,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó, Marina, Teo, venham pra dentro da barraca antes que vocês virem sopa!",
+    "created_tick": 469,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem algo quente pra comer aqui? Essa chuva não vai passar tão cedo.",
+    "created_tick": 470,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho para Iris enquanto a chuva bate no toldo. \"Tem pão fresco aí, não é?",
+    "created_tick": 470,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vem pra cá, Teo, deixa essa caixa, a gente se abriga melhor aqui dentro!",
+    "created_tick": 470,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 471,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro pode estar na oficina, lá tem galpão coberto.",
+    "created_tick": 471,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Seguro a lona da barraca de Iris enquanto a chuva bate forte contra o tecido.",
+    "created_tick": 471,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, meu filho, larga essas caixas e vem se abrigar aqui, essa chuva não vai passar tão cedo!",
+    "created_tick": 471,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Afasto para o lado, deixando Marina e Iris conversarem enquanto observo os produtores de fora.",
+    "created_tick": 472,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você viu que o Teo tá catalogando livro na chuva, coitado?",
+    "created_tick": 472,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 59: Que dia de chuva, cheia, lotação de gente de fora e a galera se abrigando no mercado!",
+    "created_tick": 472,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 473,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, Iris, vou pegar um bolo na barraca ali, vocês querem?",
+    "created_tick": 473,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Marina, você viu quem deixou aquela caixa de livros na biblioteca?",
+    "created_tick": 473,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu essa caixa de livros que apareceu na biblioteca? Ninguém sabe quem deixou!",
+    "created_tick": 473,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 474,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Acendo a lanterna e abro a caixa de livros na penumbra, evitando o olhar de Iris.",
+    "created_tick": 474,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, filho, você não devia estar catalogando livro com essa chuva, vem tomar um café quente!",
+    "created_tick": 474,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Acendo a lanterna da gaveta e ofereço para Iris: \"Quer um café? Tenho biscoito de polvilho aqui.",
+    "created_tick": 475,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Seguro a porta da biblioteca pra Teo não levar chuva e pergunto: \"Foi você mesmo que deixou esses livros antigos?",
+    "created_tick": 475,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a porta da biblioteca com cuidado, observando a chuva antes de correr pro mercado.",
+    "created_tick": 476,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, aposto que você tem lanterna na oficina, a gente leva pra biblioteca?",
+    "created_tick": 476,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

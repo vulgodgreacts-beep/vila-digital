@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 179,
+    "familiaridade": 182,
     "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar.",
     "desde_dia": 42,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 206,
-    "opiniao": "Insiste demais, mas pelo menos não desiste quando ninguém quer ajudar.",
-    "desde_dia": 57,
+    "familiaridade": 209,
+    "opiniao": "Insiste demais, mas coloca ação onde fala — arca com resultado mesmo.",
+    "desde_dia": 59,
     "historico": [
-      {
-        "dia": 10,
-        "opiniao": "Essa mulher age rápido mesmo, não fica só falando besteira."
-      },
       {
         "dia": 14,
         "opiniao": "Essa mulher não deixa cachorro sofrendo — age mesmo, sem falar muito."
@@ -42,6 +38,10 @@
       {
         "dia": 50,
         "opiniao": "Essa mulher não só quer me proteger — ela me arrasta pra ajudar os outros também."
+      },
+      {
+        "dia": 57,
+        "opiniao": "Insiste demais, mas pelo menos não desiste quando ninguém quer ajudar."
       }
     ]
   }
