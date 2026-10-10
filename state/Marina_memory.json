@@ -2098,5 +2098,119 @@
     "created_tick": 452,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a oficina e vou pro mercado, temporal ou não — preciso comer algo.",
+    "created_tick": 453,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu aquele cachorro assustado na praça? Precisa de ajuda pra procurar?",
+    "created_tick": 453,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro perdido tá na praça — vou ver se consigo rastrear o dono.",
+    "created_tick": 454,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu aquele cachorro assustado na praça? Precisamos achar o dono antes piora.",
+    "created_tick": 454,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse cachorro assustado tá circulando pela praça — alguém tem que pegar ele antes da chuva piorar.",
+    "created_tick": 455,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, ouviu falar daquele cachorro assustado na praça? Alguém precisa ajudar esse bichinho!",
+    "created_tick": 455,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, essa energia fora é culpa do temporal — vou ver a gerador antes que fique pior.",
+    "created_tick": 456,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu um cachorro perdido na praça? Aquele coitado tá assustado demais.",
+    "created_tick": 456,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 57: Iris não parou de falar em cachorro, Teo perguntou sobre livros, eu fechei a oficina cedo.",
+    "created_tick": 456,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Iris. Eu achava \"Essa mulher não só quer me proteger — ela me arrasta pra ajudar os outros também.\", agora acho \"Insiste demais, mas pelo menos não desiste quando ninguém quer ajudar.\".",
+    "created_tick": 456,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 457,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse cachorro antes que a Iris me arraste lá à força.",
+    "created_tick": 457,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de ajuda, alguém conhece de quem é?",
+    "created_tick": 457,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 458,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou lá na praça ver esse cachorro — temporal ou não, bicho assustado não fica sozinho.",
+    "created_tick": 458,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Peço um caldo quente pra Iris, de olho pra praça onde esse cachorro assustado está.",
+    "created_tick": 458,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse cachorro assustado lá fora, você viu? Aposto que alguém conhece o dono!",
+    "created_tick": 458,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro tá com medo, vou levar pra oficina, pelo menos seca do temporal.",
+    "created_tick": 459,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Desligo o ferro de solda e pego a lanterna — sem luz, aquele cachorro tá mais assustado ainda na praça.",
+    "created_tick": 460,
+    "importance": 3,
+    "kind": "observation"
   }
 ]

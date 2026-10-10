@@ -1,167 +1,5 @@
 [
   {
-    "tick": 2,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Ajusto as maçãs na barraca com cuidado, certificando que a luz do sol bate direitinho nelas pra ficarem mais atrativas, e grito de novo: \"Olha só que vermelhinha, gente! Veio direto do sitio do seu João hoje de manhã!\" \n\nFico atenta àquele portão da entrada, sabendo que logo ou cedo alguém vai aparecer pra fazer compra ou pra bater papo."
-  },
-  {
-    "tick": 3,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Mexo nas gavetas de componentes, procurando uma bateria que encaixe - deve ter uma por aqui em algum lugar, já que recebo essas coisas todo dia. Murmuro pra mim mesma: \"Onde é que eu coloco essas malditas baterias...\""
-  },
-  {
-    "tick": 3,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Finjo que estou organizando os livros devolvidos, mas na verdade fico olhando pela janela da biblioteca para a praça — o sol está tão bom que não dá pra desperdiçar. Fecho o livro que estava folheando e murmuro para mim mesmo: \"Tá na hora, Teo... vai lá tomar um café e quem sabe alguém quer ouvir sobre o chafariz.\""
-  },
-  {
-    "tick": 3,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Arranjo uma maçã perfeita na ponta da pirâmide e ajusto meu avental, já de olho na entrada do mercado. \"Vixe, que dia gostoso pra vender! Quem sabe aparece aquele pessoal que eu não vejo faz uma semana?\""
-  },
-  {
-    "tick": 4,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Acho a bateria certa numa caixa de plástico furada e encaixo no rádio com um clique satisfeito. Pego o papel pra anotar \"Conserto - Bateria\" e coloco o rádio de lado, já pegando o próximo da pilha que tá me encarando."
-  },
-  {
-    "tick": 4,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Fecho a pilha de livros com cuidado e dirijo meu olhar para a janela, onde o sol bate na praça — não dá pra perder um dia assim dentro da biblioteca. Levanto-me devagar, espreguiçando as costas, e murmuro: \"Vou tomar um café... talvez encontre alguém interessado naquele chafariz de 1923.\""
-  },
-  {
-    "tick": 4,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Limpo a testa com o avental e me inclino sobre o balcão, observando a entrada com aquele sorriso de quem sabe que logo aparece alguém interessante. \"Uxe, que calor gostoso hoje, hein! Perfeito pra maçã gelada...\" murmuro para mim mesma, já ajustando a apresentação das frutas com mais uma volta, porque vocês sabem que primeira impressão é tudo."
-  },
-  {
-    "tick": 5,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Coloco o segundo rádio consertado na prateleira ao lado do primeiro e pego o terceiro da pilha, já abrindo a porta da oficina com o pé pra entrar mais luz — essa claridade da manhã é perfeita pra ver os detalhes."
-  },
-  {
-    "tick": 5,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Levanto da cadeira com um suspiro satisfeito, guardando os livros devolvidos nas prateleiras enquanto aproveito o caminho até a porta — aquele café na praça não vai esperar, e o clima está mesmo perfeito. \"Bem, os livros podem descansar um pouco\", murmuro para mim mesmo, ajustando os óculos antes de sair."
-  },
-  {
-    "tick": 5,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Pego um canivete pequenininho e corto uma fatia generosa de maçã, colocando na minha boca com aquele sorriso satisfeito. \"Ummm, que doçura! Vem provar, quem chegar primeiro sai ganhando!\" convido em voz alta, já abrindo espaço no balcão pra quem vier com vontade de conversar."
-  },
-  {
-    "tick": 6,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Largo a chave de fenda e pego o quarto rádio da pilha, abrindo enquanto já viro pra olhar o estoque de baterias pendurado na parede — essa bateria aqui tá vazada também, padrão. Murmuro \"Seu Zé, um dia você aprende ou deixa de trazer esses troços aqui\", encaixo uma bateria nova e já marco mais um na lista."
-  },
-  {
-    "tick": 6,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Deixo os livros devolvidos na mesa e caminho até a porta da biblioteca, ajustando os óculos enquanto observo o sol bom lá fora — \"Vou dar uma volta rápida na praça, o dia tá perfeito pra isso\", murmuro pra mim mesmo, saindo em direção à praça central."
-  },
-  {
-    "tick": 6,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Enxugo as mãos no avental e chamo alta pra quem passa: \"Ó pessoal, quem quer maçã fresquinha do seu João? Tá barato demais hoje!\" Fico de pé atrás do balcão, olhando atenta pra ver quem aparece nesse movimento calmo."
-  },
-  {
-    "tick": 7,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego o quarto rádio da pilha e viro ele de cabeça para baixo, procurando o número do modelo gravado na carcaça — preciso saber qual bateria é pra este, porque cada maldita marca usa um tamanho diferente. Enquanto isso, empurro com o cotovelo uma xícara de café que tá ali há não sei quanto tempo pra longe do meu espaço de trabalho."
-  },
-  {
-    "tick": 7,
-    "agent": "Teo",
-    "location": "praça central",
-    "action": "Sento num dos bancos de madeira do chafariz, observando o vai-e-vem da praça enquanto ajusto os óculos na ponte do nariz, já preparando mentalmente aquele detalhe curioso sobre a construção de 1923. A praça está tranquila, como sempre nessa hora."
-  },
-  {
-    "tick": 7,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Seco as mãos no avental e fico ajustando os precinho das maçãs, de olho na entrada do mercado. \"Vixe, que silêncio é esse? Tá todo mundo em casa dormindo ainda, ou será que o povo tá me evitando porque descobriram que eu já sei que a filha do seu Manoel tá namorando aquele rapaz de fora?\" brincaço comigo mesma, mas com aquele tom de quem tá de olho em tudo mesmo."
-  },
-  {
-    "tick": 8,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego o terceiro rádio já aberto e comparo o compartimento de bateria com a que tenho na mão — encaixa? Não encaixa, claro que não, e jogo ela de volta na gaveta com um suspiro, porque Seu Zé sempre traz modelos diferentes e nunca avisa."
-  },
-  {
-    "tick": 8,
-    "agent": "Teo",
-    "location": "praça central",
-    "action": "Sento no banco de madeira, ajustando os óculos, e observo o chafariz à minha frente enquanto tiro um pequeno caderno do bolso — preciso anotar aquele detalhe sobre a inauguração de 1923 antes de esquecer. Meu olhar passa pela praça em busca de alguém conhecido, enquanto tamborilaço levemente os dedos no banco, esperando que Maria apareça pela padaria."
-  },
-  {
-    "tick": 8,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Passo uma pano rápido na barraca e me posiciono estrategicamente na ponta, de braços cruzados, observando quem entra: \"Vixe, que dia abençoado! Sol assim deixa qualquer fruta mais vermelha, mas também deixa a gente mais de olho em tudo que acontece por aqui, né não?\""
-  },
-  {
-    "tick": 9,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego o quarto rádio e encontro a gravação do modelo na carcaça com a unha — AA, sempre AA com Seu Zé — e viro para a parede pra pegar uma bateria nova da prateleira. Enquanto encaixo, murmuro \"mais um pronto, faltam dois\" e coloco na fileira dos consertados."
-  },
-  {
-    "tick": 9,
-    "agent": "Teo",
-    "location": "praça central",
-    "action": "Abro meu caderno com cuidado e anoto a data \"1923\" com a caneta que sempre carrego, murmurando baixo: \"Mesma época do grande incêndio na assembleia...\" \n\nLevanto os olhos do caderno, procurando alguém pela praça que possa se interessar por uma conversa — talvez seja hora de voltar à biblioteca e organizar aquele material sobre história local que deixei pendente."
-  },
-  {
-    "tick": 9,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Ajusto uma maçã que caiu e chamo para o pessoal que passa: \"Ó gente, maçã doce chegou fresquinha, vem cá aproveitar esse preço bom!\" Fico de pé, atenta à entrada do mercado, pronta para qualquer novidade que apareça."
-  },
-  {
-    "tick": 10,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego o quinto rádio da pilha e já viro de cabeça para baixo procurando o modelo na carcaça enquanto afasto com o cotovelo a xícara de café que voltou pro meu lado. \"Vamo logo com isso, Seu Zé\", murmuro pra ninguém, porque pra ele ainda faltam dois."
-  },
-  {
-    "tick": 10,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Deixo o caderno sobre a mesa grande da biblioteca e passo a mão pelas lombadas dos livros de história local, arrumando-os em ordem cronológica como deveria ter feito ontem. Sussurro pra mim mesmo: \"1923... mesma época em que aquele chafariz foi instalado, você sabe?\""
-  },
-  {
-    "tick": 10,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Ajusto a peneira de maçãs e chamo para uma señora que passa pela entrada: \"Ó dona, vem cá que hoje tá tudo quentinho e vermelho, perfeito pra fazer um suco gostoso!\""
-  },
-  {
-    "tick": 11,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego o sexto rádio da pilha e viro de cabeça para baixo procurando o compartimento de bateria, já desconfiada de que vai ser a mesma história. Largo uma bateria nova no espaço certo e fecho a carcaça com um \"pronto, mais um\", depois empurro a xícara de café pro lado da bancada e pego a ferramenta pra atacar o próximo da fila."
-  },
-  {
-    "tick": 11,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Puxo o caderno sobre a mesa grande e folheio minhas anotações enquanto observo o relógio — são quase quatro da tarde, perfeita uma volta na praça antes de fechar. Ajusto os óculos e murmuro sozinho: \"Maria estava lá ontem por essa hora...\", depois me levanto e sigo em direção à porta da biblioteca."
-  },
-  {
     "tick": 11,
     "agent": "Iris",
     "location": "mercado",
@@ -8998,5 +8836,167 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Marina, você viu esse cachorro perdido na praça? Coitado está assustado demais!"
+  },
+  {
+    "tick": 453,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Fecho a oficina e vou pro mercado, temporal ou não — preciso comer algo."
+  },
+  {
+    "tick": 453,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lanterna e começo a catalogar os livros da caixa misteriosa antes que estrague com umidade."
+  },
+  {
+    "tick": 453,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você viu aquele cachorro assustado na praça? Precisa de ajuda pra procurar?"
+  },
+  {
+    "tick": 454,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, esse cachorro perdido tá na praça — vou ver se consigo rastrear o dono."
+  },
+  {
+    "tick": 454,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a vela sobre a mesa e abro a caixa de livros anônimos pra ver o que tem dentro."
+  },
+  {
+    "tick": 454,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você viu aquele cachorro assustado na praça? Precisamos achar o dono antes piora."
+  },
+  {
+    "tick": 455,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, esse cachorro assustado tá circulando pela praça — alguém tem que pegar ele antes da chuva piorar."
+  },
+  {
+    "tick": 455,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa de livros doados à luz da vela, procurando pistas sobre quem deixou isso aqui."
+  },
+  {
+    "tick": 455,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, ouviu falar daquele cachorro assustado na praça? Alguém precisa ajudar esse bichinho!"
+  },
+  {
+    "tick": 456,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, essa energia fora é culpa do temporal — vou ver a gerador antes que fique pior."
+  },
+  {
+    "tick": 456,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vasculho a caixa de livros doados na penumbra, procurando algo sobre cães para entender aquele cachorro da praça."
+  },
+  {
+    "tick": 456,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você viu um cachorro perdido na praça? Aquele coitado tá assustado demais."
+  },
+  {
+    "tick": 456,
+    "agent": "SISTEMA",
+    "location": "mercado",
+    "action": "Marina mudou de ideia sobre Iris: Insiste demais, mas pelo menos não desiste quando ninguém quer ajudar."
+  },
+  {
+    "tick": 457,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
+  },
+  {
+    "tick": 457,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra praça ver esse cachorro antes que a Iris me arraste lá à força."
+  },
+  {
+    "tick": 457,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou ao mercado, mas paro na praça pra ver se o cachorro assustado está por lá."
+  },
+  {
+    "tick": 457,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, esse cachorro assustado precisa de ajuda, alguém conhece de quem é?"
+  },
+  {
+    "tick": 458,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 458,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou lá na praça ver esse cachorro — temporal ou não, bicho assustado não fica sozinho."
+  },
+  {
+    "tick": 458,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Peço um caldo quente pra Iris, de olho pra praça onde esse cachorro assustado está."
+  },
+  {
+    "tick": 458,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, esse cachorro assustado lá fora, você viu? Aposto que alguém conhece o dono!"
+  },
+  {
+    "tick": 459,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, esse cachorro tá com medo, vou levar pra oficina, pelo menos seca do temporal."
+  },
+  {
+    "tick": 459,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você viu se alguém deixou aquela caixa de livros na biblioteca de propósito?"
+  },
+  {
+    "tick": 459,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou lá ver esse cachorro assustado na praça antes que piore com a chuva."
+  },
+  {
+    "tick": 460,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Desligo o ferro de solda e pego a lanterna — sem luz, aquele cachorro tá mais assustado ainda na praça."
+  },
+  {
+    "tick": 460,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou até o mercado, mas primeiro levo essa caixa pra dentro antes que a chuva estrague tudo."
+  },
+  {
+    "tick": 460,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, querido, foi você mesmo que deixou aqueles livros na biblioteca, não foi?"
   }
 ]

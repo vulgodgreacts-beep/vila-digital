@@ -2068,5 +2068,101 @@
     "created_tick": 452,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna e começo a catalogar os livros da caixa misteriosa antes que estrague com umidade.",
+    "created_tick": 453,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a vela sobre a mesa e abro a caixa de livros anônimos pra ver o que tem dentro.",
+    "created_tick": 454,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a caixa de livros doados à luz da vela, procurando pistas sobre quem deixou isso aqui.",
+    "created_tick": 455,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vasculho a caixa de livros doados na penumbra, procurando algo sobre cães para entender aquele cachorro da praça.",
+    "created_tick": 456,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 57: Cataloguei livros anônimos na biblioteca e pensei naquele cachorro assustado da praça o tempo todo.",
+    "created_tick": 456,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 457,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado, mas paro na praça pra ver se o cachorro assustado está por lá.",
+    "created_tick": 457,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de ajuda, alguém conhece de quem é?",
+    "created_tick": 457,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 458,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver esse cachorro — temporal ou não, bicho assustado não fica sozinho.",
+    "created_tick": 458,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Peço um caldo quente pra Iris, de olho pra praça onde esse cachorro assustado está.",
+    "created_tick": 458,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse cachorro assustado lá fora, você viu? Aposto que alguém conhece o dono!",
+    "created_tick": 458,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro tá com medo, vou levar pra oficina, pelo menos seca do temporal.",
+    "created_tick": 459,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu se alguém deixou aquela caixa de livros na biblioteca de propósito?",
+    "created_tick": 459,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o mercado, mas primeiro levo essa caixa pra dentro antes que a chuva estrague tudo.",
+    "created_tick": 460,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, querido, foi você mesmo que deixou aqueles livros na biblioteca, não foi?",
+    "created_tick": 460,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
