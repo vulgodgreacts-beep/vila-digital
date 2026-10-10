@@ -1,16 +1,9 @@
 {
-  "tick": 444,
+  "tick": 452,
   "state": {
     "clima": "temporal",
     "movimento": "vila cheia, feira no mercado",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Caixa de livros doados",
-      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
-      "state_changes": {},
-      "started_tick": 441
-    }
-  ]
+  "active_incidents": []
 }

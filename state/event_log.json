@@ -1,35 +1,5 @@
 [
   {
-    "tick": 1,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Limpo as mãos na toalha surrada e vou direto pra bancada, pegando o rádio antigo do Seu Zé que tá aqui desde segunda - a maldita bateria tá vazando e preciso trocar logo antes que estrague a placa."
-  },
-  {
-    "tick": 1,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Coloco a pilha de livros devolvidos sobre a mesa grande e começo a folhear o primeiro deles, verificando o estado da encadernação. Enquanto isso, penso que talvez valha a pena dar uma passada na praça central mais tarde — é hora em que a galera costuma tomar um café e quem sabe alguém se interessa em conversar sobre as curiosidades que achei essa semana num livro de história local."
-  },
-  {
-    "tick": 1,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Coloco as maçãs frescas bem à vista na barraca e grito convidando: \"Maçã doce chegou! Vem ver que está uma beleza hoje!\" Fico de olho na entrada do mercado pra ver quem aparece, porque dia assim de movimento calmo é perfeito pra conversar com todo mundo que passa."
-  },
-  {
-    "tick": 2,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego a chave de fenda e desparafuso a tampa traseira do rádio com uns três movimentos rápidos, já sabendo exatamente onde estão os parafusos. Jogo a bateria velha numa caixinha de descarte e já fico de olho pra encontrar uma equivalente entre os meus estoques."
-  },
-  {
-    "tick": 2,
-    "agent": "Teo",
-    "location": "praça central",
-    "action": "Deixo os livros sobre a mesa por um momento e me levanto, espreguiçando as costas — essa cadeira da biblioteca não é a mais confortável do mundo. Caminho em direção à praça, pensando que o clima está perfeito e talvez encontre alguém tomando um café, enquanto mentalmente já preparo aquele comentário sobre como o chafariz da praça foi construído em 1923, coincidentemente o mesmo ano em que saiu a primeira edição do livro que descobri."
-  },
-  {
     "tick": 2,
     "agent": "Iris",
     "location": "mercado",
@@ -8878,5 +8848,155 @@
     "agent": "Iris",
     "location": "biblioteca",
     "action": "Puxo Marina pelo braço: \"Vem cá, essa caixa de livros tem cheiro de mistério, quem será?"
+  },
+  {
+    "tick": 445,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
+  },
+  {
+    "tick": 445,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado pegar algo pra comer antes dessa chuva piorar."
+  },
+  {
+    "tick": 445,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Deixo a caixa de livros aqui pra depois e vou pro mercado, talvez encontro alguém que sabe daquele cachorro."
+  },
+  {
+    "tick": 445,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, querido, você viu aquele cachorro perdido na praça? Alguém precisa ajudar o coitado!"
+  },
+  {
+    "tick": 446,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Esse cachorro tá assustado demais, vou lá na praça ver se consigo pegar ele antes da chuva cair."
+  },
+  {
+    "tick": 446,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você viu de quem é aquele cachorro? Enquanto isso, me vende um pão, por favor."
+  },
+  {
+    "tick": 446,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, querido, esse cachorro assustado na praça precisa de ajuda, vamos lá?"
+  },
+  {
+    "tick": 447,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, sai dessa chuva e me ajuda a arrumar uma corda antes que esse cachorro se machuca."
+  },
+  {
+    "tick": 447,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Esse cachorro me lembra daqueles cães de trabalho do século dezoito nas fazendas daqui."
+  },
+  {
+    "tick": 447,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, Teo, vem cá ajudar a gente a procurar esse cachorro na chuva?"
+  },
+  {
+    "tick": 448,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, pega uma corda na minha oficina — esse cachorro precisa de coleira antes de se machucar."
+  },
+  {
+    "tick": 448,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Olho para Iris e pergunto: \"Você viu de que lado o cachorro foi, quando saiu daqui?"
+  },
+  {
+    "tick": 448,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, aquele cachorro lá da praça — você viu? Aposto que é de gente de fora, coitado!"
+  },
+  {
+    "tick": 449,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou na praça ver esse cachorro — talvez tenha coleira com nome, preciso comer algo depois."
+  },
+  {
+    "tick": 449,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Pegue um pão na barraca de Iris, observando aquele cachorro assustado passando pela praça."
+  },
+  {
+    "tick": 449,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, esse cachorro assustado na praça é de alguém daqui ou vindo de fora?"
+  },
+  {
+    "tick": 450,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pegar um biscoito na gaveta e depois procurar esse cachorro na praça."
+  },
+  {
+    "tick": 450,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Compro um pão na barraca da Iris e pergunto se ela viu esse cachorro assustado por aqui."
+  },
+  {
+    "tick": 450,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, você viu aquele cachorro assustado na praça? Precisa de ajuda com essas caixas?"
+  },
+  {
+    "tick": 451,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado, pego algo pra comer e vejo se esse cachorro aparece de novo."
+  },
+  {
+    "tick": 451,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Olho pra Marina e Iris enquanto o vento bate as barracas: \"Alguém sabe de quem é aquele cachorro na praça?"
+  },
+  {
+    "tick": 451,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ei Marina, Teo, aquele cachorro perdido na praça tá precisando de ajuda, vocês vão comigo?"
+  },
+  {
+    "tick": 452,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, aquele cachorro assustado tá pela praça — alguém tem que levar comida pra ele antes desse temporal piorar."
+  },
+  {
+    "tick": 452,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Marina e Iris pra perguntar se viram quem deixou aquela caixa de livros na biblioteca."
+  },
+  {
+    "tick": 452,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você viu esse cachorro perdido na praça? Coitado está assustado demais!"
   }
 ]

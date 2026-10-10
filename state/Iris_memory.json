@@ -2224,5 +2224,131 @@
     "created_tick": 444,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 445,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, querido, você viu aquele cachorro perdido na praça? Alguém precisa ajudar o coitado!",
+    "created_tick": 445,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Esse cachorro tá assustado demais, vou lá na praça ver se consigo pegar ele antes da chuva cair.",
+    "created_tick": 446,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu de quem é aquele cachorro? Enquanto isso, me vende um pão, por favor.",
+    "created_tick": 446,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, querido, esse cachorro assustado na praça precisa de ajuda, vamos lá?",
+    "created_tick": 446,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, sai dessa chuva e me ajuda a arrumar uma corda antes que esse cachorro se machuca.",
+    "created_tick": 447,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Esse cachorro me lembra daqueles cães de trabalho do século dezoito nas fazendas daqui.",
+    "created_tick": 447,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, Teo, vem cá ajudar a gente a procurar esse cachorro na chuva?",
+    "created_tick": 447,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, pega uma corda na minha oficina — esse cachorro precisa de coleira antes de se machucar.",
+    "created_tick": 448,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho para Iris e pergunto: \"Você viu de que lado o cachorro foi, quando saiu daqui?",
+    "created_tick": 448,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aquele cachorro lá da praça — você viu? Aposto que é de gente de fora, coitado!",
+    "created_tick": 448,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 56: Que dia de chuva e mistério! Cachorro perdido, caixa de livros estranha, e todo mundo de coração aberto.",
+    "created_tick": 448,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Pegue um pão na barraca de Iris, observando aquele cachorro assustado passando pela praça.",
+    "created_tick": 449,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro assustado na praça é de alguém daqui ou vindo de fora?",
+    "created_tick": 449,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Compro um pão na barraca da Iris e pergunto se ela viu esse cachorro assustado por aqui.",
+    "created_tick": 450,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu aquele cachorro assustado na praça? Precisa de ajuda com essas caixas?",
+    "created_tick": 450,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pra Marina e Iris enquanto o vento bate as barracas: \"Alguém sabe de quem é aquele cachorro na praça?",
+    "created_tick": 451,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ei Marina, Teo, aquele cachorro perdido na praça tá precisando de ajuda, vocês vão comigo?",
+    "created_tick": 451,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele cachorro assustado tá pela praça — alguém tem que levar comida pra ele antes desse temporal piorar.",
+    "created_tick": 452,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina e Iris pra perguntar se viram quem deixou aquela caixa de livros na biblioteca.",
+    "created_tick": 452,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu esse cachorro perdido na praça? Coitado está assustado demais!",
+    "created_tick": 452,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
