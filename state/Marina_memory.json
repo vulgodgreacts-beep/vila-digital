@@ -2086,5 +2086,137 @@
     "created_tick": 476,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, essa chuva não vai passar tão cedo e barriga vazia não resolve nada.",
+    "created_tick": 477,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu essa caixa de livros na biblioteca? Aposto que foi alguém generoso da vila!",
+    "created_tick": 477,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra biblioteca ver se essa caixa de livros tá molhando com essa chuva desgraçada.",
+    "created_tick": 478,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a caixa de livros com cuidado, procurando qualquer pista sobre quem mandou isso.",
+    "created_tick": 478,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Puxa, Teo, esses livros antigos vieram de onde mesmo, hein?",
+    "created_tick": 478,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse gerador da biblioteca ainda funciona ou virou sucata?",
+    "created_tick": 479,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você acha que consegue fechar o mercado pra gente antes que a chuva piore mais?",
+    "created_tick": 479,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu essa caixa de livros? Aposto que foi o Seu Antônio de novo.",
+    "created_tick": 479,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem algo pra comer? Essa biblioteca não vai me sustentar.",
+    "created_tick": 480,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você acha que essa chuva muda de ideia ou vamos ficar aqui até amanhã?",
+    "created_tick": 480,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 60: Chuva desgraçada, gerador com problema, gente se mexendo na biblioteca.",
+    "created_tick": 480,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Levanto e vou pro mercado, essa chuva não me assusta e barriga vazia não dá pra pensar.",
+    "created_tick": 481,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca da Dona Rita entre as pessoas amontoadas, esperando que ainda tenha pão.",
+    "created_tick": 481,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, tem algo pronto pra comer agora ou só depois que a luz volta?",
+    "created_tick": 482,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Iris entre as barracas, esperando ela ter alguma coisa quente pra vender.",
+    "created_tick": 482,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você não quer um bolo de chuva que fiz essa manhã?",
+    "created_tick": 482,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você tem um café quente aí? Esse temporal não vai passar rápido.",
+    "created_tick": 483,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Fico perto da barraca da Iris, esperando o temporal passar, e talvez ela tenha algum pão.",
+    "created_tick": 483,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Marina, Teo, vão ficar aqui? Tenho uns biscoitos de chuva guardados atrás do balcão.",
+    "created_tick": 483,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse bolo de milho teu tá em pé aí? Temporal mata fome, mas não enche barriga.",
+    "created_tick": 484,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Iris na barraca dela, esperando que tenha algo quente pra comer.",
+    "created_tick": 484,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vixe, que temporal! Vão ficar sem energia por horas, aposto.",
+    "created_tick": 484,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

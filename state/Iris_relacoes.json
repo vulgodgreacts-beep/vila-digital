@@ -1,13 +1,9 @@
 {
   "Marina": {
-    "familiaridade": 243,
-    "opiniao": "Essa mulher tem coração grande, não é só de ferro não, é solidária.",
-    "desde_dia": 49,
+    "familiaridade": 250,
+    "opiniao": "Mulher que reclama de fome mas se importa com gerador da biblioteca, contraditória.",
+    "desde_dia": 60,
     "historico": [
-      {
-        "dia": 16,
-        "opiniao": "Essa moça é corajosa mesmo, vai direto consertar poste na tempestade."
-      },
       {
         "dia": 22,
         "opiniao": "Essa moça se importa comigo, quer me proteger da chuva."
@@ -19,11 +15,15 @@
       {
         "dia": 45,
         "opiniao": "Essa mulher é de ferro mesmo, mexe com gerador, lanterna, resolve tudo sozinha."
+      },
+      {
+        "dia": 49,
+        "opiniao": "Essa mulher tem coração grande, não é só de ferro não, é solidária."
       }
     ]
   },
   "Teo": {
-    "familiaridade": 264,
+    "familiaridade": 268,
     "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva.",
     "desde_dia": 55,
     "historico": [
