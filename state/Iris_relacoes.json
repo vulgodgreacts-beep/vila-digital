@@ -1,13 +1,9 @@
 {
   "Marina": {
-    "familiaridade": 250,
-    "opiniao": "Mulher que reclama de fome mas se importa com gerador da biblioteca, contraditória.",
-    "desde_dia": 60,
+    "familiaridade": 256,
+    "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
+    "desde_dia": 61,
     "historico": [
-      {
-        "dia": 22,
-        "opiniao": "Essa moça se importa comigo, quer me proteger da chuva."
-      },
       {
         "dia": 24,
         "opiniao": "Essa moça tem coração de ouro, se preocupa com todo mundo, até com cachorro assustado."
@@ -19,11 +15,15 @@
       {
         "dia": 49,
         "opiniao": "Essa mulher tem coração grande, não é só de ferro não, é solidária."
+      },
+      {
+        "dia": 60,
+        "opiniao": "Mulher que reclama de fome mas se importa com gerador da biblioteca, contraditória."
       }
     ]
   },
   "Teo": {
-    "familiaridade": 268,
+    "familiaridade": 274,
     "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva.",
     "desde_dia": 55,
     "historico": [
