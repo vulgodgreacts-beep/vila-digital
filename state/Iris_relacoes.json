@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 264,
+    "familiaridade": 269,
     "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
     "desde_dia": 61,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 281,
-    "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva.",
-    "desde_dia": 55,
+    "familiaridade": 289,
+    "opiniao": "Rapaz dedicado demais — preocupa com trabalho na chuva, precisa de cuidado.",
+    "desde_dia": 64,
     "historico": [
-      {
-        "dia": 41,
-        "opiniao": "Esse moço é curioso demais, quer saber tudo sobre aquela caixa de livros."
-      },
       {
         "dia": 42,
         "opiniao": "Esse moço é curioso, mas também tem compaixão, não é só história antiga."
@@ -42,6 +38,10 @@
       {
         "dia": 54,
         "opiniao": "Aposto que foi esse rapaz quem deixou aqueles livros antigos na biblioteca, que achado!"
+      },
+      {
+        "dia": 55,
+        "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva."
       }
     ]
   }

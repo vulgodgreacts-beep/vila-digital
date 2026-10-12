@@ -1,13 +1,9 @@
 {
   "Teo": {
-    "familiaridade": 202,
-    "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar.",
-    "desde_dia": 42,
+    "familiaridade": 206,
+    "opiniao": "Catalogando livro na chuva? Esse rapaz se importa de verdade, não é brincadeira.",
+    "desde_dia": 64,
     "historico": [
-      {
-        "dia": 7,
-        "opiniao": "Rapaz tem mão leve com coisa antiga, sabe cuidar de verdade."
-      },
       {
         "dia": 16,
         "opiniao": "Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo."
@@ -19,11 +15,15 @@
       {
         "dia": 40,
         "opiniao": "Rapaz parou de contar história, agora quer descobrir quem doou livro antigo."
+      },
+      {
+        "dia": 42,
+        "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 227,
+    "familiaridade": 231,
     "opiniao": "Insiste demais, mas coloca ação onde fala — arca com resultado mesmo.",
     "desde_dia": 59,
     "historico": [
