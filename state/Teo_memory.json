@@ -2296,5 +2296,107 @@
     "created_tick": 516,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou à praça ver esse chafariz entupido; sempre há uma história por trás dessas coisas.",
+    "created_tick": 517,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna da mesa e vou até a janela ver o chafariz entupido lá fora.",
+    "created_tick": 518,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a janela da biblioteca enquanto ouço a chuva bater mais forte lá fora.",
+    "created_tick": 519,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 520,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo as velas da biblioteca e deixo a porta aberta para quem precisar se abrigar.",
+    "created_tick": 520,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 65: Chuva forte me prendeu na biblioteca, preocupado com o chafariz entupido lá na praça.",
+    "created_tick": 520,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Apago as velas da biblioteca e saio correndo pro mercado antes da chuva piorar.",
+    "created_tick": 521,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, deixa essa catalogação pra depois, vem aqui tomar um café quente comigo!",
+    "created_tick": 521,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, tem algo quente aí? Temporal desse jeito me dá fome.",
+    "created_tick": 522,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fico aqui mesmo, esperando a chuva passar um pouco enquanto vejo se Iris tem algo quente pra comer.",
+    "created_tick": 522,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, meu filho, deixa essa catalogação pra depois, vem aqui tomar um café quente comigo!",
+    "created_tick": 522,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, deixa eu pegar um pão com queijo antes que a chuva derrube tudo aqui.",
+    "created_tick": 523,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Encosto na barraca de Iris, esperando a chuva passar um pouco.",
+    "created_tick": 523,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, filho, deixa essa caixa de livro aí e vem tomar um café quente comigo.",
+    "created_tick": 523,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele gerador da praça tá funcionando? Preciso pegar ferramenta na oficina antes que fique pior.",
+    "created_tick": 524,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Me encolho perto das caixas de hortaliças, esperando a chuva passar.",
+    "created_tick": 524,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, filho, deixa essas caixas aí e vem tomar um café quente comigo!",
+    "created_tick": 524,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
