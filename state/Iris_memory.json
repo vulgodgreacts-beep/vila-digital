@@ -2164,5 +2164,101 @@
     "created_tick": 500,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou aproveitar que a luz caiu pra acender umas velas aqui no balcão e esperar a chuva passar.",
+    "created_tick": 501,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho as venezianas do mercado e acendo as velas que guardo pra esses temporais.",
+    "created_tick": 502,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, vem aqui pra trás do balcão, esse temporal não brinca!",
+    "created_tick": 503,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse temporal vai derrubar árvore; preciso checar a linha de energia antes de escurecer mais.",
+    "created_tick": 504,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, vem aqui pra trás do balcão, esse temporal tá ficando feio demais!",
+    "created_tick": 504,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 63: Temporal derrubou fiação, guardei mercado com velas, todo mundo se abrigou aqui.",
+    "created_tick": 504,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 505,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele gerador da sua barraca tá funcionando ou desisti de consertar?",
+    "created_tick": 505,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, com essa chuva e sem luz, vão querer café quentinho — vou buscar água no fogão a lenha!",
+    "created_tick": 505,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro perdido tá na sua região ou noutro lado da vila?",
+    "created_tick": 506,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca de pão da dona Helena, aquela que sempre tem broa quente.",
+    "created_tick": 506,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você não quer levar esses livros pra biblioteca antes a chuva piorar mais?",
+    "created_tick": 506,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra ver se aquele pessoal novo da feira trouxe algo interessante pro mercado.",
+    "created_tick": 507,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse cachorro perdido é seu ou só apareceu por aqui?",
+    "created_tick": 508,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Fico de olho na barraca de pão enquanto a chuva piora lá fora.",
+    "created_tick": 508,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu que o produtor de queijo trouxe aquele tipo que você gosta?",
+    "created_tick": 508,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
