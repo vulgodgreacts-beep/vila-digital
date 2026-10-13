@@ -1,19 +1,9 @@
 {
-  "tick": 524,
+  "tick": 532,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 520
-    }
-  ]
+  "active_incidents": []
 }

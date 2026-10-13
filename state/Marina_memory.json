@@ -2212,5 +2212,71 @@
     "created_tick": 524,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna e vou procurar algo pra comer na oficina antes dessa fome apertar mais.",
+    "created_tick": 525,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a porta da oficina e saio correndo pro mercado antes dessa chuva piorar mais.",
+    "created_tick": 526,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina, que a chuva pode derrubar algo lá e preciso verificar.",
+    "created_tick": 527,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado ver se Seu Roque tá aberto, preciso comer algo antes de arrumar esse gerador.",
+    "created_tick": 528,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 66: Chuva não parou, arrumei o gerador da praça e tomei café na barraca da Iris.",
+    "created_tick": 528,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pro mercado, essa fome não aguenta, e a barraca da Iris tem o melhor café da vila.",
+    "created_tick": 529,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra barraca da Iris aproveitar que tem gente, comida e café quente.",
+    "created_tick": 530,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, me ajuda a levar essas coisas pra oficina antes que estrague tudo?",
+    "created_tick": 531,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, essa fome não aguenta esperar essa chuva passar.",
+    "created_tick": 532,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Peço desculpas, mas acho que vou para a biblioteca — lá tem uns biscoitos que deixei ontem.",
+    "created_tick": 532,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, deixa esse gerador pra depois, vem tomar um café quentinho comigo aqui no mercado.",
+    "created_tick": 532,
+    "importance": 5,
+    "kind": "observation"
   }
 ]

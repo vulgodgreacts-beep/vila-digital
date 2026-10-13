@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 272,
+    "familiaridade": 273,
     "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
     "desde_dia": 61,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 293,
-    "opiniao": "Rapaz dedicado demais — preocupa com trabalho na chuva, precisa de cuidado.",
-    "desde_dia": 64,
+    "familiaridade": 297,
+    "opiniao": "Rapaz teimoso, mas aprende que um café quentinho resolve mais que caixa de livro.",
+    "desde_dia": 66,
     "historico": [
-      {
-        "dia": 42,
-        "opiniao": "Esse moço é curioso, mas também tem compaixão, não é só história antiga."
-      },
       {
         "dia": 44,
         "opiniao": "Esse moço tem coração mesmo, ajudou com a caixa na chuva."
@@ -42,6 +38,10 @@
       {
         "dia": 55,
         "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva."
+      },
+      {
+        "dia": 64,
+        "opiniao": "Rapaz dedicado demais — preocupa com trabalho na chuva, precisa de cuidado."
       }
     ]
   }

@@ -2272,5 +2272,101 @@
     "created_tick": 524,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra biblioteca ver se Teo tá bem nessa chuva louca, aquele rapaz não sabe quando parar.",
+    "created_tick": 525,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você acha que tem algo pra comer na cozinha dos fundos?",
+    "created_tick": 526,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, meu filho, você tá aqui seguro pelo menos, não tá lá fora nessa chuva do demônio?",
+    "created_tick": 526,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Ajusto os óculos e pergunto pra Iris se ela quer esperar o temporal passar aqui mesmo.",
+    "created_tick": 527,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, meu filho, deixa essa caixa aí e toma um café quente comigo, anda!",
+    "created_tick": 527,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você acha que essa chuva passa logo ou a gente fica aqui de verdade?",
+    "created_tick": 528,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, filho, deixa essa caixa aí — essa chuva não vai passar tão cedo, vem tomar um café.",
+    "created_tick": 528,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 66: Teo não saía da chuva, mas pelo menos tomou café quente comigo no final.",
+    "created_tick": 528,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Rapaz dedicado demais — preocupa com trabalho na chuva, precisa de cuidado.\", agora acho \"Rapaz teimoso, mas aprende que um café quentinho resolve mais que caixa de livro.\".",
+    "created_tick": 528,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Iris, desculpa... você teria algo pra comer aí? Estou com uma fome desgraçada.",
+    "created_tick": 529,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, meu filho, esse temporal não perdoa — vem cá, te faço um café quentinho.",
+    "created_tick": 529,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você deixaria a biblioteca por uns minutos pra ajudar no mercado, mesmo com essa chuva?",
+    "created_tick": 530,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fico aqui na biblioteca, mas fico de olho pra ver quem precisa de ajuda nessa chuva brava.",
+    "created_tick": 530,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a porta do mercado e corro pra biblioteca, essa chuva é de rachar!",
+    "created_tick": 531,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Peço desculpas, mas acho que vou para a biblioteca — lá tem uns biscoitos que deixei ontem.",
+    "created_tick": 532,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, deixa esse gerador pra depois, vem tomar um café quentinho comigo aqui no mercado.",
+    "created_tick": 532,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
