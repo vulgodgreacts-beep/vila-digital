@@ -2194,5 +2194,155 @@
     "created_tick": 532,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo da biblioteca em direção ao mercado, abaixado contra a chuva forte.",
+    "created_tick": 533,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó, Teo, deixa essa bagunça aí e vem tomar um café quentinho comigo!",
+    "created_tick": 533,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem algo pra comer? Gerador da praça vai dar problema com essa chuva.",
+    "created_tick": 534,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Iris entre as barracas — talvez ela tenha algo quente pra comer neste temporal.",
+    "created_tick": 534,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, Teo, deixa essa catalogação pra lá e senta aqui, tomo um café comigo!",
+    "created_tick": 534,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele gerador da praça tá aguentando essa chuva forte ou precisa conferir?",
+    "created_tick": 535,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pergunto pra Iris se ela tem alguma coisa de comer, já que a luz não volta tão cedo.",
+    "created_tick": 535,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, filho, deixa esse trabalho de caixa pra depois e senta aqui perto do fogão comigo!",
+    "created_tick": 535,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Ei Teo, esse gerador da praça tá funcionando? Posso ir lá checar se a luz volta.",
+    "created_tick": 536,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fico perto da Iris, ajudando a organizar as coisas que o vento derrubou.",
+    "created_tick": 536,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vem cá, Teo, deixa esse trabalho de lado e toma um café quentinho comigo!",
+    "created_tick": 536,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 67: Temporal na vila, corri entre biblioteca e mercado, Iris e Marina me procuravam.",
+    "created_tick": 536,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Ei Iris, esse gerador da praça tá funcionando ou a luz sumiu mesmo?",
+    "created_tick": 537,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Encosto na barraca de Iris, perguntando se ela tem pão com queijo disponível.",
+    "created_tick": 537,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, querido, deixa esse trabalho pra depois e vem tomar um café quentinho comigo aqui.",
+    "created_tick": 537,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 538,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou lá na praça ver esse chafariz — deve ser coisa simples, provavelmente lixo entupindo.",
+    "created_tick": 538,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Marina: \"Sabe, isso me lembrou quando entupiu a fonte de Florença, em mil quatrocentos...",
+    "created_tick": 538,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse chafariz entupido é culpa de quem não cuida, viu Marina?",
+    "created_tick": 538,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Esse chafariz tá entupido, vou lá verificar antes que fique pior.",
+    "created_tick": 539,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pro chafariz parado e murmuro: \"Sabe, em 1887 a vila enfrentou problema igual...",
+    "created_tick": 539,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você vai precisar de ajuda pra desent­upir esse chafariz ou vai sozinha?",
+    "created_tick": 539,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pra praça ver esse chafariz, pode ser só sujeira mesmo.",
+    "created_tick": 540,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fico observando a água parada, lembrando quando entupimentos assim paravam fontes romanas séculos atrás.",
+    "created_tick": 540,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, você vai precisar de uma bomba de água pra desentupir esse chafariz!",
+    "created_tick": 540,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
