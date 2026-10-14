@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 227,
+    "familiaridade": 229,
     "opiniao": "Catalogando livro na chuva? Esse rapaz se importa de verdade, não é brincadeira.",
     "desde_dia": 64,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 256,
-    "opiniao": "Insiste demais, mas coloca ação onde fala — arca com resultado mesmo.",
-    "desde_dia": 59,
+    "familiaridade": 260,
+    "opiniao": "Sabe que precisa de mim pra tudo — mas isso já me irrita menos.",
+    "desde_dia": 72,
     "historico": [
-      {
-        "dia": 14,
-        "opiniao": "Essa mulher não deixa cachorro sofrendo — age mesmo, sem falar muito."
-      },
       {
         "dia": 22,
         "opiniao": "Essa mulher quer me proteger — não é só ação, é cuidado mesmo."
@@ -42,6 +38,10 @@
       {
         "dia": 57,
         "opiniao": "Insiste demais, mas pelo menos não desiste quando ninguém quer ajudar."
+      },
+      {
+        "dia": 59,
+        "opiniao": "Insiste demais, mas coloca ação onde fala — arca com resultado mesmo."
       }
     ]
   }
