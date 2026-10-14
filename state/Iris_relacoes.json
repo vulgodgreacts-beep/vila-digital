@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 297,
+    "familiaridade": 300,
     "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
     "desde_dia": 61,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 319,
-    "opiniao": "Rapaz que se importa mesmo, deixou teoria de lado pra ajudar criatura.",
-    "desde_dia": 69,
+    "familiaridade": 327,
+    "opiniao": "Rapaz discreto demais, tá escondendo algo — mas bom de coração mesmo assim.",
+    "desde_dia": 71,
     "historico": [
-      {
-        "dia": 55,
-        "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva."
-      },
       {
         "dia": 64,
         "opiniao": "Rapaz dedicado demais — preocupa com trabalho na chuva, precisa de cuidado."
@@ -42,6 +38,10 @@
       {
         "dia": 67,
         "opiniao": "Rapaz teimoso que finalmente aprendeu: um café quentinho vale mais que qualquer trabalho."
+      },
+      {
+        "dia": 69,
+        "opiniao": "Rapaz que se importa mesmo, deixou teoria de lado pra ajudar criatura."
       }
     ]
   }

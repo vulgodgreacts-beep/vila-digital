@@ -1176,69 +1176,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Iris, esse bolo de milho teu tá em pé aí? Temporal mata fome, mas não enche barriga.",
-    "created_tick": 484,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Procuro Iris na barraca dela, esperando que tenha algo quente pra comer.",
-    "created_tick": 484,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Vixe, que temporal! Vão ficar sem energia por horas, aposto.",
-    "created_tick": 484,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio da oficina correndo pra não virar sopa e vou até o mercado.",
-    "created_tick": 485,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, deixa eu te dar um café quente enquanto essa chuva passa.",
-    "created_tick": 485,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, tem algo quente aí que possa comer? Pago depois, esses temporal não dá trégua.",
-    "created_tick": 486,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ué, Teo, você não deveria estar secando esses livros em casa, rapaz?",
-    "created_tick": 486,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
     "created_tick": 487,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou lá ver esse chafariz entupido antes que fique pior.",
-    "created_tick": 487,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Compro um pão de queijo de Iris e pergunto se ela sabe quando a luz volta.",
-    "created_tick": 487,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, querido, você viu que o chafariz tá entupido? Isso vai dar trabalho.",
-    "created_tick": 487,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -1248,117 +1188,15 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Esse chafariz não vai desentupir sozinho, vou lá conferir.",
-    "created_tick": 488,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Puxo Marina de lado e sussurro: \"Sabe, chafariz entupido assim... lembra o que aconteceu em 1887.",
-    "created_tick": 488,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, você que entende de máquina, vem ver esse chafariz entupido na praça?",
-    "created_tick": 488,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
     "created_tick": 489,
     "importance": 9,
     "kind": "observation"
   },
   {
-    "text": "Eu: Vou lá na praça ver esse chafariz entupido antes da chuva piorar.",
-    "created_tick": 489,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, você tem um bolo de fubá sobrando? Preciso comer algo antes dessa chuva piorar.",
-    "created_tick": 489,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, meu filho, você tá na chuva catalogando livro — quem foi que mandou essa caixa?",
-    "created_tick": 489,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até a praça ver esse chafariz entupido, isso não é normal.",
-    "created_tick": 490,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Alguém devia limpar aquele chafariz antes que fique pior... Marina, você teria tempo?",
-    "created_tick": 490,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, meu filho, aqueles livros na biblioteca foram você mesmo que deixou, confessa!",
-    "created_tick": 490,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, vem cá — esse chafariz tá entupido, vou levar ferramenta e limpo antes da noite cair.",
-    "created_tick": 491,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Marina, aquela caixa de livros apareceu do nada — você viu alguém estranho por aí?",
-    "created_tick": 491,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, esse chafariz tá entupido mesmo — vou levar ferramenta e a gente descobre o quê.",
-    "created_tick": 492,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Marina, você viu aquela caixa de livros na biblioteca? Sem remetente nenhum.",
-    "created_tick": 492,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
     "created_tick": 493,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Desligo os equipamentos e vou verificar se a biblioteca tá segura com essa chuva forte.",
-    "created_tick": 493,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Pego a caixa de livros molhados e trago pra dentro antes que estraguem com essa chuva.",
-    "created_tick": 493,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Pego a caixa de livros molhados e levo pra perto da porta, fora do temporal.",
-    "created_tick": 494,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Puxo a caixa de livros pra dentro antes que a chuva estrague tudo.",
-    "created_tick": 494,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -2244,6 +2082,12 @@
     "kind": "observation"
   },
   {
+    "text": "No dia 70: Choveu pra caramba, fui checar chafariz entupido, Teo tava lá se esforçando mesmo.",
+    "created_tick": 560,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
     "text": "Eu: Saio da barraca e vou ver esse chafariz entupido pessoalmente.",
     "created_tick": 560,
     "importance": 3,
@@ -2254,12 +2098,6 @@
     "created_tick": 560,
     "importance": 5,
     "kind": "observation"
-  },
-  {
-    "text": "No dia 70: Choveu pra caramba, fui checar chafariz entupido, Teo tava lá se esforçando mesmo.",
-    "created_tick": 560,
-    "importance": 8,
-    "kind": "reflection"
   },
   {
     "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
@@ -2331,6 +2169,114 @@
     "text": "Eu: Vou pra oficina ver se o gerador tá funcionando, porque sem luz ninguém conserta nada direito.",
     "created_tick": 564,
     "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o poste checar se é coisa simples ou se preciso chamar alguém de fora.",
+    "created_tick": 565,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou verificar o poste da rua — se é só conexão frouxa, arrumo agora antes dessa chuva piorar.",
+    "created_tick": 566,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou checar o poste da praça — apagão desse tamanho não cai do nada.",
+    "created_tick": 567,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 71: Apagão, poste com problema, chafariz entupido — dia de trabalho dobrado sem luz pra nada.",
+    "created_tick": 568,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou à praça ver esse chafariz — entupimento é coisa que sei resolver.",
+    "created_tick": 568,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, essa feira só aparece de tanto em tanto e meu estômago tá reclamando.",
+    "created_tick": 569,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Fico observando as barracas, procurando algo pra comer enquanto a chuva bate contra o toldo.",
+    "created_tick": 569,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, vocês viram? O pessoal de fora tá comprando tudo, nem sobra alface pra gente!",
+    "created_tick": 569,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 570,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina, preciso pegar a lanterna e checar aquele poste antes da chuva piorar.",
+    "created_tick": 570,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 571,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado verificar se a Iris tá organizando galera pra checar o poste.",
+    "created_tick": 571,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Esse apagão me lembra de 1987, quando um raio derrubou o poste da rua principal...",
+    "created_tick": 571,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vem cá, Marina, esse cachorro assustado precisa de alguém corajoso como você pra ajudar.",
+    "created_tick": 571,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 572,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o poste ver se é coisa simples ou se precisa chamar gente de fora.",
+    "created_tick": 572,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Puxo Marina de lado: \"Esse apagão me lembra da grande tempestade de 1987, sabe?",
+    "created_tick": 572,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, vocês viram esse cachorro assustado? Aposto que é de alguém da cidade grande.",
+    "created_tick": 572,
+    "importance": 5,
     "kind": "observation"
   }
 ]
