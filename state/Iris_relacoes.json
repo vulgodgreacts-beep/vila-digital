@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 285,
+    "familiaridade": 290,
     "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
     "desde_dia": 61,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 309,
-    "opiniao": "Rapaz teimoso que finalmente aprendeu: um café quentinho vale mais que qualquer trabalho.",
-    "desde_dia": 67,
+    "familiaridade": 317,
+    "opiniao": "Rapaz que se importa mesmo, deixou teoria de lado pra ajudar criatura.",
+    "desde_dia": 69,
     "historico": [
-      {
-        "dia": 54,
-        "opiniao": "Aposto que foi esse rapaz quem deixou aqueles livros antigos na biblioteca, que achado!"
-      },
       {
         "dia": 55,
         "opiniao": "Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva."
@@ -42,6 +38,10 @@
       {
         "dia": 66,
         "opiniao": "Rapaz teimoso, mas aprende que um café quentinho resolve mais que caixa de livro."
+      },
+      {
+        "dia": 67,
+        "opiniao": "Rapaz teimoso que finalmente aprendeu: um café quentinho vale mais que qualquer trabalho."
       }
     ]
   }

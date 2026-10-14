@@ -2194,5 +2194,137 @@
     "created_tick": 548,
     "importance": 5,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 549,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado pegar algo pra comer, esse temporal deixou meu estômago reclamando.",
+    "created_tick": 549,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, meu filho, esse temporal deixou até o chafariz doente — e tem um cachorro perdido lá fora.",
+    "created_tick": 549,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para Iris e pergunto: \"Aquele cachorro... alguém já procurou pelos donos na vila toda?",
+    "created_tick": 550,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse cachorro assustado precisa de ajuda — vem comigo na praça?",
+    "created_tick": 550,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu aquele cachorro? Lembra da praga de cães vadios de 1987?",
+    "created_tick": 551,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, viu esse cachorro assustado? Aposto que alguém perdeu na chuva.",
+    "created_tick": 551,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para o cachorro assustado e me aproximo devagar, estendendo a mão.",
+    "created_tick": 552,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse cachorro assustado precisa de comida, vou buscar uns restos lá no mercado.",
+    "created_tick": 552,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 69: Temporal trouxe cachorro perdido pra vila, chafariz quebrou, história se repetindo.",
+    "created_tick": 552,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, me vende um pão com queijo, rápido — vou dar uma olhada nesse chafariz depois.",
+    "created_tick": 553,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Dou um passo pra trás, evitando o olhar de Iris enquanto finjo interesse no chafariz.",
+    "created_tick": 553,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, aquele chafariz precisa de você mais do que nunca, viu?",
+    "created_tick": 553,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me vende um pão com queijo, que esse chafariz entupido não vai se consertar sozinho.",
+    "created_tick": 554,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pra Marina e murmuro: \"Sabe, chafarizes entupidos lembram Roma... precisavam de engenheiros de verdade.",
+    "created_tick": 554,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, Marina, aquela canaleta atrás do chafariz sempre entope quando chove assim, já tentaram lá?",
+    "created_tick": 554,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você tem café aí? Preciso de açúcar na veia antes de mexer nesse chafariz.",
+    "created_tick": 555,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para Marina enquanto a chuva piora: \"Esse temporal vai piorar tudo se o chafariz não drenar logo.",
+    "created_tick": 555,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vocês viram que a chuva pode ajudar a limpar esse chafariz, né?",
+    "created_tick": 555,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na praça ver esse chafariz entupido antes que vire uma poça d'água infeccionada.",
+    "created_tick": 556,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Encosto na barraca de Iris, olhando pela janela em direção ao chafariz escuro lá fora.",
+    "created_tick": 556,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó, com essa chuva e sem luz, o chafariz vai ficar pior ainda se ninguém mexer nele logo.",
+    "created_tick": 556,
+    "importance": 5,
+    "kind": "observation"
   }
 ]
