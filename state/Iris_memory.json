@@ -2266,5 +2266,131 @@
     "created_tick": 556,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, você viu que o Teo tá lá tentando limpar o chafariz sozinho na chuva?",
+    "created_tick": 557,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Saio do mercado pra checar o chafariz — esse entupimento não vai se desentupir sozinho.",
+    "created_tick": 558,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, esse temporal vai piorar se a gente não tirar aquela água do chafariz.",
+    "created_tick": 558,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, aquele chafariz tá entupido mesmo — vou lá ver se consigo desentupir antes dessa chuva piorar.",
+    "created_tick": 559,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu que Teo tá lá no chafariz ajudando a limpar? Rapaz mudou mesmo.",
+    "created_tick": 559,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Saio da barraca e vou ver esse chafariz entupido pessoalmente.",
+    "created_tick": 560,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, esse temporal vai piorar tudo — a gente precisa do gerador funcionando antes de escurecer.",
+    "created_tick": 560,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 70: Esse temporal não deu trégua, todo mundo preocupado com o chafariz entupido lá fora.",
+    "created_tick": 560,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 561,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse chafariz entupido tá criando poça, vou lá desobstruir antes de piorar.",
+    "created_tick": 561,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aposto que aqueles livros vieram de quem? Alguém aqui sabe?",
+    "created_tick": 561,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 562,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou até o poste ver se é coisa simples ou se precisa chamar gente de fora.",
+    "created_tick": 562,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu quem deixou aquela caixa de livros na biblioteca ontem?",
+    "created_tick": 562,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, essa caixa de livros apareceu do nada — aposto que foi aquele professor que saiu da vila ano passado!",
+    "created_tick": 562,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 563,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, o poste tá com problema — vou lá conferir antes que piore com essa chuva.",
+    "created_tick": 563,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, deve ser coisa de manutenção mesmo, mas aqueles livros da biblioteca? Isso sim é mistério!",
+    "created_tick": 563,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 564,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu quem deixou essa caixa aqui na biblioteca?",
+    "created_tick": 564,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou levar uns livros dessa caixa pro Teo, esse menino merece umas leituras boas.",
+    "created_tick": 564,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
