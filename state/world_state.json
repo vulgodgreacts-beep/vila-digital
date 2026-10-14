@@ -1,31 +1,9 @@
 {
-  "tick": 580,
+  "tick": 588,
   "state": {
     "clima": "temporal",
-    "movimento": "todo mundo se abrigando",
+    "movimento": "vila cheia, feira no mercado",
     "energia": "sem luz"
   },
-  "active_incidents": [
-    {
-      "title": "Caixa de livros doados",
-      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
-      "state_changes": {},
-      "started_tick": 577
-    },
-    {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 578
-    },
-    {
-      "title": "Cachorro perdido",
-      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
-      "state_changes": {},
-      "started_tick": 580
-    }
-  ]
+  "active_incidents": []
 }

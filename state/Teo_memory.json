@@ -2278,5 +2278,125 @@
     "created_tick": 580,
     "importance": 3,
     "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 581,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou levar a caixa de livros pra dentro antes de correr pro mercado com essa chuva.",
+    "created_tick": 581,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vocês viram esse cachorro perdido na chuva? Precisa de ajuda antes que se machuca!",
+    "created_tick": 581,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 582,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na oficina conferir se a chuva entrou por alguma fresta e deixou ferrugem nas coisas.",
+    "created_tick": 582,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Compro um bolo de chuva na barraca dela, talvez a conversa flua melhor com algo quente nas mãos.",
+    "created_tick": 582,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, querido, essa caixa de livros apareceu do nada — você não sabe quem deixou, né?",
+    "created_tick": 582,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ajudo Iris a guardar as frutas antes da chuva estragar tudo na barraca.",
+    "created_tick": 583,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, querido, você viu aquele cachorro assustado na praça? Precisa de ajuda?",
+    "created_tick": 583,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho pro cachorro assustado e penso em levar pra biblioteca, onde é seguro.",
+    "created_tick": 584,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 73: Chuva, feira lotada, apagão e um cachorro perdido — caos organizado na vila.",
+    "created_tick": 584,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Iris. Eu achava \"Percebo que ela já desconfia de mim; talvez saiba mais do que aparenta.\", agora acho \"Ela se preocupa genuinamente com quem sofre; não é só desconfiança.\".",
+    "created_tick": 584,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção ao mercado, aproveitando a movimento da feira apesar do apagão.",
+    "created_tick": 585,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, esse cachorro assustado tá circulando por aí — alguém perdeu um bichinho?",
+    "created_tick": 585,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, você sabe se alguém já checou aquele poste da rua principal ou é coisa maior?",
+    "created_tick": 586,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Iris na barraca dela, talvez tenha algo pra comer antes que o temporal piore.",
+    "created_tick": 586,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, vocês viram se o Seu Damião chegou com as velas dele? Preciso estocar antes de ficar tudo escuro.",
+    "created_tick": 586,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou até o poste da rua principal, preciso ver se é lá que tá o problema.",
+    "created_tick": 587,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Sabe, em 1913 tiveram apagões assim aqui... vou procurar os registros na biblioteca.",
+    "created_tick": 587,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna velha e procuro um livro sobre apagões históricos enquanto espero passar a fome.",
+    "created_tick": 588,
+    "importance": 3,
+    "kind": "observation"
   }
 ]
