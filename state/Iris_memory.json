@@ -1356,12 +1356,6 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Teo, viu esse cachorro assustado? Aposto que alguém perdeu na chuva.",
-    "created_tick": 551,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 69: Chuva, cachorro assustado na praça, chafariz entupido — que dia movimentado na vila!",
     "created_tick": 552,
     "importance": 8,
@@ -1372,78 +1366,6 @@
     "created_tick": 552,
     "importance": 10,
     "kind": "reflection"
-  },
-  {
-    "text": "Teo: Olho para o cachorro assustado e me aproximo devagar, estendendo a mão.",
-    "created_tick": 552,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Gente, esse cachorro assustado precisa de comida, vou buscar uns restos lá no mercado.",
-    "created_tick": 552,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, me vende um pão com queijo, rápido — vou dar uma olhada nesse chafariz depois.",
-    "created_tick": 553,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Dou um passo pra trás, evitando o olhar de Iris enquanto finjo interesse no chafariz.",
-    "created_tick": 553,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, aquele chafariz precisa de você mais do que nunca, viu?",
-    "created_tick": 553,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, me vende um pão com queijo, que esse chafariz entupido não vai se consertar sozinho.",
-    "created_tick": 554,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho pra Marina e murmuro: \"Sabe, chafarizes entupidos lembram Roma... precisavam de engenheiros de verdade.",
-    "created_tick": 554,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Ei, Marina, aquela canaleta atrás do chafariz sempre entope quando chove assim, já tentaram lá?",
-    "created_tick": 554,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, você tem café aí? Preciso de açúcar na veia antes de mexer nesse chafariz.",
-    "created_tick": 555,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho para Marina enquanto a chuva piora: \"Esse temporal vai piorar tudo se o chafariz não drenar logo.",
-    "created_tick": 555,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vocês viram que a chuva pode ajudar a limpar esse chafariz, né?",
-    "created_tick": 555,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou na praça ver esse chafariz entupido antes que vire uma poça d'água infeccionada.",
-    "created_tick": 556,
-    "importance": 5,
-    "kind": "observation"
   },
   {
     "text": "Teo: Encosto na barraca de Iris, olhando pela janela em direção ao chafariz escuro lá fora.",
@@ -2456,6 +2378,102 @@
   {
     "text": "Eu: Gente, alguém conhece esse cachorro? Tá assustado demais pra ser daqui.",
     "created_tick": 620,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver o chafariz e conversar com essa turma parada lá.",
+    "created_tick": 621,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio do mercado pra ver esse chafariz entupido que todo mundo tá comentando.",
+    "created_tick": 622,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, esse chafariz entupido vai virar criadouro de mosquito se ninguém resolver logo!",
+    "created_tick": 623,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 624,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 78: Feira lotada, cachorro misterioso na praça, chafariz entupido, chuva chegando, movimento o tempo todo.",
+    "created_tick": 624,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou pra oficina desligar o gerador antes que essa chuva estrague tudo lá dentro.",
+    "created_tick": 624,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aproveito a barraca vazia pra organizar as coisas antes essa chuva descer de verdade.",
+    "created_tick": 624,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ei, Marina, Teo, vcs viram que o gerador da prefeitura parou? Alguém precisa ir lá.",
+    "created_tick": 625,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou pegar algo com Iris antes dessa chuva piorar — e sem demora.",
+    "created_tick": 626,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca de pão da dona Marta; deve ter algo quente apesar do temporal.",
+    "created_tick": 626,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó, Marina, Teo, que sorte encontrar vocês dois aqui na bagunça!",
+    "created_tick": 626,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, deixa eu pegar um pastel aí, tô com fome demais pra ficar parada.",
+    "created_tick": 627,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem pão fresco? Esse temporal me fez esquecer do almoço.",
+    "created_tick": 627,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó, que sorte vocês dois aqui! Ouviram que o gerador da biblioteca pegou fogo?",
+    "created_tick": 627,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 628,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra biblioteca, aquele Teo deve estar lá protegendo os livros com essa chuva desgraçada.",
+    "created_tick": 628,
     "importance": 3,
     "kind": "observation"
   }
