@@ -1254,76 +1254,10 @@
     "kind": "reflection"
   },
   {
-    "text": "Teo: Peço desculpas, mas acho que vou para a biblioteca — lá tem uns biscoitos que deixei ontem.",
-    "created_tick": 532,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, deixa esse gerador pra depois, vem tomar um café quentinho comigo aqui no mercado.",
-    "created_tick": 532,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Pego a lanterna e vou pro mercado antes essa chuva ficar pior ainda.",
-    "created_tick": 533,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ó, Teo, deixa essa bagunça aí e vem tomar um café quentinho comigo!",
-    "created_tick": 533,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, você tem algo pra comer? Gerador da praça vai dar problema com essa chuva.",
-    "created_tick": 534,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Procuro Iris entre as barracas — talvez ela tenha algo quente pra comer neste temporal.",
-    "created_tick": 534,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ei, Teo, deixa essa catalogação pra lá e senta aqui, tomo um café comigo!",
-    "created_tick": 534,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, aquele gerador da praça tá aguentando essa chuva forte ou precisa conferir?",
-    "created_tick": 535,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Pergunto pra Iris se ela tem alguma coisa de comer, já que a luz não volta tão cedo.",
-    "created_tick": 535,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, filho, deixa esse trabalho de caixa pra depois e senta aqui perto do fogão comigo!",
-    "created_tick": 535,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 67: Fiquei na oficina consertando esse gerador da praça enquanto todo mundo tomava café.",
     "created_tick": 536,
     "importance": 8,
     "kind": "reflection"
-  },
-  {
-    "text": "Eu: Ei Teo, esse gerador da praça tá funcionando? Posso ir lá checar se a luz volta.",
-    "created_tick": 536,
-    "importance": 3,
-    "kind": "observation"
   },
   {
     "text": "Teo: Fico perto da Iris, ajudando a organizar as coisas que o vento derrubou.",
@@ -2360,6 +2294,102 @@
   {
     "text": "Eu: Iris, sem luz ninguém vai querer ficar aqui — vou ver se consigo gerar algo na oficina.",
     "created_tick": 604,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Desligo o soldador e vou pro mercado ver se esses produtores de fora têm peça que presta.",
+    "created_tick": 605,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninos, com essa chuva forte e sem luz, o gerador da biblioteca vai fazer falta, hein?",
+    "created_tick": 605,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vai molhar todos os livros aí, leva pro meu barracão que é coberto.",
+    "created_tick": 606,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina entre as barracas pra ver se ela já ouviu falar desses produtores de fora.",
+    "created_tick": 606,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Sem luz nenhum desses produtores de fora vai vender nada — vou pra oficina ver o gerador.",
+    "created_tick": 607,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 76: Feira lotada, chuva chegando, achei gerador pra biblioteca e procurei esse cachorro na praça.",
+    "created_tick": 608,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Iris. Eu achava \"Tá se mexendo de verdade pelo cachorro, não só reclamando — me impressionou.\", agora acho \"Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo.\".",
+    "created_tick": 608,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Catalogando livro na chuva é legal, mas toda hora com história antiga cansa.\", agora acho \"Levou livro pra chuva não estragar — é mais prático que eu pensava.\".",
+    "created_tick": 608,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou até a praça ver esse cachorro perdido antes que a chuva piore.",
+    "created_tick": 608,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 609,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou desligar esse painel de luz que tá dando curto com a chuva, não quero incêndio aqui.",
+    "created_tick": 609,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra biblioteca ver essa caixa de livros antes que a chuva estrague tudo.",
+    "created_tick": 610,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a caixa com cuidado, procurando alguma pista entre as páginas amareladas.",
+    "created_tick": 610,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, essas capas gastas parecem livros de dona Marta — ela sempre falava em doar a biblioteca!",
+    "created_tick": 610,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou olhar essa caixa de livros pra ver se tem algo que dá pra aproveitar na oficina.",
+    "created_tick": 611,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado pegar algo pra comer antes que feche tudo com essa chuva.",
+    "created_tick": 612,
     "importance": 3,
     "kind": "observation"
   }

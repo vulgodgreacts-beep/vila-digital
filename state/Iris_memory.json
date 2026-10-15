@@ -1314,18 +1314,6 @@
     "kind": "reflection"
   },
   {
-    "text": "Teo: Pergunto pra Iris se ela tem alguma coisa de comer, já que a luz não volta tão cedo.",
-    "created_tick": 535,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, filho, deixa esse trabalho de caixa pra depois e senta aqui perto do fogão comigo!",
-    "created_tick": 535,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 67: Que dia de chuva! Mercado virou ponto de encontro, todo mundo querendo café quentinho comigo.",
     "created_tick": 536,
     "importance": 8,
@@ -1338,93 +1326,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Marina: Ei Teo, esse gerador da praça tá funcionando? Posso ir lá checar se a luz volta.",
-    "created_tick": 536,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Fico perto da Iris, ajudando a organizar as coisas que o vento derrubou.",
-    "created_tick": 536,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vem cá, Teo, deixa esse trabalho de lado e toma um café quentinho comigo!",
-    "created_tick": 536,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Ei Iris, esse gerador da praça tá funcionando ou a luz sumiu mesmo?",
-    "created_tick": 537,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Encosto na barraca de Iris, perguntando se ela tem pão com queijo disponível.",
-    "created_tick": 537,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, querido, deixa esse trabalho pra depois e vem tomar um café quentinho comigo aqui.",
-    "created_tick": 537,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
     "created_tick": 538,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou lá na praça ver esse chafariz — deve ser coisa simples, provavelmente lixo entupindo.",
-    "created_tick": 538,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho pra Marina: \"Sabe, isso me lembrou quando entupiu a fonte de Florença, em mil quatrocentos...",
-    "created_tick": 538,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Gente, esse chafariz entupido é culpa de quem não cuida, viu Marina?",
-    "created_tick": 538,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Esse chafariz tá entupido, vou lá verificar antes que fique pior.",
-    "created_tick": 539,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho pro chafariz parado e murmuro: \"Sabe, em 1887 a vila enfrentou problema igual...",
-    "created_tick": 539,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, querida, você vai precisar de ajuda pra desent­upir esse chafariz ou vai sozinha?",
-    "created_tick": 539,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou pra praça ver esse chafariz, pode ser só sujeira mesmo.",
-    "created_tick": 540,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Fico observando a água parada, lembrando quando entupimentos assim paravam fontes romanas séculos atrás.",
-    "created_tick": 540,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -2426,6 +2330,114 @@
   {
     "text": "Eu: Vou aproveitar a bagunça da feira e conversar com os produtores de fora pra saber as novidades.",
     "created_tick": 604,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Meninos, com essa chuva forte e sem luz, o gerador da biblioteca vai fazer falta, hein?",
+    "created_tick": 605,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Deixo o mercado um pouco, entro na biblioteca pra ver se Teo tá aqui — esse menino sabe tudo que acontece.",
+    "created_tick": 606,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Sem luz nenhum desses produtores de fora vai vender nada — vou pra oficina ver o gerador.",
+    "created_tick": 607,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Encosto na barraca de Iris, esperando a luz voltar e ouvindo boatos sobre os produtores novos.",
+    "created_tick": 607,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Teo pelo braço: \"Vem cá, esses produtor de fora têm histórias incríveis pra contar!",
+    "created_tick": 607,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 76: Que dia de chuva e bagunça! Mercado lotado, produtor de fora, cachorro perdido, luz fora.",
+    "created_tick": 608,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Procuro Iris entre as barracas, esperando que ela saiba notícias sobre a situação da luz na vila.",
+    "created_tick": 608,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, esse cachorro desaparecido deve ser de algum desses produtores de fora, não é?",
+    "created_tick": 608,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 609,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pergunto a Iris se ela viu alguém deixando caixa na biblioteca ontem à noite.",
+    "created_tick": 609,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou correndo pra biblioteca ver essa tal caixa de livros que ninguém sabe de onde veio.",
+    "created_tick": 609,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a caixa com cuidado, procurando alguma pista entre as páginas amareladas.",
+    "created_tick": 610,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, essas capas gastas parecem livros de dona Marta — ela sempre falava em doar a biblioteca!",
+    "created_tick": 610,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou olhar essa caixa de livros pra ver se tem algo que dá pra aproveitar na oficina.",
+    "created_tick": 611,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a caixa com cuidado, procurando alguma pista entre os livros antigos.",
+    "created_tick": 611,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aposto que foi a D. Marilda, aquela que mora na chácara lá no fim.",
+    "created_tick": 611,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você viu quem deixou essa caixa? Reconheço alguns títulos do século dezenove aqui.",
+    "created_tick": 612,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, aposto que foi a Dona Margarida, aquela que falava dos livros do pai dela.",
+    "created_tick": 612,
     "importance": 3,
     "kind": "observation"
   }

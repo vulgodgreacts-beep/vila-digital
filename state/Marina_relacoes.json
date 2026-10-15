@@ -1,13 +1,9 @@
 {
   "Teo": {
-    "familiaridade": 238,
-    "opiniao": "Catalogando livro na chuva é legal, mas toda hora com história antiga cansa.",
-    "desde_dia": 75,
+    "familiaridade": 241,
+    "opiniao": "Levou livro pra chuva não estragar — é mais prático que eu pensava.",
+    "desde_dia": 76,
     "historico": [
-      {
-        "dia": 26,
-        "opiniao": "Rapaz parou de contar história e foi atrás do cachorro junto com gente."
-      },
       {
         "dia": 40,
         "opiniao": "Rapaz parou de contar história, agora quer descobrir quem doou livro antigo."
@@ -19,18 +15,18 @@
       {
         "dia": 64,
         "opiniao": "Catalogando livro na chuva? Esse rapaz se importa de verdade, não é brincadeira."
+      },
+      {
+        "dia": 75,
+        "opiniao": "Catalogando livro na chuva é legal, mas toda hora com história antiga cansa."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 273,
-    "opiniao": "Tá se mexendo de verdade pelo cachorro, não só reclamando — me impressionou.",
-    "desde_dia": 73,
+    "familiaridade": 275,
+    "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo.",
+    "desde_dia": 76,
     "historico": [
-      {
-        "dia": 50,
-        "opiniao": "Essa mulher não só quer me proteger — ela me arrasta pra ajudar os outros também."
-      },
       {
         "dia": 57,
         "opiniao": "Insiste demais, mas pelo menos não desiste quando ninguém quer ajudar."
@@ -42,6 +38,10 @@
       {
         "dia": 72,
         "opiniao": "Sabe que precisa de mim pra tudo — mas isso já me irrita menos."
+      },
+      {
+        "dia": 73,
+        "opiniao": "Tá se mexendo de verdade pelo cachorro, não só reclamando — me impressionou."
       }
     ]
   }

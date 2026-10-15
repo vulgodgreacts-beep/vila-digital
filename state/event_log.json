@@ -1,167 +1,5 @@
 [
   {
-    "tick": 155,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Entro no mercado procurando a barraca da Dona Rosa, onde ela sempre tem pão quente mesmo sem luz."
-  },
-  {
-    "tick": 155,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Vou pro mercado rápido, Marina pode precisar de lanterna ou corda pra consertar esse poste."
-  },
-  {
-    "tick": 156,
-    "agent": "SISTEMA",
-    "location": "vila",
-    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
-  },
-  {
-    "tick": 156,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego a lanterna e vou pro mercado antes dessa chuva ficar pior."
-  },
-  {
-    "tick": 156,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você sabe algo sobre essa caixa de livros que apareceu na biblioteca?"
-  },
-  {
-    "tick": 156,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Marina, aquela caixa de livros na biblioteca — aposto que foi seu avô, que mais ninguém tem esse coração?"
-  },
-  {
-    "tick": 157,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Saio da oficina com a lanterna — vou pro mercado antes que a chuva piore mais ainda."
-  },
-  {
-    "tick": 157,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Acendo a lanterna e vou pro mercado antes que a tempestade piore ainda mais."
-  },
-  {
-    "tick": 157,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Marina, você acha que alguém anônimo mandou esses livros pra biblioteca antes da tempestade?"
-  },
-  {
-    "tick": 158,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Teo, aquele poste da rua pra frente da biblioteca tá com problema, vou olhar quando parar de chover."
-  },
-  {
-    "tick": 158,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Vou para a biblioteca — essa caixa de livros anônimos me intriga mais que qualquer sanduíche agora."
-  },
-  {
-    "tick": 158,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Gente, essa caixa de livros apareceu sem nome — alguém sabe quem mandou?"
-  },
-  {
-    "tick": 159,
-    "agent": "Marina",
-    "location": "biblioteca",
-    "action": "Vou pro mercado, que aqui tá escuro demais e meu estômago não aguenta mais."
-  },
-  {
-    "tick": 159,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Abro a caixa de livros com uma vela, esquecendo a fome por enquanto."
-  },
-  {
-    "tick": 159,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Olho pra Teo: \"Aposto que quem deixou esses livros tá observando pra ver quem abre."
-  },
-  {
-    "tick": 160,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Vou pra oficina pegar uns biscoitos que deixei lá, depois vejo esse apagão."
-  },
-  {
-    "tick": 160,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Abro a caixa de livros com cuidado, procurando qualquer pista sobre quem mandou isso."
-  },
-  {
-    "tick": 160,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Seguro a lanterna do celular e olho pra Teo: \"Esses livros antigos vêm de quem, hein?"
-  },
-  {
-    "tick": 160,
-    "agent": "SISTEMA",
-    "location": "biblioteca",
-    "action": "Teo mudou de ideia sobre Iris: Ela não só ajuda perdidos — também entende meu fascínio por mistérios literários."
-  },
-  {
-    "tick": 160,
-    "agent": "SISTEMA",
-    "location": "biblioteca",
-    "action": "Iris mudou de ideia sobre Teo: Nervoso sim, mas curioso de verdade — quer desvendar mistério, não só ajudar."
-  },
-  {
-    "tick": 161,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Vou pro mercado antes que feche, esse apagão vai deixar tudo fechado cedo."
-  },
-  {
-    "tick": 161,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Iris, você viu quem deixou essa caixa aqui antes da tempestade descer?"
-  },
-  {
-    "tick": 161,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Vou indo pro mercado buscar um lanche, Teo, depois a gente conversa sobre essa caixa misteriosa."
-  },
-  {
-    "tick": 162,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Iris, você tem algo quente pra comer? Essa chuva não quer parar."
-  },
-  {
-    "tick": 162,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Saio da biblioteca na chuva em direção ao mercado, passando pela praça que virou um borrão cinzento."
-  },
-  {
-    "tick": 162,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Viu só, Marina? Poste caído mesmo — vou abrir a barraca de seco e molhado pra vocês se abrigarem."
-  },
-  {
-    "tick": 163,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Iris, você tem algo quente aí pra comer, ou tudo molhado com essa chuva?"
-  },
-  {
     "tick": 163,
     "agent": "Teo",
     "location": "mercado",
@@ -8998,5 +8836,167 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Vou aproveitar a bagunça da feira e conversar com os produtores de fora pra saber as novidades."
+  },
+  {
+    "tick": 605,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Desligo o soldador e vou pro mercado ver se esses produtores de fora têm peça que presta."
+  },
+  {
+    "tick": 605,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Apago a vela da biblioteca e saio em direção ao mercado, esperando encontrar algo pra comer."
+  },
+  {
+    "tick": 605,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Meninos, com essa chuva forte e sem luz, o gerador da biblioteca vai fazer falta, hein?"
+  },
+  {
+    "tick": 606,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, vai molhar todos os livros aí, leva pro meu barracão que é coberto."
+  },
+  {
+    "tick": 606,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Marina entre as barracas pra ver se ela já ouviu falar desses produtores de fora."
+  },
+  {
+    "tick": 606,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Deixo o mercado um pouco, entro na biblioteca pra ver se Teo tá aqui — esse menino sabe tudo que acontece."
+  },
+  {
+    "tick": 607,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Sem luz nenhum desses produtores de fora vai vender nada — vou pra oficina ver o gerador."
+  },
+  {
+    "tick": 607,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Encosto na barraca de Iris, esperando a luz voltar e ouvindo boatos sobre os produtores novos."
+  },
+  {
+    "tick": 607,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Puxo Teo pelo braço: \"Vem cá, esses produtor de fora têm histórias incríveis pra contar!"
+  },
+  {
+    "tick": 608,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou até a praça ver esse cachorro perdido antes que a chuva piore."
+  },
+  {
+    "tick": 608,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Iris entre as barracas, esperando que ela saiba notícias sobre a situação da luz na vila."
+  },
+  {
+    "tick": 608,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, esse cachorro desaparecido deve ser de algum desses produtores de fora, não é?"
+  },
+  {
+    "tick": 608,
+    "agent": "SISTEMA",
+    "location": "oficina",
+    "action": "Marina mudou de ideia sobre Iris: Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo."
+  },
+  {
+    "tick": 608,
+    "agent": "SISTEMA",
+    "location": "oficina",
+    "action": "Marina mudou de ideia sobre Teo: Levou livro pra chuva não estragar — é mais prático que eu pensava."
+  },
+  {
+    "tick": 609,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 609,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou desligar esse painel de luz que tá dando curto com a chuva, não quero incêndio aqui."
+  },
+  {
+    "tick": 609,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Pergunto a Iris se ela viu alguém deixando caixa na biblioteca ontem à noite."
+  },
+  {
+    "tick": 609,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou correndo pra biblioteca ver essa tal caixa de livros que ninguém sabe de onde veio."
+  },
+  {
+    "tick": 610,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pra biblioteca ver essa caixa de livros antes que a chuva estrague tudo."
+  },
+  {
+    "tick": 610,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa com cuidado, procurando alguma pista entre as páginas amareladas."
+  },
+  {
+    "tick": 610,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, essas capas gastas parecem livros de dona Marta — ela sempre falava em doar a biblioteca!"
+  },
+  {
+    "tick": 611,
+    "agent": "Marina",
+    "location": "biblioteca",
+    "action": "Vou olhar essa caixa de livros pra ver se tem algo que dá pra aproveitar na oficina."
+  },
+  {
+    "tick": 611,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Abro a caixa com cuidado, procurando alguma pista entre os livros antigos."
+  },
+  {
+    "tick": 611,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, aposto que foi a D. Marilda, aquela que mora na chácara lá no fim."
+  },
+  {
+    "tick": 612,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado pegar algo pra comer antes que feche tudo com essa chuva."
+  },
+  {
+    "tick": 612,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Iris, você viu quem deixou essa caixa? Reconheço alguns títulos do século dezenove aqui."
+  },
+  {
+    "tick": 612,
+    "agent": "Iris",
+    "location": "biblioteca",
+    "action": "Teo, aposto que foi a Dona Margarida, aquela que falava dos livros do pai dela."
   }
 ]
