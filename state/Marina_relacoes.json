@@ -1,13 +1,9 @@
 {
   "Teo": {
-    "familiaridade": 233,
-    "opiniao": "Catalogando livro na chuva? Esse rapaz se importa de verdade, não é brincadeira.",
-    "desde_dia": 64,
+    "familiaridade": 238,
+    "opiniao": "Catalogando livro na chuva é legal, mas toda hora com história antiga cansa.",
+    "desde_dia": 75,
     "historico": [
-      {
-        "dia": 16,
-        "opiniao": "Rapaz sabe cuidar, mas tem a boca grande demais — fala história pra tudo."
-      },
       {
         "dia": 26,
         "opiniao": "Rapaz parou de contar história e foi atrás do cachorro junto com gente."
@@ -19,11 +15,15 @@
       {
         "dia": 42,
         "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar."
+      },
+      {
+        "dia": 64,
+        "opiniao": "Catalogando livro na chuva? Esse rapaz se importa de verdade, não é brincadeira."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 266,
+    "familiaridade": 273,
     "opiniao": "Tá se mexendo de verdade pelo cachorro, não só reclamando — me impressionou.",
     "desde_dia": 73,
     "historico": [
