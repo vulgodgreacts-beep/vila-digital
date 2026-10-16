@@ -1302,27 +1302,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Iris: Marina, esse temporal vai piorar tudo — a gente precisa do gerador funcionando antes de escurecer.",
-    "created_tick": 560,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
     "created_tick": 561,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, esse chafariz entupido tá criando poça, vou lá desobstruir antes de piorar.",
-    "created_tick": 561,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Aposto que aqueles livros vieram de quem? Alguém aqui sabe?",
-    "created_tick": 561,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -1332,39 +1314,9 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Vou até o poste ver se é coisa simples ou se precisa chamar gente de fora.",
-    "created_tick": 562,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, você viu quem deixou aquela caixa de livros na biblioteca ontem?",
-    "created_tick": 562,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, essa caixa de livros apareceu do nada — aposto que foi aquele professor que saiu da vila ano passado!",
-    "created_tick": 562,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
     "created_tick": 563,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, o poste tá com problema — vou lá conferir antes que piore com essa chuva.",
-    "created_tick": 563,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, deve ser coisa de manutenção mesmo, mas aqueles livros da biblioteca? Isso sim é mistério!",
-    "created_tick": 563,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -1374,40 +1326,10 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Vou pra oficina ver se o gerador tá funcionando, porque sem luz ninguém conserta nada direito.",
-    "created_tick": 564,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até o poste checar se é coisa simples ou se preciso chamar alguém de fora.",
-    "created_tick": 565,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou verificar o poste da rua — se é só conexão frouxa, arrumo agora antes dessa chuva piorar.",
-    "created_tick": 566,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou checar o poste da praça — apagão desse tamanho não cai do nada.",
-    "created_tick": 567,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 71: Apagão, poste com problema, chafariz entupido — dia de trabalho dobrado sem luz pra nada.",
     "created_tick": 568,
     "importance": 8,
     "kind": "reflection"
-  },
-  {
-    "text": "Eu: Vou à praça ver esse chafariz — entupimento é coisa que sei resolver.",
-    "created_tick": 568,
-    "importance": 3,
-    "kind": "observation"
   },
   {
     "text": "Eu: Vou pro mercado, essa feira só aparece de tanto em tanto e meu estômago tá reclamando.",
@@ -2433,6 +2355,96 @@
     "text": "Eu: Vou pra oficina, esse temporal vai derrubar galho e alguém vai precisar de conserto.",
     "created_tick": 636,
     "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou revisar esse gerador que tá parado há dois meses, aproveito que não tem luz mesmo.",
+    "created_tick": 637,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego lanterna a pilha e vou pro mercado ver se alguém precisa de mão pra carregar coisa na chuva.",
+    "created_tick": 638,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, esse gerador da biblioteca é problema seu ou da prefeitura?",
+    "created_tick": 638,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina verificar se a bomba do chafariz tá entupida ou se é coisa da chuva mesmo.",
+    "created_tick": 639,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 80: Chuva forte, sem luz, revisei gerador, bomba do chafariz, e fui atrás de problema na geradora da vila.",
+    "created_tick": 640,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou ver se a geradora da vila tá funcionando ou se a tempestade derrubou alguma coisa.",
+    "created_tick": 640,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, essa feira tem comida fresca e preciso comer algo antes de mexer nesse gerador.",
+    "created_tick": 641,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, alguém sabe se o gerador da biblioteca está funcionando com essa chuva toda?",
+    "created_tick": 641,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego uma broa com queijo na barraca da Dona Lurdes, ela sempre guarda a melhor pra mim.",
+    "created_tick": 642,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca de salgados, torço pra Dona Marta ter feito pastel apesar da falta de luz.",
+    "created_tick": 642,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 643,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vou pra barraca da dona Rosa pegar um bolo antes que acabe tudo.",
+    "created_tick": 643,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro a barraca de dona Elisa, aquela com o bolo de milho que lembra receitas coloniais.",
+    "created_tick": 643,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, a energia volta quando esse temporal passa, mas enquanto isso alguém precisa ver os geradores.",
+    "created_tick": 644,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro entre as barracas por algo de comer, evitando olhar nos olhos das pessoas novas.",
+    "created_tick": 644,
+    "importance": 5,
     "kind": "observation"
   }
 ]

@@ -1278,33 +1278,9 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Abro a caixa de livros antes de ir ao mercado, curiosidade não aguenta esperar.",
-    "created_tick": 561,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Aposto que aqueles livros vieram de quem? Alguém aqui sabe?",
-    "created_tick": 561,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
     "created_tick": 562,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou até o poste ver se é coisa simples ou se precisa chamar gente de fora.",
-    "created_tick": 562,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, você viu quem deixou aquela caixa de livros na biblioteca ontem?",
-    "created_tick": 562,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -1314,63 +1290,9 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Abro a caixa de livros com cuidado, procurando alguma pista sobre quem deixou aquilo.",
-    "created_tick": 563,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
     "created_tick": 564,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, você viu quem deixou essa caixa aqui na biblioteca?",
-    "created_tick": 564,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Vou levar uns livros dessa caixa pro Teo, esse menino merece umas leituras boas.",
-    "created_tick": 564,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Abro a caixa de livros com cuidado, procurando alguma pista antes de ir ao mercado.",
-    "created_tick": 565,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, querido, achei estranho ninguém assinar esses livros — será que foi aquele produtor de fora?",
-    "created_tick": 565,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Compro um bolo de chuva de Iris, esperando que ela não pergunte sobre aquela caixa de livros.",
-    "created_tick": 566,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, filho, esses livros misteriosos na sua porta têm cheiro de história — você já abriu pra ver?",
-    "created_tick": 566,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Aproveito a bagunça do apagão pra sair discreto da feira sem Iris ficar questionando meu comportamento estranho.",
-    "created_tick": 567,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, você viu? Seu Deco já foi olhar o poste, mas só Deus sabe se ele sobe com essa chuva.",
-    "created_tick": 567,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -1384,12 +1306,6 @@
     "created_tick": 568,
     "importance": 10,
     "kind": "reflection"
-  },
-  {
-    "text": "Eu: Iris, esse temporal lembra a enchente de 1987, aquela que entupiu tudo na praça.",
-    "created_tick": 568,
-    "importance": 3,
-    "kind": "observation"
   },
   {
     "text": "Iris: Teo, meu filho, esse temporal vai piorar—vem pra cá, te faço um café quentinho!",
@@ -2385,6 +2301,102 @@
     "text": "Iris: Teo, querido, você viu aquele produtor novo chegando com caixas de morango? Muito interessante mesmo.",
     "created_tick": 636,
     "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lamparina a óleo e abro o livro de crônicas da vila pra ler enquanto a chuva passa.",
+    "created_tick": 637,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a vela velha que guardava aqui; temporal desses é igual aos de 1952, quando a vila ficou três dias no escuro.",
+    "created_tick": 638,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a vela da biblioteca e ofereço café quente pra Iris, se quiser esperar a chuva passar.",
+    "created_tick": 639,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou aproveitar que Teo tá aqui e perguntar se ele ouviu falar dessa chuva de repente.",
+    "created_tick": 639,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 80: Temporal derrubou luz, li crônicas da vila, ofereci café pra Iris na biblioteca.",
+    "created_tick": 640,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, você sabe se a Dona Marta abriu o armazém? Preciso de algo pra comer.",
+    "created_tick": 640,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, com essa chuva forte e a feira lotada, aposto que tem gente se amontoando no mercado procurando abrigo.",
+    "created_tick": 640,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho o livro de crônicas e sigo pro mercado, esperando que a feira ainda tenha algo apesar do temporal.",
+    "created_tick": 641,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, alguém sabe se o gerador da biblioteca está funcionando com essa chuva toda?",
+    "created_tick": 641,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Pego uma broa com queijo na barraca da Dona Lurdes, ela sempre guarda a melhor pra mim.",
+    "created_tick": 642,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro a barraca de salgados, torço pra Dona Marta ter feito pastel apesar da falta de luz.",
+    "created_tick": 642,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 643,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, vou pra barraca da dona Rosa pegar um bolo antes que acabe tudo.",
+    "created_tick": 643,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro a barraca de dona Elisa, aquela com o bolo de milho que lembra receitas coloniais.",
+    "created_tick": 643,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, a energia volta quando esse temporal passa, mas enquanto isso alguém precisa ver os geradores.",
+    "created_tick": 644,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro entre as barracas por algo de comer, evitando olhar nos olhos das pessoas novas.",
+    "created_tick": 644,
+    "importance": 3,
     "kind": "observation"
   }
 ]

@@ -1398,36 +1398,6 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Teo, querido, achei estranho ninguém assinar esses livros — será que foi aquele produtor de fora?",
-    "created_tick": 565,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Compro um bolo de chuva de Iris, esperando que ela não pergunte sobre aquela caixa de livros.",
-    "created_tick": 566,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, filho, esses livros misteriosos na sua porta têm cheiro de história — você já abriu pra ver?",
-    "created_tick": 566,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Aproveito a bagunça do apagão pra sair discreto da feira sem Iris ficar questionando meu comportamento estranho.",
-    "created_tick": 567,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, você viu? Seu Deco já foi olhar o poste, mas só Deus sabe se ele sobe com essa chuva.",
-    "created_tick": 567,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 71: Feira lotada, chafariz entupido, temporal chegando e esses livros misteriosos não saem da minha cabeça!",
     "created_tick": 568,
     "importance": 8,
@@ -1440,39 +1410,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Teo: Iris, esse temporal lembra a enchente de 1987, aquela que entupiu tudo na praça.",
-    "created_tick": 568,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, meu filho, esse temporal vai piorar—vem pra cá, te faço um café quentinho!",
-    "created_tick": 568,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Fico observando as barracas, procurando algo pra comer enquanto a chuva bate contra o toldo.",
-    "created_tick": 569,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Ei, vocês viram? O pessoal de fora tá comprando tudo, nem sobra alface pra gente!",
-    "created_tick": 569,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
     "created_tick": 570,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou pra oficina, preciso pegar a lanterna e checar aquele poste antes da chuva piorar.",
-    "created_tick": 570,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -2492,6 +2432,78 @@
   {
     "text": "Eu: Teo, querido, você viu aquele produtor novo chegando com caixas de morango? Muito interessante mesmo.",
     "created_tick": 636,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou aproveitar que a feira tá cheia e oferecer velas pra todo mundo antes dessa chuva ficar pior.",
+    "created_tick": 637,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, esse gerador da biblioteca é problema seu ou da prefeitura?",
+    "created_tick": 638,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Acendo a vela da biblioteca e ofereço café quente pra Iris, se quiser esperar a chuva passar.",
+    "created_tick": 639,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou aproveitar que Teo tá aqui e perguntar se ele ouviu falar dessa chuva de repente.",
+    "created_tick": 639,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 80: Dia de chuva, feira cheia, temporal chegando e todo mundo procurando abrigo aqui no mercado.",
+    "created_tick": 640,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Teo: Iris, você sabe se a Dona Marta abriu o armazém? Preciso de algo pra comer.",
+    "created_tick": 640,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, com essa chuva forte e a feira lotada, aposto que tem gente se amontoando no mercado procurando abrigo.",
+    "created_tick": 640,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, alguém sabe se o gerador da biblioteca está funcionando com essa chuva toda?",
+    "created_tick": 641,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo a cadeira e sento aqui na biblioteca, aproveitando que todo mundo tá na feira pra pensar com sossego.",
+    "created_tick": 642,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 643,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra não perder a feira — esse temporal pode espantar os produtores de fora.",
+    "created_tick": 643,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio correndo pra biblioteca porque com essa chuva forte, alguém pode precisar de ajuda lá.",
+    "created_tick": 644,
     "importance": 3,
     "kind": "observation"
   }
