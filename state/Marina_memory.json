@@ -1296,112 +1296,10 @@
     "kind": "reflection"
   },
   {
-    "text": "Iris: Marina, aquele chafariz precisa de você mais do que nunca, viu?",
-    "created_tick": 553,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, me vende um pão com queijo, que esse chafariz entupido não vai se consertar sozinho.",
-    "created_tick": 554,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho pra Marina e murmuro: \"Sabe, chafarizes entupidos lembram Roma... precisavam de engenheiros de verdade.",
-    "created_tick": 554,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ei, Marina, aquela canaleta atrás do chafariz sempre entope quando chove assim, já tentaram lá?",
-    "created_tick": 554,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, você tem café aí? Preciso de açúcar na veia antes de mexer nesse chafariz.",
-    "created_tick": 555,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho para Marina enquanto a chuva piora: \"Esse temporal vai piorar tudo se o chafariz não drenar logo.",
-    "created_tick": 555,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Vocês viram que a chuva pode ajudar a limpar esse chafariz, né?",
-    "created_tick": 555,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou na praça ver esse chafariz entupido antes que vire uma poça d'água infeccionada.",
-    "created_tick": 556,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Encosto na barraca de Iris, olhando pela janela em direção ao chafariz escuro lá fora.",
-    "created_tick": 556,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ó, com essa chuva e sem luz, o chafariz vai ficar pior ainda se ninguém mexer nele logo.",
-    "created_tick": 556,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pro mercado, já que a luz não volta tão cedo e a barriga tá reclamando.",
-    "created_tick": 557,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, querida, você viu que o Teo tá lá tentando limpar o chafariz sozinho na chuva?",
-    "created_tick": 557,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio do mercado pra checar o chafariz — esse entupimento não vai se desentupir sozinho.",
-    "created_tick": 558,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, esse temporal vai piorar se a gente não tirar aquela água do chafariz.",
-    "created_tick": 558,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, aquele chafariz tá entupido mesmo — vou lá ver se consigo desentupir antes dessa chuva piorar.",
-    "created_tick": 559,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, você viu que Teo tá lá no chafariz ajudando a limpar? Rapaz mudou mesmo.",
-    "created_tick": 559,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 70: Choveu pra caramba, fui checar chafariz entupido, Teo tava lá se esforçando mesmo.",
     "created_tick": 560,
     "importance": 8,
     "kind": "reflection"
-  },
-  {
-    "text": "Eu: Saio da barraca e vou ver esse chafariz entupido pessoalmente.",
-    "created_tick": 560,
-    "importance": 3,
-    "kind": "observation"
   },
   {
     "text": "Iris: Marina, esse temporal vai piorar tudo — a gente precisa do gerador funcionando antes de escurecer.",
@@ -2415,6 +2313,126 @@
     "text": "Teo: Seguro uma caixa de livros que estava exposta, antes que a chuva estrague tudo.",
     "created_tick": 628,
     "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 629,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado aproveitar que tá cheio e pegar algo pra comer antes de fechar.",
+    "created_tick": 629,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, aquele chafariz virou uma piscina — se não limpar logo, vira foco de doença!",
+    "created_tick": 629,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça desentupir esse chafariz antes de virar uma poça imunda.",
+    "created_tick": 630,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Entro correndo na biblioteca antes que a chuva me encharque todo.",
+    "created_tick": 630,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, esse chafariz entupido agora vira uma poça, viu só?",
+    "created_tick": 630,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 631,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina, esse temporal derruba árvore e amanhã o povo me liga pra consertar.",
+    "created_tick": 631,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 79: Temporal, chafariz entupido, biblioteca em chamas — dia de mexer em tudo.",
+    "created_tick": 632,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Desligo a máquina de solda e vou ver se o chafariz entupido tá causando problema pior na praça.",
+    "created_tick": 632,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho a oficina e saio correndo pro mercado antes que a chuva piore mais ainda.",
+    "created_tick": 633,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Iris para perguntar se ela tem pão ou fruta; a chuva vai passar logo.",
+    "created_tick": 633,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse chafariz entupido vai virar foco de mosquito se ninguém resolver logo!",
+    "created_tick": 633,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, depois que achar o cachorro, vira aqui — tem pastel bom e a gente planeja o chafariz.",
+    "created_tick": 634,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, esse bolo de milho está bom hoje? Sem luz, deve ter cozinhado no fogão a lenha.",
+    "created_tick": 634,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, Marina, Teo, viram que a água parada do chafariz tá atraindo mosquito?",
+    "created_tick": 634,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você viu esse produtor novo? Trouxe peças usadas que quero examinar.",
+    "created_tick": 635,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Marina entre as barracas — ela sempre sabe como agir quando a luz cai.",
+    "created_tick": 635,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, vocês dois viram aquele rapaz novo com os produtores de fora? Vou descobrir quem é!",
+    "created_tick": 635,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina, esse temporal vai derrubar galho e alguém vai precisar de conserto.",
+    "created_tick": 636,
+    "importance": 3,
     "kind": "observation"
   }
 ]

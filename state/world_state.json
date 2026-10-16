@@ -1,8 +1,8 @@
 {
-  "tick": 628,
+  "tick": 636,
   "state": {
     "clima": "temporal",
-    "movimento": "todo mundo se abrigando",
+    "movimento": "vila cheia, feira no mercado",
     "energia": "sem luz"
   },
   "active_incidents": [
@@ -12,16 +12,7 @@
       "state_changes": {
         "movimento": "vila cheia, feira no mercado"
       },
-      "started_tick": 624
-    },
-    {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
-      "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
-      },
-      "started_tick": 628
+      "started_tick": 631
     }
   ]
 }
