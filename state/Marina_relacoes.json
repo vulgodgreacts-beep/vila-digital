@@ -1,13 +1,9 @@
 {
   "Teo": {
-    "familiaridade": 255,
-    "opiniao": "Levou livro pra chuva não estragar — é mais prático que eu pensava.",
-    "desde_dia": 76,
+    "familiaridade": 260,
+    "opiniao": "Ficou quieto observando, mas pelo menos não encheu a paciência com história de 1913.",
+    "desde_dia": 81,
     "historico": [
-      {
-        "dia": 40,
-        "opiniao": "Rapaz parou de contar história, agora quer descobrir quem doou livro antigo."
-      },
       {
         "dia": 42,
         "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar."
@@ -19,11 +15,15 @@
       {
         "dia": 75,
         "opiniao": "Catalogando livro na chuva é legal, mas toda hora com história antiga cansa."
+      },
+      {
+        "dia": 76,
+        "opiniao": "Levou livro pra chuva não estragar — é mais prático que eu pensava."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 288,
+    "familiaridade": 293,
     "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo.",
     "desde_dia": 76,
     "historico": [
