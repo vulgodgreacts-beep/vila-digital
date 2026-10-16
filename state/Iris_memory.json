@@ -1452,57 +1452,15 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Saio correndo pra praça ver se aquele cachorro perdido conseguiu se abrigar em algum lugar.",
-    "created_tick": 580,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
     "created_tick": 581,
     "importance": 9,
     "kind": "observation"
   },
   {
-    "text": "Eu: Vocês viram esse cachorro perdido na chuva? Precisa de ajuda antes que se machuca!",
-    "created_tick": 581,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
     "created_tick": 582,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou na oficina conferir se a chuva entrou por alguma fresta e deixou ferrugem nas coisas.",
-    "created_tick": 582,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Compro um bolo de chuva na barraca dela, talvez a conversa flua melhor com algo quente nas mãos.",
-    "created_tick": 582,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, querido, essa caixa de livros apareceu do nada — você não sabe quem deixou, né?",
-    "created_tick": 582,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Ajudo Iris a guardar as frutas antes da chuva estragar tudo na barraca.",
-    "created_tick": 583,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, querido, você viu aquele cachorro assustado na praça? Precisa de ajuda?",
-    "created_tick": 583,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -1516,54 +1474,6 @@
     "created_tick": 584,
     "importance": 10,
     "kind": "reflection"
-  },
-  {
-    "text": "Teo: Olho pro cachorro assustado e penso em levar pra biblioteca, onde é seguro.",
-    "created_tick": 584,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, aquele cachorro assustado tá perto da barraca de frutas — alguém viu de onde ele veio?",
-    "created_tick": 584,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, vende aí um bolo ou o que tiver — esse apagão vai durar, preciso comer alguma coisa.",
-    "created_tick": 585,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Meninas, esse cachorro assustado tá circulando por aí — alguém perdeu um bichinho?",
-    "created_tick": 585,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, você sabe se alguém já checou aquele poste da rua principal ou é coisa maior?",
-    "created_tick": 586,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Procuro Iris na barraca dela, talvez tenha algo pra comer antes que o temporal piore.",
-    "created_tick": 586,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Gente, vocês viram se o Seu Damião chegou com as velas dele? Preciso estocar antes de ficar tudo escuro.",
-    "created_tick": 586,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou até o poste da rua principal, preciso ver se é lá que tá o problema.",
-    "created_tick": 587,
-    "importance": 5,
-    "kind": "observation"
   },
   {
     "text": "Teo: Sabe, em 1913 tiveram apagões assim aqui... vou procurar os registros na biblioteca.",
@@ -2516,6 +2426,102 @@
   {
     "text": "Eu: Teo, você reparou que a luz caiu justamente quando chegou a galera de fora ontem?",
     "created_tick": 652,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou aproveitar o apagão pra contar pro pessoal que o Teo acredita que é coisa de fiação velha mesmo.",
+    "created_tick": 653,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna debaixo do balcão e chamo pros clientes que a feira continua, apagão não vai estragar nosso dia.",
+    "created_tick": 654,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você já viu se alguém sabe por que a luz caiu justamente hoje de feira?",
+    "created_tick": 655,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 82: Apagão na feira, mas o pessoal não desistiu, que dia de comunidade!",
+    "created_tick": 656,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Iris, se esse cachorro tiver ligado no poste, a gente descobre rápido — vou lá checar.",
+    "created_tick": 656,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, esse apagão foi no poste mesmo, o marido do João tava lá vendo.",
+    "created_tick": 656,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, quando voltar com esse cachorro, a gente come algo — você tá encharcada mesmo.",
+    "created_tick": 657,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Gente, esse poste caiu mesmo ou é coisa da chuva? Alguém já chamou o pessoal da prefeitura?",
+    "created_tick": 657,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Vou na oficina ver se o gerador tá funcionando pra esse apagão.",
+    "created_tick": 658,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, essa falta de luz me lembra o apagão de 1987... você estava aqui naquela época?",
+    "created_tick": 658,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você soube se é só nosso quarteirão que tá sem luz ou foi a vila toda?",
+    "created_tick": 658,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Observo a barraca de Iris enquanto espero a luz voltar, evitando cruzar olho com Marina.",
+    "created_tick": 659,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó Marina, Teo, esse apagão é suspeito demais, viu? Poste não cai sozinho assim.",
+    "created_tick": 659,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, vem comigo na oficina, preciso de luz pra checar o painel do poste.",
+    "created_tick": 660,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você sabe se esse apagão afetou só o mercado ou a vila toda mesmo?",
+    "created_tick": 660,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você acredita que esse apagão tem a ver com a chegada desse pessoal de fora?",
+    "created_tick": 660,
     "importance": 3,
     "kind": "observation"
   }

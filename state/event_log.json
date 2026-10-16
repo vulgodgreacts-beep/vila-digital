@@ -1,149 +1,5 @@
 [
   {
-    "tick": 201,
-    "agent": "SISTEMA",
-    "location": "vila",
-    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
-  },
-  {
-    "tick": 201,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Iris, vou pegar uns restos de comida e tentar trazer esse cachorro pra dentro."
-  },
-  {
-    "tick": 201,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Vou ao mercado, mas primeiro deixo comida na praça para aquele cachorro assustado."
-  },
-  {
-    "tick": 201,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Grito para Marina: \"Vem cá, esse cachorro tá com medo, a gente arruma uma caixa com pano!"
-  },
-  {
-    "tick": 202,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Vou pegar uma corda na oficina e trazer esse cachorro pra dentro antes que piore."
-  },
-  {
-    "tick": 202,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você viu esse cachorro antes? Parece tão perdido quanto o protagonista de *Grande Sertão*."
-  },
-  {
-    "tick": 202,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, esquece história, vamos procurar esse cachorro antes que se perca mais ainda!"
-  },
-  {
-    "tick": 203,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego uma corda na oficina e vou atrás desse cachorro na praça antes que ele se perca."
-  },
-  {
-    "tick": 203,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você viu esse cachorro por aqui? Preciso comprar algo pra comer."
-  },
-  {
-    "tick": 203,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, você fica aqui guardando as coisas, vou ver esse cachorro na praça!"
-  },
-  {
-    "tick": 204,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Saio da oficina pra procurar esse cachorro na praça antes da tempestade piorar."
-  },
-  {
-    "tick": 204,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, esse cachorro... lembra aquele cão dos Três Mosqueteiros que ninguém reconhecia?"
-  },
-  {
-    "tick": 204,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, deixa essa história pra depois, vamo procurar esse cachorro antes que piore esse temporal!"
-  },
-  {
-    "tick": 205,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego a corda da oficina e vou pra praça procurar esse cachorro antes da chuva piorar."
-  },
-  {
-    "tick": 205,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Verifico se a porta da biblioteca está travada antes de ir à praça procurar esse cachorro."
-  },
-  {
-    "tick": 205,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Vou pra praça antes que esse bichinho se perca na chuva."
-  },
-  {
-    "tick": 206,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Pego a lanterna a pilha e vou pra praça atrás desse cachorro antes que se perca mais."
-  },
-  {
-    "tick": 206,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Vou até o mercado aproveitar que a chuva acalmou um pouco."
-  },
-  {
-    "tick": 206,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, deixa essa história pra depois, vem me ajudar a pegar esse cachorro assustado!"
-  },
-  {
-    "tick": 207,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Fecho a oficina e saio correndo pro mercado — esse temporal não vai derrubar nada meu."
-  },
-  {
-    "tick": 207,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você viu se alguém deixou pão ou queijo aqui antes da luz apagar?"
-  },
-  {
-    "tick": 207,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Gente, esse cachorro assustado precisa de um abrigo, vamos levar pra biblioteca que é mais seguro!"
-  },
-  {
-    "tick": 208,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Teo, esse cachorro perdido tá lá fora na chuva — vamos atrás dele antes que se perca mais."
-  },
-  {
-    "tick": 208,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Vou pra biblioteca antes que a chuva piore; pelo menos lá tenho velas e companhia dos livros."
-  },
-  {
     "tick": 208,
     "agent": "Iris",
     "location": "biblioteca",
@@ -8998,5 +8854,149 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Teo, você reparou que a luz caiu justamente quando chegou a galera de fora ontem?"
+  },
+  {
+    "tick": 653,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou até o poste da rua verificar se é coisa simples ou se chamam técnico mesmo."
+  },
+  {
+    "tick": 653,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lâmpada a óleo e abro o livro sobre a grande tempestade de 1913."
+  },
+  {
+    "tick": 653,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou aproveitar o apagão pra contar pro pessoal que o Teo acredita que é coisa de fiação velha mesmo."
+  },
+  {
+    "tick": 654,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a lanterna e vou ver se é o poste mesmo ou se ferrou tudo."
+  },
+  {
+    "tick": 654,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lamparina a óleo e abro o livro de crônicas sobre o grande apagão de 1913."
+  },
+  {
+    "tick": 654,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Acendo a lanterna debaixo do balcão e chamo pros clientes que a feira continua, apagão não vai estragar nosso dia."
+  },
+  {
+    "tick": 655,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado, aproveito a feira e pego algo pra comer antes da fome ficar insuportável."
+  },
+  {
+    "tick": 655,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lamparina e abro o livro de história da vila, esperando a luz voltar."
+  },
+  {
+    "tick": 655,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, você já viu se alguém sabe por que a luz caiu justamente hoje de feira?"
+  },
+  {
+    "tick": 656,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, se esse cachorro tiver ligado no poste, a gente descobre rápido — vou lá checar."
+  },
+  {
+    "tick": 656,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lamparina de querosene e abro o livro de crônicas do século dezenove."
+  },
+  {
+    "tick": 656,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Marina, esse apagão foi no poste mesmo, o marido do João tava lá vendo."
+  },
+  {
+    "tick": 657,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, quando voltar com esse cachorro, a gente come algo — você tá encharcada mesmo."
+  },
+  {
+    "tick": 657,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho a biblioteca e vou pro mercado, com cuidado na chuva e na escuridão."
+  },
+  {
+    "tick": 657,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, esse poste caiu mesmo ou é coisa da chuva? Alguém já chamou o pessoal da prefeitura?"
+  },
+  {
+    "tick": 658,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou na oficina ver se o gerador tá funcionando pra esse apagão."
+  },
+  {
+    "tick": 658,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, essa falta de luz me lembra o apagão de 1987... você estava aqui naquela época?"
+  },
+  {
+    "tick": 658,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, você soube se é só nosso quarteirão que tá sem luz ou foi a vila toda?"
+  },
+  {
+    "tick": 659,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado ver se tem algo pra comer e já aproveito pra verificar esse apagão."
+  },
+  {
+    "tick": 659,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Observo a barraca de Iris enquanto espero a luz voltar, evitando cruzar olho com Marina."
+  },
+  {
+    "tick": 659,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ó Marina, Teo, esse apagão é suspeito demais, viu? Poste não cai sozinho assim."
+  },
+  {
+    "tick": 660,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Teo, vem comigo na oficina, preciso de luz pra checar o painel do poste."
+  },
+  {
+    "tick": 660,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você sabe se esse apagão afetou só o mercado ou a vila toda mesmo?"
+  },
+  {
+    "tick": 660,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, você acredita que esse apagão tem a ver com a chegada desse pessoal de fora?"
   }
 ]

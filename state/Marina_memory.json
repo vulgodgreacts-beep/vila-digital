@@ -1368,45 +1368,9 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Iris, essa caixa de livros na biblioteca — alguém sabe de onde veio?",
-    "created_tick": 577,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Marina, vou ao mercado pegar algo — quer vir? Depois a gente vê essa caixa de livros.",
-    "created_tick": 577,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
     "created_tick": 578,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pra cozinha do mercado antes que essa chuva piore mais ainda.",
-    "created_tick": 578,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Compro um pão na barraca da Iris, tentando não parecer muito curioso sobre aquela caixa de livros.",
-    "created_tick": 578,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, aposto que quem deixou aquela caixa de livros é alguém que você conhece bem, hein?",
-    "created_tick": 578,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, essa caixa não vai estragar se entrar na biblioteca agora mesmo, vamos.",
-    "created_tick": 579,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -1416,51 +1380,15 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Vou pra praça ver esse cachorro antes que se perca de vez na chuva.",
-    "created_tick": 580,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Acendo a lanterna do celular e vou verificar se aquela caixa de livros está segura da chuva.",
-    "created_tick": 580,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
     "created_tick": 581,
     "importance": 9,
     "kind": "observation"
   },
   {
-    "text": "Eu: Vou pro mercado pegar algo pra comer antes essa chuva louca alagar tudo.",
-    "created_tick": 581,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Vocês viram esse cachorro perdido na chuva? Precisa de ajuda antes que se machuca!",
-    "created_tick": 581,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
     "created_tick": 582,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou na oficina conferir se a chuva entrou por alguma fresta e deixou ferrugem nas coisas.",
-    "created_tick": 582,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até o poste ver se é coisa simples ou se preciso chamar gente de fora.",
-    "created_tick": 583,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -1474,12 +1402,6 @@
     "created_tick": 584,
     "importance": 10,
     "kind": "reflection"
-  },
-  {
-    "text": "Eu: Vou pro mercado ver se tem algo pra comer e checar esse apagão no caminho.",
-    "created_tick": 584,
-    "importance": 3,
-    "kind": "observation"
   },
   {
     "text": "Teo: Olho pro cachorro assustado e penso em levar pra biblioteca, onde é seguro.",
@@ -2462,6 +2384,90 @@
   {
     "text": "Eu: Vou lá checar o poste, esse apagão cheira a coisa simples que ninguém resolve.",
     "created_tick": 652,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o poste da rua verificar se é coisa simples ou se chamam técnico mesmo.",
+    "created_tick": 653,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna e vou ver se é o poste mesmo ou se ferrou tudo.",
+    "created_tick": 654,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado, aproveito a feira e pego algo pra comer antes da fome ficar insuportável.",
+    "created_tick": 655,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você já viu se alguém sabe por que a luz caiu justamente hoje de feira?",
+    "created_tick": 655,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 82: Apagão na vila, fui checar o poste, provavelmente coisa simples de resolver.",
+    "created_tick": 656,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Iris, se esse cachorro tiver ligado no poste, a gente descobre rápido — vou lá checar.",
+    "created_tick": 656,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, esse apagão foi no poste mesmo, o marido do João tava lá vendo.",
+    "created_tick": 656,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, quando voltar com esse cachorro, a gente come algo — você tá encharcada mesmo.",
+    "created_tick": 657,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse poste caiu mesmo ou é coisa da chuva? Alguém já chamou o pessoal da prefeitura?",
+    "created_tick": 657,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou na oficina ver se o gerador tá funcionando pra esse apagão.",
+    "created_tick": 658,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado ver se tem algo pra comer e já aproveito pra verificar esse apagão.",
+    "created_tick": 659,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Observo a barraca de Iris enquanto espero a luz voltar, evitando cruzar olho com Marina.",
+    "created_tick": 659,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Marina, Teo, esse apagão é suspeito demais, viu? Poste não cai sozinho assim.",
+    "created_tick": 659,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, vem comigo na oficina, preciso de luz pra checar o painel do poste.",
+    "created_tick": 660,
     "importance": 3,
     "kind": "observation"
   }
