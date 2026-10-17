@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 280,
+    "familiaridade": 284,
     "opiniao": "Ficou quieto, mas pelo menos parou com as malditas histórias chatas de antigamente.",
     "desde_dia": 86,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 319,
-    "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo.",
-    "desde_dia": 85,
+    "familiaridade": 325,
+    "opiniao": "Parou de reclamar e foi atrás do cachorro — gente de ação mesmo, virou útil.",
+    "desde_dia": 89,
     "historico": [
-      {
-        "dia": 59,
-        "opiniao": "Insiste demais, mas coloca ação onde fala — arca com resultado mesmo."
-      },
       {
         "dia": 72,
         "opiniao": "Sabe que precisa de mim pra tudo — mas isso já me irrita menos."
@@ -41,6 +37,10 @@
       },
       {
         "dia": 76,
+        "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo."
+      },
+      {
+        "dia": 85,
         "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo."
       }
     ]
