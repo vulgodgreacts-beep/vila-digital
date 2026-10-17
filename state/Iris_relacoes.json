@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 357,
+    "familiaridade": 361,
     "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
     "desde_dia": 61,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 387,
-    "opiniao": "Rapaz mete o papo bonito, mas some correndo quando precisa de verdade.",
-    "desde_dia": 84,
+    "familiaridade": 393,
+    "opiniao": "Rapaz sumiu de novo, mas no final tava lá procurando o cachorro na chuva.",
+    "desde_dia": 85,
     "historico": [
-      {
-        "dia": 69,
-        "opiniao": "Rapaz que se importa mesmo, deixou teoria de lado pra ajudar criatura."
-      },
       {
         "dia": 71,
         "opiniao": "Rapaz discreto demais, tá escondendo algo — mas bom de coração mesmo assim."
@@ -42,6 +38,10 @@
       {
         "dia": 74,
         "opiniao": "Rapaz que conhece história da vila toda, adora conectar os pontos das coisas."
+      },
+      {
+        "dia": 84,
+        "opiniao": "Rapaz mete o papo bonito, mas some correndo quando precisa de verdade."
       }
     ]
   }

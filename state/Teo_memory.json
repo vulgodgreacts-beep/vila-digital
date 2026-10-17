@@ -1422,111 +1422,15 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Olho pro cachorro assustado e penso em levar pra biblioteca, onde é seguro e seco.",
-    "created_tick": 602,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Acendo uma vela na biblioteca; sem luz, pelo menos aqui posso organizar as devoluções.",
-    "created_tick": 603,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Acendo a vela velha da biblioteca e organizo os livros que caíram com o vento.",
-    "created_tick": 604,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Apago a vela da biblioteca e saio em direção ao mercado, esperando encontrar algo pra comer.",
-    "created_tick": 605,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Meninos, com essa chuva forte e sem luz, o gerador da biblioteca vai fazer falta, hein?",
-    "created_tick": 605,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Teo, vai molhar todos os livros aí, leva pro meu barracão que é coberto.",
-    "created_tick": 606,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Procuro Marina entre as barracas pra ver se ela já ouviu falar desses produtores de fora.",
-    "created_tick": 606,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Sem luz nenhum desses produtores de fora vai vender nada — vou pra oficina ver o gerador.",
-    "created_tick": 607,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Encosto na barraca de Iris, esperando a luz voltar e ouvindo boatos sobre os produtores novos.",
-    "created_tick": 607,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Puxo Teo pelo braço: \"Vem cá, esses produtor de fora têm histórias incríveis pra contar!",
-    "created_tick": 607,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 76: Feira lotada, chuva forte, luz cortada — ajudei a salvar livros com Marina e Iris.",
     "created_tick": 608,
     "importance": 8,
     "kind": "reflection"
   },
   {
-    "text": "Eu: Procuro Iris entre as barracas, esperando que ela saiba notícias sobre a situação da luz na vila.",
-    "created_tick": 608,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, esse cachorro desaparecido deve ser de algum desses produtores de fora, não é?",
-    "created_tick": 608,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
     "created_tick": 609,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Pergunto a Iris se ela viu alguém deixando caixa na biblioteca ontem à noite.",
-    "created_tick": 609,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Abro a caixa com cuidado, procurando alguma pista entre as páginas amareladas.",
-    "created_tick": 610,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, essas capas gastas parecem livros de dona Marta — ela sempre falava em doar a biblioteca!",
-    "created_tick": 610,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou olhar essa caixa de livros pra ver se tem algo que dá pra aproveitar na oficina.",
-    "created_tick": 611,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -2462,6 +2366,114 @@
   {
     "text": "Iris: Gente, esse cachorro assustado precisa de água, vou buscar um pote lá atrás!",
     "created_tick": 676,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 677,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Deixo a biblioteca e vou pro mercado, talvez encontre pão e notícias sobre o apagão.",
+    "created_tick": 677,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, você viu esse cachorro assustado na praça? Aposto que alguém de fora o deixou solto.",
+    "created_tick": 677,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pergunto para Iris se ela viu aquele cachorro passar por aqui durante a manhã.",
+    "created_tick": 678,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, vem cá! Esse cachorro perdido apareceu uns minutos atrás, deve ser de algum produtor novo.",
+    "created_tick": 678,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho ao redor procurando o cachorro assustado enquanto a chuva começa a cair mais forte.",
+    "created_tick": 679,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, Teo, aquele cachorro assustado precisa de coleira — alguém conhece de quem é?",
+    "created_tick": 679,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 85: Apagão na vila, cachorro perdido na chuva, Iris e Marina ajudando sem hesitar.",
+    "created_tick": 680,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Vou pro poste ver se é coisa simples ou se chamo o pessoal da capital.",
+    "created_tick": 680,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Olho para o cachorro assustado e penso se não era assim mesmo em 1952 durante aquele temporal.",
+    "created_tick": 680,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, esse cachorro precisa de ajuda — você não quer levar pra sua oficina?",
+    "created_tick": 680,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, vem comigo na oficina — tenho café e posso verificar esse poste agora.",
+    "created_tick": 681,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pela biblioteca verificar se os geradores ainda funcionam com esse temporal.",
+    "created_tick": 681,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego velas do armário da biblioteca; apagões assim lembravam os cortes de luz de 1960.",
+    "created_tick": 682,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Abro a janela da biblioteca pra ver se a chuva passa logo e a luz volta.",
+    "created_tick": 683,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Fico de olho na chuva enquanto converso com Teo sobre esse apagão chato.",
+    "created_tick": 683,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ofereço a Iris um lugar perto da janela para ela se abrigar da chuva enquanto converso.",
+    "created_tick": 684,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, esse apagão é coisa de poste mesmo ou você acha que é algo maior?",
+    "created_tick": 684,
     "importance": 5,
     "kind": "observation"
   }
