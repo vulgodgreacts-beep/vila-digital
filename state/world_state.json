@@ -1,9 +1,26 @@
 {
-  "tick": 700,
+  "tick": 708,
   "state": {
     "clima": "temporal",
     "movimento": "vila cheia, feira no mercado",
     "energia": "sem luz"
   },
-  "active_incidents": []
+  "active_incidents": [
+    {
+      "title": "Apagão na vila",
+      "description": "A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+      "state_changes": {
+        "energia": "sem luz"
+      },
+      "started_tick": 705
+    },
+    {
+      "title": "Dia de feira",
+      "description": "Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+      "state_changes": {
+        "movimento": "vila cheia, feira no mercado"
+      },
+      "started_tick": 708
+    }
+  ]
 }

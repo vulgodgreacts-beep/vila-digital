@@ -1500,12 +1500,6 @@
     "kind": "observation"
   },
   {
-    "text": "Iris: Marina, querida, esse chafariz entupido vai virar criadouro de mosquito se ninguém resolver logo!",
-    "created_tick": 623,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
     "created_tick": 624,
     "importance": 9,
@@ -1518,87 +1512,15 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Vou pra oficina desligar o gerador antes que essa chuva estrague tudo lá dentro.",
-    "created_tick": 624,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pro mercado aproveitar que tá cheio e pegar algo pra comer antes que acabe.",
-    "created_tick": 625,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ei, Marina, Teo, vcs viram que o gerador da prefeitura parou? Alguém precisa ir lá.",
-    "created_tick": 625,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pegar algo com Iris antes dessa chuva piorar — e sem demora.",
-    "created_tick": 626,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Procuro a barraca de pão da dona Marta; deve ter algo quente apesar do temporal.",
-    "created_tick": 626,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ó, Marina, Teo, que sorte encontrar vocês dois aqui na bagunça!",
-    "created_tick": 626,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, deixa eu pegar um pastel aí, tô com fome demais pra ficar parada.",
-    "created_tick": 627,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, você tem pão fresco? Esse temporal me fez esquecer do almoço.",
-    "created_tick": 627,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ó, que sorte vocês dois aqui! Ouviram que o gerador da biblioteca pegou fogo?",
-    "created_tick": 627,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
     "created_tick": 628,
     "importance": 9,
     "kind": "observation"
   },
   {
-    "text": "Eu: Pego a mão de Teo e puxo ele pra dentro da barraca do seu Antônio antes da chuva piorar.",
-    "created_tick": 628,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Seguro uma caixa de livros que estava exposta, antes que a chuva estrague tudo.",
-    "created_tick": 628,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
     "created_tick": 629,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pro mercado aproveitar que tá cheio e pegar algo pra comer antes de fechar.",
-    "created_tick": 629,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -2558,6 +2480,108 @@
   {
     "text": "Eu: Teo, esse temporal vai derrubar árvore, vou pra oficina ver se o gerador tá funcionando.",
     "created_tick": 700,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 701,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aproveito a falta de luz pra desmontar esse ventilador velho que tá aqui a semanas.",
+    "created_tick": 701,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Desligo a máquina de solda e vou fechar a porta da oficina antes que a chuva entre.",
+    "created_tick": 702,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou fechar a oficina e procurar algo pra comer no mercado antes que piore mais.",
+    "created_tick": 703,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, esse temporal veio do nada, hein? Pelo menos vocês dois estão aqui comigo no mercado!",
+    "created_tick": 703,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 88: Temporal desgraçado, fechei a oficina e fui pro mercado antes de pior.",
+    "created_tick": 704,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pra oficina, essa chuva vai derrubar árvore e amanhã tem gente pedindo ajuda.",
+    "created_tick": 704,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 705,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna da oficina e corro pro mercado antes que a chuva piore.",
+    "created_tick": 705,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro Iris na penumbra: \"Tem algo quente pra comer? Essa chuva me pegou de surpresa.",
+    "created_tick": 705,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou pegar velas e lanternas, essa chuva não vai passar rápido, gente!",
+    "created_tick": 705,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra oficina checar se a chuva entrou, depois volto pra comer algo.",
+    "created_tick": 706,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado pegar algo pra comer, esse apagão pode durar.",
+    "created_tick": 707,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você tem algo quente? No século dezenove, tempestades assim duravam dias inteiros...",
+    "created_tick": 707,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Gente, o Seu Valdinho disse que o poste da esquina tá fumegando desde cedo!",
+    "created_tick": 707,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 708,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, onde você achou aquele cachorro? Vou pra oficina checar o gerador.",
+    "created_tick": 708,
     "importance": 3,
     "kind": "observation"
   }
