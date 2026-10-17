@@ -1452,42 +1452,6 @@
     "kind": "observation"
   },
   {
-    "text": "Marina: Vou lá na praça ver esse chafariz entupido antes que fique pior com essa água.",
-    "created_tick": 620,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou procurar esse cachorro na praça antes que a chuva piore.",
-    "created_tick": 620,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Gente, alguém conhece esse cachorro? Tá assustado demais pra ser daqui.",
-    "created_tick": 620,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio da biblioteca para ver esse chafariz entupido que todo mundo está observando.",
-    "created_tick": 621,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio da biblioteca para ver melhor esse chafariz entupido; deve ter história nisso tudo.",
-    "created_tick": 622,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Fico olhando pela janela da biblioteca pra esse chafariz entupido, pensando em Roma e seus aquedutos.",
-    "created_tick": 623,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
     "created_tick": 624,
     "importance": 9,
@@ -1498,54 +1462,6 @@
     "created_tick": 624,
     "importance": 8,
     "kind": "reflection"
-  },
-  {
-    "text": "Eu: Acendo a lanterna e procuro entre os livros de história local alguma coisa sobre temporal antigo.",
-    "created_tick": 624,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio da biblioteca em direção ao mercado, espiando pela janela se a chuva diminuiu um pouco.",
-    "created_tick": 625,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ei, Marina, Teo, vcs viram que o gerador da prefeitura parou? Alguém precisa ir lá.",
-    "created_tick": 625,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou pegar algo com Iris antes dessa chuva piorar — e sem demora.",
-    "created_tick": 626,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Procuro a barraca de pão da dona Marta; deve ter algo quente apesar do temporal.",
-    "created_tick": 626,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Ó, Marina, Teo, que sorte encontrar vocês dois aqui na bagunça!",
-    "created_tick": 626,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, deixa eu pegar um pastel aí, tô com fome demais pra ficar parada.",
-    "created_tick": 627,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, você tem pão fresco? Esse temporal me fez esquecer do almoço.",
-    "created_tick": 627,
-    "importance": 3,
-    "kind": "observation"
   },
   {
     "text": "Iris: Ó, que sorte vocês dois aqui! Ouviram que o gerador da biblioteca pegou fogo?",
@@ -2487,6 +2403,96 @@
     "text": "Iris: Teo, você viu que o seu Bidu apareceu ali perto das barracas de fruta?",
     "created_tick": 692,
     "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lamparina da biblioteca e abro o livro de registros de apagões históricos da vila.",
+    "created_tick": 693,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna velha e vou conferir se os livros de história local não foram danificados pela umidade.",
+    "created_tick": 694,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo velas nas estantes para quem vier se abrigar da chuva aqui na biblioteca.",
+    "created_tick": 695,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 87: Temporal na vila, biblioteca virou abrigo, consultei registros de apagões antigos enquanto esperava luz voltar.",
+    "created_tick": 696,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Acendo a vela na mesa e folheio o livro sobre tempestades no século XVII, esperando a luz voltar.",
+    "created_tick": 696,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca em direção ao mercado, cuidado com poças no caminho escuro do temporal.",
+    "created_tick": 697,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Teo, Teo, esse coração seu é maior que essa chuva toda, hein!",
+    "created_tick": 697,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Ó, vou pegar algo pra comer antes que acabe tudo nessa bagunça.",
+    "created_tick": 698,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Iris na barraca dela, tímido: \"Tem pão? Lembrei de um apagão em 1987, durou horas também.",
+    "created_tick": 698,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Marina, Teo, essa chuva forte vai afastar a galera, viu só?",
+    "created_tick": 698,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, se a luz não volta em uma hora, a comida do mercado estraga — vem ajudar?",
+    "created_tick": 699,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Procuro Iris na barraca dela, tímido: \"Tem algo rápido? A luz caiu e fico com fome quando fico nervoso.",
+    "created_tick": 699,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, querida, esse gerador da biblioteca é mais importante que comida mesmo, né?",
+    "created_tick": 699,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse temporal vai derrubar árvore, vou pra oficina ver se o gerador tá funcionando.",
+    "created_tick": 700,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Entro no mercado procurando algo quente pra comer, aproveitando pra ouvir notícias.",
+    "created_tick": 700,
+    "importance": 3,
     "kind": "observation"
   }
 ]
