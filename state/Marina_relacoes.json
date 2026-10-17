@@ -1,13 +1,9 @@
 {
   "Teo": {
-    "familiaridade": 269,
-    "opiniao": "Ficou quieto observando, mas pelo menos não encheu a paciência com história de 1913.",
-    "desde_dia": 81,
+    "familiaridade": 274,
+    "opiniao": "Ficou quieto, mas pelo menos parou com as malditas histórias chatas de antigamente.",
+    "desde_dia": 86,
     "historico": [
-      {
-        "dia": 42,
-        "opiniao": "Rapaz preocupado com cachorro perdido — não é só história, sabe se importar."
-      },
       {
         "dia": 64,
         "opiniao": "Catalogando livro na chuva? Esse rapaz se importa de verdade, não é brincadeira."
@@ -19,11 +15,15 @@
       {
         "dia": 76,
         "opiniao": "Levou livro pra chuva não estragar — é mais prático que eu pensava."
+      },
+      {
+        "dia": 81,
+        "opiniao": "Ficou quieto observando, mas pelo menos não encheu a paciência com história de 1913."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 307,
+    "familiaridade": 313,
     "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo.",
     "desde_dia": 85,
     "historico": [

@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 361,
+    "familiaridade": 367,
     "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
     "desde_dia": 61,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 393,
-    "opiniao": "Rapaz sumiu de novo, mas no final tava lá procurando o cachorro na chuva.",
-    "desde_dia": 85,
+    "familiaridade": 400,
+    "opiniao": "Rapaz tem um coração grande — vê até história nos bichos assustados.",
+    "desde_dia": 86,
     "historico": [
-      {
-        "dia": 71,
-        "opiniao": "Rapaz discreto demais, tá escondendo algo — mas bom de coração mesmo assim."
-      },
       {
         "dia": 73,
         "opiniao": "Rapaz discreto, mas quando importa mesmo, ele tá lá ajudando quem precisa."
@@ -42,6 +38,10 @@
       {
         "dia": 84,
         "opiniao": "Rapaz mete o papo bonito, mas some correndo quando precisa de verdade."
+      },
+      {
+        "dia": 85,
+        "opiniao": "Rapaz sumiu de novo, mas no final tava lá procurando o cachorro na chuva."
       }
     ]
   }
