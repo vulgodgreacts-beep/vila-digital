@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 350,
+    "familiaridade": 357,
     "opiniao": "Mulher de coragem, deixa reclamação de lado pra resolver problema da comunidade.",
     "desde_dia": 61,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Teo": {
-    "familiaridade": 382,
-    "opiniao": "Rapaz que conhece história da vila toda, adora conectar os pontos das coisas.",
-    "desde_dia": 74,
+    "familiaridade": 387,
+    "opiniao": "Rapaz mete o papo bonito, mas some correndo quando precisa de verdade.",
+    "desde_dia": 84,
     "historico": [
-      {
-        "dia": 67,
-        "opiniao": "Rapaz teimoso que finalmente aprendeu: um café quentinho vale mais que qualquer trabalho."
-      },
       {
         "dia": 69,
         "opiniao": "Rapaz que se importa mesmo, deixou teoria de lado pra ajudar criatura."
@@ -42,6 +38,10 @@
       {
         "dia": 73,
         "opiniao": "Rapaz discreto, mas quando importa mesmo, ele tá lá ajudando quem precisa."
+      },
+      {
+        "dia": 74,
+        "opiniao": "Rapaz que conhece história da vila toda, adora conectar os pontos das coisas."
       }
     ]
   }
