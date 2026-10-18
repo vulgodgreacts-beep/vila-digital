@@ -1,27 +1,18 @@
 {
-  "tick": 724,
+  "tick": 732,
   "state": {
     "clima": "temporal",
-    "movimento": "gente parada olhando o chafariz",
+    "movimento": "vila cheia, feira no mercado",
     "energia": "sem luz"
   },
   "active_incidents": [
     {
-      "title": "Chuva forte",
-      "description": "O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+      "title": "Apagão na vila",
+      "description": "A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
       "state_changes": {
-        "clima": "temporal",
-        "movimento": "todo mundo se abrigando"
+        "energia": "sem luz"
       },
-      "started_tick": 720
-    },
-    {
-      "title": "Chafariz entupido",
-      "description": "O chafariz da praça parou de correr e começou a acumular água parada.",
-      "state_changes": {
-        "movimento": "gente parada olhando o chafariz"
-      },
-      "started_tick": 724
+      "started_tick": 727
     }
   ]
 }

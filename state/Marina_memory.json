@@ -1554,30 +1554,6 @@
     "kind": "observation"
   },
   {
-    "text": "Iris: Marina, querida, você viu se o pessoal da prefeitura já desceu lá no poste?",
-    "created_tick": 646,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até o poste verificar se é coisa simples ou chama o técnico da cidade.",
-    "created_tick": 647,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Sabe, em 1913 houve um apagão assim em São Paulo... será que foi algo parecido?",
-    "created_tick": 647,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, você acredita que é só o poste ou acha que vem de coisa maior mesmo?",
-    "created_tick": 647,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 81: Fui no poste, deve ser fiação solta, mas esse temporal complica tudo.",
     "created_tick": 648,
     "importance": 8,
@@ -1588,84 +1564,6 @@
     "created_tick": 648,
     "importance": 10,
     "kind": "reflection"
-  },
-  {
-    "text": "Eu: Vou até o poste da rua principal verificar se é só fiação solta ou algo mais sério.",
-    "created_tick": 648,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Fico perto de Iris, querendo perguntar se ela sabe algo sobre o apagão, mas fico quieto observando.",
-    "created_tick": 648,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Meninas, essa temporal veio forte demais, hein? Deve ser coisa do poste mesmo.",
-    "created_tick": 648,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até o poste ver se é coisa simples ou se precisa chamar técnico lá da cidade.",
-    "created_tick": 649,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Sabe, em 1913 a vila inteira ficou no escuro por uma semana... o poste pode ser qualquer coisa.",
-    "created_tick": 649,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, você viu se o poste lá da Rua Grande caiu ou se é coisa da distribuidora?",
-    "created_tick": 649,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou na oficina ver se o gerador tá funcionando pra gente recuperar a luz.",
-    "created_tick": 650,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou lá checar o poste da rua antes que alguém faça besteira no escuro.",
-    "created_tick": 651,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou lá checar o poste, esse apagão cheira a coisa simples que ninguém resolve.",
-    "created_tick": 652,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até o poste da rua verificar se é coisa simples ou se chamam técnico mesmo.",
-    "created_tick": 653,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Pego a lanterna e vou ver se é o poste mesmo ou se ferrou tudo.",
-    "created_tick": 654,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pro mercado, aproveito a feira e pego algo pra comer antes da fome ficar insuportável.",
-    "created_tick": 655,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, você já viu se alguém sabe por que a luz caiu justamente hoje de feira?",
-    "created_tick": 655,
-    "importance": 5,
-    "kind": "observation"
   },
   {
     "text": "No dia 82: Apagão na vila, fui checar o poste, provavelmente coisa simples de resolver.",
@@ -2625,6 +2523,132 @@
     "text": "Iris: Gente, esse chafariz entupido vai virar uma lagoa se a chuva não parar logo!",
     "created_tick": 724,
     "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou ao mercado, essa chuva passa e alguém vai precisar de algo consertado.",
+    "created_tick": 725,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, esse chafariz entupido vai virar uma poça de mosquito se a chuva não parar logo!",
+    "created_tick": 725,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 726,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse chafariz tá entupido, vou lá na praça ver se é coisa de desobstruir ou se precisa de mais.",
+    "created_tick": 726,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Esse chafariz entupido me lembra quando a vila teve problemas de água no século dezenove...",
+    "created_tick": 726,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, com essa chuva o chafariz vai virar uma piscina de mosquito, viu?",
+    "created_tick": 726,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 727,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Esse apagão é coisa do poste velho — vou lá na praça ver o que caiu.",
+    "created_tick": 727,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho para o céu escuro e murmuro: \"Apagão assim... lembra a tempestade de 1987 que deixou a vila três dias sem luz.",
+    "created_tick": 727,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu que a praça virou uma poça? Aquele chafariz não aguenta mais.",
+    "created_tick": 727,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 91: Feira lotada, apagão na praça, chafariz entupido — o usual pra consertar.",
+    "created_tick": 728,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Iris. Eu achava \"Parou de reclamar e foi atrás do cachorro — gente de ação mesmo, virou útil.\", agora acho \"Chata demais, mas pelo menos tá vendo que problema existe, não é só reclamar.\".",
+    "created_tick": 728,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Esse apagão cheira a problema no poste da praça, vou lá verificar antes que fique pior.",
+    "created_tick": 728,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho para o céu escuro e murmuro: \"Sabe, a Grande Tempestade de 1887 também derrubou a energia da vila inteira.",
+    "created_tick": 728,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu que o chafariz tá virando poça? Aposto que tem a ver com esse apagão todo.",
+    "created_tick": 728,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou lá na praça ver esse chafariz — se é entupimento, eu desentupir hoje mesmo.",
+    "created_tick": 729,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Aproveito a aglomeração pra observar quem veio de fora, sempre há histórias interessantes.",
+    "created_tick": 729,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ó Marina, essa chuva não vai ajudar naquele chafariz entupido, viu só?",
+    "created_tick": 729,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou na oficina verificar se o gerador tá funcionando pra levar luz pro mercado.",
+    "created_tick": 730,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até o poste ver se é só a chave mesmo ou se queimou algo maior.",
+    "created_tick": 731,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou checando o painel da oficina pra ver se é só aqui ou caiu mesmo o poste.",
+    "created_tick": 732,
+    "importance": 3,
     "kind": "observation"
   }
 ]

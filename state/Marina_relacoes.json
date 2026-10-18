@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 286,
+    "familiaridade": 291,
     "opiniao": "Ficou quieto, mas pelo menos parou com as malditas histórias chatas de antigamente.",
     "desde_dia": 86,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 327,
-    "opiniao": "Parou de reclamar e foi atrás do cachorro — gente de ação mesmo, virou útil.",
-    "desde_dia": 89,
+    "familiaridade": 332,
+    "opiniao": "Chata demais, mas pelo menos tá vendo que problema existe, não é só reclamar.",
+    "desde_dia": 91,
     "historico": [
-      {
-        "dia": 72,
-        "opiniao": "Sabe que precisa de mim pra tudo — mas isso já me irrita menos."
-      },
       {
         "dia": 73,
         "opiniao": "Tá se mexendo de verdade pelo cachorro, não só reclamando — me impressionou."
@@ -42,6 +38,10 @@
       {
         "dia": 85,
         "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo."
+      },
+      {
+        "dia": 89,
+        "opiniao": "Parou de reclamar e foi atrás do cachorro — gente de ação mesmo, virou útil."
       }
     ]
   }
