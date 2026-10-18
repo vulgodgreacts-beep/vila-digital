@@ -1,167 +1,5 @@
 [
   {
-    "tick": 289,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Saio da biblioteca correndo para o mercado, abaixando a cabeça contra a chuva."
-  },
-  {
-    "tick": 289,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Vem cá, esse cachorrinho tá sozinho na chuva, precisa de ajuda!"
-  },
-  {
-    "tick": 290,
-    "agent": "SISTEMA",
-    "location": "vila",
-    "action": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento."
-  },
-  {
-    "tick": 290,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Iris, me vende um bolo e uma água — vou comer rápido aqui mesmo."
-  },
-  {
-    "tick": 290,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você viu esse cachorro assustado? Alguém sabe de quem é?"
-  },
-  {
-    "tick": 290,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Grito pra Marina e Teo: \"Esse cachorro assustado tá na chuva, vamos tirar ele daqui!"
-  },
-  {
-    "tick": 291,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Pego uma broa com queijo na barraca antes que Iris me force pra dentro de novo."
-  },
-  {
-    "tick": 291,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, esse cachorro assustado... você viu por onde ele foi com essa chuva?"
-  },
-  {
-    "tick": 291,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Gente, esse cachorro assustado precisa de ajuda, vou procurar água e comida pra ele."
-  },
-  {
-    "tick": 292,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Vou pra oficina ligar o gerador antes que essa chuva estrague algo lá."
-  },
-  {
-    "tick": 292,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, esse cachorro assustado... você viu se alguém da vila o reconhece?"
-  },
-  {
-    "tick": 292,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, vem cá, esse cachorro assustado precisa de gente, você me ajuda?"
-  },
-  {
-    "tick": 293,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Vou pro mercado, pego algo pra comer e vejo se alguém reconhece esse cachorro perdido."
-  },
-  {
-    "tick": 293,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Fecho a biblioteca e vou ao mercado procurar algo para comer antes da chuva piorar."
-  },
-  {
-    "tick": 293,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Ei, vocês vêm aquela criaturinha perdida na praça? Alguém conhece dono?"
-  },
-  {
-    "tick": 294,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Vou pra oficina, essa chuva vai derrubar coisa e alguém vai precisar de mão pra consertar."
-  },
-  {
-    "tick": 294,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você viu se o produtor de livros usados chegou com essa chuva?"
-  },
-  {
-    "tick": 294,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, aquele produtor de maçã que chegou hoje é primo do seu vizinho, jura!"
-  },
-  {
-    "tick": 295,
-    "agent": "SISTEMA",
-    "location": "vila",
-    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
-  },
-  {
-    "tick": 295,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Vou pra praça ver esse cachorro — com essa chuva, bicho assustado piora ainda mais."
-  },
-  {
-    "tick": 295,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, esse cachorro solto me lembra aquele cão da novela de Dostoiévski, sabe?"
-  },
-  {
-    "tick": 295,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, você viu aquele cachorro assustado? Vamos procurar o dono antes dessa chuva piorar."
-  },
-  {
-    "tick": 296,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Vou até a praça ver se consigo pegar esse cachorro antes que se machuque mais ainda."
-  },
-  {
-    "tick": 296,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, esse cachorro... lembra aquela história do cão de Sherlock Holmes que ninguém reconhecia?"
-  },
-  {
-    "tick": 296,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, aquele cachorro tá perdido mesmo, vem me ajudar a procurar o dono?"
-  },
-  {
-    "tick": 297,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Vou pro mercado, pego um café e uns biscoitos, depois vejo esse cachorro na praça."
-  },
-  {
-    "tick": 297,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Olho para o cachorro assustado e murmuro: \"Coitado parece um personagem de Jack London perdido na tormenta."
-  },
-  {
     "tick": 297,
     "agent": "Iris",
     "location": "mercado",
@@ -8998,5 +8836,167 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Marina, aposto que é o poste da Rua Principal, aquele já estava pedindo para cair."
+  },
+  {
+    "tick": 741,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a lanterna e vou checando se a bomba de água tá funcionando sem luz."
+  },
+  {
+    "tick": 741,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo as velas da biblioteca; temporal assim não apagava a luz em 1888."
+  },
+  {
+    "tick": 741,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pro mercado, que é onde todo mundo vai se abrigar dessa chuva louca."
+  },
+  {
+    "tick": 742,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Acendo a lanterna e vou pra praça ver se alguém tá precisando de ajuda lá fora."
+  },
+  {
+    "tick": 742,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lanterna do guarda-chuva e vou verificar se as janelas altas da biblioteca estão bem fechadas."
+  },
+  {
+    "tick": 742,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou correndo pro mercado, que lá tem gente e a gente se protege melhor juntos."
+  },
+  {
+    "tick": 743,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a lanterna e vou checar o poste da rua antes dessa chuva piorar."
+  },
+  {
+    "tick": 743,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Acendo a lanterna velha do armário e procuro os livros sobre tempestades históricas nas prateleiras."
+  },
+  {
+    "tick": 743,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Arrumo as lanternas na prateleira enquanto espero a chuva passar e o movimento voltar."
+  },
+  {
+    "tick": 744,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a lanterna e vou até o poste da rua ver o que caiu."
+  },
+  {
+    "tick": 744,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Fecho a biblioteca e saio correndo pra casa, pulando poças enquanto a chuva bate forte."
+  },
+  {
+    "tick": 744,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou pra trás do balcão e acendo as velas — essa chuva vai trazer todo mundo aqui pra buscar notícia."
+  },
+  {
+    "tick": 745,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado, esse apagão não vai consertar a fome que tá doendo."
+  },
+  {
+    "tick": 745,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou até o mercado, mas primeiro verifico se a porta da biblioteca tranca bem nesse apagão."
+  },
+  {
+    "tick": 745,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Meninas, levem essa lanterna aqui, que a chuva tá brava e a rua tá escura mesmo!"
+  },
+  {
+    "tick": 746,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira."
+  },
+  {
+    "tick": 746,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, vem, vamos colocar comida na praça pra ele não ficar assustado aí."
+  },
+  {
+    "tick": 746,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Iris entre as barracas para comprar algo rápido antes do cachorro se perder na chuva."
+  },
+  {
+    "tick": 746,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vem cá, Marina, Teo, esse cachorro precisa de um abrigo antes dessa chuva piorar!"
+  },
+  {
+    "tick": 747,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar."
+  },
+  {
+    "tick": 747,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou atrás desse cachorro antes que leve um raio lá fora."
+  },
+  {
+    "tick": 747,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Peço um pão à Iris enquanto olho preocupado pra chuva e aquele cachorro lá fora."
+  },
+  {
+    "tick": 747,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Teo, esse cachorro tá sozinho na chuva, vem comigo procurar abrigo pra criatura."
+  },
+  {
+    "tick": 748,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
+  },
+  {
+    "tick": 748,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra praça pegar esse cachorro antes que ele se perca de vez nessa chuva."
+  },
+  {
+    "tick": 748,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, esse cachorro assustado... alguém precisa oferecer água, não é?"
+  },
+  {
+    "tick": 748,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, esse cachorro assustado precisa de uma mão — vou levar uns panos secos pra praça!"
   }
 ]
