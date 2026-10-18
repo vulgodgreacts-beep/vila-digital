@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 295,
+    "familiaridade": 297,
     "opiniao": "Solidária com quem sofre; age antes de falar, coração antes da curiosidade.",
     "desde_dia": 42,
     "historico": [
@@ -15,14 +15,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 401,
-    "opiniao": "Ela se preocupa genuinamente com quem sofre; não é só desconfiança.",
-    "desde_dia": 73,
+    "familiaridade": 408,
+    "opiniao": "Ela age sem pensar duas vezes quando alguém precisa; até me puxou da biblioteca.",
+    "desde_dia": 94,
     "historico": [
-      {
-        "dia": 39,
-        "opiniao": "Genuinamente preocupada, mas também prática — pediu comida enquanto ajudava na chuva."
-      },
       {
         "dia": 58,
         "opiniao": "Perspicaz demais — ela sabe que fui eu, mas segue fingindo não saber."
@@ -34,6 +30,10 @@
       {
         "dia": 71,
         "opiniao": "Percebo que ela já desconfia de mim; talvez saiba mais do que aparenta."
+      },
+      {
+        "dia": 73,
+        "opiniao": "Ela se preocupa genuinamente com quem sofre; não é só desconfiança."
       }
     ]
   }
