@@ -1,5 +1,5 @@
 {
-  "tick": 764,
+  "tick": 772,
   "state": {
     "clima": "temporal",
     "movimento": "todo mundo se abrigando",
@@ -7,18 +7,10 @@
   },
   "active_incidents": [
     {
-      "title": "Apagão na vila",
-      "description": "A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
-      "state_changes": {
-        "energia": "sem luz"
-      },
-      "started_tick": 762
-    },
-    {
-      "title": "Cachorro perdido",
-      "description": "Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+      "title": "Caixa de livros doados",
+      "description": "Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
       "state_changes": {},
-      "started_tick": 763
+      "started_tick": 767
     },
     {
       "title": "Chuva forte",
@@ -27,7 +19,7 @@
         "clima": "temporal",
         "movimento": "todo mundo se abrigando"
       },
-      "started_tick": 764
+      "started_tick": 770
     }
   ]
 }
