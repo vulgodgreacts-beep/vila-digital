@@ -1704,87 +1704,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Vou atrás da Iris ver se a gente consegue pegar esse cachorro antes que se perca na chuva.",
-    "created_tick": 712,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho para o cachorro assustado e penso em levá-lo pra biblioteca, onde fica seguro da chuva.",
-    "created_tick": 712,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, esse cachorro perdido tá assustado demais, a gente avisa pro pessoal aqui da feira?",
-    "created_tick": 712,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou atrás de um bolo de milho na barraca da Dona Rosa antes essa chuva piorar.",
-    "created_tick": 713,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Gente, esse cachorro perdido tá com medo, alguém arruma uma coleira pra gente levar pra delegacia?",
-    "created_tick": 713,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pegar um bolo na barraca da Dona Neuza antes de ajudar a Iris com esse cachorro.",
-    "created_tick": 714,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Olho para o cachorro assustado e depois para as barracas: \"Iris, esse cão parece faminto também, não é?",
-    "created_tick": 714,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Esse cachorrinho deve ser de alguém que vinha pra feira, deixa eu chamar todo mundo pra procurar.",
-    "created_tick": 714,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou na praça procurar esse cachorro antes que se machuque com essa tempestade.",
-    "created_tick": 715,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Puxo Marina pelo braço: \"Esse cachorro assustado... sabe, os romanos usavam cães assim como guardas.",
-    "created_tick": 715,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, esse cachorro assustado pode ser daquele pessoal que chegou hoje de fora pra feira.",
-    "created_tick": 715,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
     "created_tick": 716,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pra praça atrás do bicho antes que ele se meta em encrenca com essa chuva.",
-    "created_tick": 716,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Observo o cachorro tremendo perto das barracas e penso em trazer-lhe água da biblioteca.",
-    "created_tick": 716,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -2805,6 +2727,102 @@
     "text": "Eu: Vou no mercado agarrar um pastel antes que essa bagunça de feira acabe com as boas opções.",
     "created_tick": 788,
     "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 789,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado ver se ainda tem alguém vendendo algo pra comer antes da chuva piorar.",
+    "created_tick": 789,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, aquela caixa de livros apareceu do nada — vocês vão me dizer quem foi?",
+    "created_tick": 789,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Essa chuva não passa em cinco minutos, vou indo pra oficina antes que a rua vire um rio.",
+    "created_tick": 790,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou no mercado, aproveito que tá cheio de gente e pego algo pra comer.",
+    "created_tick": 791,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 99: Feira lotada, temporal chegou, peguei pastel, corri pra oficina antes de piorar.",
+    "created_tick": 792,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Vou pra oficina, essa chuva vai derrubar fiação e amanhã acordo com meia vila pedindo conserto.",
+    "created_tick": 792,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 793,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado aproveitar a feira antes dessa chuva ficar pior.",
+    "created_tick": 793,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Teo, você viu quem deixou essa caixa de livros na biblioteca?",
+    "created_tick": 794,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, essas caixas de livros aparecem do nada — aposto que foi aquele pessoal da cidade.",
+    "created_tick": 794,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado agora, essa caixa de livros fica aqui — e Iris que cuide disso que ela gosta.",
+    "created_tick": 795,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Marina, você viu quem deixou aquela caixa na biblioteca antes desse temporal descer?",
+    "created_tick": 795,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra biblioteca ver essa tal caixa de livros, talvez tenha algo útil lá mesmo.",
+    "created_tick": 796,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Abro a porta da biblioteca e grito para Iris: \"Vão pro mercado? Preciso comer, e essa caixa não sai do lugar.",
+    "created_tick": 796,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, aposto que foi o seu primo que trouxe esses livros, ele sumiu da vila semana passada.",
+    "created_tick": 796,
+    "importance": 5,
     "kind": "observation"
   }
 ]
