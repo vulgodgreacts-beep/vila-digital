@@ -1,8 +1,8 @@
 {
   "Marina": {
-    "familiaridade": 315,
-    "opiniao": "Solidária com quem sofre; age antes de falar, coração antes da curiosidade.",
-    "desde_dia": 42,
+    "familiaridade": 318,
+    "opiniao": "Age rápido pelo sofrimento alheio, mas talvez pense menos nas consequências às vezes.",
+    "desde_dia": 102,
     "historico": [
       {
         "dia": 3,
@@ -11,11 +11,15 @@
       {
         "dia": 40,
         "opiniao": "Curiosa como eu sobre mistérios; investiga enquanto resolve problemas práticos simultaneamente."
+      },
+      {
+        "dia": 42,
+        "opiniao": "Solidária com quem sofre; age antes de falar, coração antes da curiosidade."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 438,
+    "familiaridade": 443,
     "opiniao": "Ela se importa com a biblioteca tanto quanto eu; protege nossos livros da chuva.",
     "desde_dia": 100,
     "historico": [
