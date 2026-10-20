@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 310,
+    "familiaridade": 311,
     "opiniao": "Solidária com quem sofre; age antes de falar, coração antes da curiosidade.",
     "desde_dia": 42,
     "historico": [
@@ -15,14 +15,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 429,
-    "opiniao": "Ela conhece minha preocupação com os animais; me avisa sobre o cachorro perto do chafariz.",
-    "desde_dia": 98,
+    "familiaridade": 434,
+    "opiniao": "Ela se importa com a biblioteca tanto quanto eu; protege nossos livros da chuva.",
+    "desde_dia": 100,
     "historico": [
-      {
-        "dia": 64,
-        "opiniao": "Perspicaz e atenciosa — se preocupa de verdade, não só observa."
-      },
       {
         "dia": 71,
         "opiniao": "Percebo que ela já desconfia de mim; talvez saiba mais do que aparenta."
@@ -34,6 +30,10 @@
       {
         "dia": 94,
         "opiniao": "Ela age sem pensar duas vezes quando alguém precisa; até me puxou da biblioteca."
+      },
+      {
+        "dia": 98,
+        "opiniao": "Ela conhece minha preocupação com os animais; me avisa sobre o cachorro perto do chafariz."
       }
     ]
   }
