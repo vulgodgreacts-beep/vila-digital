@@ -1800,87 +1800,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Teo: Aproveito a aglomeração pra observar quem veio de fora, sempre há histórias interessantes.",
-    "created_tick": 729,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Ó Marina, essa chuva não vai ajudar naquele chafariz entupido, viu só?",
-    "created_tick": 729,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou na oficina verificar se o gerador tá funcionando pra levar luz pro mercado.",
-    "created_tick": 730,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, isso lembra quando a vila toda se reuniu durante aquele temporal de 1987, sabe?",
-    "created_tick": 730,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, querido, você viu se aquele produtor de melancia saiu do mercado antes da luz acabar?",
-    "created_tick": 730,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Pego no braço dela: \"Iris, isso me lembra o apagão de 1987 aqui da vila, sabe?",
-    "created_tick": 731,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, filho, você viu se aquele produtor de melancia chegou? Com essa chuva tudo fica complicado.",
-    "created_tick": 731,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, sabe, em 1945 tivemos um apagão assim... você acha que é mesmo o poste?",
-    "created_tick": 732,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Teo, querido, você viu se o Seu Manoel da oficina já foi verificar esse poste aí?",
-    "created_tick": 732,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Aperto a lanterna na mão e vou andando pelo mercado pra ver quem precisa de ajuda com essa chuva.",
-    "created_tick": 733,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, esse apagão tá estranho demais, será que alguém já foi lá conferir o poste?",
-    "created_tick": 734,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
     "created_tick": 735,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou lá na prefeitura ver se alguém já chamou o técnico da companhia de luz.",
-    "created_tick": 735,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, o Seu Henrique da oficina tem aquele gerador velho, você já pediu emprestado pra biblioteca?",
-    "created_tick": 735,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -1890,33 +1812,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Vou pro mercado ver se o pessoal conseguiu salvar alguma coisa da geladeira antes da luz cair.",
-    "created_tick": 736,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
     "created_tick": 737,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, esse apagão é no poste ou na entrada? Preciso verificar antes que piore.",
-    "created_tick": 737,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Gente, a chuva tá braba, mas vocês viram se é só desse lado ou caiu tudo?",
-    "created_tick": 737,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou ali conferir o poste da rua, essa chuva não derruba tudo assim do nada.",
-    "created_tick": 738,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -2882,6 +2780,138 @@
   {
     "text": "Eu: Saio correndo pra biblioteca, essa chuva é de louco, vou procurar o Teo e Marina lá.",
     "created_tick": 804,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 805,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Aposto que foi o Seu Gilson, Marina — ele sempre gostou de ler, lembram?",
+    "created_tick": 805,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Essa caixa de livros apareceu quando, exatamente?",
+    "created_tick": 806,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, essa chuva deve estar molhando aquela caixa de livros na biblioteca — preciso voltar lá.",
+    "created_tick": 806,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, aposto que foi aquele rapaz novo que chegou mês passado, sabe, o quieto?",
+    "created_tick": 806,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 807,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, esse cachorro lá fora tá encharcado, vou levar pra oficina que tem cobertura.",
+    "created_tick": 807,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pra praça ver esse cachorro assustado antes que se perca de vez na chuva.",
+    "created_tick": 807,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 808,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 101: Chuva de louco, livros misteriosos na biblioteca, cachorro perdido na praça — dia movimentado!",
+    "created_tick": 808,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Teo, querido, aquele cachorro assustado tá lá fora — você não vai deixar ele na chuva, né?",
+    "created_tick": 808,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pego um bolo de chuva com Iris enquanto pergunto se ela viu o cachorro perto da biblioteca.",
+    "created_tick": 809,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquele cachorro assustado na praça? Precisa de ajuda pra trazê-lo pra dentro?",
+    "created_tick": 809,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 810,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, me vende um pastel aí, tá chovendo demais pra sair.",
+    "created_tick": 810,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Ó Marina, Teo, esse cachorro assustado precisa de ajuda agora, vem comigo!",
+    "created_tick": 810,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Aquele cachorro tá lá fora na chuva, vou pegar antes que piore mais.",
+    "created_tick": 811,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Procuro abrigo debaixo da barraca de Iris, longe da chuva que desaba.",
+    "created_tick": 811,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a lanterna debaixo do balcão — essa chuva não vai deixar ninguém sair daqui tão cedo.",
+    "created_tick": 811,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Esse cachorro tá à toa na chuva, vou pra praça ver se consigo pegar ele.",
+    "created_tick": 812,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, esse cachorro assustado... sabe de quem é? Enquanto isso, vendo um pão.",
+    "created_tick": 812,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a corda velha que guardo aqui atrás e saio pra ajudar a achar esse cachorro.",
+    "created_tick": 812,
     "importance": 3,
     "kind": "observation"
   }
