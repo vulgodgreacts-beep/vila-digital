@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 323,
+    "familiaridade": 326,
     "opiniao": "Parou de encher com histórias chatas, agora se preocupa de verdade com os outros.",
     "desde_dia": 101,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 371,
-    "opiniao": "Pelo menos tira as coisas do jeito quando vê problema, não fica só reclamando.",
-    "desde_dia": 95,
+    "familiaridade": 373,
+    "opiniao": "Quer que eu seja médica, mecânica e ainda reclama quando ajudo onde posso.",
+    "desde_dia": 103,
     "historico": [
-      {
-        "dia": 76,
-        "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo."
-      },
       {
         "dia": 85,
         "opiniao": "Parou de reclamar e foi atrás do cachorro na chuva — gente de ação mesmo."
@@ -42,6 +38,10 @@
       {
         "dia": 91,
         "opiniao": "Chata demais, mas pelo menos tá vendo que problema existe, não é só reclamar."
+      },
+      {
+        "dia": 95,
+        "opiniao": "Pelo menos tira as coisas do jeito quando vê problema, não fica só reclamando."
       }
     ]
   }
