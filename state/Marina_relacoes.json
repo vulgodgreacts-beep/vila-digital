@@ -1,13 +1,9 @@
 {
   "Teo": {
-    "familiaridade": 337,
-    "opiniao": "Parou de encher com histórias chatas, agora se preocupa de verdade com os outros.",
-    "desde_dia": 101,
+    "familiaridade": 342,
+    "opiniao": "Para de encher com histórias chatas — se preocupa mesmo com quem tá sofrendo.",
+    "desde_dia": 108,
     "historico": [
-      {
-        "dia": 75,
-        "opiniao": "Catalogando livro na chuva é legal, mas toda hora com história antiga cansa."
-      },
       {
         "dia": 76,
         "opiniao": "Levou livro pra chuva não estragar — é mais prático que eu pensava."
@@ -19,11 +15,15 @@
       {
         "dia": 86,
         "opiniao": "Ficou quieto, mas pelo menos parou com as malditas histórias chatas de antigamente."
+      },
+      {
+        "dia": 101,
+        "opiniao": "Parou de encher com histórias chatas, agora se preocupa de verdade com os outros."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 384,
+    "familiaridade": 388,
     "opiniao": "Quer que eu seja médica, mecânica e ainda reclama quando ajudo onde posso.",
     "desde_dia": 103,
     "historico": [

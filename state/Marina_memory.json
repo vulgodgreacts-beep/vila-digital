@@ -1872,27 +1872,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Vou amarrar esse temporal na memória e depois procuro o cachorro na praça.",
-    "created_tick": 776,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
     "created_tick": 777,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio correndo pra rua antes que essa chuva me encharca toda e vou direto no mercado.",
-    "created_tick": 777,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Puxa, Marina, você viu? Temporal assim de repente lembra aquele de 1987.",
-    "created_tick": 777,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -1902,81 +1884,9 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Iris, esse apagão é do poste ou vem de lá da rua principal?",
-    "created_tick": 778,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Procuro Iris pra ver se tem algo quente pra comer antes que piore mais.",
-    "created_tick": 778,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Pego a lanterna da prateleira e aceno pra Marina e Teo: \"Vamos checar o poste antes que piore!",
-    "created_tick": 778,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, aquele painel de luz tá aqui no mercado, né? Deixa eu dar uma olhada.",
-    "created_tick": 779,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Puxo Iris pelo braço em direção ao fundo do mercado, onde é mais seguro.",
-    "created_tick": 779,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Gente, esse temporal é coisa séria, vão pra dentro da biblioteca com a gente!",
-    "created_tick": 779,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pra oficina ver se é coisa da fiação; esse poste tá pedindo manutenção há meses.",
-    "created_tick": 780,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até o mercado a pé, esse apagão só piora se ficar aqui parada.",
-    "created_tick": 781,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, você acha que é o poste da rua ou algo mais grave mesmo?",
-    "created_tick": 781,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, posso ir lá ver o poste? Aposto que é coisa simples de arrumar.",
-    "created_tick": 782,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Marina, você consegue dar uma olhada naquele poste da praça amanhã?",
-    "created_tick": 782,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
     "created_tick": 783,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou pra oficina pegar minha lanterna e ferramentas, esse poste não vai consertar sozinho.",
-    "created_tick": 783,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -1986,27 +1896,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Vou pra praça ver esse chafariz entupido antes que a chuva piore tudo.",
-    "created_tick": 784,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
     "created_tick": 785,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Tranco a oficina e vou pro mercado, depois passo na praça pra ver esse chafariz.",
-    "created_tick": 785,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Peço um bolo de milho pra Iris, olhando pela janela pro chafariz parado lá fora.",
-    "created_tick": 785,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -3020,6 +2912,144 @@
   {
     "text": "Iris: Ei, vocês dois, esse cachorro assustado precisa de algo quente — vou buscar um pano seco lá dentro!",
     "created_tick": 860,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a corda que tá aqui e vou pra praça atrás desse cachorro assustado.",
+    "created_tick": 861,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a corda da oficina e vou procurar esse cachorro na praça antes que a chuva piorar.",
+    "created_tick": 862,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado ver se tem algo pra comer, temporal ou não.",
+    "created_tick": 863,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Marina, aquele cachorro da praça — com essa chuva, ele deve estar procurando abrigo em algum lugar.",
+    "created_tick": 863,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chafariz entupido — O chafariz da praça parou de correr e começou a acumular água parada.",
+    "created_tick": 864,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 108: Chuva, cachorro assustado, chafariz entupido — dia normal de vilão que ninguém cuida direito.",
+    "created_tick": 864,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Mudei de ideia sobre Teo. Eu achava \"Parou de encher com histórias chatas, agora se preocupa de verdade com os outros.\", agora acho \"Para de encher com histórias chatas — se preocupa mesmo com quem tá sofrendo.\".",
+    "created_tick": 864,
+    "importance": 10,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Teo, vou lá na praça ver esse chafariz; aposto que é coisa simples entupida.",
+    "created_tick": 864,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Olho pra Marina com um sinal de cabeça: \"Sabe, na Grande Seca de 1847 a vila quase desapareceu?",
+    "created_tick": 864,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, me arruma um pão com queijo enquanto você me explica esse chafariz entupido.",
+    "created_tick": 865,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Aponto para o chafariz entupido: \"Sabe, em 1887 a vila teve problema parecido com canalização.",
+    "created_tick": 865,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Vou pra praça ver esse chafariz entupido, Marina é capaz de arrumar sozinha mesmo.",
+    "created_tick": 865,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, me arruma um pão com queijo que vou pro chafariz ver esse entupimento.",
+    "created_tick": 866,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Observo a água parada no chafariz e penso em como isso lembrava os problemas de drenagem nas cidades medievais.",
+    "created_tick": 866,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Marina, você viu que Teo saiu na chuva atrás daquele cachorro de novo?",
+    "created_tick": 866,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
+    "created_tick": 867,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou lá ver esse cachorro antes que ele se perca mais ainda nessa chuva.",
+    "created_tick": 867,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Pego um prato de comida e vou oferecer pro cachorro, com cuidado.",
+    "created_tick": 867,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Meninas, esse cachorro precisa de alguém, vou deixar comida na porta de trás.",
+    "created_tick": 867,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento.",
+    "created_tick": 868,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, esse chafariz tá entupido — vou lá com a minha bomba antes que estrague tudo.",
+    "created_tick": 868,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Esse cachorro assustado me lembra daqueles cães de guarda que tinham nas vilas medievais...",
+    "created_tick": 868,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Ei, vocês viram se alguém reconhece esse cachorro assustado que tá na praça?",
+    "created_tick": 868,
     "importance": 5,
     "kind": "observation"
   }

@@ -1,8 +1,8 @@
 {
   "Marina": {
-    "familiaridade": 334,
-    "opiniao": "Age rápido pelo sofrimento alheio, mas talvez pense menos nas consequências às vezes.",
-    "desde_dia": 102,
+    "familiaridade": 340,
+    "opiniao": "Age rápido pelo sofrimento, mas hoje vi que também pensa nas consequências depois.",
+    "desde_dia": 108,
     "historico": [
       {
         "dia": 3,
@@ -15,11 +15,15 @@
       {
         "dia": 42,
         "opiniao": "Solidária com quem sofre; age antes de falar, coração antes da curiosidade."
+      },
+      {
+        "dia": 102,
+        "opiniao": "Age rápido pelo sofrimento alheio, mas talvez pense menos nas consequências às vezes."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 465,
+    "familiaridade": 470,
     "opiniao": "Ela se importa com a biblioteca tanto quanto eu; protege nossos livros da chuva.",
     "desde_dia": 100,
     "historico": [
