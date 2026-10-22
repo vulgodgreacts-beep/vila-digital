@@ -1848,69 +1848,9 @@
     "kind": "reflection"
   },
   {
-    "text": "Eu: Toco o braço de Iris: \"Você viu se a barraca do seu Mário ainda está aberta lá fora?",
-    "created_tick": 792,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, querido, você viu a dona Maria saindo da feira com aquelas abóboras gigantes?",
-    "created_tick": 792,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
     "created_tick": 793,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Iris, você sabe se aquele produtor de queijo está ainda no mercado, apesar da chuva?",
-    "created_tick": 793,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Teo, você viu quem deixou essa caixa de livros na biblioteca?",
-    "created_tick": 794,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Corro para o mercado, pulando nas poças — preciso de um pão quente antes essa chuva piora.",
-    "created_tick": 794,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, você viu quem deixou aquela caixa na biblioteca antes desse temporal descer?",
-    "created_tick": 795,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Abro a caixa de livros pra ver se tem alguma pista de quem mandou isso, Teo.",
-    "created_tick": 795,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Abro a porta da biblioteca e grito para Iris: \"Vão pro mercado? Preciso comer, e essa caixa não sai do lugar.",
-    "created_tick": 796,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Pego a caixa de livros antes de ir ao mercado — não deixo nada valioso na chuva.",
-    "created_tick": 797,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Iris: Teo, aposto que foi aquele senhor aposentado que some pra cidade todo mês, hein?",
-    "created_tick": 797,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -2979,6 +2919,90 @@
     "text": "Iris: Ei, vocês viram se alguém reconhece esse cachorro assustado que tá na praça?",
     "created_tick": 868,
     "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Acendo a lanterna e vou verificar se a água da chuva está danificando os livros antigos.",
+    "created_tick": 869,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Apagão na vila — A luz caiu no quarteirão inteiro. Ninguém sabe se é o poste ou algo maior.",
+    "created_tick": 870,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou até a praça procurar esse cachorro perdido, talvez conheça alguém que possa ajudar.",
+    "created_tick": 870,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Levo a lanterna da biblioteca e saio procurando o cachorro pela praça antes da chuva piorar.",
+    "created_tick": 871,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 109: Chuva, cachorro perdido, apagão — passei a noite protegendo livros e procurando o bicho assustado.",
+    "created_tick": 872,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra procurar esse cachorro perdido — a chuva deve estar piorando o susto dele.",
+    "created_tick": 872,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum.",
+    "created_tick": 873,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a caixa de livros antigos e levo pra dentro antes que a chuva estrague tudo.",
+    "created_tick": 873,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou aproveitar que Iris está aqui e pedir ajuda pra trazer a caixa de livros pra dentro antes da chuva piorar.",
+    "created_tick": 874,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Iris: Teo, meu filho, você viu quem deixou essa caixa aqui antes da luz cair?",
+    "created_tick": 874,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
+    "created_tick": 875,
+    "importance": 9,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Iris, você fica aqui guardando os livros? Vou rápido no mercado, essa chuva não vai passar tão cedo.",
+    "created_tick": 875,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, você viu quem deixou essa caixa na biblioteca ou foi só aparecer do nada mesmo?",
+    "created_tick": 876,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Corro pro mercado, protegendo a cabeça da chuva com o braço.",
+    "created_tick": 876,
+    "importance": 3,
     "kind": "observation"
   }
 ]
