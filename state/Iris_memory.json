@@ -1974,99 +1974,15 @@
     "kind": "observation"
   },
   {
-    "text": "Teo: Iris, você sabe de quem é essa caixa de livros que apareceu na biblioteca?",
-    "created_tick": 798,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Vou até a biblioteca ver quem deixou essa caixa de livros, isso tá me intrigando demais.",
-    "created_tick": 798,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Vou pro mercado, com essa feira lotada tem gente vendendo comida por lá.",
-    "created_tick": 799,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, você tem ideia se alguém trouxe pão ou queijo na feira hoje?",
-    "created_tick": 799,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Puxa, Teo, com essa chuva e essa feria, deve ter gente procurando abrigo aqui na biblioteca!",
-    "created_tick": 799,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "No dia 100: Feira lotada, gente de fora, mistério dessa caixa de livros circulando por aqui.",
     "created_tick": 800,
     "importance": 8,
     "kind": "reflection"
   },
   {
-    "text": "Teo: Iris, você sabe se tem pão fresco entre esses produtores que chegaram?",
-    "created_tick": 800,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio da biblioteca pra aproveitar a feira — com essa chuva, quem sabe não encontro gente interessante no mercado?",
-    "created_tick": 800,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Gente, com essa chuva e sem luz, quem quer um bolo de fubá quentinho que fiz essa manhã?",
-    "created_tick": 801,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar.",
     "created_tick": 802,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, aquele bolo de fubá tá ainda quente aí ou a chuva já molhou tudo?",
-    "created_tick": 802,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, seus livros correm risco na biblioteca — posso ajudar depois que como algo rápido?",
-    "created_tick": 802,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, querida, você viu que o gerador da biblioteca saiu do ar com essa chuva?",
-    "created_tick": 802,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, você viu se aquele produtor de queijo do vale ainda está no mercado antes da chuva piorar?",
-    "created_tick": 803,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio correndo pra biblioteca — preciso ver se Marina conseguiu salvar aquele gerador antes da água entrar.",
-    "created_tick": 803,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Saio correndo pra biblioteca, essa chuva é de louco, vou procurar o Teo e Marina lá.",
-    "created_tick": 804,
-    "importance": 3,
     "kind": "observation"
   },
   {
@@ -2076,39 +1992,9 @@
     "kind": "observation"
   },
   {
-    "text": "Eu: Aposto que foi o Seu Gilson, Marina — ele sempre gostou de ler, lembram?",
-    "created_tick": 805,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Essa caixa de livros apareceu quando, exatamente?",
-    "created_tick": 806,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Teo: Iris, essa chuva deve estar molhando aquela caixa de livros na biblioteca — preciso voltar lá.",
-    "created_tick": 806,
-    "importance": 5,
-    "kind": "observation"
-  },
-  {
-    "text": "Eu: Marina, aposto que foi aquele rapaz novo que chegou mês passado, sabe, o quieto?",
-    "created_tick": 806,
-    "importance": 3,
-    "kind": "observation"
-  },
-  {
     "text": "ACONTECEU: Cachorro perdido — Um cachorro que ninguém reconhece está circulando pela praça, assustado e sem coleira.",
     "created_tick": 807,
     "importance": 9,
-    "kind": "observation"
-  },
-  {
-    "text": "Marina: Iris, esse cachorro lá fora tá encharcado, vou levar pra oficina que tem cobertura.",
-    "created_tick": 807,
-    "importance": 5,
     "kind": "observation"
   },
   {
@@ -3098,6 +2984,126 @@
   {
     "text": "Eu: Pego a caixa de livros molhados da porta antes que estrague tudo.",
     "created_tick": 876,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, você viu aquela caixa de livros na biblioteca? Aposto que foi o padre.",
+    "created_tick": 877,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou ajudar Marina a trazer a caixa pra dentro antes da chuva estragar os livros.",
+    "created_tick": 878,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Pego a caixa de livros e trago pra dentro antes de estragar tudo com essa chuva.",
+    "created_tick": 878,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Teo, esse gerador da biblioteca tá morto? Preciso ver a fiação antes da noite cair.",
+    "created_tick": 879,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Vou fechar as janelas altas antes que a chuva invada as estantes.",
+    "created_tick": 879,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Que sorte a gente ter esse teto aqui, né? Lá fora tá um caos!",
+    "created_tick": 879,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "No dia 110: Temporal desgraçado, mas que sorte ter gente boa na biblioteca pra resolver tudo junto!",
+    "created_tick": 880,
+    "importance": 8,
+    "kind": "reflection"
+  },
+  {
+    "text": "Marina: Olho pra Teo: \"Tem comida na cozinha da biblioteca ou vou ter que comer vento?",
+    "created_tick": 880,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você consegue fechar essa janela enquanto vou rápido no mercado?",
+    "created_tick": 880,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Puxo Marina pelo braço: \"Vem, a gente vê esse gerador, mas antes me conta quem doou esses livros antigos!",
+    "created_tick": 880,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, vou pra cozinha do mercado, quer vir ou fica aqui esperando a chuva passar?",
+    "created_tick": 881,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Saio da biblioteca pra correr pro mercado antes dessa chuva piorar, que barriguinha tá reclamando!",
+    "created_tick": 881,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Iris, cede aí um pão com queijo, depois a gente acerta as contas.",
+    "created_tick": 882,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, aquela chuva lembra a de 1987, quando encheu a biblioteca inteira — você vende algo quente?",
+    "created_tick": 882,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Marina, querida, esse gerador da biblioteca vai dar problema se a água entrar, viu?",
+    "created_tick": 882,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Iris, você poderia olhar a biblioteca enquanto vou ao mercado pegar algo pra comer?",
+    "created_tick": 883,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Vou pro mercado buscar algo pra comer antes que a chuva piore ainda mais.",
+    "created_tick": 883,
+    "importance": 3,
+    "kind": "observation"
+  },
+  {
+    "text": "Marina: Ei Iris, a luz caiu na oficina também ou foi só aqui no mercado?",
+    "created_tick": 884,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Teo: Puxo Iris pelo braço: \"Os livros da biblioteca — a chuva está entrando pela janela norte, vamos?",
+    "created_tick": 884,
+    "importance": 5,
+    "kind": "observation"
+  },
+  {
+    "text": "Eu: Fecho as venezianas da barraca e vou pra trás ver se a luz volta logo.",
+    "created_tick": 884,
     "importance": 3,
     "kind": "observation"
   }
