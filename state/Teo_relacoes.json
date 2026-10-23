@@ -1,13 +1,9 @@
 {
   "Marina": {
-    "familiaridade": 353,
-    "opiniao": "Age rápido pelo sofrimento, mas hoje vi que também pensa nas consequências depois.",
-    "desde_dia": 108,
+    "familiaridade": 356,
+    "opiniao": "Age rápido pelo sofrimento, mas também pensa nas consequências depois, com calma.",
+    "desde_dia": 113,
     "historico": [
-      {
-        "dia": 3,
-        "opiniao": "Prática e corajosa; vê valor nas coisas que outros deixam para trás."
-      },
       {
         "dia": 40,
         "opiniao": "Curiosa como eu sobre mistérios; investiga enquanto resolve problemas práticos simultaneamente."
@@ -19,11 +15,15 @@
       {
         "dia": 102,
         "opiniao": "Age rápido pelo sofrimento alheio, mas talvez pense menos nas consequências às vezes."
+      },
+      {
+        "dia": 108,
+        "opiniao": "Age rápido pelo sofrimento, mas hoje vi que também pensa nas consequências depois."
       }
     ]
   },
   "Iris": {
-    "familiaridade": 487,
+    "familiaridade": 492,
     "opiniao": "Ela se importa com a biblioteca tanto quanto eu; protege nossos livros da chuva.",
     "desde_dia": 100,
     "historico": [
