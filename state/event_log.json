@@ -1,161 +1,5 @@
 [
   {
-    "tick": 435,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Iris, você sabe se tem pão fresco no mercado mesmo com essa chuva?"
-  },
-  {
-    "tick": 435,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Vou pra praça ver esse cachorro perdido, coitado deve estar assustado com esse temporal."
-  },
-  {
-    "tick": 436,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Teo, esse cachorro tá assustado demais, precisa de algo pra ele comer e um lugar quente."
-  },
-  {
-    "tick": 436,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Compro um pão na barraca e oferço um pedaço ao cachorro assustado na praça."
-  },
-  {
-    "tick": 436,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Vou pro mercado, essa chuva e esse cachorro perdido me deixaram com fome mesmo."
-  },
-  {
-    "tick": 437,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Saio da oficina com uma corda velha e vou procurar esse cachorro na praça antes da chuva piorar."
-  },
-  {
-    "tick": 437,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Fecho o livro e saio pela chuva em direção ao mercado, pensando naquele cachorro sozinho lá fora."
-  },
-  {
-    "tick": 437,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, viu aquele cachorro assustado na praça? Ajuda a gente procurar o dono?"
-  },
-  {
-    "tick": 438,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Vou na praça ver esse cachorro antes que passe mais tempo assustado."
-  },
-  {
-    "tick": 438,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você tem um pão? Esse cachorro lá fora... lembra dos cães de guarda medievais?"
-  },
-  {
-    "tick": 438,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, você viu esse cachorro assustado na praça? Precisa de ajuda pra procurar?"
-  },
-  {
-    "tick": 439,
-    "agent": "Marina",
-    "location": "oficina",
-    "action": "Vou ao mercado aproveitar a feira e ver se alguém precisa de algo consertado."
-  },
-  {
-    "tick": 439,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Procuro Iris na barraca dela, vendo se tem algo quente pra comer com essa chuva."
-  },
-  {
-    "tick": 439,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Teo, você viu esse cachorro perdido na praça? Deve ser de alguém que veio pra feira."
-  },
-  {
-    "tick": 440,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Ei Teo, já procurou aquele cachorro assustado perto da praça ou tá só aqui conversando?"
-  },
-  {
-    "tick": 440,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Olho pra Iris e pergunto: \"Tem pão com queijo sobrando? Preciso voltar pra catalogar aqueles livros da caixa."
-  },
-  {
-    "tick": 440,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Gente, viram aquele cachorro perdido na praça? Deve ser de algum produtor que veio pra feira!"
-  },
-  {
-    "tick": 440,
-    "agent": "SISTEMA",
-    "location": "mercado",
-    "action": "Iris mudou de ideia sobre Teo: Rapaz trabalha com livros antigos, é dedicado mesmo, catalogando caixa inteira na chuva."
-  },
-  {
-    "tick": 441,
-    "agent": "SISTEMA",
-    "location": "vila",
-    "action": "ACONTECEU: Caixa de livros doados — Apareceu uma caixa de livros antigos na porta da biblioteca, sem bilhete nenhum."
-  },
-  {
-    "tick": 441,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Teo, você viu quem deixou essa caixa? Enquanto isso, Iris, me vende um pão antes de desmaiar de fome."
-  },
-  {
-    "tick": 441,
-    "agent": "Teo",
-    "location": "mercado",
-    "action": "Iris, você tem algo quente? Essa caixa de livros na biblioteca... alguém sabe de onde veio?"
-  },
-  {
-    "tick": 441,
-    "agent": "Iris",
-    "location": "mercado",
-    "action": "Marina, já ouviu falar dessa caixa de livros na biblioteca? Aposto que foi você!"
-  },
-  {
-    "tick": 442,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Vou na barraca de pastel antes que a dona feche por falta de luz."
-  },
-  {
-    "tick": 442,
-    "agent": "Teo",
-    "location": "biblioteca",
-    "action": "Iris, você não teria um pão ou algo assim? Essa chuva não quer passar."
-  },
-  {
-    "tick": 442,
-    "agent": "Iris",
-    "location": "biblioteca",
-    "action": "Teo, querido, você viu quem deixou essa caixa misteriosa aqui na porta?"
-  },
-  {
-    "tick": 443,
-    "agent": "Marina",
-    "location": "mercado",
-    "action": "Vou até a biblioteca ver essa caixa de livros antes que essa chuva estrague tudo."
-  },
-  {
     "tick": 443,
     "agent": "Teo",
     "location": "biblioteca",
@@ -8998,5 +8842,161 @@
     "agent": "Iris",
     "location": "mercado",
     "action": "Fecho as venezianas da barraca e vou pra trás ver se a luz volta logo."
+  },
+  {
+    "tick": 885,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Chuva forte — O tempo virou de repente e começou um temporal. Quem está na rua corre pra se abrigar."
+  },
+  {
+    "tick": 885,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a lanterna e vou pro mercado antes que a chuva piorar mais."
+  },
+  {
+    "tick": 885,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Apago as velas da biblioteca e saio correndo pro mercado entre a chuva."
+  },
+  {
+    "tick": 885,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Puxo Marina e Teo pra dentro do mercado: \"Vcs viram? Luz caiu, mas a gente tá seguro aqui!"
+  },
+  {
+    "tick": 886,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, esse bolo seu tá de pé? Temporal assim me dá fome."
+  },
+  {
+    "tick": 886,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Iris entre as barracas, vendo se ela tem pão ou algo quente pra comer."
+  },
+  {
+    "tick": 886,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, fechem bem essa porta, essa chuva não tá brincando, não!"
+  },
+  {
+    "tick": 887,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Vou pra oficina, esse temporal vai derrubar árvore e amanhã tenho trabalho."
+  },
+  {
+    "tick": 887,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, você viu se a chuva chegou perto da biblioteca? Os livros antigos não aguentam umidade."
+  },
+  {
+    "tick": 887,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Vou correndo pro mercado, pelo menos lá tem teto e posso saber como todo mundo tá se virando."
+  },
+  {
+    "tick": 888,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Pego a lanterna e vou conferir se a rua tá segura pra quem não conseguiu se abrigar."
+  },
+  {
+    "tick": 888,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Vou fechar as janelas da biblioteca antes que a chuva entre pelas frestas."
+  },
+  {
+    "tick": 888,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Tranco a porta do mercado e vou ver se Teo não tá lá fora com aquele cachorro de novo."
+  },
+  {
+    "tick": 889,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Saio da oficina correndo pra mercado antes dessa chuva piorar mais ainda."
+  },
+  {
+    "tick": 889,
+    "agent": "Teo",
+    "location": "biblioteca",
+    "action": "Tranco a biblioteca e saio correndo pro mercado antes dessa chuva ficar pior."
+  },
+  {
+    "tick": 889,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, aquele cachorro vadio tá lá fora na chuva, viu?"
+  },
+  {
+    "tick": 890,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, qual é a chance de alguém ter trazido algo quente pra comer antes dessa água toda cair?"
+  },
+  {
+    "tick": 890,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Procuro Iris entre as barracas, esperando que ela tenha guardado algum pão antes da chuva piorar."
+  },
+  {
+    "tick": 890,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Gente, fechem essa porta antes que tudo aqui dentro fique encharcado!"
+  },
+  {
+    "tick": 891,
+    "agent": "Marina",
+    "location": "mercado",
+    "action": "Iris, a luz caiu na minha oficina também, vamo ver se a gente arruma antes escurecer mais."
+  },
+  {
+    "tick": 891,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Pergunto pra Iris se ela tem algo quente, já que o temporal não vai passar tão cedo assim."
+  },
+  {
+    "tick": 891,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Puxo Teo pro balcão: \"Vem cá, querido, deixa esse cachorro molhado e toma um café comigo!"
+  },
+  {
+    "tick": 892,
+    "agent": "SISTEMA",
+    "location": "vila",
+    "action": "ACONTECEU: Dia de feira — Chegaram produtores de fora e o mercado lotou. A vila inteira aparece em algum momento."
+  },
+  {
+    "tick": 892,
+    "agent": "Marina",
+    "location": "oficina",
+    "action": "Vou pro mercado pegar algo pra comer, aproveito e vejo se alguém precisa de mim por lá."
+  },
+  {
+    "tick": 892,
+    "agent": "Teo",
+    "location": "mercado",
+    "action": "Iris, essas maçãs de fora têm aquele gosto que os produtores antigos cultivavam no século dezenove?"
+  },
+  {
+    "tick": 892,
+    "agent": "Iris",
+    "location": "mercado",
+    "action": "Ei, Marina, Teo, viram que o produtor de maçã de fora trouxe variedade que a gente nunca viu?"
   }
 ]
