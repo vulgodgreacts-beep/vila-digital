@@ -1,6 +1,6 @@
 {
   "Teo": {
-    "familiaridade": 362,
+    "familiaridade": 366,
     "opiniao": "Para de encher com histórias chatas — se preocupa mesmo com quem tá sofrendo.",
     "desde_dia": 108,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 408,
-    "opiniao": "Puxou meu braço querendo ajudar de verdade, não só reclamar.",
-    "desde_dia": 110,
+    "familiaridade": 413,
+    "opiniao": "Essa mulher não desiste, quer ajudar de verdade mesmo quando ninguém mexe um dedo.",
+    "desde_dia": 115,
     "historico": [
-      {
-        "dia": 89,
-        "opiniao": "Parou de reclamar e foi atrás do cachorro — gente de ação mesmo, virou útil."
-      },
       {
         "dia": 91,
         "opiniao": "Chata demais, mas pelo menos tá vendo que problema existe, não é só reclamar."
@@ -42,6 +38,10 @@
       {
         "dia": 103,
         "opiniao": "Quer que eu seja médica, mecânica e ainda reclama quando ajudo onde posso."
+      },
+      {
+        "dia": 110,
+        "opiniao": "Puxou meu braço querendo ajudar de verdade, não só reclamar."
       }
     ]
   }
