@@ -1,6 +1,6 @@
 {
   "Marina": {
-    "familiaridade": 356,
+    "familiaridade": 360,
     "opiniao": "Age rápido pelo sofrimento, mas também pensa nas consequências depois, com calma.",
     "desde_dia": 113,
     "historico": [
@@ -23,14 +23,10 @@
     ]
   },
   "Iris": {
-    "familiaridade": 492,
-    "opiniao": "Ela se importa com a biblioteca tanto quanto eu; protege nossos livros da chuva.",
-    "desde_dia": 100,
+    "familiaridade": 498,
+    "opiniao": "Ela protege livros e animais — tem um coração maior que a biblioteca.",
+    "desde_dia": 114,
     "historico": [
-      {
-        "dia": 71,
-        "opiniao": "Percebo que ela já desconfia de mim; talvez saiba mais do que aparenta."
-      },
       {
         "dia": 73,
         "opiniao": "Ela se preocupa genuinamente com quem sofre; não é só desconfiança."
@@ -42,6 +38,10 @@
       {
         "dia": 98,
         "opiniao": "Ela conhece minha preocupação com os animais; me avisa sobre o cachorro perto do chafariz."
+      },
+      {
+        "dia": 100,
+        "opiniao": "Ela se importa com a biblioteca tanto quanto eu; protege nossos livros da chuva."
       }
     ]
   }
